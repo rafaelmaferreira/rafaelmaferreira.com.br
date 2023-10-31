@@ -1,0 +1,35 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+  #url:  'https://github.com/rafaelmaferreira'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   
+  url:  'https://www.linkedin.com/in/rafaelmaferreira/'  
+
+- type: instagram
+  icon: 'fab fa-instagram'
+  url:  'https://www.instagram.com/rafaelmaferreira11/'    
+
+- type: medium
+  icon: "fab fa-brands fa-medium"
+  url:  'https://medium.com/@rafaelmaferreira' 
+  #noblank: true
+
+# - type: email
+#   icon: "fas fa-envelope"
+  #noblank: true # open link in current tab
+# Uncomment and complete the url below to enable more contact options
+#
+# - type: mastodon
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+#
+# - type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage

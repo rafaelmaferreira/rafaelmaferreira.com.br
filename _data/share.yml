@@ -11,8 +11,8 @@ platforms:
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: WhatsApp
-    icon: "fab fa-whatsapp"
-    link: "https://api.whatsapp.com/send?url=URL&text=TITLE"
+    icon: "fa fa-whatsapp"
+    link: "https://api.whatsapp.com/send?url=text=TITLE&url=URL"
 
   - type: Telegram
     icon: "fab fa-telegram"

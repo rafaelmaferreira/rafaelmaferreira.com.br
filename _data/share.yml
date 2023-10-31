@@ -12,7 +12,7 @@ platforms:
 
   - type: WhatsApp
     icon: "fab fa-whatsapp"
-    link: "https://api.whatsapp.com/send?url=URL"
+    link: "https://api.whatsapp.com/send?url=URL&text=TITLE"
 
   - type: Telegram
     icon: "fab fa-telegram"

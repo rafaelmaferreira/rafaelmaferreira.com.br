@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Eventos"
+title: "Eventos Tecnologia"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Eventos Tecnologia]
+categories: [Eventos]
 tags: [Eventos]
 ---
 

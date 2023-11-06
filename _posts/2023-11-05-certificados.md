@@ -1,9 +1,10 @@
 ---
-# the default layout is 'page'
-#layout: home
-title: Certificados
-icon: fa-solid fa-graduation-cap
-order: 8
+layout: post
+title: "Certificados de Treinamentos, Cursos, Certificações, Eventos e Palestras"
+author: rafaferreira011
+#date: 2023-10-27 18:30:00 -500
+categories: [Certificados]
+tags: [Certificados]
 ---
 
 Em minha jornada profissional, ao longo dos anos, tive a incrível oportunidade de participar de diversos cursos, treinamentos, eventos e palestras que moldaram o profissional que sou hoje. Cada certificado conquistado e cada momento de aprendizado foram de imensa importância, não apenas para o meu crescimento na área, mas também para a construção da minha identidade profissional.

@@ -10,6 +10,8 @@ tags: [Eventos]
 Olá pessoal! Quero compartilhar com vocês algumas das incríveis experiências que tive participando de eventos de tecnologia presenciais. Esses eventos foram oportunidades únicas para aprender, fazer networking e me manter atualizado sobre as últimas tendências tecnológicas. Vamos lá!
 
 
+- <i class="fa-solid fa-link"></i> [2023/11 - Proud Tech by softplan](https://www.proudtech.com.br/)
+
 - <i class="fa-solid fa-link"></i> [2023/10 - Codecon < Feature >](https://www.codecon.dev/feature)
 
 -  <i class="fa-solid fa-link"></i> [2023/10 - Cloud Native Floripa ](https://community.cncf.io/cloud-native-floripa/)

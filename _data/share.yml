@@ -4,14 +4,15 @@
 platforms:
   - type: Linkedin
     icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL&text=TITLE"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
 
   - type: Twitter
     icon: "fa-brands fa-square-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: WhatsApp
-    icon: "fa fa-whatsapp"
+    icon: "fa-brands fa-whatsapp"
+      #<i class="fa-brands fa-whatsapp" style="color: #242424;"></i>
     link: "https://api.whatsapp.com/send?url=text=TITLE&url=URL"
 
   - type: Telegram

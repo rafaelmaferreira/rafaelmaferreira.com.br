@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Participações Live"
+title: "Participações Lives"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Participações Live]
-tags: [Participações, Live]
+categories: [Participações, Lives]
+tags: [Participações, Lives]
 ---
 
 Olá pessoal!
 
 Estou empolgado para compartilhar um novo post em que vou destacar minhas participações em lives na plataforma YouTube. Espero que esse post seja informativo e inspire outros a buscar o desenvolvimento profissional. Vamos lá!
 
-- <i class="fab fa-youtube"></i> [Live23 Ressaca TDC Innovation 2023](https://www.youtube.com/watch?v=jfZIjuze6nU&t=3s&ab_channel=Osert%C3%A3oser%C3%A1Cloud)
+- <i class="fab fa-youtube"></i> [DEVOPS | EP 10 | CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 - <i class="fab fa-youtube"></i> [Como você pode alavancar a sua carreira com DevOps](https://www.youtube.com/watch?v=eo2rHuanZiM&ab_channel=FabricioVeronez)
-
+- <i class="fab fa-youtube"></i> [Live23 Ressaca TDC Innovation 2023](https://www.youtube.com/watch?v=jfZIjuze6nU&t=3s&ab_channel=Osert%C3%A3oser%C3%A1Cloud)
 
 **Agradeço a Todos pela Oportunidade**
 

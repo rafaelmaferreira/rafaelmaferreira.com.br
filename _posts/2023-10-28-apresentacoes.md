@@ -13,11 +13,11 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS - EP 11 - Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Visualizar Slides](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
-🎥 **Assista ao Vídeo:** [DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
+- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
-📊 **Slides da Apresentação:** [Visualizar Slides](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 
 
 Fique à vontade para explorar as apresentações disponíveis. Se você busca por conhecimento, inspiração e deseja se manter atualizado no mundo tecnológico, este é o lugar certo. A jornada está apenas começando, e novas apresentações serão adicionadas.

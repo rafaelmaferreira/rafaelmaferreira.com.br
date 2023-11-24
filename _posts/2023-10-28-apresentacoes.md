@@ -11,11 +11,11 @@ Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aq
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS | EP 11 | Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
+- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS - EP 11 - Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Visualizar Slides](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
-🎥 **Assista ao Vídeo:** [DEVOPS | EP 10 | CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
+🎥 **Assista ao Vídeo:** [DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
 📊 **Slides da Apresentação:** [Visualizar Slides](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 

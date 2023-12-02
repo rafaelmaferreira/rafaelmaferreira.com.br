@@ -11,7 +11,7 @@ order: 5
 ![capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e96622bd-fe8d-405e-a41e-2f0c25ad2fd8)
 
 
-Com mais de uma década de experiência em TI e 17 certificações técnicas, sou um Arquiteto de Nuvem apaixonado pela tecnologia e pela constante evolução que ela nos proporciona. Formado em Ciência da Computação pela UNIP Bauru, tenho compromisso com a comunicação eficaz, flexibilidade e inovação, valores que guiam minha trajetória profissional.
+Com mais de uma década de experiência em TI, 17 certificações técnicas e formado em Ciência da Computação pela UNIP Bauru, sou um Arquiteto de Nuvem com expêriencia em empresas multinacionais, consultorias e ambientes corporativos internacionais. Minha carreira é direcionada pela comunicação eficaz, flexibilidade e inovação, comprometido em conduzir a transformação digital por meios de soluções de nuvem inovadoras que atendem às exigências de um mercado em constante evolução.
 
 Nos últimos três anos, foquei em tecnologias de nuvem e, recentemente, em DevOps, me especializando em Microsoft Azure, Azure DevOps, Terraform e Kubernetes. Essa jornada me apresentou a novas oportunidades e desafios que foram fundamentais para o meu crescimento profissional.
 

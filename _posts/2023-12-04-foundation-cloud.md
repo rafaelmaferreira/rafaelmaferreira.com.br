@@ -9,7 +9,7 @@ tags: [Azure, Cloud Adoption Framework, Cloud]
 ## Introdução
 A adoção da nuvem tornou-se crucial nas estratégias de transformação digital das organizações modernas. Com a promessa de escalabilidade, eficiência e inovação, a nuvem é uma força poderosa a ser considerada. No entanto, a migração para a nuvem sem uma estratégia coerente pode levar a desafios significativos. É aqui que o Azure Cloud Adoption Framework (CAF) aparece, fornecendo um roteiro estruturado para uma transição bem-sucedida ou (talvez) não?!
 
-![](/assets/img/posts/2023-12-04-foundation-cloud1.jpeg)
+![](/assets/img/posts/2023-12-04-foundation-cloud1.jpeg) {: "width=40%" }
 
 ## Por que uma Fundação Sólida é Crucial?
 Assim como a fundação de uma casa é crucial para a sua estabilidade e longevidade, uma fundação sólida é igualmente essencial para a adoção da nuvem. Sem uma base robusta, uma casa pode enfrentar rachaduras, infiltrações e até colapso sob condições adversas. Da mesma forma, sem uma estratégia bem definida e uma infraestrutura bem preparada, as iniciativas de nuvem podem se deparar com vulnerabilidades de segurança, sobrecarga de custos e um descompasso com as necessidades e objetivos do negócio. Uma abordagem estratégica e bem planejada é como um alicerce bem construído; ela suporta o peso dos seus projetos de TI e garante que sua transição para a nuvem seja tanto resiliente quanto capaz de se adaptar e crescer com as exigências futuras.  

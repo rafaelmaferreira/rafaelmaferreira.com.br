@@ -3,8 +3,8 @@ layout: post
 title: "Construindo uma Fundação Sólida para a Adoção da Nuvem com o Azure Cloud Adoption Framework"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Azure, Cloud Adoption Framework]
-tags: [Azure, Cloud Adoption Framework, Cloud]
+categories: [Azure, Foundation Cloud]
+tags: [Azure, Foundation Cloud, Cloud Adoption Framework]
 ---
 ## Introdução
 A adoção da nuvem tornou-se crucial nas estratégias de transformação digital das organizações modernas. Com a promessa de escalabilidade, eficiência e inovação, a nuvem é uma força poderosa a ser considerada. No entanto, a migração para a nuvem sem uma estratégia coerente pode levar a desafios significativos. É aqui que o Azure Cloud Adoption Framework (CAF) aparece, fornecendo um roteiro estruturado para uma transição bem-sucedida ou (talvez) não?!

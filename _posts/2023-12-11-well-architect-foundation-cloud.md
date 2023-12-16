@@ -3,8 +3,8 @@ layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem: Pilares do Well-Architected Framework e o Azure Cloud Adoption Framework"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Azure, Cloud Adoption Framework]
-tags: [Azure, Well-Architected, Cloud Adoption Framework, Cloud]
+categories: [Azure, Foundation Cloud]
+tags: [Azure, Foundation Cloud, Well-Architected, Cloud Adoption Framework]
 ---
 
 Com o avanço da tecnologia e a crescente adoção de soluções em nuvem, tornou-se essencial para as organizações construírem uma infraestrutura de TI robusta e bem planejada. O [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) e o [Azure Cloud Adoption Framework](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/) são dois conjuntos de práticas recomendadas que ajudam as empresas a alcançar esse objetivo. Neste artigo, vamos explorar os pilares do Well-Architected Framework e discutir a importância desses princípios em conjunto com o Azure Cloud Adoption Framework na construção de uma fundação sólida para a adoção da nuvem.

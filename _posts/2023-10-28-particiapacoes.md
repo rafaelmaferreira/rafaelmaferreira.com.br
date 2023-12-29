@@ -11,6 +11,8 @@ Olá pessoal!
 
 Estou empolgado para compartilhar um novo post em que vou destacar minhas participações em lives na plataforma YouTube. Espero que esse post seja informativo e inspire outros a buscar o desenvolvimento profissional. Vamos lá!
 
+- <i class="fab fa-youtube"></i> [LIVE001: Magalu Cloud - A 1ª Cloud Pública do Brasil](https://www.youtube.com/watch?v=Eg_Y3fa-Mv4&ab_channel=UnicastCloudLab)
+
 - <i class="fab fa-youtube"></i> [DEVOPS - EP 11 - Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 
 - <i class="fab fa-youtube"></i> [DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)

@@ -17,7 +17,6 @@ O Well-Architected Framework é uma abordagem criada pela Amazon Web Services (A
 ![](/assets/img/posts/2023-12-12-well-architect-foundation-cloud2.png)
 
 
-
 - ### Excelência Operacional
 Como garantir operações eficientes e contínuas em sua infraestrutura na nuvem? Este pilar foca na capacidade de executar e monitorar sistemas para entregar valor comercial e melhorar continuamente processos e procedimentos. A automação de tarefas operacionais e o gerenciamento de incidentes são aspectos cruciais deste pilar.
 

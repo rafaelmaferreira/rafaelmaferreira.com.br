@@ -55,6 +55,48 @@ Avalie cada área de design para compreender as alterações que talvez você pr
 
 ![](/assets/img/posts/2024-01-02-foundation-lz03.png)
 
+## Cinco Princípios-Chave para Construir uma Landing Zone
+
+### 1. Redes
+   - **Objetivo:** Manter conectividade e flexibilidade.
+   - **Soluções Destacadas:**
+     - Azure ExpressRoute
+     - Qualidade de Serviço em Conectividade
+     - Firewalls e DMZ em Roteamento
+     - Mapeamento de Endereços IP
+
+### 2. Identidade
+   - **Objetivo:** Assegurar acesso seguro através de gerenciamento de identidade robusto.
+   - **Soluções Destacadas:**
+     - Microsoft Entra ID
+     - Autenticação Single Sign-on
+     - Regras de Autenticação
+     - Controle de Acesso Baseado em Funções (RBAC)
+
+### 3. Governança
+   - **Objetivo:** Implementar governança eficaz com políticas de conformidade.
+   - **Soluções Destacadas:**
+     - Azure Policy
+     - Políticas Aplicáveis
+     - Ambientes em Conformidade
+     - Gerenciamento de Assinaturas
+
+### 4. Segurança
+   - **Objetivo:** Proteger dados com controles de segurança avançados.
+   - **Soluções Destacadas:**
+     - Azure Sentinel
+     - Detecção de Ameaças
+     - Proteção integrada
+     - Proteção de Dados
+
+### 5. Gerenciamento
+   - **Objetivo:** Monitorar desempenho e garantir resiliência do ambiente.
+   - **Soluções Destacadas:**
+     - Azure Monitor
+     - Monitoramento Contínuo
+     - Automação 
+     - Resiliência
+
 ## Acelerador de Landing Zones
 
 O [Acelerador de Landing Zones](https://aka.ms/caf/ready/accelerator) da Plataforma é uma ferramenta pronta para uso, conhecida como Acelerador do Portal da Landing Zones do Azure. Essa ferramenta implanta uma arquitetura conceitual e aplica configurações padrão a componentes chave, incluindo grupos de gerenciamento e políticas. Ela é ideal para organizações cuja arquitetura conceitual se alinha com o modelo operacional planejado e a estrutura de recursos.

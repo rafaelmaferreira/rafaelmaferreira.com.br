@@ -38,6 +38,25 @@ A implementação do DevOps envolve práticas como CI/CD, controle de versão, d
 ## Adotando uma Cultura de DevOps
 Adotar uma cultura de DevOps requer mudanças profundas na forma como as equipes trabalham e colaboram. Esta cultura é marcada por colaboração, visibilidade, ciclos de lançamento mais curtos e aprendizagem contínua, fatores essenciais para equipes de alto desempenho.
 
+O acrônimo CALMS é um framework que representa um conjunto de práticas e valores fundamentais para a adoção e sucesso do DevOps. Ele foi desenvolvido para fornecer uma estrutura abrangente que ajuda as organizações a avaliar e aprimorar suas iniciativas DevOps. Cada letra do acrônimo CALMS representa um aspecto-chave:
+
+## Cultura (Culture)
+Refere-se à mudança de mentalidade dentro da organização, enfatizando a colaboração, a comunicação e a integração entre as equipes de desenvolvimento, operações e outras funções. A cultura DevOps prioriza a aprendizagem contínua, a responsabilidade compartilhada e a inovação.
+
+## Automação (Automation)
+Foca na automação dos processos de desenvolvimento, testes, implantação e infraestrutura. Isso inclui a prática de integração e entrega contínuas (CI/CD), infraestrutura como código (IaC), e automação de testes, reduzindo o esforço manual e aumentando a eficiência.
+
+## Lean (Lean)
+Adota princípios e práticas Lean para otimizar e agilizar processos, reduzir desperdícios e melhorar continuamente. O Lean incentiva a entrega incremental de valor, a eliminação de atividades desnecessárias e a maximização do fluxo de trabalho.
+
+## Medição (Measurement)
+Enfatiza a importância de medir e monitorar o desempenho, a qualidade e a eficácia de processos, produtos e serviços. Métricas e feedbacks contínuos são fundamentais para entender o impacto das mudanças e para tomar decisões baseadas em dados.
+
+## Compartilhamento (Sharing)
+Encoraja o compartilhamento de conhecimento, experiências e melhores práticas dentro e entre equipes. Isso pode incluir a colaboração em código, documentação, soluções de problemas e inovações, fortalecendo a cultura organizacional e promovendo a aprendizagem coletiva.
+
+![](/assets/img/posts/2023-12-30-devops-foundation-cloud07.png)
+
 ### Prós da Cultura DevOps:
 - **Melhoria Contínua**: Ao adotar DevOps, as organizações incentivam o crescimento constante, resultando em produtos de alta qualidade e maior satisfação do cliente.
 - **Ciclos de Lançamento Mais Rápidos**: Com a integração e entrega contínuas, novas funcionalidades e correções são lançadas com mais rapidez, mantendo a competitividade no mercado.

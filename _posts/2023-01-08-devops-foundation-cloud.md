@@ -12,7 +12,7 @@ Em um mundo impulsionado pela tecnologia, a fundação cloud *robusta* se torna 
 ## O Que é DevOps?
 DevOps representa a fusão entre desenvolvimento (Dev) e operações (Ops), unindo pessoas, processos e tecnologia para aprimorar o planejamento, desenvolvimento, entrega de produtos e operações de aplicativos. A cultura DevOps aumenta a confiança nos aplicativos criados, responde melhor às necessidades dos clientes e atinge as metas de negócios mais rapidamente. Permite a entrega contínua de valor aos clientes, criando produtos melhores e mais confiáveis.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud01.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud01.png)
 
 ## Inovação Através da Cultura DevOps
 A cultura DevOps é mais do que práticas e ferramentas, é um ecossistema que promove a colaboração, o aprendizado contínuo e a melhoria constante. Esta cultura quebra barreiras entre desenvolvimento e operações, acelerando o ciclo de vida do software e elevando a qualidade. Entre os benefícios, destacam-se a melhoria contínua, ciclos de lançamento mais rápidos, resposta ágil a mudanças e colaboração efetiva. Por outro lado, desafios como implementação, habilidades abrangentes, riscos de segurança e custos iniciais são reais e exigem atenção.
@@ -23,17 +23,17 @@ DevOps influencia todas as fases do ciclo de vida do aplicativo, desde o planeja
 ## A Sinergia com Cloud Native
 Kubernetes não é apenas uma ferramenta de orquestração de contêineres, mas um complemento poderoso para o DevOps. Ele amplia os princípios do DevOps, fornecendo automação, escalabilidade e gestão desafiadora de infraestrutura, essenciais para práticas eficazes de Cloud Native.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud04.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud04.png)
 
 ## Construindo uma Fundação Cloud com DevOps e Cloud Native
 Uma fundação cloud eficaz transcende a tecnologia, baseando-se em cultura e práticas que promovem crescimento e adaptação. A integração de DevOps e Kubernetes é essencial, fornecendo o framework necessário para uma transição eficiente para a nuvem e operação otimizada.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud05.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud05.png)
 
 ## Implementando Práticas de DevOps no Ciclo de Vida do Aplicativo
 A implementação do DevOps envolve práticas como CI/CD, controle de versão, desenvolvimento ágil, infraestrutura como código (IaC), gerenciamento de configuração e monitoramento contínuo. Essas práticas transformam a maneira como o software é planejado, desenvolvido, entregue e operado.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud02.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud02.png)
 
 ## Adotando uma Cultura de DevOps
 Adotar uma cultura de DevOps requer mudanças profundas na forma como as equipes trabalham e colaboram. Esta cultura é marcada por colaboração, visibilidade, ciclos de lançamento mais curtos e aprendizagem contínua, fatores essenciais para equipes de alto desempenho.
@@ -55,7 +55,7 @@ Enfatiza a importância de medir e monitorar o desempenho, a qualidade e a efic�
 - **Compartilhamento (Sharing):**
 Encoraja o compartilhamento de conhecimento, experiências e melhores práticas dentro e entre equipes. Isso pode incluir a colaboração em código, documentação, soluções de problemas e inovações, fortalecendo a cultura organizacional e promovendo a aprendizagem coletiva.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud07.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud07.png)
 
 ### Prós da Cultura DevOps:
 - **Melhoria Contínua**: Ao adotar DevOps, as organizações incentivam o crescimento constante, resultando em produtos de alta qualidade e maior satisfação do cliente.
@@ -69,13 +69,13 @@ Encoraja o compartilhamento de conhecimento, experiências e melhores práticas 
 - **Riscos de Segurança**: A frequência elevada de lançamentos pode introduzir vulnerabilidades se as práticas de segurança não estiverem integradas ao pipeline de desenvolvimento.
 - **Custos Iniciais**: A adoção de DevOps pode ser cara a curto prazo, com investimentos necessários em ferramentas e reestruturação de equipes.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud03.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud03.png)
 
 ### Ferramenta de revisão de avaliação
 
 Entenda as funcionalidades atuais em todo o ciclo de vida da versão do software e identifique rapidamente as oportunidades de aprimoramento com base nas práticas de DevOps da Microsoft.
 
-![](/assets/img/posts/2023-12-30-devops-foundation-cloud06.png)
+![](/assets/img/posts/2023-01-08-devops-foundation-cloud06.png)
 
 Inicie sua avaliação com a [Avaliação de capacidade de DevOps](https://learn.microsoft.com/pt-br/assessments/56ec577c-acb6-4c7b-ad13-e224b0846153/).
 

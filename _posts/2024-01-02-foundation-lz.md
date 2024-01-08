@@ -134,4 +134,4 @@ Tudo isso nos leva a entender que cada pilar e cada assunto abordado tem um pote
 
 Para mais informações sobre [O que é uma Landing Zone do Azure?](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/landing-zone/) segue documentação que foi base desse artigo.
 
-![](/assets/img/posts/2023-12-04-foundation-cloud3.png)
+![](/assets/img/posts/logo.png)

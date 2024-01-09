@@ -13,6 +13,8 @@ FinOps é uma estrutura operacional e prática cultural que maximiza o valor com
 
 Conselho Consultivo Técnico da Fundação FinOps define FinOps como uma mudança cultural, onde a responsabilidade pelo uso da nuvem é compartilhada por todos, apoiada por um grupo central de práticas recomendadas. Essa abordagem multifuncional permite uma entrega mais rápida de produtos com maior controle financeiro e previsibilidade.
 
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud05.png)
+
 ### Estrutura FinOps
 
 A estrutura FinOps é sobre trazer responsabilidade para gastos na nuvem. Independentemente de ser chamada de “Gestão Financeira em Nuvem”, “Engenharia Financeira em Nuvem”, ou outros nomes, a essência do FinOps é a responsabilidade financeira no modelo de gastos variáveis da nuvem. Isso envolve equipes distribuídas de engenharia e negócios trazendo compromissos e equilibrando entre velocidade, custo e qualidade nas decisões de arquitetura de nuvem e investimento.
@@ -26,6 +28,8 @@ FinOps é uma prática iterativa, com a maturidade melhorando com a repetição.
 ### Principais Partes Interessadas do Gerenciamento Financeiro em Nuvem
 
 FinOps envolve várias partes interessadas, incluindo Executivos, Engenheiros, Praticantes de FinOps, Operações, Finanças e Aquisições, cada um desempenhando um papel diferente na prática de FinOps.
+
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud06.png)
 
 ## Princípios do FinOps
 
@@ -125,6 +129,8 @@ A transformação digital transcende a mera adoção de novas tecnologias; ela e
 
 A integração de DevOps com FinOps abre um novo horizonte para as empresas, combinando eficiência técnica com sustentabilidade financeira. Esta sinergia permite que as organizações otimizem seus recursos, reduzam custos e, ao mesmo tempo, mantenham um alto padrão de inovação e eficiência operacional.
 
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud04.png)
+
 ## Maximizando a Transparência com Observabilidade
 
 A observabilidade desempenha um papel crucial na maximização da eficiência operacional. Ao fornecer insights detalhados sobre o desempenho e as necessidades de um ambiente Cloud Native, as organizações podem identificar áreas para melhoria, otimizando tanto o desempenho quanto a sustentabilidade.
@@ -137,6 +143,8 @@ A adoção de práticas robustas em Cloud Native beneficia imensamente a comunid
 
 Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas não apenas se posicionam na vanguarda da inovação, mas também se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.
 
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud07.png)
+
 ### Ferramenta de revisão de avaliação
 
 Use as diretrizes de FinOps para avaliar as lacunas de recursos da sua organização. Obtenha recomendações para maximizar o valor dos negócios na nuvem usando boas práticas de FinOps.
@@ -144,9 +152,6 @@ Use as diretrizes de FinOps para avaliar as lacunas de recursos da sua organiza�
 ![](/assets/img/posts/2024-01-09-finops-foundation-cloud03.png)
 
 Inicie sua avaliação com a [Revisão do FinOps](https://learn.microsoft.com/pt-br/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3/).
-
-## Conclusão
-A cultura DevOps e o Kubernetes são essenciais para qualquer organização que busca uma forte presença na nuvem. Este artigo discute não apenas o 'como', mas também o 'porquê' essas práticas são indispensáveis e como impactam positivamente a sustentabilidade e o sucesso a longo prazo na nuvem. Encorajamos a reflexão sobre como essas práticas podem ser aplicadas em sua jornada para a nuvem.
 
 Para mais informações sobre [O que é FinOps?](https://www.finops.org/) segue documentação que foi base desse artigo.
 

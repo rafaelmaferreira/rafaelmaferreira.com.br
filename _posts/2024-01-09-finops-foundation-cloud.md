@@ -2,9 +2,9 @@
 layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem com FinOps: Maximizando a Eficiência em Ambientes Cloud Native"
 author: rafaferreira011
-date: 2024-03-10 20:00:00 -500
-categories: [Cloud Native, FinOps, Sustentabilidade]
-tags: [Cloud Native, FinOps, DevOps, Cloud Adoption Framework, Well-Architected Framework, Sustentabilidade, Open Source]
+#date: 2024-03-10 20:00:00 -500
+categories: [Azure, Foundation Cloud]
+tags: [Azure, Foundation Cloud, FinOps, Cloud Adoption Framework]
 ---
 
 ## O que é FinOps?

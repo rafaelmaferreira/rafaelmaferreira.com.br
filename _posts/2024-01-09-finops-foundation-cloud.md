@@ -29,11 +29,11 @@ FinOps é uma prática iterativa, com a maturidade melhorando com a repetição.
 
 FinOps envolve várias partes interessadas, incluindo Executivos, Engenheiros, Praticantes de FinOps, Operações, Finanças e Aquisições, cada um desempenhando um papel diferente na prática de FinOps.
 
-![](/assets/img/posts/2024-01-09-finops-foundation-cloud06.png)
-
 ## Princípios do FinOps
 
 Os Princípios do FinOps atuam como uma bússola orientadora para as atividades da prática de FinOps. Desenvolvidos pelos membros da FinOps Foundation e aprimorados através da experiência, esses princípios cobrem múltiplas nuvens e podem evoluir ao longo do tempo com a aquisição de novas experiências.
+
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud06.png)
 
 Existem seis princípios norteadores na prática de FinOps, que guiam as atividades e decisões dentro dessa abordagem. Esses princípios devem ser considerados como um todo e praticados integralmente:
 
@@ -72,11 +72,11 @@ Existem seis princípios norteadores na prática de FinOps, que guiam as ativida
 - Preferência por planejamento iterativo ágil em vez de planos estáticos de longo prazo.
 - Design de sistema proativo com ajustes contínuos em otimização da nuvem.
 
-![](/assets/img/posts/2024-01-09-finops-foundation-cloud01.png)
-
 ## Adotando FinOps – Começando
 
 A adoção do FinOps em uma organização começa com a construção de uma apresentação informativa para outras equipes, colegas de trabalho e partes interessadas sobre os benefícios de construir uma prática de FinOps. É essencial obter suporte executivo amplo e compromisso para dedicar tempo e recursos necessários para a mudança cultural.
+
+![](/assets/img/posts/2024-01-09-finops-foundation-cloud01.png)
 
 ### Os Direcionadores do FinOps: Os Primeiros Passos
 

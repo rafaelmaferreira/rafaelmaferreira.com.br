@@ -97,6 +97,8 @@ Avalie cada área de design para compreender as alterações que talvez você pr
      - Automação 
      - Resiliência
 
+![](/assets/img/posts/2024-01-02-foundation-lz06.png)     
+
 ## Acelerador de Landing Zones
 
 O [Acelerador de Landing Zones](https://aka.ms/caf/ready/accelerator) da Plataforma é uma ferramenta pronta para uso, conhecida como Acelerador do Portal da Landing Zones do Azure. Essa ferramenta implanta uma arquitetura conceitual e aplica configurações padrão a componentes chave, incluindo grupos de gerenciamento e políticas. Ela é ideal para organizações cuja arquitetura conceitual se alinha com o modelo operacional planejado e a estrutura de recursos.

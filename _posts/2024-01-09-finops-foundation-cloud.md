@@ -9,7 +9,7 @@ tags: [Azure, Foundation Cloud, FinOps, Cloud Adoption Framework]
 
 ## O que é FinOps?
 
-FinOps é uma estrutura operacional e prática cultural que maximiza o valor comercial da nuvem. Ela envolve a colaboração entre equipes de engenharia, finanças e negócios para permitir a tomada de decisões baseadas em dados e criar responsabilidade financeira. FinOps é uma junção de “Finanças” e “DevOps”, enfatizando a comunicação e colaboração entre as equipes.
+FinOps é uma estrutura operacional e prática cultural que maximiza o valor comercial da nuvem. Ela envolve a colaboração entre equipes de engenharia, finanças e negócios permitindo a tomada de decisões baseadas em dados afim de criar responsabilidade financeira. FinOps é a união de “Finanças” e “DevOps”, enfatizando a comunicação e colaboração entre as equipes.
 
 Conselho Consultivo Técnico da Fundação FinOps define FinOps como uma mudança cultural, onde a responsabilidade pelo uso da nuvem é compartilhada por todos, apoiada por um grupo central de práticas recomendadas. Essa abordagem multifuncional permite uma entrega mais rápida de produtos com maior controle financeiro e previsibilidade.
 
@@ -19,7 +19,7 @@ Conselho Consultivo Técnico da Fundação FinOps define FinOps como uma mudanç
 
 A estrutura FinOps é sobre trazer responsabilidade para gastos na nuvem. Independentemente de ser chamada de “Gestão Financeira em Nuvem”, “Engenharia Financeira em Nuvem”, ou outros nomes, a essência do FinOps é a responsabilidade financeira no modelo de gastos variáveis da nuvem. Isso envolve equipes distribuídas de engenharia e negócios trazendo compromissos e equilibrando entre velocidade, custo e qualidade nas decisões de arquitetura de nuvem e investimento.
 
-FinOps não é apenas sobre economizar dinheiro, mas sobre obter o máximo valor da nuvem para impulsionar um crescimento eficiente. Isso inclui a capacitação de equipes de engenharia para fornecer melhores recursos e aplicações mais rapidamente, e facilita uma conversa multifuncional sobre onde e quando investir.
+Não trata-se apenas sobre economizar dinheiro, mas sobre como obter o máximo de valor da nuvem para impulsionar um crescimento de forma eficiente. Isso inclui a capacitação de equipes de engenharia para fornecer melhores recursos e aplicações mais rapidamente, e facilita uma conversa multifuncional sobre onde e quando investir.
 
 ### Modelo de Maturidade FinOps
 
@@ -37,36 +37,36 @@ Os Princípios do FinOps atuam como uma bússola orientadora para as atividades 
 
 Existem seis princípios norteadores na prática de FinOps, que guiam as atividades e decisões dentro dessa abordagem. Esses princípios devem ser considerados como um todo e praticados integralmente:
 
-### 1. Colaboração entre Equipes
+### 1. 🤝 Colaboração entre Equipes
 
 - Equipes de finanças, tecnologia, produto e negócios trabalham juntas em tempo quase real.
 - Colaboração contínua para eficiência e inovação.
 
-### 2. Decisões Impulsionadas pelo Valor Comercial da Nuvem
+### 2. 📊 Decisões Baseadas no Valor do Negócio
 
 - Métricas baseadas em valor econômico unitário e valor demonstram melhor o impacto nos negócios do que o gasto agregado.
 - Decisões conscientes entre custo, qualidade e velocidade.
 - Visão da nuvem como um motor de inovação.
 
-### 3. Responsabilidade pelo uso da Nuvem
+### 3. 🔗 Responsabilidade Compartilhada pelo uso da Nuvem
 
 - Responsabilidade pelo uso e custo é descentralizada, com os engenheiros assumindo a propriedade dos custos desde o design da arquitetura até as operações contínuas.
 - Equipes de produto e funcionalidades gerenciam seu próprio uso da nuvem em relação ao seu orçamento.
 - Decisões descentralizadas sobre arquitetura econômica, uso de recursos e otimização.
 
-### 4. Relatórios Acessíveis e Oportunos
+### 4. 📈 Relatórios Acessíveis e Oportunos
 
 - Dados de FinOps devem ser processados e compartilhados assim que disponíveis.
 - Visibilidade em tempo real promove melhor utilização da nuvem.
 - Ciclos rápidos de feedback resultam em comportamento mais eficiente.
 
-### 5. Uma Equipe Centralizada Impulsiona o FinOps
+### 5. 🌐 Equipe Centralizada no FinOps
 
 - A equipe central incentiva, evangeliza e possibilita melhores práticas em um modelo de responsabilidade compartilhada.
 - Compra executiva do FinOps e suas práticas e processos é necessária.
 - Otimização de taxas, compromissos e descontos é centralizada para aproveitar as economias de escala.
 
-### 6. Aproveitamento do Modelo de Custo Variável da Nuvem
+### 6.💡Aproveitamento do Modelo de Custo Variável
 
 - O modelo de custo variável da nuvem deve ser visto como uma oportunidade para entregar mais valor, não como um risco.
 - Preferência por planejamento iterativo ágil em vez de planos estáticos de longo prazo.
@@ -141,7 +141,7 @@ A adoção de práticas robustas em Cloud Native beneficia imensamente a comunid
 
 ## Conclusão e Chamado à Ação
 
-Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas não apenas se posicionam na vanguarda da inovação, mas também se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.
+Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.
 
 ![](/assets/img/posts/2024-01-09-finops-foundation-cloud07.png)
 

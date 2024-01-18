@@ -21,7 +21,7 @@ A monitoria e observabilidade são essenciais no ciclo de vida do software, espe
 - **Observabilidade:** Evolução da monitoria, permite compreender sistemas complexos a partir de dados externos, abrangendo métricas, tracings e logs.
 
 ### Diferença entre Monitoria e Observabilidade
-- Enquanto a monitoria fornece dados quantitativos, a observabilidade oferece insights qualitativos, permitindo perguntas detalhadas sobre o comportamento do sistema.
+- Enquanto a monitoria fornece dados quantitativos, a observabilidade permite compreender a complexidade e os detalhes das informações obtidas, permitindo perguntas detalhadas sobre o comportamento do sistema.
 
 ![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud02.png)
 
@@ -41,7 +41,7 @@ A observabilidade vai além da simples monitoria de sistemas. Ela envolve uma an
 
 ![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud03.png)
 
-## Principais Ferramentas
+## Ferramentas em Destaque
 
 - **Prometheus:** Utilizada para coleta e armazenamento de métricas. O Prometheus é uma ferramenta poderosa para o monitoramento de sistemas e serviços, oferecendo uma robusta plataforma para a coleta e análise de dados em tempo real.
 
@@ -51,9 +51,9 @@ A observabilidade vai além da simples monitoria de sistemas. Ela envolve uma an
 
 - **Grafana:** Essencial para visualização de dados e criação de dashboards. Grafana permite transformar dados de várias fontes em representações visuais ricas, facilitando a análise e interpretação de métricas complexas.
 
-- **OpenTelemetry:** Focada na coleta e exportação de dados de telemetria. OpenTelemetry fornece uma única plataforma para observar métricas, rastreamentos e logs, facilitando a integração e a análise de dados.
+- **OpenTelemetry:** Focada na coleta e exportação de dados de telemetria. OpenTelemetry veio para fornece uma padronização de exportar dados para observar métricas, rastreamentos e logs, facilitando a integração e a análise de dados.
 
-- **kube-prometheus:** Uma coleção de componentes para o monitoramento nativo de Kubernetes, incluindo Prometheus, Grafana e Alertmanager, juntamente com as configurações necessárias para sua implementação. kube-prometheus facilita o monitoramento abrangente dos clusters Kubernetes, integrando-se de maneira eficiente com o ecossistema do Kubernetes.
+- **Kube-Prometheus:** Uma coleção de componentes Open Source para o monitoramento nativo de Kubernetes, incluindo Prometheus, Grafana e Alertmanager, juntamente com as configurações necessárias para sua implementação. Kube-Prometheus facilita o monitoramento abrangente dos clusters Kubernetes, integrando-se de maneira eficiente com o ecossistema do Kubernetes.
 
 Estas ferramentas, juntas, formam um ecossistema completo para a implementação eficaz da observabilidade, desde a coleta de dados até a análise e visualização, facilitando o monitoramento e a tomada de decisão baseada em dados concretos.
 
@@ -68,9 +68,9 @@ Estes indicadores são cruciais para medir e estabelecer metas claras de qualida
 
 ![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud04.png)
 
-## Os Quatro Sinais de Ouro da Observabilidade
+## Os Quatro Sinais de Ouro
 
-A observabilidade é um componente essencial para manter a saúde e a eficiência dos sistemas. Ela se baseia em quatro sinais principais que ajudam a entender o comportamento de uma aplicação ou serviço. Vamos detalhar cada um desses sinais:
+Com a observabilidade conseguimos manter a saúde e a eficiência dos sistemas. The Four Golden Signals ajudam a entender o comportamento de uma aplicação ou serviço. Vamos detalhar cada um desses sinais:
 
 ### Latência
 - **Descrição:** Mede o tempo de resposta das requisições e seu impacto na experiência do usuário.

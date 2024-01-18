@@ -43,8 +43,6 @@ A observabilidade vai além da simples monitoria de sistemas. Ela envolve uma an
 
 ## Principais Ferramentas
 
-As ferramentas a seguir são fundamentais para a observabilidade efetiva em sistemas, cada uma atendendo a diferentes aspectos dos "Quatro Sinais de Ouro da Observabilidade":
-
 - **Prometheus:** Utilizada para coleta e armazenamento de métricas. O Prometheus é uma ferramenta poderosa para o monitoramento de sistemas e serviços, oferecendo uma robusta plataforma para a coleta e análise de dados em tempo real.
 
 - **Elasticsearch, Logstash, e Kibana (ELK Stack):** Amplamente utilizada para o gerenciamento e análise de logs. Esta combinação de ferramentas permite a coleta, enriquecimento, armazenamento e análise visual de logs de diversos sistemas e aplicações.
@@ -77,14 +75,14 @@ A observabilidade é um componente essencial para manter a saúde e a eficiênci
 ### Latência
 - **Descrição:** Mede o tempo de resposta das requisições e seu impacto na experiência do usuário.
 - **Métodos de Medição:**
-  - Medição do tempo de respostas das requisições.
-  - Separação da latência de requisições bem e malsucedidas.
+  - Tempo de respostas das requisições.
+  - Separando a latência de requisições bem e malsucedidas.
 
 ### Tráfego
 - **Descrição:** Refere-se ao volume de demanda do serviço ou aplicação, essencial para entender padrões de uso.
 - **Métodos de Medição:**
   - Quantidade de requisições por segundo.
-  - Separação de requisições em grupos específicos para análise mais detalhada.
+  - Agrupamento de requisições em grupos específicos para análise mais detalhada.
 
 ### Erros
 - **Descrição:** Envolvem as taxas e tipos de falhas no sistema, fundamentais para a detecção de problemas.
@@ -141,6 +139,8 @@ A criação de uma cultura que valoriza a observabilidade é crucial para o suce
 ### Incentivando a Colaboração
 - **Colaboração Interfuncional:** Desenvolvedores, operações e equipes de QA devem trabalhar juntos para identificar e resolver problemas de forma rápida e eficaz.
 - **Resolução Rápida de Problemas:** Uma cultura focada na observabilidade permite que problemas sejam identificados e resolvidos rapidamente, minimizando o impacto negativo no desempenho e na experiência do usuário.
+
+![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud08.png)
 
 Uma cultura de observabilidade robusta não só melhora a confiabilidade e a performance dos sistemas,
 

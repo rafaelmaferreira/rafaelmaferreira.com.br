@@ -4,7 +4,7 @@ title: "Construindo uma Fundação Sólida para a Nuvem com FinOps: Maximizando 
 author: rafaferreira011
 #date: 2024-03-10 20:00:00 -500
 categories: [Azure, Foundation Cloud]
-tags: [Azure, Foundation Cloud, FinOps, Cloud Adoption Framework]
+tags: [Azure, Foundation Cloud, FinOps, FinOps Framework]
 ---
 
 ## O que é FinOps?

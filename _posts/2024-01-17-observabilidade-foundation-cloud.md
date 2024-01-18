@@ -124,13 +124,11 @@ O gerenciamento de logs é uma parte crítica da observabilidade, mas pode se to
 
 Ao abordar os logs com uma estratégia clara, focada na coleta seletiva e na análise eficaz, as organizações podem transformar o que seria um custo em um investimento valioso que apoia a tomada de decisão baseada em dados e melhora contínua dos sistemas.
 
-## A Essencialidade da Observabilidade em DevOps
-
-A observabilidade não é apenas uma parte integrante do DevOps; é o coração pulsante que permite a eficiência e a eficácia de todo o ciclo de vida do desenvolvimento de software.
-
-### Observabilidade: Um Ciclo Infinito de Melhoria
+## Observabilidade: Um Ciclo Infinito de Melhoria
 - **Fundamental para o Negócio:** A ausência de observabilidade em uma aplicação sugere que ela pode não ser considerada vital para o negócio. A observabilidade contínua garante que os sistemas sejam confiáveis e performáticos.
 - **Equipe Dedicada:** Idealmente, cada aplicação deve ter uma equipe dedicada focada em sua observabilidade, garantindo atenção contínua e melhorias constantes.
+
+![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud07.png)
 
 ### Quem Não Mede, Não Gerencia
 - **Maturidade Organizacional:** Implementar a observabilidade exige maturidade organizacional. É um processo complexo que necessita de uma abordagem detalhada e dedicada.

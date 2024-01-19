@@ -17,7 +17,7 @@ No contexto atual de tecnologias Cloud Native e microsserviços, exige uma abord
 A monitoria e observabilidade são essenciais no ciclo de vida do software, especialmente em ambientes complexos de microsserviços. Elas não apenas facilitam o diagnóstico e a resolução de problemas, mas também ajudam na otimização de recursos e na tomada de decisões baseadas em dados. Veremos como essas práticas se somam e se complementam, proporcionando uma visão mais profunda dos sistemas.
 
 ### O Que São e Por Que São Importantes?
-- **Monitoria:** Refere-se ao processo de coleta, processamento e exibição de dados quantitativos de sistemas, como uso de CPU, memória e tráfego de rede.
+- **Monitoria:** Refere-se ao ato de coletar, processamento e exibição de dados quantitativos de sistemas: CPU, memória e tráfego de rede.
 - **Observabilidade:** Evolução da monitoria, permite compreender sistemas complexos a partir de dados externos, abrangendo métricas, tracings e logs.
 
 ### Diferença entre Monitoria e Observabilidade

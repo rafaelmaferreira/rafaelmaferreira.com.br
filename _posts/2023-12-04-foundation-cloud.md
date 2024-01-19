@@ -47,10 +47,6 @@ O Cloud Adoption Framework oferece recursos como ferramentas, modelos e avaliaç
 ## Gerenciamento Otimizado e Governança Contínua
 Uma vez na nuvem, o gerenciamento contínuo e a governança são essenciais para manter a eficiência operacional e a conformidade. O CAF oferece práticas recomendadas para a gestão de recursos e a otimização de custos.
 
-## Conclusão
-
-Tal como uma casa só perdura ao longo do tempo com uma fundação robusta e um planejamento cuidadoso, a adoção da nuvem requer uma base sólida para prosperar e se sustentar em um ambiente de TI em constante evolução. O Azure Cloud Adoption Framework é o alicerce sobre o qual você pode construir uma estratégia de nuvem resiliente, segura e alinhada aos objetivos da sua empresa. Desde a preparação do ambiente com "landing zones" até a implementação e gerenciamento contínuo, o CAF oferece um roteiro para navegar na complexidade da nuvem com confiança.
-
 A adoção da nuvem é uma jornada transformadora que oferece oportunidades ilimitadas para inovação e crescimento. No entanto, a chave para desbloquear seu verdadeiro potencial reside na construção de uma fundação sólida que não apenas suporte suas cargas de trabalho atuais, mas também seja flexível o suficiente para se adaptar às necessidades futuras. 
 
 ### Ferramenta de revisão de avaliação
@@ -60,6 +56,10 @@ Avalie sua estratégia de adoção de nuvem e obtenha recomendações para criar
 ![](/assets/img/posts/2023-12-04-foundation-cloud05.png)
 
 Inicie sua avaliação com a [Processo de estratégia de adoção de nuvem](https://learn.microsoft.com/pt-br/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/).
+
+## Conclusão
+
+Tal como uma casa só perdura ao longo do tempo com uma fundação robusta e um planejamento cuidadoso, a adoção da nuvem requer uma base sólida para prosperar e se sustentar em um ambiente de TI em constante evolução. O Azure Cloud Adoption Framework é o alicerce sobre o qual você pode construir uma estratégia de nuvem resiliente, segura e alinhada aos objetivos da sua empresa. Desde a preparação do ambiente com "landing zones" até a implementação e gerenciamento contínuo, o CAF oferece um roteiro para navegar na complexidade da nuvem com confiança.
 
 Fique atento para os próximos artigos, onde mergulharemos nas "landing zones" e exploraremos como elas desempenham um papel crucial na otimização da sua estratégia de nuvem. Se você está pronto para começar sua jornada na nuvem ou otimizar sua infraestrutura em nuvem existente, o Azure CAF pode ser o parceiro ideal para sua empresa. Vamos juntos construir uma arquitetura de nuvem que não é apenas funcional, mas também duradoura e escalável.
 

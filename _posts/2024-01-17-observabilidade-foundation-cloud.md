@@ -55,7 +55,7 @@ A observabilidade vai além da simples monitoria de sistemas. Ela envolve uma an
 
 - **Kube-Prometheus:** Uma coleção de componentes Open Source para o monitoramento nativo de Kubernetes, incluindo Prometheus, Grafana e Alertmanager, juntamente com as configurações necessárias para sua implementação. Kube-Prometheus facilita o monitoramento abrangente dos clusters Kubernetes, integrando-se de maneira eficiente com o ecossistema do Kubernetes.
 
-Estas ferramentas, juntas, formam um ecossistema completo para a implementação eficaz da observabilidade, desde a coleta de dados até a análise e visualização, facilitando o monitoramento e a tomada de decisão baseada em dados concretos.
+Estas ferramentas, conseguem formar um ecossistema completo para a implementação eficaz da observabilidade, desde a coleta de dados até a análise e visualização, facilitando o monitoramento e a tomada de decisão baseada em dados concretos.
 
 ## Importância dos SLIs, SLOs e SLAs
 
@@ -85,18 +85,15 @@ Com a observabilidade conseguimos manter a saúde e a eficiência dos sistemas. 
   - Agrupamento de requisições em grupos específicos para análise mais detalhada.
 
 ### Erros
-- **Descrição:** Envolvem as taxas e tipos de falhas no sistema, fundamentais para a detecção de problemas.
+- **Descrição:** Tipos de falhas no sistema, fundamentais para a detecção de problemas.
 - **Métodos de Medição e Categorização:**
   - Categorização de códigos de status HTTP (404, 500, etc.).
   - Identificação de exceções lançadas pela aplicação.
-  - Enfatiza a importância de seguir boas práticas de tratamento e propagação de erros.
 
 ### Saturação
 - **Descrição:** Indica o nível de utilização dos recursos, sinalizando sobrecarga e a necessidade de escalabilidade.
-- **Métodos de Medição e Indicadores:**
+- **Métodos de Medição:**
     - Medição da sobrecarga de recursos (CPU, memória, disco, rede).
-    - Identificação de possíveis gargalos antes que se tornem problemas visíveis para o usuário.
-    - Pode indicar a necessidade de escalabilidade.
 
 ![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud05.png)
 
@@ -146,7 +143,7 @@ Uma cultura de observabilidade robusta não só melhora a confiabilidade e a per
 
 ## "O Lento é o Novo Parado"
 
-No mundo dinâmico da tecnologia atual, onde a eficiência e a rapidez são cruciais, "o lento é o novo parado". Esta frase capta a essência da expectativa moderna em relação ao desempenho dos sistemas e aplicações. A observabilidade permite identificar rapidamente áreas onde o sistema está operando de forma mais lenta do que o ideal, possibilitando correções antes que se tornem problemas maiores.
+No mundo dinâmico da tecnologia atual, onde a eficiência e a rapidez são cruciais, "o lento é o novo parado". A observabilidade permite identificar rapidamente áreas onde o sistema está operando de forma mais lenta do que o ideal, possibilitando correções antes que se tornem problemas maiores.
 
 ### Implicações para o Desempenho do Sistema
 - **Expectativas de Desempenho:** Em uma era onde tudo é instantâneo, um sistema lento pode ser tão prejudicial quanto um sistema inoperante. Usuários e clientes esperam respostas rápidas e eficientes.
@@ -154,15 +151,13 @@ No mundo dinâmico da tecnologia atual, onde a eficiência e a rapidez são cruc
 
 ## Computação Verde e Observabilidade
 
-- A relação entre práticas de observabilidade e computação verde destaca como práticas conscientes de monitoramento contribuem para a redução do impacto ambiental. 
+- A relação entre práticas de observabilidade e computação verde, destaca-se práticas de monitoramento que contribuem para a redução de poder de processamento sem utilizaçãodo, gerando uma redução no impacto ambiental. 
 - Implementação de soluções de monitoramento avançado para uma análise contínua e detalhada dos sistemas.
-- Utilização de observabilidade para alinhar operações de TI com os princípios de sustentabilidade, reduzindo a pegada de carbono.
+- Utilização de observabilidade alinhada com as operações de TI junto com os princípios de sustentabilidade, reduzindo a pegada de carbono.
 
 ## Conclusão e Chamado à Ação
 
-Destaco a importância de adotar práticas de monitoria e observabilidade desde o início do desenvolvimento do projeto.
-
-Encorajo para que os iniciantes não apenas aprendam, mas também contribuam ativamente com a comunidade, compartilhando suas descobertas e melhores práticas.
+Destaco a importância de adotar práticas de monitoria e observabilidade desde o início do desenvolvimento do projeto. Encorajo os iniciantes não apenas aprendam, mas também contribuam ativamente com a comunidade, compartilhando suas descobertas e melhores práticas.
 
 Este artigo destina-se a servir como uma referência abrangente e ponto de partida para aqueles que estão começando sua jornada em ambientes Cloud Native, focando na importância crítica da monitoria e observabilidade para garantir sistemas eficientes, confiáveis e sustentáveis.
 

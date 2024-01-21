@@ -19,9 +19,9 @@ Estou empolgado para compartilhar um novo post em que vou destacar minhas partic
 
 - <i class="fab fa-youtube"></i> [DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
-- <i class="fab fa-youtube"></i> [DEVOPS | EP 9 | Introdução a CI/CD (Pipelines, Jenkins)](https://www.youtube.com/watch?v=42-PW3dVF-Q&t=18s&ab_channel=UnicastCloudLab)
+- <i class="fab fa-youtube"></i> [DEVOPS | EP 9 | Introdução a CI/CD Pipelines, Jenkins](https://www.youtube.com/watch?v=42-PW3dVF-Q&t=18s&ab_channel=UnicastCloudLab)
 
-- <i class="fab fa-youtube"></i> [DEVOPS | EP 8 | Aprofundando em IaC (Ansible)](https://www.youtube.com/watch?v=ObjlLPkrf1I&t=35s&ab_channel=UnicastCloudLab)
+- <i class="fab fa-youtube"></i> [DEVOPS | EP 8 | Aprofundando em IaC Ansible](https://www.youtube.com/watch?v=ObjlLPkrf1I&t=35s&ab_channel=UnicastCloudLab)
 
 - <i class="fab fa-youtube"></i> [Como você pode alavancar a sua carreira com DevOps](https://www.youtube.com/watch?v=eo2rHuanZiM&ab_channel=FabricioVeronez)
 

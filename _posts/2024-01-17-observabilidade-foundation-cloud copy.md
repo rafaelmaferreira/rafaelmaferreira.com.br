@@ -151,7 +151,7 @@ No mundo dinâmico da tecnologia atual, onde a eficiência e a rapidez são cruc
 
 ## Computação Verde e Observabilidade
 
-- A relação entre práticas de observabilidade e computação verde, destaca-se práticas de monitoramento que contribuem para a redução de poder de processamento sem utilizaçãodo, gerando uma redução no impacto ambiental. 
+- A relação entre práticas de observabilidade e computação verde, destaca-sem práticas de monitoramento que contribuem para a redução de poder de processamento sem utilização, gerando uma redução no impacto ambiental. 
 - Implementação de soluções de monitoramento avançado para uma análise contínua e detalhada dos sistemas.
 - Utilização de observabilidade alinhada com as operações de TI junto com os princípios de sustentabilidade, reduzindo a pegada de carbono.
 

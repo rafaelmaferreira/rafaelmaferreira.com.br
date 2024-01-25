@@ -19,8 +19,12 @@ A computação verde vai além da eficiência energética, englobando a escolha 
 ## Computação Verde e Cloud Native
 A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada byte de dados processado leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos pavimentando o caminho para inovações que respeitam nosso ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud07.png)
+
 ## Padrões de Software Verde
 A Green Software Foundation estabeleceu um banco de dados de padrões de software verde, que são revisados e curados por especialistas. Estes padrões são essenciais para garantir que a aplicação deles em software reduza emissões de carbono. O catálogo de padrões disponibilizado é amplo e abrange uma variedade de categorias, garantindo que profissionais de software encontrem práticas aplicáveis a seus respectivos campos, tecnologias ou domínios.
+
+- **Green Software Patterns:** [Documentação sobre padrões de software verde.](https://patterns.greensoftware.foundation/)
 
 ## Princípios, Padrões e Práticas
 Os princípios de software verde fornecem um conjunto fundamental de competências necessárias para definir, executar e construir software sustentável. Já os padrões oferecem exemplos práticos de como aplicar esses princípios em cenários do mundo real, de forma neutra em relação a fornecedores. As práticas são padrões aplicados a produtos específicos de fornecedores, orientando os profissionais sobre como usar esses produtos de maneira mais sustentável.
@@ -30,7 +34,7 @@ Os princípios de software verde fornecem um conjunto fundamental de competênci
 ## Estratégias de Implementação
 Na implementação de infraestruturas Cloud Native, a adoção de frameworks bem-estruturados, como o Cloud Adoption Framework e o Well-Architected Framework, é crucial. Esses frameworks auxiliam na criação de sistemas que são não só eficientes, mas também ambientalmente responsáveis.
 
-## Cargas de Trabalho Sustentáveis no Azure
+### Cargas de Trabalho Sustentáveis no Azure
 Esta seção do Microsoft Azure Well-Architected Framework tem como objetivo enfrentar os desafios da criação de cargas de trabalho sustentáveis no Azure. As diretrizes fornecidas aplicam práticas recomendadas como uma base técnica para criar e operar soluções sustentáveis no Azure.
 
 ### O que é uma carga de trabalho sustentável?
@@ -38,8 +42,6 @@ Refere-se a uma coleção de recursos de aplicativo que suportam um objetivo com
 
 ### Visão Geral da Eficiência de Nuvem
 A eficiência das cargas de trabalho na nuvem combina otimização de custos, redução das emissões de carbono e otimização do consumo de energia.
-
-![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
 
 ### Desafios Comuns
 Incluem alinhar as cargas de trabalho com as metas de sustentabilidade, projetar cargas de trabalho otimizadas para o ambiente e medir as emissões de suas cargas de trabalho.
@@ -52,8 +54,12 @@ Incluem Design [Design](https://learn.microsoft.com/pt-br/azure/well-architected
 
 Examine o estudo [Benefícios do Carbono da Computação em Nuvem: um estudo da Nuvem da Microsoft](https://info.microsoft.com/ww-landing-Carbon-Benefits-of-Cloud-Computing.html?lcid=pt-br) para saber mais sobre a eficiência energética e de carbono do Azure.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
+
 ## O que é Green Software?
 Green Software é uma disciplina emergente que se situa na interseção da ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. Ela foca na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono. As três principais atividades que reduzem as emissões de carbono do software são a eficiência energética, consciência de carbono e eficiência de hardware.
+
+- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/) 
 
 ## Como Ser um Praticante de Green Software
 O treinamento cobre seis áreas-chave que um praticante de Green Software deve conhecer:
@@ -110,23 +116,16 @@ Avalie sua aplicação do Microsoft Sustainability Manager em diferentes estági
 
 **Em qual fase ou etapa você gostaria de avaliar a implementação da sua solução Microsoft Sustainability Manager?**
 
+Inicie sua avaliação com a [Microsoft Sustainability Manager - Avaliação Bem-Estruturada](https://learn.microsoft.com/pt-br/assessments/333d9326-e34c-40e1-88d9-8342afceec36/).
+
 - **Planejamento:** Avalie a prontidão do planejamento do MVP do seu Sustainability Manager.
 - **Design:** Avalie as considerações de design do seu Sustainability Manager.
 - **Go-Live:** Avalie a prontidão para implantação e entrada em funcionamento do seu Sustainability Manager.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud03.png)
-
-Inicie sua avaliação com a [Microsoft Sustainability Manager - Avaliação Bem-Estruturada](https://learn.microsoft.com/pt-br/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3/).
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud08.png)
 
 Examine sua carga de trabalho por meio da lente de sustentabilidade.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud03.png)
-
-Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada] (https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
-
-
-- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/)
-
-- **Green Software Patterns:** [Documentação sobre padrões de software verde.](https://patterns.greensoftware.foundation/)
+Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada](https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
 
 ![](/assets/img/posts/logo.png)

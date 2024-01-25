@@ -8,21 +8,20 @@ tags: [Azure, Foundation Cloud, Green-Computing, Sustentabilidade]
 ---
 
 ## Introdução
-Em um mundo cada vez mais dependente de tecnologias avançadas, a sustentabilidade se tornou um pilar crucial no desenvolvimento de infraestruturas de TI. Como um Arquiteto de Nuvem experiente e com uma forte base em Ciência da Computação, minha missão é aliar inovação tecnológica com responsabilidade ambiental. Este artigo visa explorar como as práticas de computação verde podem ser integradas na fundação do Cloud Native, criando não só sistemas eficientes, mas também sustentáveis.
+Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não é apenas uma questão de avanço técnico, mas também um impulsionando mudança social e ambiental. Esta jornada começou com a compreensão de como uma Cloud Foundation, DevOps, FinOps, e a observabilidade não apenas definem o futuro de uma empresa, mas impacta diretamente em uma responsabilidade social e sustentabilidade ambiental.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud01.png)
 
-
 ## O Papel da Computação Verde
-A computação verde vai além da eficiência energética, englobando a escolha de materiais sustentáveis, redução de resíduos eletrônicos e promoção da reciclagem. Em data centers, práticas como uso de energia renovável e otimização de servidores são fundamentais para reduzir o impacto ambiental.
+A Green Computing vai além da eficiência energética, englobando a escolha de materiais sustentáveis, redução de resíduos eletrônicos e promoção da reciclagem. Em data centers, práticas como uso de energia renovável e otimização de servidores são fundamentais para reduzir o impacto ambiental.
 
 ## Computação Verde e Cloud Native
-A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada byte de dados processado leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos pavimentando o caminho para inovações que respeitam nosso ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
+A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada dado processado, leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos garantindo que o caminho para inovações, respeitem o nosso meio ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
 
-![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud07.png)
+- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/) 
 
 ## Padrões de Software Verde
-A Green Software Foundation estabeleceu um banco de dados de padrões de software verde, que são revisados e curados por especialistas. Estes padrões são essenciais para garantir que a aplicação deles em software reduza emissões de carbono. O catálogo de padrões disponibilizado é amplo e abrange uma variedade de categorias, garantindo que profissionais de software encontrem práticas aplicáveis a seus respectivos campos, tecnologias ou domínios.
+A Green Software Foundation estabeleceu um banco de dados de padrões de software verde, que são mantidos e revisados por especialistas. Estes padrões são essenciais para garantir que a aplicação diminua emissões de carbono. O catálogo de padrões disponibilizado é amplo e abrange uma variedade de categorias, garantindo que profissionais de software encontrem práticas aplicáveis aos seus respectivos campos, tecnologias ou domínios.
 
 - **Green Software Patterns:** [Documentação sobre padrões de software verde.](https://patterns.greensoftware.foundation/)
 
@@ -35,31 +34,30 @@ Os princípios de software verde fornecem um conjunto fundamental de competênci
 Na implementação de infraestruturas Cloud Native, a adoção de frameworks bem-estruturados, como o Cloud Adoption Framework e o Well-Architected Framework, é crucial. Esses frameworks auxiliam na criação de sistemas que são não só eficientes, mas também ambientalmente responsáveis.
 
 ### Cargas de Trabalho Sustentáveis no Azure
-Esta seção do Microsoft Azure Well-Architected Framework tem como objetivo enfrentar os desafios da criação de cargas de trabalho sustentáveis no Azure. As diretrizes fornecidas aplicam práticas recomendadas como uma base técnica para criar e operar soluções sustentáveis no Azure.
+Esta seção é parte do Microsoft Azure Well-Architected Framework e tem como objetivo enfrentar os desafios de criação de ambientes com cargas de trabalho sustentáveis no Azure. As diretrizes fornecidas aplicam práticas recomendadas como uma base técnica para criar e operar soluções sustentáveis no Azure.
 
-### O que é uma carga de trabalho sustentável?
-Refere-se a uma coleção de recursos de aplicativo que suportam um objetivo comercial comum, focando no impacto ambiental destas cargas de trabalho. Uma carga de trabalho sustentável descreve a prática de criar soluções que maximizam a utilização, minimizando o desperdício e a pegada ambiental.
+- **O que é uma carga de trabalho sustentável?**
 
-### Visão Geral da Eficiência de Nuvem
+    Refere-se a uma coleção de softwares que suportam um objetivo comercial comum, focando no impacto ambiental destas cargas de trabalho. Uma carga de trabalho sustentável descreve como prática de criar soluções que maximizam a utilização, minimizando o desperdício e a pegada ambiental.
+    
+- **Visão Geral da Eficiência de Nuvem**
 A eficiência das cargas de trabalho na nuvem combina otimização de custos, redução das emissões de carbono e otimização do consumo de energia.
 
-### Desafios Comuns
+- **Desafios Comuns**
 Incluem alinhar as cargas de trabalho com as metas de sustentabilidade, projetar cargas de trabalho otimizadas para o ambiente e medir as emissões de suas cargas de trabalho.
 
-### Sustentabilidade Além de Desempenho e Custo
+- **Sustentabilidade Além de Desempenho e Custo**
 Além da eficiência de desempenho e otimização de custos, outras áreas como segurança, confiabilidade e excelência operacional são essenciais para criar cargas de trabalho sustentáveis de longo prazo no Azure.
 
-### Principais Áreas de Design
-Incluem Design [Design](https://learn.microsoft.com/pt-br/azure/well-architected/sustainability/sustainability-application-design) de aplicativo, plataforma de aplicativos, testes, procedimentos operacionais, storage, rede e conectividade, e segurança.
+- **Principais Áreas de Design**
+Existem Áreas de [Design](https://learn.microsoft.com/pt-br/azure/well-architected/sustainability/sustainability-application-design) de aplicativo, de plataforma de aplicativos, testes, procedimentos operacionais, storage, rede e conectividade, e de segurança.
 
 Examine o estudo [Benefícios do Carbono da Computação em Nuvem: um estudo da Nuvem da Microsoft](https://info.microsoft.com/ww-landing-Carbon-Benefits-of-Cloud-Computing.html?lcid=pt-br) para saber mais sobre a eficiência energética e de carbono do Azure.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
 
 ## O que é Green Software?
-Green Software é uma disciplina emergente que se situa na interseção da ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. Ela foca na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono. As três principais atividades que reduzem as emissões de carbono do software são a eficiência energética, consciência de carbono e eficiência de hardware.
-
-- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/) 
+Podemos dizer que Green Software é uma disciplina emergente que está diretamente envolvida por ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. É focada na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono. As três principais atividades que reduzem as emissões de carbono do software são a eficiência energética, consciência de carbono e eficiência de hardware.
 
 ## Como Ser um Praticante de Green Software
 O treinamento cobre seis áreas-chave que um praticante de Green Software deve conhecer:
@@ -77,7 +75,7 @@ Os compromissos climáticos são fundamentais para qualquer estratégia de suste
 - **Abatimento:** Redução direta das emissões de GEE através de mudanças nas práticas operacionais, tecnologias e comportamentos.
 - **Compensação:** Investimento em projetos ambientais para compensar as emissões de GEE que não podem ser eliminadas.
 - **Neutralização:** Equilíbrio entre as emissões de carbono emitidas e as emissões removidas ou compensadas.
-- **"Carbono Neutro" e "Net Zero":** Alcançar um estado onde as atividades de uma organização não aumentam a quantidade de GEE na atmosfera.
+- **"Carbono Neutro"** Alcançar um estado onde as atividades de uma organização não aumentam a quantidade de GEE na atmosfera.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud02.png)
 

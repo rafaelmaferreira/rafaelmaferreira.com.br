@@ -10,6 +10,9 @@ tags: [Azure, Foundation Cloud, Green-Computing, Sustentabilidade]
 ## Introdução
 Em um mundo cada vez mais dependente de tecnologias avançadas, a sustentabilidade se tornou um pilar crucial no desenvolvimento de infraestruturas de TI. Como um Arquiteto de Nuvem experiente e com uma forte base em Ciência da Computação, minha missão é aliar inovação tecnológica com responsabilidade ambiental. Este artigo visa explorar como as práticas de computação verde podem ser integradas na fundação do Cloud Native, criando não só sistemas eficientes, mas também sustentáveis.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud01.png)
+
+
 ## O Papel da Computação Verde
 A computação verde vai além da eficiência energética, englobando a escolha de materiais sustentáveis, redução de resíduos eletrônicos e promoção da reciclagem. Em data centers, práticas como uso de energia renovável e otimização de servidores são fundamentais para reduzir o impacto ambiental.
 
@@ -21,6 +24,8 @@ A Green Software Foundation estabeleceu um banco de dados de padrões de softwar
 
 ## Princípios, Padrões e Práticas
 Os princípios de software verde fornecem um conjunto fundamental de competências necessárias para definir, executar e construir software sustentável. Já os padrões oferecem exemplos práticos de como aplicar esses princípios em cenários do mundo real, de forma neutra em relação a fornecedores. As práticas são padrões aplicados a produtos específicos de fornecedores, orientando os profissionais sobre como usar esses produtos de maneira mais sustentável.
+
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud06.png)
 
 ## Estratégias de Implementação
 Na implementação de infraestruturas Cloud Native, a adoção de frameworks bem-estruturados, como o Cloud Adoption Framework e o Well-Architected Framework, é crucial. Esses frameworks auxiliam na criação de sistemas que são não só eficientes, mas também ambientalmente responsáveis.
@@ -34,6 +39,8 @@ Refere-se a uma coleção de recursos de aplicativo que suportam um objetivo com
 ### Visão Geral da Eficiência de Nuvem
 A eficiência das cargas de trabalho na nuvem combina otimização de custos, redução das emissões de carbono e otimização do consumo de energia.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
+
 ### Desafios Comuns
 Incluem alinhar as cargas de trabalho com as metas de sustentabilidade, projetar cargas de trabalho otimizadas para o ambiente e medir as emissões de suas cargas de trabalho.
 
@@ -41,7 +48,7 @@ Incluem alinhar as cargas de trabalho com as metas de sustentabilidade, projetar
 Além da eficiência de desempenho e otimização de custos, outras áreas como segurança, confiabilidade e excelência operacional são essenciais para criar cargas de trabalho sustentáveis de longo prazo no Azure.
 
 ### Principais Áreas de Design
-Incluem Design [https://learn.microsoft.com/pt-br/azure/well-architected/sustainability/sustainability-application-design](https://info.microsoft.com/ww-landing-Carbon-Benefits-of-Cloud-Computing.html?lcid=pt-br) de aplicativo, plataforma de aplicativos, testes, procedimentos operacionais, storage, rede e conectividade, e segurança.
+Incluem Design [Design](https://learn.microsoft.com/pt-br/azure/well-architected/sustainability/sustainability-application-design) de aplicativo, plataforma de aplicativos, testes, procedimentos operacionais, storage, rede e conectividade, e segurança.
 
 Examine o estudo [Benefícios do Carbono da Computação em Nuvem: um estudo da Nuvem da Microsoft](https://info.microsoft.com/ww-landing-Carbon-Benefits-of-Cloud-Computing.html?lcid=pt-br) para saber mais sobre a eficiência energética e de carbono do Azure.
 
@@ -66,6 +73,8 @@ Os compromissos climáticos são fundamentais para qualquer estratégia de suste
 - **Neutralização:** Equilíbrio entre as emissões de carbono emitidas e as emissões removidas ou compensadas.
 - **"Carbono Neutro" e "Net Zero":** Alcançar um estado onde as atividades de uma organização não aumentam a quantidade de GEE na atmosfera.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud02.png)
+
 ## Importância da Medição e Avaliação
 A medição e avaliação precisas das emissões de GEE são cruciais para entender o impacto ambiental de uma organização e tomar decisões informadas para reduzi-lo.
 
@@ -85,11 +94,15 @@ A cultura DevOps, com seu foco em eficiência e automação, está alinhada com 
 ## Observabilidade e Sustentabilidade
 A observabilidade detalhada é crítica para a construção de sistemas Cloud Native sustentáveis, permitindo uma compreensão profunda do comportamento do sistema e o uso dos recursos.
 
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud05.png)
+
 ## Contribuição para o Ecosistema Open Source
 A adoção de práticas sustentáveis oferece uma oportunidade para contribuir ao ecossistema Open Source, promovendo um futuro mais sustentável para a tecnologia Cloud Native.
 
 ## Conclusão: Um Chamado para a Mudança Transformadora
 Este artigo não é apenas um guia técnico; é um apelo à ação para todos os profissionais de TI e líderes de negócios. Ao adotar práticas sustentáveis e responsáveis, não estamos apenas moldando o futuro da tecnologia, mas também o futuro do nosso planeta e da humanidade. Cada passo em direção à sustentabilidade é um passo em direção a um legado duradouro que beneficiará não apenas a nossa geração, mas muitas que virão.
+
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud04.png)
 
 ### Ferramenta de Revisão de Avaliação
 
@@ -103,13 +116,13 @@ Avalie sua aplicação do Microsoft Sustainability Manager em diferentes estági
 
 ![](/assets/img/posts/2024-01-15-finops-foundation-cloud03.png)
 
-Inicie sua avaliação com a [Microsoft Sustainability Manager | Avaliação Bem-Estruturada](https://learn.microsoft.com/pt-br/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3/).
+Inicie sua avaliação com a [Microsoft Sustainability Manager - Avaliação Bem-Estruturada](https://learn.microsoft.com/pt-br/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3/).
 
 Examine sua carga de trabalho por meio da lente de sustentabilidade.
 
 ![](/assets/img/posts/2024-01-15-finops-foundation-cloud03.png)
 
-Inicie sua avaliação com a [Sustentabilidade | Revisão Bem Arquitetada](https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
+Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada] (https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
 
 
 - **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/)

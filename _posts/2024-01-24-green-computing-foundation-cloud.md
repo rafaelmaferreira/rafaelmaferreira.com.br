@@ -93,18 +93,21 @@ Três ações essenciais para reduzir as emissões de carbono do software:
 3. **Uso inteligente de energia:** Preferindo fontes de energia de baixo carbono.
 
 ## Cultura DevOps e FinOps
-A cultura DevOps, com seu foco em eficiência e automação, está alinhada com os objetivos de sustentabilidade. O FinOps, focado na otimização de custos e recursos, cria infraestruturas que maximizam a eficiência e minimizam o desperdício.
+A cultura DevOps, com seu foco em eficiência e automação, está alinhada com os objetivos de sustentabilidade. O FinOps, concentrando-se na otimização de custos e recursos, permitindo criar infraestruturas que maximizam a eficiência e minimizam o desperdício, apoiando a sustentabilidade no longo prazo.
+
 
 ## Observabilidade e Sustentabilidade
-A observabilidade detalhada é crítica para a construção de sistemas Cloud Native sustentáveis, permitindo uma compreensão profunda do comportamento do sistema e o uso dos recursos.
+A observabilidade detalhada é um componente crítico para a construção de sistemas Cloud Native sustentáveis. Ela envolve a coleta, monitoramento e análise de dados, permitindo uma compreensão profunda do comportamento do sistema e o uso dos recursos. Ao aplicar práticas de observabilidade, as equipes de TI podem identificar e mitigar ineficiências, reduzir o consumo de energia e melhorar a performance, alinhando-se assim aos princípios de sustentabilidade.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud05.png)
 
 ## Contribuição para o Ecosistema Open Source
-A adoção de práticas sustentáveis oferece uma oportunidade para contribuir ao ecossistema Open Source, promovendo um futuro mais sustentável para a tecnologia Cloud Native.
+A adoção de práticas sustentáveis oferece uma oportunidade para contribuir de volta ao ecosistema Open Source. Desenvolvendo melhorias e plugins baseados em observações detalhadas e compartilhando conhecimento e melhores práticas, as organizações não apenas se beneficiam, mas também enriquecem o Open Source. Esta colaboração e compartilhamento são fundamentais para fortalecer a comunidade e promover um futuro promissor para tecnologias Cloud Native.
 
 ## Conclusão: Um Chamado para a Mudança Transformadora
-Este artigo não é apenas um guia técnico; é um apelo à ação para todos os profissionais de TI e líderes de negócios. Ao adotar práticas sustentáveis e responsáveis, não estamos apenas moldando o futuro da tecnologia, mas também o futuro do nosso planeta e da humanidade. Cada passo em direção à sustentabilidade é um passo em direção a um legado duradouro que beneficiará não apenas a nossa geração, mas muitas que virão.
+Como profissionais de tecnologia, temos a responsabilidade de liderar a transformação para práticas sustentáveis. Podemos adotar princípios de sustentabilidade, contribuindo ativamente para um futuro mais verde. Este artigo serve como Auxílio para todos os profissionais de TI e todas áreas que tem interesse em integrar a sustentabilidade em suas práticas, promovendo um avanço tecnológico que proteja nosso planeta para as futuras gerações.
+
+Ao adotar práticas sustentáveis e responsáveis, não estamos apenas moldando o futuro da tecnologia, mas também o futuro do nosso planeta e da humanidade. Cada passo em direção à sustentabilidade é um passo em direção a um legado duradouro que beneficiará não apenas a nossa geração, mas muitas que virão.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud04.png)
 
@@ -122,7 +125,7 @@ Inicie sua avaliação com a [Microsoft Sustainability Manager - Avaliação Bem
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud08.png)
 
-Examine sua carga de trabalho por meio da lente de sustentabilidade.
+Existem um segunda opção de avaliação. Examine sua carga de trabalho por meio da lente de sustentabilidade.
 
 Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada](https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
 

@@ -20,6 +20,24 @@ A integração da computação verde no Cloud Native reflete uma mudança cultur
 
 - **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/) 
 
+## Impacto Ambiental
+A conscientização sobre o impacto ambiental da tecnologia é crucial para promover práticas sustentáveis no setor de TI. Aqui estão alguns dados que destacam a importância da eficiência energética e da gestão ambiental responsável em tecnologias de TI:
+
+1. **Resíduos Eletrônicos Globais**: Em 2019, cerca de 54 milhões de toneladas de resíduos eletrônicos foram gerados em todo o mundo, mas apenas 17% foram reciclados de forma adequada.
+
+2. **Exportação de Resíduos Eletrônicos dos EUA**: Uma porcentagem significativa de computadores usados nos EUA foi exportada para países em desenvolvimento, muitas vezes com impactos adversos sobre a saúde e o meio ambiente.
+
+3. **Eficiência Energética em Data Centers**: Melhorar a eficiência energética dos data centers através de tecnologias inovadoras, como sistemas combinados de calor e energia, é uma etapa vital para reduzir a pegada de carbono.
+
+4. **Teletrabalho e Consumo de Energia**: O aumento do teletrabalho traz economias de energia no transporte, mas pode levar a um aumento no consumo de energia residencial para TI e outros usos.
+
+5. **Redução de Energia em Equipamentos de Escritório**: Grandes economias de energia podem ser alcançadas implementando modos de baixa potência e práticas de desligamento em equipamentos de escritório, como computadores e impressoras.
+
+Estas estatísticas destacam a necessidade de práticas sustentáveis no uso e gestão de tecnologias de TI, reforçando a importância de estratégias conscientes em computação verde e sustentabilidade ambiental.
+
+[Fonte: Center for Sustainable Systems](https://css.umich.edu/factsheets/green-it-factsheet)
+
+
 ## Padrões de Software Verde
 A Green Software Foundation estabeleceu um banco de dados de padrões de software verde, que são mantidos e revisados por especialistas. Estes padrões são essenciais para garantir que a aplicação diminua emissões de carbono. O catálogo de padrões disponibilizado é amplo e abrange uma variedade de categorias, garantindo que profissionais de software encontrem práticas aplicáveis aos seus respectivos campos, tecnologias ou domínios.
 

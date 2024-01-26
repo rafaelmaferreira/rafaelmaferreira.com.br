@@ -84,22 +84,16 @@ Na busca pela sustentabilidade e redução da pegada de carbono, várias estrat�
 
 3. **Neutralização:** A neutralização de carbono é o processo de alcançar um equilíbrio líquido zero nas emissões de carbono, combinando abatimento com compensações para neutralizar completamente o impacto de carbono de uma organização ou produto. Isso é frequentemente referido como alcançar "carbono neutro" ou "net zero".
 
-Cada uma dessas estratégias desempenha um papel vital na mitigação das mudanças climáticas e na transição para uma economia de baixo carbono. No contexto de Cloud Native e Green Software, esses compromissos orientam as decisões e práticas, desde o planejamento e design de software até a escolha de fornecedores e tecnologias.
+Cada uma dessas estratégias desempenha um papel importante na mitigação das mudanças climáticas e na transição para uma economia de baixo carbono. No contexto de Cloud Native e Green Software, esses compromissos orientam as decisões e práticas, desde o planejamento e design de software até a escolha de fornecedores e tecnologias.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud02.png)
 
 ## Importância da Medição e Avaliação
-A medição e avaliação precisas das emissões de GEE são cruciais para entender o impacto ambiental de uma organização e tomar decisões informadas para reduzi-lo.
 
-- **Protocolo de Gases de Efeito Estufa (GHG Protocol):** Padrão internacionalmente reconhecido para a contabilidade e a reportagem de emissões de GEE.
-- **Intensidade de Carbono de Software (SCI):** Mede a quantidade de emissões de GEE por unidade de funcionalidade de software.
-
-## Importância da Medição e Avaliação
-
-Uma medição precisa das emissões de gases de efeito estufa é vital para compreender e melhorar o impacto ambiental das organizações:
+Uma medição das emissões de gases de efeito estufa é ideal para compreender e melhorar o impacto ambiental das organizações:
 
 - **Protocolo de Gases de Efeito Estufa (GHG Protocol):** Uma ferramenta internacionalmente reconhecida para a contabilização e relatório de emissões de GEE, oferecendo um quadro abrangente para medir emissões diretas e indiretas.
-- **Intensidade de Carbono de Software (SCI):** Uma métrica específica para avaliar a quantidade de emissões de GEE por unidade de funcionalidade em aplicações de software, ajudando desenvolvedores e organizações de TI a otimizarem o impacto ambiental de suas soluções.
+- **Intensidade de Carbono de Software (SCI):** Uma métrica específica para avaliar a quantidade de emissões de GEE por unidade de funcionalidade em aplicações de software, ajudando desenvolvedores e organizações de tecnologia a otimizarem o impacto ambiental de suas soluções.
 
 ## Ações para Redução de Carbono
 Três ações essenciais para reduzir as emissões de carbono do software:
@@ -111,7 +105,6 @@ Três ações essenciais para reduzir as emissões de carbono do software:
 ## Cultura DevOps e FinOps
 A cultura DevOps, com seu foco em eficiência e automação, está alinhada com os objetivos de sustentabilidade. O FinOps, concentrando-se na otimização de custos e recursos, permitindo criar infraestruturas que maximizam a eficiência e minimizam o desperdício, apoiando a sustentabilidade no longo prazo.
 
-
 ## Observabilidade e Sustentabilidade
 A observabilidade detalhada é um componente crítico para a construção de sistemas Cloud Native sustentáveis. Ela envolve a coleta, monitoramento e análise de dados, permitindo uma compreensão profunda do comportamento do sistema e o uso dos recursos. Ao aplicar práticas de observabilidade, as equipes de TI podem identificar e mitigar ineficiências, reduzir o consumo de energia e melhorar a performance, alinhando-se assim aos princípios de sustentabilidade.
 
@@ -121,7 +114,7 @@ A observabilidade detalhada é um componente crítico para a construção de sis
 A adoção de práticas sustentáveis oferece uma oportunidade para contribuir de volta ao ecosistema Open Source. Desenvolvendo melhorias e plugins baseados em observações detalhadas e compartilhando conhecimento e melhores práticas, as organizações não apenas se beneficiam, mas também enriquecem o Open Source. Esta colaboração e compartilhamento são fundamentais para fortalecer a comunidade e promover um futuro promissor para tecnologias Cloud Native.
 
 ## Conclusão: Um Chamado para a Mudança Transformadora
-Como profissionais de tecnologia, temos a responsabilidade de liderar a transformação para práticas sustentáveis. Podemos adotar princípios de sustentabilidade, contribuindo ativamente para um futuro mais verde. Este artigo serve como Auxílio para todos os profissionais de TI e todas áreas que tem interesse em integrar a sustentabilidade em suas práticas, promovendo um avanço tecnológico que proteja nosso planeta para as futuras gerações.
+Como profissionais de tecnologia, temos a possibilidade de liderar a transformação para práticas sustentáveis. Podemos adotar princípios de sustentabilidade, contribuindo ativamente para um futuro mais verde. Este artigo serve como auxílio para todos os profissionais de TI e todas áreas que tem interesse em integrar a sustentabilidade em suas práticas, promovendo um avanço tecnológico que proteja nosso planeta para as futuras gerações.
 
 Ao adotar práticas sustentáveis e responsáveis, não estamos apenas moldando o futuro da tecnologia, mas também o futuro do nosso planeta e da humanidade. Cada passo em direção à sustentabilidade é um passo em direção a um legado duradouro que beneficiará não apenas a nossa geração, mas muitas que virão.
 

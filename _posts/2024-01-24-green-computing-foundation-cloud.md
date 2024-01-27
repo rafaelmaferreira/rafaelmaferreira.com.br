@@ -23,15 +23,15 @@ A integração da computação verde no Cloud Native reflete uma mudança cultur
 ## Impacto Ambiental
 A conscientização sobre o impacto ambiental da tecnologia é crucial para promover práticas sustentáveis no setor de TI. Aqui estão alguns dados que destacam a importância da eficiência energética e da gestão ambiental responsável em tecnologias de TI:
 
-1. **Resíduos Eletrônicos Globais**: Em 2019, cerca de 54 milhões de toneladas de resíduos eletrônicos foram gerados em todo o mundo, mas apenas 17% foram reciclados de forma adequada.
+1. **Resíduos Eletrônicos Globais**: Em 2019, aproximadamente 54 milhões de toneladas de resíduos eletrônicos foram gerados mundialmente, mas somente 17% receberam reciclagem adequada.
 
-2. **Exportação de Resíduos Eletrônicos dos EUA**: Uma porcentagem significativa de computadores usados nos EUA foi exportada para países em desenvolvimento, muitas vezes com impactos adversos sobre a saúde e o meio ambiente.
+2. **Exportação de Resíduos Eletrônicos dos EUA**: As regulamentações federais norte-americanas atualmente permitem a exportação de lixo eletrônico, o que representa uma ameaça global à saúde humana. Estima-se que entre 5% a 30% dos 40 milhões de computadores usados nos EUA foram exportados para países em desenvolvimento em 2010. Em 2016, a Basel Action Network descobriu que 34% do lixo eletrônico monitorado nos EUA foi enviado para o exterior, quase todo para países em desenvolvimento.
 
-3. **Eficiência Energética em Data Centers**: Melhorar a eficiência energética dos data centers através de tecnologias inovadoras, como sistemas combinados de calor e energia, é uma etapa vital para reduzir a pegada de carbono.
+3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, representando 1,8% do consumo total de eletricidade do país. A potência de pico de servidores e data centers em 2007 foi de 7 GW. As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente.
 
-4. **Teletrabalho e Consumo de Energia**: O aumento do teletrabalho traz economias de energia no transporte, mas pode levar a um aumento no consumo de energia residencial para TI e outros usos.
+4. **Teletrabalho e Consumo de Energia**: O teletrabalho durante a pandemia de COVID-19 em 2020 levou a uma redução de 13% no consumo de energia relacionado ao trabalho e a uma diminuição de 14% nas emissões de gases de efeito estufa.
 
-5. **Redução de Energia em Equipamentos de Escritório**: Grandes economias de energia podem ser alcançadas implementando modos de baixa potência e práticas de desligamento em equipamentos de escritório, como computadores e impressoras.
+5. **Redução de Energia em Equipamentos de Escritório**: Em 2018, computadores e equipamentos de escritório foram responsáveis por 13% do consumo total de eletricidade (227 bilhões de kWh) em edifícios de escritórios. A implementação de modos de baixo consumo de energia em equipamentos de escritório poderia reduzir seu consumo energético em 23%. Se todos os computadores desktop e impressoras fossem desligados à noite, o consumo de energia poderia ser reduzido em mais 9%.
 
 Estas estatísticas destacam a necessidade de práticas sustentáveis no uso e gestão de tecnologias de TI, reforçando a importância de estratégias conscientes em computação verde e sustentabilidade ambiental.
 

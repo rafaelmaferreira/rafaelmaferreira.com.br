@@ -27,7 +27,7 @@ A conscientização sobre o impacto ambiental da tecnologia é crucial para prom
 
 2. **Exportação de Resíduos Eletrônicos dos EUA**: As regulamentações federais norte-americanas atualmente permitem a exportação de lixo eletrônico, o que representa uma ameaça global à saúde humana. Estima-se que entre 5% a 30% dos 40 milhões de computadores usados nos EUA foram exportados para países em desenvolvimento em 2010. Em 2016, a Basel Action Network descobriu que 34% do lixo eletrônico monitorado nos EUA foi enviado para o exterior, quase todo para países em desenvolvimento.
 
-3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, representando 1,8% do consumo total de eletricidade do país. A potência de pico de servidores e data centers em 2007 foi de 7 GW. As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente.
+3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, representando 1,8% do consumo total de eletricidade do país. As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente. Para entender melhor como a eficiência energética é implementada na prática, confira este [Tour](https://news.microsoft.com/pt-br/microsoft-revela-tour-virtual-em-um-de-seus-datacenters/#:~:text=A%20Microsoft%20disponibilizou%20hoje%20um,hardware%20e%20software%20que%20mant%C3%AAm) virtual em um dos datacenters da Microsoft, onde são empregadas tecnologias inovadoras para otimizar o uso de energia.
 
 4. **Teletrabalho e Consumo de Energia**: O teletrabalho durante a pandemia de COVID-19 em 2020 levou a uma redução de 13% no consumo de energia relacionado ao trabalho e a uma diminuição de 14% nas emissões de gases de efeito estufa.
 
@@ -93,7 +93,7 @@ O treinamento cobre seis áreas-chave que um praticante de Green Software deve c
 - **Medição:** O que não pode ser medido, não pode ser melhorado.
 - **Compromissos Climáticos:** Entender o mecanismo exato de redução de carbono.
 
-## Compromissos Climáticos: Abatimento, Compensação e Neutralização
+## Iniciativas para um Impacto Ambiental Positivo
 Na busca pela sustentabilidade e redução da pegada de carbono, várias estratégias podem ser empregadas, sendo as mais comuns o abatimento, a compensação e a neutralização de carbono. Vamos explorar cada uma delas:
 
 1. **Abatimento:** Esta estratégia foca na redução direta das emissões de gases de efeito estufa. Isso pode ser alcançado através da implementação de tecnologias mais limpas, mudança de comportamentos e práticas operacionais, como a utilização de fontes de energia renováveis e a otimização da eficiência energética em processos e edifícios.
@@ -102,7 +102,9 @@ Na busca pela sustentabilidade e redução da pegada de carbono, várias estrat�
 
 3. **Neutralização:** A neutralização de carbono é o processo de alcançar um equilíbrio líquido zero nas emissões de carbono, combinando abatimento com compensações para neutralizar completamente o impacto de carbono de uma organização ou produto. Isso é frequentemente referido como alcançar "carbono neutro" ou "net zero".
 
-Cada uma dessas estratégias desempenha um papel importante na mitigação das mudanças climáticas e na transição para uma economia de baixo carbono. No contexto de Cloud Native e Green Software, esses compromissos orientam as decisões e práticas, desde o planejamento e design de software até a escolha de fornecedores e tecnologias.
+Cada uma dessas estratégias desempenha um papel importante na mitigação das mudanças climáticas e na transição para uma economia de baixo carbono. No contexto de Cloud Native e Green Software, esses compromissos orientam as decisões e práticas, desde o planejamento e design de software até a escolha de fornecedores e tecnologias. 
+
+Explorando novas fronteiras em sustentabilidade, a Microsoft testou um [Datacenter Subaquático](https://news.microsoft.com/pt-br/no-fundo-do-mar-a-microsoft-testa-um-datacenter-rapido-de-implantar-que-pode-fornecer-conectividade-a-internet-por-anos/), visando uma implementação rápida e um menor impacto ambiental. Este projeto demonstra o potencial de soluções inovadoras em data centers para alcançar uma maior sustentabilidade.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud02.png)
 

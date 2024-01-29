@@ -84,7 +84,7 @@ Além da eficiência de desempenho e otimização de custos, outras áreas como 
 Podemos dizer que Green Software é uma disciplina emergente que está diretamente envolvida por ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. É focada na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono. As três principais atividades que reduzem as emissões de carbono do software são a eficiência energética, consciência de carbono e eficiência de hardware.
 
 ## Como Ser um Praticante de Green Software
-O treinamento cobre seis áreas-chave que um praticante de Green Software deve conhecer:
+O que um praticante de Green Software deve conhecer:
 
 - **Eficiência de Carbono:** Emitir a menor quantidade de carbono possível.
 - **Eficiência Energética:** Usar a menor quantidade de energia possível.

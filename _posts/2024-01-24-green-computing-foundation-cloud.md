@@ -8,7 +8,7 @@ tags: [Azure, Foundation Cloud, Green-Computing, Sustentabilidade]
 ---
 
 ## Introdução
-Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não são apenas uma questão de avanço técnico, mas também um impulsionando mudança social e ambiental. Esta jornada começou com a compreensão de como uma Cloud Foundation, DevOps, FinOps, e a observabilidade não apenas definem o futuro de uma empresa, mas impacta diretamente em uma responsabilidade social e sustentabilidade ambiental.
+Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não são apenas uma questão de avanço tecnológico, mas também impactam mudança social e ambiental. Esta jornada começou com a compreensão de como uma Cloud Foundation, DevOps, FinOps, e a Observabilidade não apenas definem o futuro de uma empresa, mas impactaM diretamente em uma responsabilidade social e sustentabilidade ambiental.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud01.png)
 
@@ -18,7 +18,7 @@ A Green Computing vai além da eficiência energética, englobando a escolha de 
 ## Computação Verde e Cloud Native
 A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada dado processado, leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos garantindo que o caminho para inovações, respeitem o nosso meio ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
 
-- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis.](https://greensoftware.foundation/) 
+- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis](https://greensoftware.foundation/) 
 
 ## Impacto Ambiental
 A conscientização sobre o impacto ambiental da tecnologia é crucial para promover práticas sustentáveis no setor de TI. Aqui estão alguns dados que destacam a importância da eficiência energética e da gestão ambiental responsável em tecnologias de TI:
@@ -27,7 +27,7 @@ A conscientização sobre o impacto ambiental da tecnologia é crucial para prom
 
 2. **Exportação de Resíduos Eletrônicos dos EUA**: As regulamentações federais norte-americanas atualmente permitem a exportação de lixo eletrônico, o que representa uma ameaça global à saúde humana. Estima-se que entre 5% a 30% dos 40 milhões de computadores usados nos EUA foram exportados para países em desenvolvimento em 2010. Em 2016, a Basel Action Network descobriu que 34% do lixo eletrônico monitorado nos EUA foi enviado para o exterior, quase todo para países em desenvolvimento.
 
-3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, representando 1,8% do consumo total de eletricidade do país. As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente. Para entender melhor como a eficiência energética é implementada na prática, confira este [Tour](https://news.microsoft.com/pt-br/microsoft-revela-tour-virtual-em-um-de-seus-datacenters/#:~:text=A%20Microsoft%20disponibilizou%20hoje%20um,hardware%20e%20software%20que%20mant%C3%AAm) virtual em um dos datacenters da Microsoft, onde são empregadas tecnologias inovadoras para otimizar o uso de energia.
+3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente. Para entender melhor como a eficiência energética é implementada na prática, confira este [Tour](https://news.microsoft.com/pt-br/microsoft-revela-tour-virtual-em-um-de-seus-datacenters/#:~:text=A%20Microsoft%20disponibilizou%20hoje%20um,hardware%20e%20software%20que%20mant%C3%AAm) virtual em um dos datacenters da Microsoft, onde são empregadas tecnologias inovadoras para otimizar o uso de energia.
 
 4. **Teletrabalho e Consumo de Energia**: O teletrabalho durante a pandemia de COVID-19 em 2020 levou a uma redução de 13% no consumo de energia relacionado ao trabalho e a uma diminuição de 14% nas emissões de gases de efeito estufa.
 

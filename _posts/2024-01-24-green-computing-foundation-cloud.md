@@ -15,11 +15,6 @@ Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não 
 ## O Papel da Computação Verde
 A Green Computing vai além da eficiência energética, englobando a escolha de materiais sustentáveis, redução de resíduos eletrônicos e promoção da reciclagem. Em data centers, práticas como uso de energia renovável e otimização de servidores são fundamentais para reduzir o impacto ambiental.
 
-## Computação Verde e Cloud Native
-A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada dado processado, leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos garantindo que o caminho para inovações, respeitem o nosso meio ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
-
-- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis](https://greensoftware.foundation/) 
-
 ## Impacto Ambiental
 A conscientização sobre o impacto ambiental da tecnologia é crucial para promover práticas sustentáveis no setor de TI. Aqui estão alguns dados que destacam a importância da eficiência energética e da gestão ambiental responsável em tecnologias de TI:
 
@@ -27,7 +22,7 @@ A conscientização sobre o impacto ambiental da tecnologia é crucial para prom
 
 2. **Exportação de Resíduos Eletrônicos dos EUA**: As regulamentações federais norte-americanas atualmente permitem a exportação de lixo eletrônico, o que representa uma ameaça global à saúde humana. Estima-se que entre 5% a 30% dos 40 milhões de computadores usados nos EUA foram exportados para países em desenvolvimento em 2010. Em 2016, a Basel Action Network descobriu que 34% do lixo eletrônico monitorado nos EUA foi enviado para o exterior, quase todo para países em desenvolvimento.
 
-3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente. Para entender melhor como a eficiência energética é implementada na prática, confira este [Tour](https://news.microsoft.com/pt-br/microsoft-revela-tour-virtual-em-um-de-seus-datacenters/#:~:text=A%20Microsoft%20disponibilizou%20hoje%20um,hardware%20e%20software%20que%20mant%C3%AAm) virtual em um dos datacenters da Microsoft, onde são empregadas tecnologias inovadoras para otimizar o uso de energia.
+3. **Eficiência Energética em Data Centers**: Em 2014, os data centers dos EUA consumiram 70 bilhões de kWh de eletricidade, As tecnologias e estratégias de design eficientes existentes podem reduzir o uso de energia dos servidores em 25% ou mais, enquanto as melhores práticas de gerenciamento e consolidação de servidores podem diminuir o consumo de energia em até 20%. A eletricidade utilizada por servidores e data centers nos EUA resulta na emissão de 28,4 milhões de toneladas métricas de CO2e anualmente. 
 
 4. **Teletrabalho e Consumo de Energia**: O teletrabalho durante a pandemia de COVID-19 em 2020 levou a uma redução de 13% no consumo de energia relacionado ao trabalho e a uma diminuição de 14% nas emissões de gases de efeito estufa.
 
@@ -37,9 +32,10 @@ Estas estatísticas destacam a necessidade de práticas sustentáveis no uso e g
 
 [Fonte: Center for Sustainable Systems](https://css.umich.edu/factsheets/green-it-factsheet)
 
-
 ## Padrões de Software Verde
 A Green Software Foundation estabeleceu um banco de dados de padrões de software verde, que são mantidos e revisados por especialistas. Estes padrões são essenciais para garantir que a aplicação diminua emissões de carbono. O catálogo de padrões disponibilizado é amplo e abrange uma variedade de categorias, garantindo que profissionais de software encontrem práticas aplicáveis aos seus respectivos campos, tecnologias ou domínios.
+
+- **Green Software Foundation:** [Informações sobre padrões e práticas sustentáveis](https://greensoftware.foundation/) 
 
 - **Green Software Patterns:** [Documentação sobre padrões de software verde.](https://patterns.greensoftware.foundation/)
 
@@ -49,16 +45,13 @@ Os princípios de software verde fornecem um conjunto fundamental de competênci
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud06.png)
 
 ## Estratégias de Implementação
-Na implementação de infraestruturas Cloud Native, a adoção de frameworks bem-estruturados, como o Cloud Adoption Framework e o Well-Architected Framework, é crucial. Esses frameworks auxiliam na criação de sistemas que são não só eficientes, mas também ambientalmente responsáveis.
+Na implementação de infraestruturas Cloud Native bem desenhadas, a adoção de frameworks bem-estruturados, como o Cloud Adoption Framework e o Well-Architected Framework, são essenciais. Esses frameworks auxiliam na criação de sistemas que são eficientes e performáticos, mas também ambientalmente responsáveis.
 
 ### Cargas de Trabalho Sustentáveis no Azure
-Abordando a sustentabilidade dentro do Azure, esta seção do Microsoft Azure Well-Architected Framework oferece diretrizes para enfrentar os desafios de criação de ambientes com cargas de trabalho sustentáveis. Essas diretrizes aplicam práticas recomendadas com uma base técnica para construir e operar soluções sustentáveis, atendendo às necessidades comerciais e promovendo práticas ambientalmente responsáveis no Azure.
+Abordando a sustentabilidade dentro do Azure, existe uma seção do Microsoft Azure Well-Architected Framework destinada a oferecer diretrizes para enfrentar os desafios de criação de ambientes com cargas de trabalho sustentáveis. Essas diretrizes aplicam práticas recomendadas com uma base técnica para construir e operar soluções sustentáveis, atendendo às necessidades comerciais e promovendo práticas ambientalmente responsáveis no Azure.
 
 #### O que é uma carga de trabalho sustentável?
-Refere-se a uma coleção de softwares que suportam um objetivo comercial comum, focando no impacto ambiental destas cargas de trabalho. Uma carga de trabalho sustentável descreve como prática de criar soluções que maximizam a utilização, minimizando o desperdício e a pegada ambiental.
-
-#### Visão Geral da Eficiência de Nuvem
-A eficiência das cargas de trabalho na nuvem combina otimização de custos, redução das emissões de carbono e otimização do consumo de energia.
+Refere-se a uma coleção de softwares que suportam um objetivo comercial comum, focando no impacto ambiental destas cargas de trabalho. Uma carga de trabalho sustentável descreve como prática de criar soluções que maximizam a utilização, minimizando o desperdício e a pegada ambiental. A eficiência das cargas de trabalho na nuvem combina otimização de custos, redução das emissões de carbono e otimização do consumo de energia.
 
 #### Desafios Comuns na Implementação de Cargas de Trabalho Sustentáveis
 Ao implementar cargas de trabalho sustentáveis, especialmente no contexto do Azure, enfrentamos desafios únicos:
@@ -81,7 +74,7 @@ Além da eficiência de desempenho e otimização de custos, outras áreas como 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
 
 ## O que é Green Software?
-Podemos dizer que Green Software é uma disciplina emergente que está diretamente envolvida por ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. É focada na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono. As três principais atividades que reduzem as emissões de carbono do software são a eficiência energética, consciência de carbono e eficiência de hardware.
+Podemos dizer que Green Software é uma disciplina emergente que está diretamente envolvida por ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. É focada na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono.
 
 ## Como Ser um Praticante de Green Software
 O que um praticante de Green Software deve conhecer:
@@ -106,11 +99,13 @@ Cada uma dessas estratégias desempenha um papel importante na mitigação das m
 
 Explorando novas fronteiras em sustentabilidade, a Microsoft testou um [Datacenter Subaquático](https://news.microsoft.com/pt-br/no-fundo-do-mar-a-microsoft-testa-um-datacenter-rapido-de-implantar-que-pode-fornecer-conectividade-a-internet-por-anos/), visando uma implementação rápida e um menor impacto ambiental. Este projeto demonstra o potencial de soluções inovadoras em data centers para alcançar uma maior sustentabilidade.
 
+Para entender melhor como a eficiência energética é implementada na prática, confira este [Tour virtual em um dos datacenters da Microsoft](https://news.microsoft.com/pt-br/microsoft-revela-tour-virtual-em-um-de-seus-datacenters/#:~:text=A%20Microsoft%20disponibilizou%20hoje%20um,hardware%20e%20software%20que%20mant%C3%AAm), onde são empregadas tecnologias inovadoras para otimizar o uso de energia.
+
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud02.png)
 
 ## Importância da Medição e Avaliação
 
-Uma medição das emissões de gases de efeito estufa é ideal para compreender e melhorar o impacto ambiental das organizações:
+Uma medição das emissões de gases de efeito estufa é ideal para compreender e melhorar o impacto ambiental das organizações. Abaixado dois exemplos de métricas:
 
 - **Protocolo de Gases de Efeito Estufa (GHG Protocol):** Uma ferramenta internacionalmente reconhecida para a contabilização e relatório de emissões de GEE, oferecendo um quadro abrangente para medir emissões diretas e indiretas.
 - **Intensidade de Carbono de Software (SCI):** Uma métrica específica para avaliar a quantidade de emissões de GEE por unidade de funcionalidade em aplicações de software, ajudando desenvolvedores e organizações de tecnologia a otimizarem o impacto ambiental de suas soluções.
@@ -129,6 +124,9 @@ A cultura DevOps, com seu foco em eficiência e automação, está alinhada com 
 A observabilidade detalhada é um componente crítico para a construção de sistemas Cloud Native sustentáveis. Ela envolve a coleta, monitoramento e análise de dados, permitindo uma compreensão profunda do comportamento do sistema e o uso dos recursos. Ao aplicar práticas de observabilidade, as equipes de TI podem identificar e mitigar ineficiências, reduzir o consumo de energia e melhorar a performance, alinhando-se assim aos princípios de sustentabilidade.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud05.png)
+
+## Computação Verde e Cloud Native
+A integração da computação verde no Cloud Native reflete uma mudança cultural significativa, onde cada dado processado, leva em conta seu impacto ambiental. Ao implementar padrões de software verde, como os propostos pela Green Software Foundation, estamos garantindo que o caminho para inovações, respeitem o nosso meio ambiente, demonstrando que é possível alcançar excelência tecnológica sem comprometer a saúde do nosso planeta.
 
 ## Contribuição para o Ecosistema Open Source
 A adoção de práticas sustentáveis oferece uma oportunidade para contribuir de volta ao ecosistema Open Source. Desenvolvendo melhorias e plugins baseados em observações detalhadas e compartilhando conhecimento e melhores práticas, as organizações não apenas se beneficiam, mas também enriquecem o Open Source. Esta colaboração e compartilhamento são fundamentais para fortalecer a comunidade e promover um futuro promissor para tecnologias Cloud Native.

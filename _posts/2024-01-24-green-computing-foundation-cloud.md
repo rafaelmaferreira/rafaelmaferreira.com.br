@@ -113,7 +113,7 @@ Uma medição das emissões de gases de efeito estufa é ideal para compreender 
 ## Ações para Redução de Carbono
 Três ações essenciais para reduzir as emissões de carbono do software:
 
-1. **Utilizar menos recursos físicos:** Reduzindo a necessidade de hardware e a energia para sua produção e funcionamento.
+1. **Utilizar menos recursos físicos:** Reduzindo a necessidade de hardware e energia para sua produção e funcionamento.
 2. **Reduzir o consumo de energia:** Otimizando o software para ser mais eficiente em termos de energia.
 3. **Uso inteligente de energia:** Preferindo fontes de energia de baixo carbono.
 

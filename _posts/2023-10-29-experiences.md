@@ -12,7 +12,7 @@ Olá a todos! Hoje quero compartilhar um pouco da minha jornada profissional e d
 
 ## Cloud Solution Architect Senior
 - **Empresa:** CI&T
-- **Período:** Set 2023 - Presente (2 meses)
+- **Período:** Set 2023 - Presente
 
 
 ## Cloud Solution Architect

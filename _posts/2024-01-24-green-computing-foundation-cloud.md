@@ -8,7 +8,7 @@ tags: [Azure, Foundation Cloud, Green-Computing, Sustentabilidade]
 ---
 
 ## Introdução
-Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não são apenas uma questão de avanço tecnológico, mas também impactam mudança social e ambiental. Esta jornada começou com a compreensão de como uma Cloud Foundation, DevOps, FinOps, e a Observabilidade não apenas definem o futuro de uma empresa, mas impactaM diretamente em uma responsabilidade social e sustentabilidade ambiental.
+Em um mundo cada vez mais digital, inovações em tecnologias Cloud Native não são apenas uma questão de avanço tecnológico, mas também impactam mudança social e ambiental. Esta jornada começou com a compreensão de como uma Cloud Foundation, DevOps, FinOps, e a Observabilidade não apenas definem o futuro de uma empresa, mas impactam diretamente em uma responsabilidade social e sustentabilidade ambiental.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud01.png)
 
@@ -131,7 +131,10 @@ A integração da computação verde no Cloud Native reflete uma mudança cultur
 ## Contribuição para o Ecosistema Open Source
 A adoção de práticas sustentáveis oferece uma oportunidade para contribuir de volta ao ecosistema Open Source. Desenvolvendo melhorias e plugins baseados em observações detalhadas e compartilhando conhecimento e melhores práticas, as organizações não apenas se beneficiam, mas também enriquecem o Open Source. Esta colaboração e compartilhamento são fundamentais para fortalecer a comunidade e promover um futuro promissor para tecnologias Cloud Native.
 
-## Conclusão: Um Chamado para a Mudança Transformadora
+## GreenOps: o futuro já chegou?
+Pesquisas da Gartner revelam que as tecnologias voltadas para a sustentabilidade estão entre as três principais tendências para 2024. A projeção é que, até 2027, cerca de 25% da remuneração dos CIOs será determinada pelo impacto de suas iniciativas tecnológicas sustentáveis.
+
+## Conclusão: Um Chamado para a Mudança
 Como profissionais de tecnologia, temos a possibilidade de liderar a transformação para práticas sustentáveis. Podemos adotar princípios de sustentabilidade, contribuindo ativamente para um futuro mais verde. Este artigo serve como auxílio para todos os profissionais de TI e todas áreas que tem interesse em integrar a sustentabilidade em suas práticas, promovendo um avanço tecnológico que proteja nosso planeta para as futuras gerações.
 
 Ao adotar práticas sustentáveis e responsáveis, não estamos apenas moldando o futuro da tecnologia, mas também o futuro do nosso planeta e da humanidade. Cada passo em direção à sustentabilidade é um passo em direção a um legado duradouro que beneficiará não apenas a nossa geração, mas muitas que virão.

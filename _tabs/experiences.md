@@ -11,7 +11,8 @@ Nesta página quero compartilhar um pouco da minha jornada profissional e das ex
 
 ## Cloud Solution Architect Senior
 - **Empresa:** CI&T
-- **Período:** Set 2023 - Presente (2 meses)
+- **Período:** Set 2023 - Presente
+- **Descrição:** Diante da necessidade de reestruturar estrategicamente o ambiente Cloud Azure em escala enterprise, realizei avaliações detalhadas para desenvolvimento soluções de arquitetura de referência, atuei como consultor estratégico e liderei a documentação para migrações de aplicativos para a nuvem. Utilizando Designs de arquiteturas landing zones e redes hub-spoke, com auxilio dos frameworks como Cloud Adoption Framework (CAF) e Well-Architected foi possível habilitar arquiteturas robustas. Elaborei documentações técnicas, orientei sobre a seleção de recursos e estratégias de backlog. Provisionamento de recursos via Terraform integrado com pipelines CI/CD do Azure DevOps. As ações resultaram em melhorias significativas de escalabilidade, segurança e governança, impulsionando o crescimento e a inovação. Além disso, contribuí para a cultura DevOps e a adoção de metodologias ágeis, melhorando a adaptabilidade, a velocidade de entrega e a flexibilidade das equipes frente às mudanças de mercado.
 
 
 ## Cloud Solution Architect

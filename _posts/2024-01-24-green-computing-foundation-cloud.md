@@ -67,11 +67,17 @@ Ao considerar a sustentabilidade em cargas de trabalho, focamos nas seguintes á
 4. **Procedimentos Operacionais:** Estabelecer processos que suportem operações sustentáveis e redução do impacto ambiental.
 
 - **Sustentabilidade Além de Desempenho e Custo**
-Além da eficiência de desempenho e otimização de custos, outras áreas como segurança, confiabilidade e excelência operacional são essenciais para criar cargas de trabalho sustentáveis de longo prazo no Azure.
+Além da eficiência de desempenho e otimização de custos, outras áreas como segurança, confiabilidade e excelência operacional são essenciais para criar cargas de trabalho sustentáveis de longo prazo no Azure. 
 
 - **Benefícios do Carbono da Computação em Nuvem:** [Um estudo da Nuvem da Microsoft](https://info.microsoft.com/ww-landing-Carbon-Benefits-of-Cloud-Computing.html?lcid=pt-br) sobre eficiência energética e de carbono do Azure.
 
 ![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud03.png)
+
+#### Azure Carbon Optimization
+O Azure Carbon Optimization é uma ferramenta inovadora da Microsoft que capacita organizações a medir e reduzir o impacto de carbono de sua infraestrutura na nuvem. Oferecendo dados detalhados de emissões por recursos, assinaturas e localizações, esta ferramenta integra-se perfeitamente ao portal do Azure, permitindo um acesso simplificado e baseado em permissões RBAC do Azure. Com recomendações práticas para otimização de recursos, o Azure Carbon Optimization não apenas ajuda a alcançar metas de sustentabilidade, mas também promove uma gestão de recursos mais eficiente e econômica. Este serviço destaca o compromisso da Microsoft com a responsabilidade ambiental, fornecendo insights valiosos e ações concretas para reduzir a pegada de carbono na nuvem. Outras ofertas de sustentabilidade da Microsoft [Microsoft Sustainability Manager,](https://learn.microsoft.com/en-us/industry/sustainability/sustainability-manager-overview) [Painel de Impacto de Emissões](https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-emissions-impact-dashboard?toc=%2Findustry%2Fsustainability%2Ftoc.json&bc=%2Findustry%2Fbreadcrumb%2Ftoc.json) e [Os insights de emissões do Microsoft Azure (versão prévia)](https://learn.microsoft.com/en-us/industry/sustainability/sustainability-data-solutions-overview)
+
+![](/assets/img/posts/2024-01-24-green-computing-foundation-cloud09.png)
+
 
 ## O que é Green Software?
 Podemos dizer que Green Software é uma disciplina emergente que está diretamente envolvida por ciência climática, design de software, mercados de eletricidade, hardware e design de data centers. É focada na criação de software que seja eficiente em termos de carbono, emitindo o mínimo possível de carbono.

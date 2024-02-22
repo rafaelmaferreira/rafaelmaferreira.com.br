@@ -2,7 +2,7 @@
 # the default layout is 'page'
 #layout: home
 title: Apresentações
-icon: fa-solid fa-quote-left
+icon: fa-solid fa-person-chalkboard
 order: 9
 ---
 

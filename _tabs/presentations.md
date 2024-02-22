@@ -3,7 +3,7 @@
 #layout: home
 title: Apresentações
 icon: fas fa-presentation
-order: 8
+order: 9
 ---
 
 Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aqui, compartilho insights, experiências e conhecimentos sobre os mais diversos temas do universo da tecnologia. Essas apresentações visam não apenas informar, mas também inspirar aqueles que desejam explorar e inovar neste emocionante campo.

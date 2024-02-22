@@ -2,7 +2,7 @@
 # the default layout is 'page'
 #layout: home
 title: Apresentações
-icon: fa-solid fa-presentation-screen
+icon: fas fa-presentation
 order: 8
 ---
 

@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "Apresentações"
-author: rafaferreira011
-#date: 2023-10-27 18:30:00 -500
-categories: [Apresentações]
-tags: [Apresentações]
+# the default layout is 'page'
+#layout: home
+title: Apresentações
+icon: fa-solid fa-graduation-cap
+order: 8
 ---
 
 Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aqui, compartilho insights, experiências e conhecimentos sobre os mais diversos temas do universo da tecnologia. Essas apresentações visam não apenas informar, mas também inspirar aqueles que desejam explorar e inovar neste emocionante campo.

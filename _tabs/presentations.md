@@ -12,6 +12,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Cloud Native Floripa - 2º Edição](https://www.youtube.com/watch?v=cSF1mPEZ8Rw&ab_channel=CloudNativeFloripa)
 
+- <i class="fa-solid fa-link"></i> [Saiba mais: 2024/02 - 2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
+
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native Floripa2Edição.pdf)
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS - EP 11 - Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)

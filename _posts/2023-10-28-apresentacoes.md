@@ -13,11 +13,11 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD Brasil, São Paulo 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Cloud Native Floripa - 2º Edição](https://www.youtube.com/watch?v=cSF1mPEZ8Rw&ab_channel=CloudNativeFloripa)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native Floripa2Edição.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [DEVOPS - EP 11 - Monitoramento e Observabilidade](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 

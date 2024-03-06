@@ -8,8 +8,7 @@ order: 5
 
 ## Hello Folks 👋!
 
-![capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e96622bd-fe8d-405e-a41e-2f0c25ad2fd8)
-
+![banner](https://github.com/rafaelmaferreira/rafaelmaferreira/assets/117859338/47b92a84-5b6b-49ae-bdbf-b291569ec5c0)
 
 Com mais de uma década de experiência em TI, 17 certificações técnicas e formado em Ciência da Computação pela UNIP Bauru, sou um Arquiteto de Nuvem com expêriencia em empresas multinacionais, consultorias e ambientes corporativos internacionais. Minha carreira é direcionada pela comunicação eficaz, flexibilidade e inovação, comprometido em conduzir a transformação digital por meios de soluções de nuvem inovadoras que atendem às exigências de um mercado em constante evolução.
 

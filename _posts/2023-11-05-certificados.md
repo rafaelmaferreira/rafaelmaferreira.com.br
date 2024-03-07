@@ -17,6 +17,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 À medida que continuo avançando em minha carreira, estou ansioso para abraçar novas oportunidades de aprendizado e crescimento. Afinal, a jornada de aprimoramento nunca termina, e estou comprometido em seguir aprendendo, evoluindo e compartilhando o que aprendo com aqueles ao meu redor.
 
+- [2024-03 - Sustainability Transformation With AWS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-03-SustainabilityTransformationwithAWS.pdf)
 - [2024-02 - Jornada ESG: Carreira em Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-02-Jornada.ESGCarreira.em.Sustentabilidade.pdf)
 - [2024-01 - Green Software for Practitioners LFC131](https://www.credly.com/badges/11e2e57b-47a9-48ca-af23-41cbb45c01ef/public_url)
 - [2023-10 - codecon feature](https://stoblobcertificados011.blob.core.windows.net/certificados/2023-10-codecon.feature.pdf)

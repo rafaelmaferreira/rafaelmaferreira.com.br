@@ -2,7 +2,7 @@
 # the default layout is 'page'
 #layout: home
 title: Youtube
-icon: fa-solid fa-briefcase
+icon: fa-brands fa-youtube
 order: 10
 ---
 
@@ -11,9 +11,9 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 
 - <i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 
-![LowOps Channel](image-2.png)
+![LowOps Channel](/assets/img/posts/lowops.jpeg)
 
 - <i class="fab fa-youtube"></i> [Azure Foripa](https://www.youtube.com/@AzureFloripa)
 
-![Azure Floripa](image.png)
+![Azure Floripa](/assets/img/posts/azurefloripa.jpeg)
 

@@ -3,7 +3,7 @@
 #layout: home
 title: Recomendações
 icon: fa-solid fa-quote-left
-order: 10
+order: 11
 ---
 
 Nesta página, quero compartilho com vocês algumas das plataformas de cursos online, canais do YouTube e podcasts que têm contribuído significativamente para o meu aprendizado e desenvolvimento pessoal e profissional.

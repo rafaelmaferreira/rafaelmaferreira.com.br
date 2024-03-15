@@ -16,4 +16,3 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 - <i class="fab fa-youtube"></i> [Azure Foripa](https://www.youtube.com/@AzureFloripa)
 
 ![Azure Floripa](/assets/img/posts/azurefloripa.jpeg)
-

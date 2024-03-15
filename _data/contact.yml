@@ -1,20 +1,28 @@
 #  The contact options.
 
+- type: linkedin
+  icon: 'fab fa-linkedin'   
+  url:  'https://www.linkedin.com/in/rafaelmaferreira/'  
+  
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/@LowOps-Channel'
+
+- type: spotify
+  icon: 'fab fa-spotify'
+  #url: 'https://open.spotify.com/show/4h44R75Kcg9WQvOr4GxKJK?si=f2a2980a66e94b7d'  
+
 - type: github
   icon: "fab fa-github"
   #url:  'https://github.com/rafaelmaferreira'
 
-- type: linkedin
-  icon: 'fab fa-linkedin'   
-  url:  'https://www.linkedin.com/in/rafaelmaferreira/'  
-
-- type: instagram
-  icon: 'fab fa-instagram'
-  url:  'https://www.instagram.com/rafaelmaferreira11/'    
-
 - type: medium
   icon: "fab fa-brands fa-medium"
   url:  'https://medium.com/@rafaelmaferreira' 
+
+- type: instagram
+  icon: 'fab fa-instagram'
+  url:  'https://www.instagram.com/rafaelmaferreira11/'  
   #noblank: true
 
 # - type: email

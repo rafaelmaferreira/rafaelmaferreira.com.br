@@ -38,10 +38,12 @@ social:
   email: rafael.maferreira@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/rafaelmaferreira/
+    - https://www.youtube.com/@LowOps-Channel
     - https://github.com/rafaelmaferreira
     - https://medium.com/@rafaelmaferreira' 
-    - https://www.linkedin.com/in/rafaelmaferreira/
     - https://www.instagram.com/rafaelmaferreira11/
+
 
 google_site_verification: # fill in to your verification string
 

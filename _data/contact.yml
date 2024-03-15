@@ -3,10 +3,14 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   
   url:  'https://www.linkedin.com/in/rafaelmaferreira/'  
-  
+
 - type: youtube
   icon: 'fab fa-youtube'
   url: 'https://www.youtube.com/@LowOps-Channel'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/@AzureFloripa'
 
 - type: spotify
   icon: 'fab fa-spotify'

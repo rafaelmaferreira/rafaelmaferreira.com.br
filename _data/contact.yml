@@ -14,7 +14,7 @@
 
 - type: spotify
   icon: 'fab fa-spotify'
-  #url: 'https://open.spotify.com/show/4h44R75Kcg9WQvOr4GxKJK?si=f2a2980a66e94b7d'  
+  url: 'https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj'  
 
 - type: github
   icon: "fab fa-github"

@@ -11,6 +11,8 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 ![LowOps Channel](/assets/img/posts/lowops.png)
 <i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 
+- <i class="fab fa-youtube"></i> [#01 Como foi minha primeira KubeCon com Erivaldo Lopes](https://www.youtube.com/watch?v=snISTHSQvVc&t=1s)
+
 - <i class="fab fa-youtube"></i> [#00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves](https://www.youtube.com/watch?v=nlEQ_UMyKew)
 
 ![Azure Floripa](/assets/img/posts/azurefloripa.png)

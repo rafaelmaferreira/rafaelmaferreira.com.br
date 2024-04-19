@@ -11,6 +11,10 @@ Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aq
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global Azure.pdf)
+
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)

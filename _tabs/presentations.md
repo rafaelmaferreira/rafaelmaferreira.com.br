@@ -10,6 +10,10 @@ Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aq
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure - Azure Pipelines](https://www.youtube.com/watch?v=LzkdUu6sgys)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/globa azurel - Pipelines.pdf)
+
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global Azure.pdf)

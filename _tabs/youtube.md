@@ -20,6 +20,10 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 ![Azure Floripa](/assets/img/posts/azurefloripa.png)
 <i class="fab fa-youtube"></i> [Azure Foripa](https://www.youtube.com/@AzureFloripa)
 
+- <i class="fab fa-youtube"></i> [Mesa Redonda | Transição de carreira é possível? + Carreira de TI, além da área técnica](https://www.youtube.com/watch?v=6drxvyPhmMc)
+
+- <i class="fab fa-youtube"></i> [A importancia de implementar Microsoft Purview para não ter vazamento de dados no Copilot](https://www.youtube.com/watch?v=X3EV4zdh8BA)
+
 - <i class="fab fa-youtube"></i> [Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações](https://www.youtube.com/watch?v=YF6yT04eR_s&ab_channel=CloudnaQuebrada%E2%98%81%EF%B8%8F)
 
 - <i class="fab fa-youtube"></i> [Azure OpenAI + Vision Novas Perspectivas com a IA Generativa com Osvaldo Alves](https://www.youtube.com/watch?v=YF6yT04eR_s&ab_channel=CloudnaQuebrada%E2%98%81%EF%B8%8F)

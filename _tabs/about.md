@@ -10,7 +10,9 @@ order: 5
 
 ![capa linkedin banner](https://github.com/rafaelmaferreira/rafaelmaferreira/assets/117859338/9576ccee-340d-44e4-8630-4d2d639fcc8e)
 
-Com mais de uma década de experiência em TI, 17 certificações técnicas e formado em Ciência da Computação pela UNIP Bauru, sou um Arquiteto de Nuvem com expêriencia em empresas multinacionais, consultorias e ambientes corporativos internacionais. Minha carreira é direcionada pela comunicação eficaz, flexibilidade e inovação, comprometido em conduzir a transformação digital por meios de soluções de nuvem inovadoras que atendem às exigências de um mercado em constante evolução.
+Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
+
+Com mais de uma década de experiência em tecnologia, 17 certificações técnicas, formado em Ciência da Computação, atuo como Engenheiro DevOps com especialização arquiteturas em nuvem Azure. Experiência em empresas multinacionais, consultorias e ambientes corporativos internacionais. Minha carreira é direcionada em conduzir a transformação digital por meios de soluções de nuvem inovadoras que atendem às exigências de um mercado em constante evolução.
 
 Nos últimos três anos, foquei em tecnologias de nuvem e, recentemente, em DevOps, me especializando em Microsoft Azure, Azure DevOps, Terraform e Kubernetes. Essa jornada me apresentou a novas oportunidades e desafios que foram fundamentais para o meu crescimento profissional.
 

@@ -18,7 +18,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global Azure.pdf)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
+- <i class="fa-solid fa-link"></i> **Evento:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
 

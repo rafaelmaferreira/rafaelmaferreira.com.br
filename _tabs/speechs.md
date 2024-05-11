@@ -6,17 +6,21 @@ icon: fa-solid fa-person-chalkboard
 order: 9
 ---
 
-Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aqui, compartilho insights, experiências e conhecimentos sobre os mais diversos temas do universo da tecnologia. Essas apresentações visam não apenas informar, mas também inspirar aqueles que desejam explorar e inovar neste emocionante campo.
+Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aqui, compartilho insights, experiências e conhecimentos sobre os mais diversos temas do universo da tecnologia. Essas palestras visam não apenas informar, mas também inspirar aqueles que desejam explorar e inovar neste emocionante campo.
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
+- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Corrente Solidária - Todos pelo RS](https://www.youtube.com/watch?v=VzykJi_qqDI)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
+
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Global Azure - Azure Pipelines](https://www.youtube.com/watch?v=LzkdUu6sgys)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/globa azurel - Pipelines.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)
 
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global Azure.pdf)
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
 
 - <i class="fa-solid fa-link"></i> **Siba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
@@ -43,6 +47,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 
 
-Fique à vontade para explorar as apresentações disponíveis. Se você busca por conhecimento, inspiração e deseja se manter atualizado no mundo tecnológico, este é o lugar certo. A jornada está apenas começando, e novas apresentações serão adicionadas.
+Fique à vontade para explorar as palestras disponíveis. Se você busca por conhecimento, inspiração e deseja se manter atualizado no mundo tecnológico, este é o lugar certo. A jornada está apenas começando, e novas palestras serão adicionadas.
 
 Sinta-se encorajado a compartilhar suas ideias, comentários e sugestões. Juntos, podemos criar uma comunidade de aprendizado dinâmica e colaborativa. Vamos avançar no conhecimento e inspirar a próxima geração de profissionais de tecnologia! 

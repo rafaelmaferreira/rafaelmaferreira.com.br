@@ -10,8 +10,6 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 
 # LowOps Channel
 
-<i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
-
 [![LowOps Channel](/assets/img/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
 
 ## #03 Episodio com Edesan Tomaz: 
@@ -26,9 +24,8 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 ## #00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves:      
 [![#00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves](https://img.youtube.com/vi/nlEQ_UMyKew/0.jpg)](https://www.youtube.com/watch?v=nlEQ_UMyKew)
 
-
-![Azure Floripa](/assets/img/posts/azurefloripa.png)
-<i class="fab fa-youtube"></i> [Azure Foripa](https://www.youtube.com/@AzureFloripa)
+# Azure Floripa
+[![Azure Floripa](/assets/img/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
 ## Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica
 [![Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica](https://img.youtube.com/vi/6drxvyPhmMc/0.jpg)](https://www.youtube.com/watch?v=6drxvyPhmMc)
@@ -47,7 +44,3 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 
 ## Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações
 [![Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações](https://img.youtube.com/vi/SEz3UgW3dMM/0.jpg)](https://www.youtube.com/watch?v=SEz3UgW3dMM&t)
-
-
-
-

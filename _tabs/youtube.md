@@ -11,6 +11,8 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 ![LowOps Channel](/assets/img/posts/lowops.png)
 <i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 
+[![#03 Episodio com Edesan Tomaz](https://img.youtube.com/vi/CZTCLSgeRw4/0.jpg)](https://www.youtube.com/watch?v=CZTCLSgeRw4)
+
 - <i class="fab fa-youtube"></i> [#02 Episódio com Fabricio Veronez](https://www.youtube.com/watch?v=F-dfaVg5Ix8)
 
 - <i class="fab fa-youtube"></i> [#01 Como foi minha primeira KubeCon com Erivaldo Lopes](https://www.youtube.com/watch?v=snISTHSQvVc&t=1s)

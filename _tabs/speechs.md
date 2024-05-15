@@ -14,6 +14,21 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
 
+## Corrente Solidária - Todos pelo RS
+[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
+
+## Assista ao Vídeo:
+[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
+
+**Assista ao Vídeo:** 
+[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
+
 - <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Global Azure - Azure Pipelines](https://www.youtube.com/watch?v=LzkdUu6sgys)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)

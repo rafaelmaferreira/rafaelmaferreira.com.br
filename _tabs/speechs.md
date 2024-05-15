@@ -10,44 +10,35 @@ Seja bem-vindo à minha página dedicada a apresentações sobre tecnologias! Aq
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Corrente Solidária - Todos pelo RS](https://www.youtube.com/watch?v=VzykJi_qqDI)
-
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
-
 ## Corrente Solidária - Todos pelo RS
 [![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
 
-## Assista ao Vídeo:
-[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
-
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
-
-**Assista ao Vídeo:** 
-[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
-
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência ](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
-
-- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Global Azure - Azure Pipelines](https://www.youtube.com/watch?v=LzkdUu6sgys)
+## Global Azure - Azure Pipelines
+[![Global Azure - Azure Pipelines](https://img.youtube.com/vi/LzkdUu6sgys/0.jpg)](https://www.youtube.com/watch?v=LzkdUu6sgys)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)
 
-- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
+## Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure
+[![Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://img.youtube.com/vi/etnQCHbIg2I/0.jpg)](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
 
+## TechTalk CI&T - Azure Cloud Foundation
 - <i class="fa-solid fa-link"></i> **Siba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação :** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
 
+## TechTalk CI&T - Azure Cloud Foundation
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD Brasil, São Paulo 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
-- <i class="fab fa-youtube"></i> **Assista ao Vídeo:** [Cloud Native Floripa - 2º Edição](https://www.youtube.com/watch?v=cSF1mPEZ8Rw&ab_channel=CloudNativeFloripa)
+## Cloud Native Floripa - 2º Edição
+[![Cloud Native Floripa - 2º Edição](https://img.youtube.com/vi/yP_oynLWOJI/0.jpg)](https://www.youtube.com/watch?v=yP_oynLWOJI&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
 

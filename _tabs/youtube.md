@@ -9,7 +9,17 @@ order: 10
 Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os canais Azure Floripa e LowOps Channel. Através desses canais, compartilho conhecimentos, experiências e inspirações, visando motivar e enriquecer profissionalmente a comunidade. Aqui, você encontrará insights valiosos sobre Tecnologia em geral, fortalecendo a comunidade técnica fornecendo o acesso a conteúdos de forma gratuita e simplificada. Junte-se a nós nesta aventura tecnológica!
 
 ![LowOps Channel](/assets/img/posts/Youtube.png)
+
+[![LowOps Channel](/assets/img/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
+
 <i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
+
+## LowOps Channel
+<i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
+
+# LowOps Channel
+<i class="fab fa-youtube"></i> [LowOps Channel](https://www.youtube.com/@LowOps-Channel)
+
 
 ## #03 Episodio com Edesan Tomaz: 
 [![#03 Episodio com Edesan Tomaz](https://img.youtube.com/vi/CZTCLSgeRw4/0.jpg)](https://www.youtube.com/watch?v=CZTCLSgeRw4)
@@ -20,7 +30,7 @@ Nesta seção do blog, compartilho minha jornada nas plataforma YouTube pelos os
 ## #01 Como foi minha primeira KubeCon com Erivaldo Lopes:
 [![#03 Episodio com Edesan Tomaz](https://img.youtube.com/vi/snISTHSQvVc/0.jpg)](https://youtube.com/live/snISTHSQvVc)
 
-## #00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves
+## #00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves:      
 [![#00 O Poder Das Comunidades com Claudio Raposo e Marcelo Gonçalves](https://img.youtube.com/vi/nlEQ_UMyKew/0.jpg)](https://www.youtube.com/watch?v=nlEQ_UMyKew)
 
 

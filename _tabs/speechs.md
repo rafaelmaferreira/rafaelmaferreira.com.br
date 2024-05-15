@@ -49,12 +49,14 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## DEVOPS - EP 11 - Monitoramento e Observabilidade
 [![DEVOPS - EP 11 - Monitoramento e Observabilidade](https://img.youtube.com/vi/-rYhXprMJO4/0.jpg)](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Listão dos Aprovados Mentoria 3.0](https://www.youtube.com/watch?v=aCDflhewrhI&t=568s&ab_channel=CanaldaCloud)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
 ## DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions
 [![DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://img.youtube.com/vi/hxiluSC8E_U/0.jpg)](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 

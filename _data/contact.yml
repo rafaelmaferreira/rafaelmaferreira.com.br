@@ -1,8 +1,8 @@
-#  The contact options.
+# The contact options.
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   
-  url:  'https://www.linkedin.com/in/rafaelmaferreira/'  
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/rafaelmaferreira/'
 
 - type: youtube
   icon: 'fab fa-youtube'
@@ -14,34 +14,31 @@
 
 - type: spotify
   icon: 'fab fa-spotify'
-  url: 'https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj'  
+  url: 'https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj'
 
 - type: github
-  icon: "fab fa-github"
-  #url:  'https://github.com/rafaelmaferreira'
+  icon: 'fab fa-github'
+  #url: 'https://github.com/rafaelmaferreira'  # Uncomment and add URL when available
 
 - type: medium
-  icon: "fab fa-brands fa-medium"
-  url:  'https://medium.com/@rafaelmaferreira' 
+  icon: 'fab fa-medium'
+  url: 'https://medium.com/@rafaelmaferreira'
 
 - type: instagram
   icon: 'fab fa-instagram'
-  url:  'https://www.instagram.com/rafaelmaferreira11/'  
-  #noblank: true
+  url: 'https://www.instagram.com/rafaelmaferreira11/'
+
+# Uncomment and complete the url below to enable more contact options
 
 # - type: email
-#   icon: "fas fa-envelope"
-  #noblank: true # open link in current tab
-# Uncomment and complete the url below to enable more contact options
-#
+#   icon: 'fas fa-envelope'
+#   url: 'mailto:your-email@example.com'  # Replace with your email address
+#   noblank: true # open link in current tab
+
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
+#   icon: 'fab fa-mastodon'
+#   url: ''  # Fill with your Mastodon account page, rel="me" will be applied for verification
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url: ''  # Fill with your stackoverflow homepage

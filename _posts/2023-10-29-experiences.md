@@ -10,12 +10,12 @@ tags: [Experiências]
 
 Nesta página quero compartilhar um pouco da minha jornada profissional e das experiências que moldaram meu caminho até aqui. Desde os primeiros passos como um Assistente Técnico até a função atual de Cloud Solution Architect Senior, cada etapa desempenhou um papel fundamental na minha trajetória. Este post será uma oportunidade para refletir sobre os desafios superados, as habilidades adquiridas e as lições aprendidas ao longo do caminho. Espero que minha história possa inspirar e motivar outros profissionais em suas próprias jornadas. Vamos lá!
 
-## DevOps Engineer Senior
+## Senior DevOps Engineer 
 - **Empresa:** CI&T
 - **Período:** Abr 2024 - Presente
 - **Descrição:** 
 
-## Senior Platform EngineerS
+## Senior Platform Engineer
 - **Empresa:** CI&T
 - **Período:** Set 2023 - Mar 2024
 - **Descrição:** Diante do desafio de reestruturar o ambiente Cloud Azure em escala enterprise, visando escalabilidade, eficiência operacional e a segurança.

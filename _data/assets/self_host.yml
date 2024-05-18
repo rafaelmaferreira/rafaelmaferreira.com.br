@@ -1,51 +1,80 @@
-# fonts
-
+# Configuração para fontes web
 webfonts: /assets/lib/fonts/main.css
 
-# Libraries
+# Bibliotecas JavaScript e CSS
 
-jquery:
-  js: /assets/lib/jquery-3.6.0/jquery.min.js
+libraries:
+  # jQuery
+  jquery:
+    js: /assets/lib/jquery-3.6.0/jquery.min.js
 
-bootstrap:
-  css: /assets/lib/bootstrap-4.6.1/bootstrap.min.css
-  js: /assets/lib/bootstrap-4.6.1/bootstrap.bundle.min.js
+  # Bootstrap
+  bootstrap:
+    css: /assets/lib/bootstrap-4.6.1/bootstrap.min.css
+    js: /assets/lib/bootstrap-4.6.1/bootstrap.bundle.min.js
 
-bootstrap-toc:
-  css: /assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.css
-  js: /assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js
+  # Bootstrap Table of Contents
+  bootstrap-toc:
+    css: /assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.css
+    js: /assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js
 
-fontawesome:
-  css: /assets/lib/fontawesome-free-6.2.1/css/all.min.css
+  # FontAwesome para ícones
+  fontawesome:
+    css: /assets/lib/fontawesome-free-6.2.1/css/all.min.css
 
-search:
-  js: /assets/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
+  # Simple Jekyll Search
+  search:
+    js: /assets/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
 
-mermaid:
-  js: /assets/lib/mermaid-9.1.7/mermaid.min.js
+  # Mermaid para diagramas
+  mermaid:
+    js: /assets/lib/mermaid-9.1.7/mermaid.min.js
 
-dayjs:
-  js:
-    common: /assets/lib/dayjs-1.10.7/dayjs.min.js
-    locale: /assets/lib/dayjs-1.10.7/locale/en.min.js
-    relativeTime: /assets/lib/dayjs-1.10.7/plugin/relativeTime.min.js
-    localizedFormat: /assets/lib/dayjs-1.10.7/plugin/localizedFormat.min.js
+  # Day.js para manipulação de datas
+  dayjs:
+    js:
+      common: /assets/lib/dayjs-1.10.7/dayjs.min.js
+      locale: /assets/lib/dayjs-1.10.7/locale/en.min.js
+      relativeTime: /assets/lib/dayjs-1.10.7/plugin/relativeTime.min.js
+      localizedFormat: /assets/lib/dayjs-1.10.7/plugin/localizedFormat.min.js
 
-countup:
-  js: /assets/lib/countup.js-1.9.3/countUp.min.js
+  # CountUp.js para animação de números
+  countup:
+    js: /assets/lib/countup.js-1.9.3/countUp.min.js
 
-magnific-popup:
-  css: /assets/lib/magnific-popup-1.1.0/magnific-popup.css
-  js: /assets/lib/magnific-popup-1.1.0/jquery.magnific-popup.min.js
+  # Magnific Popup para popups
+  magnific-popup:
+    css: /assets/lib/magnific-popup-1.1.0/magnific-popup.css
+    js: /assets/lib/magnific-popup-1.1.0/jquery.magnific-popup.min.js
 
-lazysizes:
-  js: /assets/lib/lazysizes-5.3.2/lazysizes.min.js
+  # LazySizes para carregamento preguiçoso de imagens
+  lazysizes:
+    js: /assets/lib/lazysizes-5.3.2/lazysizes.min.js
 
-clipboard:
-  js: /assets/lib/clipboard-2.0.9/clipboard.min.js
+  # Clipboard.js para copiar texto para a área de transferência
+  clipboard:
+    js: /assets/lib/clipboard-2.0.9/clipboard.min.js
 
-polyfill:
-  js: /assets/lib/polyfill-v3-es6/polyfill.min.js
+  # Polyfill.io para suporte a recursos modernos em navegadores antigos
+  polyfill:
+    js: /assets/lib/polyfill-v3-es6/polyfill.min.js
 
-mathjax:
-  js: /assets/lib/mathjax-3.2.0/tex-chtml.js
+  # MathJax para renderização de matemática
+  mathjax:
+    js: /assets/lib/mathjax-3.2.0/tex-chtml.js
+
+# Dicas de Performance
+# Pré-conectar a certos recursos para melhorar o desempenho inicial da página
+preconnect:
+  - url: /assets/lib/fonts
+  - url: /assets/lib/jquery-3.6.0
+  - url: /assets/lib/bootstrap-4.6.1
+
+# Pré-carregar certos recursos para acelerar o carregamento
+preload:
+  - url: /assets/lib/fonts/main.css
+    as: style
+  - url: /assets/lib/jquery-3.6.0/jquery.min.js
+    as: script
+  - url: /assets/lib/bootstrap-4.6.1/bootstrap.min.css
+    as: style

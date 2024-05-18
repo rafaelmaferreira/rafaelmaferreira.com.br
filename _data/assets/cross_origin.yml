@@ -1,62 +1,89 @@
-# CDNs
-
+# Configurações de CDNs (Content Delivery Networks)
 cdns:
   # Google Fonts
   - url: https://fonts.googleapis.com
+    args: crossorigin  # Permitir CORS para fontes
   - url: https://fonts.gstatic.com
-    args: crossorigin
-  - url: https://fonts.googleapis.com
+    args: crossorigin  # Permitir CORS para fontes
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
 
-# fonts
-
+# URL para carregar Web Fonts do Google Fonts
 webfonts: https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap
 
-# Libraries
+# Bibliotecas JavaScript e CSS
+libraries:
+  # jQuery
+  jquery:
+    js: https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js
 
-jquery:
-  js: https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js
+  # Bootstrap
+  bootstrap:
+    css: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css
+    js: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js
 
-bootstrap:
-  css: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css
-  js: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js
+  # Bootstrap Table of Contents
+  bootstrap-toc:
+    css: https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css
+    js: https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js
 
-bootstrap-toc:
-  css: https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css
-  js: https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js
+  # FontAwesome para ícones
+  fontawesome:
+    css: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css
 
-fontawesome:
-  css: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css
+  # Simple Jekyll Search
+  search:
+    js: https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
 
-search:
-  js: https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
+  # Mermaid para diagramas
+  mermaid:
+    js: https://cdn.jsdelivr.net/npm/mermaid@9.2.2/dist/mermaid.min.js
 
-mermaid:
-  js: https://cdn.jsdelivr.net/npm/mermaid@9.2.2/dist/mermaid.min.js
+  # Day.js para manipulação de datas
+  dayjs:
+    js:
+      common: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/dayjs.min.js
+      locale: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/locale/:LOCALE.min.js
+      relativeTime: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/plugin/relativeTime.min.js
+      localizedFormat: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/plugin/localizedFormat.min.js
 
-dayjs:
-  js:
-    common: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/dayjs.min.js
-    locale: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/locale/:LOCALE.min.js
-    relativeTime: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/plugin/relativeTime.min.js
-    localizedFormat: https://cdn.jsdelivr.net/npm/dayjs@1.11.6/plugin/localizedFormat.min.js
+  # CountUp.js para animação de números
+  countup:
+    js: https://cdn.jsdelivr.net/npm/countup.js@1.9.3/dist/countUp.min.js
 
-countup:
-  js: https://cdn.jsdelivr.net/npm/countup.js@1.9.3/dist/countUp.min.js
+  # Magnific Popup para popups
+  magnific-popup:
+    css: https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css
+    js: https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js
 
-magnific-popup:
-  css: https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css
-  js: https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js
+  # LazySizes para carregamento preguiçoso de imagens
+  lazysizes:
+    js: https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js
 
-lazysizes:
-  js: https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js
+  # Clipboard.js para copiar texto para a área de transferência
+  clipboard:
+    js: https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js
 
-clipboard:
-  js: https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js
+  # Polyfill.io para suporte a recursos modernos em navegadores antigos
+  polyfill:
+    js: https://polyfill.io/v3/polyfill.min.js?features=es6
 
-polyfill:
-  js: https://polyfill.io/v3/polyfill.min.js?features=es6
+  # MathJax para renderização de matemática
+  mathjax:
+    js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js
 
-mathjax:
-  js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js
+# Dicas de Performance
+# Pré-conectar a certos recursos para melhorar o desempenho inicial da página
+preconnect:
+  - url: https://fonts.googleapis.com
+  - url: https://fonts.gstatic.com
+  - url: https://cdn.jsdelivr.net
+
+# Pré-carregar certos recursos para acelerar o carregamento
+preload:
+  - url: https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap
+    as: style
+  - url: https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js
+    as: script
+  - url: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css
+    as: style

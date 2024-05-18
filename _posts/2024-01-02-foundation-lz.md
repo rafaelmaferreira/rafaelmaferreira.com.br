@@ -3,8 +3,8 @@ layout: post
 title: "Construindo uma Fundação Sólida para a Adoção da Nuvem: Integrando Landing Zones com Azure Cloud Foundation"
 author: rafaferreira011
 #date: 2024-10-27 18:30:00 -500
-categories: [Azure, Foundation Cloud]
-tags: [Azure, Foundation Cloud, Cloud Adoption Framework]
+categories: [Artigos, Azure Cloud Foundation]
+tags: [Azure, Cloud Foundation, Cloud Adoption Framework]
 ---
 
 No mundo acelerado da tecnologia, a adoção da nuvem evoluiu de uma tendência para uma necessidade estratégica. Enquanto empresas buscam agilidade e inovação, emerge a complexidade de construir uma infraestrutura de nuvem robusta e escalável. Aqui, exploramos a integração das Landing Zones com a Foundation de Cloud, descobrindo como essas estratégias moldam o sucesso na nuvem.

@@ -3,8 +3,8 @@ layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem: A importancia da Cultura DevOps e sua Sinergia com Cloud Native na Fundação Cloud"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Azure, Foundation Cloud]
-tags: [Azure, Foundation Cloud, DevOps]
+categories: [Artigos, Azure Cloud Foundation]
+tags: [Azure, Cloud Foundation, DevOps]
 ---
 
 Em um mundo impulsionado pela tecnologia, a fundação cloud *robusta* se torna um pilar essencial. Este artigo explora a cultura DevOps e sua integração com Kubernetes, destacando como essas práticas revolucionam a entrega de software e fortalecem as práticas Cloud Native. Vamos mergulhar no universo de DevOps e Kubernetes para entender como eles moldam uma fundação cloud que suporta inovação contínua, promovendo operações sustentáveis e eficientes.

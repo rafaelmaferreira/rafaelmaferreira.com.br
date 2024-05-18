@@ -6,14 +6,22 @@ author: rafaferreira011
 categories: [Experiências]
 tags: [Experiências]
 ---
+# Minha Jornada Profissional
 
-Olá a todos! Hoje quero compartilhar um pouco da minha jornada profissional e das experiências que moldaram meu caminho até aqui. Desde os primeiros passos como um Assistente Técnico até a função atual de Cloud Solution Architect Senior, cada etapa desempenhou um papel fundamental na minha trajetória. Este post será uma oportunidade para refletir sobre os desafios superados, as habilidades adquiridas e as lições aprendidas ao longo do caminho. Espero que minha história possa inspirar e motivar outros profissionais em suas próprias jornadas. Vamos lá!
+Nesta página quero compartilhar um pouco da minha jornada profissional e das experiências que moldaram meu caminho até aqui. Desde os primeiros passos como um Assistente Técnico até a função atual de Cloud Solution Architect Senior, cada etapa desempenhou um papel fundamental na minha trajetória. Este post será uma oportunidade para refletir sobre os desafios superados, as habilidades adquiridas e as lições aprendidas ao longo do caminho. Espero que minha história possa inspirar e motivar outros profissionais em suas próprias jornadas. Vamos lá!
 
-
-## Cloud Solution Architect Senior
+## DevOps Engineer Senior
 - **Empresa:** CI&T
-- **Período:** Set 2023 - Presente
-- **Descrição:** Diante da necessidade de reestruturar estrategicamente o ambiente Cloud Azure em escala enterprise, realizei avaliações detalhadas para desenvolvimento soluções de arquitetura de referência, atuei como consultor estratégico e liderei a documentação para migrações de aplicativos para a nuvem. Utilizando Designs de arquiteturas landing zones e redes hub-spoke, com auxilio dos frameworks como Cloud Adoption Framework (CAF) e Well-Architected foi possível habilitar arquiteturas robustas. Elaborei documentações técnicas, orientei sobre a seleção de recursos e estratégias de backlog. Provisionamento de recursos via Terraform integrado com pipelines CI/CD do Azure DevOps. As ações resultaram em melhorias significativas de escalabilidade, segurança e governança, impulsionando o crescimento e a inovação. Além disso, contribuí para a cultura DevOps e a adoção de metodologias ágeis, melhorando a adaptabilidade, a velocidade de entrega e a flexibilidade das equipes frente às mudanças de mercado.
+- **Período:** Abr 2024 - Presente
+- **Descrição:** 
+
+## Senior Platform EngineerS
+- **Empresa:** CI&T
+- **Período:** Set 2023 - Mar 2024
+- **Descrição:** Diante do desafio de reestruturar o ambiente Cloud Azure em escala enterprise, visando escalabilidade, eficiência operacional e a segurança.
+Realizei análises detalhadas, para padronização de arquiteturas de referência, e atuei como consultor estratégico na elaboração da documentação para migrações de aplicativos para a nuvem, fundamentada em designs de arquiteturas landing zones e redes hub-spoke, com auxilio dos frameworks como Cloud Adoption Framework (CAF) e Well-Architected foi possível habilitar arquiteturas robustas. 
+Elaborei documentações técnicas, orientei sobre a escolha de recursos e decisões estratégias de backlog. Implementação de práticas de FinOps para equilibrar desempenho x custos. Contribuí na criação de uma plataforma para padronizar e otimizar a experiência do desenvolvedor (DevEx), integrando ferramentas como Backstage para construir catálogos de produtos, provisionamento de recursos com Terraform em pipelines CI/CD do Azure DevOps, garantindo um processo de entrega contínua e automatizada
+Minhas ações resultaram em melhorias significativas de escalabilidade, segurança e governança, impulsionando o crescimento e a inovação, e reforçando a resiliência dos sistemas. Além disso, fortaleci a cultura DevOps e a adoção de metodologias ágeis, melhorando a adaptabilidade e a velocidade de entrega das equipes em frente as mudanças de mercado.
 
 
 ## Cloud Solution Architect
@@ -41,6 +49,7 @@ Implementação e gerenciamento do Microsoft 365 Admin Portal e o Microsoft Endp
 - **Empresa:** IK Solution
 - **Período:** Jan 2021 - Jul 2021 (7 meses)
 - **Descrição:** Atuei no suporte remoto e local de nível 3 para usuários do Sesi/Senai, lidando com incidentes e solicitações diversas. Responsável pelo diagnóstico e solução de problemas em toda a infraestrutura de rede (WAN, LAN, Wi-Fi, TCP/IP), servidores (AD, DNS, DHCP, Hyper-V), dispositidos de redes (switches, access points, roteadores, firewalls) e periféricos. Diagnostico e soluções de problemas de rede e servidores, garantindo a continuidade das operações. Instalação e configuração de sistemas operacionais Windows e Windows Servers, melhorando a infraestrutura. Consultoria para a melhorar a utilização de sistemas e equipamentos, aumentando a eficiência dos usuários. Através de um contato direto com o cliente final e aplicando as melhores práticas ITIL, resolvi tickets de forma eficiente dentro dos SLAs acordados, contribuindo para a melhoria da satisfação do usuário e a otimização dos recursos de TI.
+
 ## Junior Support Analyst N3
 - **Empresa:** Qintess
 - **Período:** Mai 2018 - Dez 2020 (2 anos e 8 meses)
@@ -70,3 +79,7 @@ Implementação e gerenciamento do Microsoft 365 Admin Portal e o Microsoft Endp
 - **Empresa:** MF Informática
 - **Período:** Fev 2013 - Ago 2014
 - **Descrição:** Responsável pela manutenção completa de hardware em desktops e notebooks na empresa. Instalação e configuração de sistemas operacionais em diversas máquinas, garantindo a atualização e funcionalidade do software. Conduzi operações de backup e restauração de dados, além da instalação de programas específicos, atendendo as necessidades dos clientes. Forneci suporte técnico avançado e solucionei problemas, assegurando o desempenho de equipamentos e sistemas. Minha experiencia técnica e abordagem proativa resultaram na otimização do funcionamento dos equipamentos e elevação a satisfação dos usuários finais.
+
+---
+
+Espero que minha jornada inspire e motive outros profissionais. Se tiverem perguntas ou quiserem compartilhar suas próprias experiências, sintam-se à vontade para deixar um comentário. Vamos continuar crescendo e aprendendo juntos!

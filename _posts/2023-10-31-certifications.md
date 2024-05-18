@@ -9,7 +9,7 @@ tags: [Certificações]
 
 # Minhas Certificações
 
-Olá pessoal! Estou empolgado para compartilhar um novo post em que vou destacar algumas das certificações que conquistei ao longo da minha jornada profissional. Essas certificações representam meu comprometimento com o aprendizado contínuo e meu desejo de aprimorar minhas habilidades. Espero que esse post seja informativo e inspire outros a buscar o desenvolvimento profissional por meio da certificação. Vamos lá!
+Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/120x120/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
@@ -63,6 +63,4 @@ Olá pessoal! Estou empolgado para compartilhar um novo post em que vou destacar
 
 ---
 
-Espero que tenham gostado deste post sobre minhas certificações e que ele tenha inspirado vocês a buscar suas próprias certificações para crescimento profissional. Se tiverem perguntas ou quiserem compartilhar suas próprias experiências, deixem um comentário abaixo. Vamos continuar aprendendo e crescendo juntos!
-
-**#Certificações #DesenvolvimentoProfissional #Microsoft #AWS #FinOps #ITIL**
+Espero que tenham gostado deste post sobre minhas certificações e que ele tenha inspirado vocês a buscar suas próprias certificações para crescimento profissional. Se tiverem perguntas ou quiserem compartilhar suas próprias experiências. Vamos continuar aprendendo e crescendo juntos!

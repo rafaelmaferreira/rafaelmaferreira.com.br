@@ -1,27 +1,26 @@
-# The layout text of site
+# Layout text for the site
 
-# ----- Commons label -----
+# ----- Common labels -----
 
 layout:
   post: Post
   category: Categoria
   tag: Tag
 
-# The tabs of sidebar
+# Tabs in the sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   categories: Categorias
   archives: Timeline
-  tags: Tags  
+  tags: Tags
   about: Sobre
   experiences: Experiências
   certifications: Certificações
   certificates: Certificados
   recommendations: Recomendações
 
-
-# the text displayed in the search bar & search results
+# Text displayed in the search bar & search results
 search:
   hint: Buscar
   cancel: Cancelar
@@ -29,9 +28,10 @@ search:
 
 panel:
   lastmod: Atualizados recentemente
-  trending_tags: Tags 
+  trending_tags: Tags
   toc: Conteúdo
 
+# Copyright information
 copyright:
   # Shown at the bottom of the post
   license:
@@ -43,19 +43,21 @@ copyright:
   brief: Todos os direitos reservados.
   verbose: >-
     Exceto onde indicado de outra forma, as postagens do blog neste site são licenciadas
-     sob a Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0) do autor.
+    sob a Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0) do autor.
 
-meta: ' ' # remove footer without replacing template
+meta: ' ' # Remove footer without replacing template
 
+# 404 Not Found page
 not_found:
-  statment: Desculpe, perdemos esse URL ou ele está apontando para algo que não existe.
-  hint_template: :HEAD_BAK para tentar encontrá-lo novamente, ou procure-o no :ARCHIVES_PAGE.
+  statement: Desculpe, perdemos esse URL ou ele está apontando para algo que não existe.
+  hint_template: :HEAD_BACK para tentar encontrá-lo novamente, ou procure-o na :ARCHIVES_PAGE.
   head_back: Voltar para Home
   archives_page: Página de Arquivos
 
-  notification:
+# Notification
+notification:
   update_found: Uma nova versão do conteúdo está disponível.
-  update: atualização
+  update: Atualização
 
 # ----- Posts related labels -----
 
@@ -78,10 +80,10 @@ post:
     share_link:
       title: Copiar Link
       succeed: Link copiado com sucesso!
-  # pinned prompt of posts list on homepage
+  # Pinned prompt of posts list on homepage
   pin_prompt: Fixado
 
-# categories page
+# Categories page
 categories:
   category_measure: categorias
   post_measure: posts

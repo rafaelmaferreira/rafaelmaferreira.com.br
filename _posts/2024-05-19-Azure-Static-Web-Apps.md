@@ -39,7 +39,7 @@ Criando o Resource Group com nome rg-swa
 
 ## Passo 2: Criação da Virtual Network
 
-Criando a Virtual Network com nome vnet-swa
+Criando a Virtual Network com nome vnet-swa dentro do Resource Group (rg-swa).
 ![vnet-swa](/assets/img/artigos/swa2.png)
 
 ## Passo 3: Criação da NSG (Network Security Group)

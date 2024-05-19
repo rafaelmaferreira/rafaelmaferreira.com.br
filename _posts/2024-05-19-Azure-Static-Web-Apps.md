@@ -7,13 +7,13 @@ categories: [Artigos, Azure, Static Web Apps]
 tags: [Artigos, Azure, Static Web Apps]
 ---
 
-# Introdução
+## Introdução
 
 No desenvolvimento de software, a documentação desempenha um papel crucial para garantir que as APIs sejam compreensíveis e utilizáveis por outros desenvolvedores. Ferramentas como Swagger e Doxygen oferecem abordagens diferentes para documentar APIs, cada uma com suas vantagens. Neste artigo, vamos explorar como configurar uma API simples utilizando Swagger para documentação interativa e Doxygen para documentação técnica detalhada, além de hospedar ambas as documentações no Azure Static Web Apps.
 
 O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações web estáticas, oferecendo integração contínua com repositórios GitHub ou Azure DevOps para deploy automático. Ele é ideal para aplicações front-end modernas com back-ends serverless. Comparado ao Azure Web Apps, o Static Web Apps é mais econômico e oferece otimizações específicas para sites estáticos e SPAs (Single Page Applications).
 
-# Objetivo
+## Objetivo
 
 O objetivo deste artigo é fornecer um guia passo a passo para:
 

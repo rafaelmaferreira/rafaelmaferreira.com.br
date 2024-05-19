@@ -7,15 +7,13 @@ categories: [Artigos, Azure, Static Web Apps]
 tags: [Artigos, Azure, Static Web Apps]
 ---
 
-# Simplificando a Utilização do Static Web Apps no Azure
-
-## Introdução
+# Introdução
 
 No desenvolvimento de software, a documentação desempenha um papel crucial para garantir que as APIs sejam compreensíveis e utilizáveis por outros desenvolvedores. Ferramentas como Swagger e Doxygen oferecem abordagens diferentes para documentar APIs, cada uma com suas vantagens. Neste artigo, vamos explorar como configurar uma API simples utilizando Swagger para documentação interativa e Doxygen para documentação técnica detalhada, além de hospedar ambas as documentações no Azure Static Web Apps.
 
 O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações web estáticas, oferecendo integração contínua com repositórios GitHub ou Azure DevOps para deploy automático. Ele é ideal para aplicações front-end modernas com back-ends serverless. Comparado ao Azure Web Apps, o Static Web Apps é mais econômico e oferece otimizações específicas para sites estáticos e SPAs (Single Page Applications).
 
-## Objetivo
+# Objetivo
 
 O objetivo deste artigo é fornecer um guia passo a passo para:
 
@@ -33,25 +31,73 @@ Antes de começarmos, você precisará ter:
 
 ## Passo 1: Criação do Resource Group
 
-Criando o Resource Group com nome rg-swa
+Criando o Resource Group com nome rg-swa.
 
 ![rg-swa](/assets/img/artigos/swa1.png)
 
 ## Passo 2: Criação da Virtual Network
 
-Criando a Virtual Network com nome vnet-swa dentro do Resource Group (rg-swa).
+Criando a Virtual Network com nome vnet-swa dentro do Resource Group rg-swa com as opções padrão.
+
 ![vnet-swa](/assets/img/artigos/swa2.png)
 
 ## Passo 3: Criação da NSG (Network Security Group)
-## Passo 4: Anexar o NSG a Vnet
+Seguindo, criação do NSG (nsg-swa) com as opções padrão dentro do Resource Group rg-swa. 
+
+![nsg-swa](/assets/img/artigos/swa3.png)
+
+## Passo 4: Anexar o NSG a Subnet
+
+Vamos anexar a nsg a Subnet default que está dentro da vnet-swa para liberações de portas de forma centralizada e facilitada:
+
+![nsg-swa](/assets/img/artigos/swa4.png)
+
 ## Passo 4: Criação da Virtual Machine Linux
 
+Vamos criar a VM com nome lnx-swa dentro do rg-swa com o security type: Standard 
+
+![lnx-swa](/assets/img/artigos/swa5.png)
+
+**Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+
+A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. VM architecture será Arm64 para maior eficiencia energética e de processamento, o size será uma Standard_D2ps_v5 compatível com a arquitetura, a Authentication type será com senha e de preferência de cada um rs.
+
+![lnx-swa](/assets/img/artigos/swa6.png)
+
+Certifique-se que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
+
+![lnx-swa](/assets/img/artigos/swa7.png)
+
+Depois seguimos com a instalação Padrão.
+
+Precisamos liberar a porta SSH 22 dentro do nsg-swa para seguir com os procedimentos:
+
+![nsg-swa](/assets/img/artigos/swa8.png)
+
+Verifique qual IP público foi atribuido a VM lnx-swa, copie e utilize o comando para conexão ssh:
+
+```bash
+ssh usuario@IPX.XXX.XXX.XX
+```
+
+No meu caso: 
+
+```bash
+ssh rafael@172.203.234.14
+```
+![nsg-swa](/assets/img/artigos/swa9.png)
+
+De preferencia atualize os sempre os pacotes:
+
+
+```bash
+sudo apt-get update
+```
+![nsg-swa](/assets/img/artigos/swa10.png)
 
 ## Passo 5: Configurar a API com Node.js e Express
 
-### Instalação do Node.js e Express
-
-## Estrutura do Projeto
+#### Estrutura do Projeto
 
 Vamos estruturar nosso projeto da seguinte forma:
 /meu_projeto
@@ -61,6 +107,8 @@ Vamos estruturar nosso projeto da seguinte forma:
     /src
         Doxyfile
         index.js
+
+### Instalação do Node.js e Express
 
 Se você ainda não tem o Node.js instalado, pode baixá-lo [aqui](https://nodejs.org/). Após a instalação, vamos criar um novo diretório para o nosso projeto e inicializar o projeto com o Express:
 

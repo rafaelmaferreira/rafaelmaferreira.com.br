@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apresentações"
+title: "Palestras"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
 categories: [Palestras]

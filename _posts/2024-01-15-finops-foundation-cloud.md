@@ -155,4 +155,4 @@ Inicie sua avaliação com a [Revisão do FinOps](https://learn.microsoft.com/pt
 
 Para mais informações sobre [O que é FinOps?](https://www.finops.org/) segue documentação que foi base desse artigo.
 
-![](/assets/img/posts/logo2.png)
+![](/assets/img/posts/Logo2.png)

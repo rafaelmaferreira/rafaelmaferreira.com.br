@@ -31,6 +31,26 @@ Antes de começarmos, você precisará ter:
 - Uma conta no Azure com permissões para criar recursos.
 - Uma conta no GitHub.
 
+## Passo 1: Criação do Resource Group
+
+Criando o Resource Group com nome rg-swa
+
+![rg-swa](/assets/img/artigos/swa1.png)
+
+## Passo 2: Criação da Virtual Network
+
+Criando a Virtual Network com nome vnet-swa
+![vnet-swa](/assets/img/artigos/swa2.png)
+
+## Passo 3: Criação da NSG (Network Security Group)
+## Passo 4: Anexar o NSG a Vnet
+## Passo 4: Criação da Virtual Machine Linux
+
+
+## Passo 5: Configurar a API com Node.js e Express
+
+### Instalação do Node.js e Express
+
 ## Estrutura do Projeto
 
 Vamos estruturar nosso projeto da seguinte forma:
@@ -41,16 +61,6 @@ Vamos estruturar nosso projeto da seguinte forma:
     /src
         Doxyfile
         index.js
-
-
-## Passo 1: Criação do Resource Group
-## Passo 2: Criação da Virtual Network
-## Passo 3: Criação da NSG (Network Security Group)
-## Passo 4: Anexar o NSG a Vnet
-## Passo 4: Criação da Virtual Machine Linux
-## Passo 5: Configurar a API com Node.js e Express
-
-### Instalação do Node.js e Express
 
 Se você ainda não tem o Node.js instalado, pode baixá-lo [aqui](https://nodejs.org/). Após a instalação, vamos criar um novo diretório para o nosso projeto e inicializar o projeto com o Express:
 

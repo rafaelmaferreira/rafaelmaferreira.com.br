@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Static Web Apps"
+title: "Simplificando a Utilização do Static Web Apps no Azure"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Static Web Apps]
@@ -291,4 +291,4 @@ Certifique-se de que as regras de segurança de rede permitem o tráfego necess�
 Neste artigo, configuramos uma API simples utilizando Node.js e Express, documentamos a API utilizando Swagger e Doxygen, e hospedamos ambas as documentações no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível. Se você tiver dúvidas ou precisar de mais assistência, estou à disposição para ajudar!
 
 
-![](/assets/img/posts/logo.png)
+![](/assets/img/posts/logo2.png)

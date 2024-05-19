@@ -165,4 +165,4 @@ Existem um segunda opção de avaliação. Examine sua carga de trabalho por mei
 
 Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada](https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
 
-![](/assets/img/posts/logo.png)
+![](/assets/img/posts/logo2.png)

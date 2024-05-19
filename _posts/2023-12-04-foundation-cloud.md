@@ -63,4 +63,4 @@ Tal como uma casa só perdura ao longo do tempo com uma fundação robusta e um 
 
 Fique atento para os próximos artigos, onde mergulharemos nas "landing zones" e exploraremos como elas desempenham um papel crucial na otimização da sua estratégia de nuvem. Se você está pronto para começar sua jornada na nuvem ou otimizar sua infraestrutura em nuvem existente, o Azure CAF pode ser o parceiro ideal para sua empresa. Vamos juntos construir uma arquitetura de nuvem que não é apenas funcional, mas também duradoura e escalável.
 
-![](/assets/img/posts/logo.png)
+![](/assets/img/posts/logo2.png)

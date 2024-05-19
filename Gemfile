@@ -8,7 +8,6 @@ gem "jekyll-seo-tag", "~> 2.7.1"
 gem "jekyll-feed", "~> 0.15.1"
 gem "jekyll-sitemap", "~> 1.4.0"
 gem "jekyll-archives", "~> 2.2"
-gem "jekyll-pwa-plugin", "~> 2.2.3"
 
 group :test do
   gem "html-proofer", "~> 4.4"

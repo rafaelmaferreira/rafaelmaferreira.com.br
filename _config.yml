@@ -90,7 +90,8 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "rafaelmaferreira/rafaferreira011.github.io"
+    repo: "rafaelmaferreira/rafaelmaferreira.com
+br"
     repo_id:
     category: "Comments"
     category_id:

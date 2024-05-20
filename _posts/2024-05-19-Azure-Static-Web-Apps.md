@@ -324,14 +324,30 @@ vim Doxyfile
 
 ```bash
 PROJECT_NAME           = "Minha API"
-OUTPUT_DIRECTORY       = docs
+OUTPUT_DIRECTORY       = ../docs/doxygen_docs
 INPUT                  = ./index.js
 RECURSIVE              = NO
 GENERATE_HTML          = YES
 GENERATE_LATEX         = NO
 ```
 
-## Geração da Documentação do Doxygen
+Para facilitar a edição, você pode procurar uma palavra especifica saindo do modo INSERT, apertando a tecla ESC e digitar: "/" seguido da palavra que procurar no documento. Por exemplo:
+
+```bash
+/INPUT
+```
+
+Assim você consegue encontrar determinadas palavras de forma facilitada no editor vim :D.
+
+### Instalando o Graphviz
+
+O Doxygen usa o Graphviz para gerar gráficos de dependência e diagramas de classes. Vou orientá-lo na instalação do Graphviz:
+
+```bash
+sudo apt-get install graphviz -y
+```
+
+### Geração da Documentação do Doxygen
 
 Execute o comando para gerar a documentação:
 
@@ -339,43 +355,44 @@ Execute o comando para gerar a documentação:
 doxygen Doxyfile
 ```
 
+![](/assets/img/artigos/swa/swa23.png)
+
 Isso gerará a documentação no diretório docs/html.
 
 ## Passo 8: Fazer o Deploy no Azure Static Web Apps
 
-#### Adição de um Private Endpoint
-No portal da Azure, vá até a seção de "Networking" do seu Static Web App. Adicione um Private Endpoint e associe-o à sua VNet. Configure o DNS para resolver o nome do Static Web App para o endereço IP privado do Private Endpoint.
+No portal da Azure, crie um Static Web App dentro do RG que estamos usando para o laboratório: rg-swa. O tipo de Plano será: Standard. Vamos simular um ambiente de produção, iremos criar um Static Web Apps com private endpoint. Deixe a opção Deployment details como outros, conforme imagem abaixo:
 
-### Preparação da Documentação
-Organize as documentações geradas pelo Doxygen e Swagger em pastas separadas:
+![](/assets/img/artigos/swa/swa23.png)
 
-```bash
-/docs
-    /doxygen_docs
-    /swagger_docs
-```
+### Adição de um Private Endpoint
+Vá até a seção de "Settings" do seu Static Web App. Selecione a opção Add, e Express:
 
-#### Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub e faça o push dos arquivos do seu projeto para o repositório:
+![](/assets/img/artigos/swa/swa25.png)
+
+Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: "pvt-swa" e associa-lo a subnet default da vnet-swa. Será criado automaticamente um DNS para resolver o nome do Static Web App para o endereço IP privado do Private Endpoint.
+
+![](/assets/img/artigos/swa/swa26.png)
+
+## Passo 9: Criação de um Repositório no GitHub
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomiei como: "static-web-app".
+
+**Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
+
+![](/assets/img/artigos/swa/swa27.png)
+
+Faça o push dos arquivos do seu projeto para o repositório:
 
 ```bash
 cd ~/myapi
 git init
-git remote add origin https://github.com/seu_usuario/seu_repositorio.git
+git remote add origin git@github.com:rafaelmaferreira/static-web-app.git
 git add .
-git commit -m "Adicionar projeto com Doxygen e Swagger"
+git commit -m "Adicionando projeto Static Web App"
 git push -u origin main
 ```
 
-#### Configuração do Azure Static Web App
-
-No portal da Azure, crie um novo Static Web App. Selecione o repositório GitHub que você acabou de criar e configure o caminho do conteúdo estático:
-
-- **Para a documentação do Doxygen: docs/doxygen_docs**
-
-- **Para a documentação do Swagger: docs/swagger_docs**
-
-#### Configuração do Workflow do GitHub Actions
+### Configuração do Workflow do GitHub Actions
 
 No seu repositório GitHub, vá até a aba "Actions" e configure um workflow para fazer o deploy das duas documentações. Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
 
@@ -410,7 +427,7 @@ jobs:
           output_location: "docs"
 ```
 
-## Passo 8: Criação da Virtual Machine Windows 11
+## Passo 11: Criação da Virtual Machine Windows 11
 
 #### Verificação do Deploy
 Teste do Acesso via Navegador Web

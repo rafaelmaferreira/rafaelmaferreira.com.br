@@ -33,46 +33,46 @@ Antes de começarmos, você precisará ter:
 
 Criando o Resource Group com nome rg-swa.
 
-![rg-swa](/assets/img/artigos/swa1.png)
+![rg-swa](/assets/img/artigos/swa/swa1.png)
 
 ## Passo 2: Criação da Virtual Network
 
 Criando a Virtual Network com nome vnet-swa dentro do Resource Group rg-swa com as opções padrão.
 
-![vnet-swa](/assets/img/artigos/swa2.png)
+![vnet-swa](/assets/img/artigos/swa/swa2.png)
 
 ## Passo 3: Criação da NSG (Network Security Group)
 Seguindo, criação do NSG (nsg-swa) com as opções padrão dentro do Resource Group rg-swa. 
 
-![nsg-swa](/assets/img/artigos/swa3.png)
+![nsg-swa](/assets/img/artigos/swa/swa3.png)
 
 ## Passo 4: Anexar o NSG a Subnet
 
 Vamos anexar a nsg a Subnet default que está dentro da vnet-swa para liberações de portas de forma centralizada e facilitada:
 
-![nsg-swa](/assets/img/artigos/swa4.png)
+![nsg-swa](/assets/img/artigos/swa/swa4.png)
 
 ## Passo 4: Criação da Virtual Machine Linux
 
 Vamos criar a VM com nome lnx-swa dentro do rg-swa com o security type: Standard 
 
-![lnx-swa](/assets/img/artigos/swa5.png)
+![lnx-swa](/assets/img/artigos/swa/swa5.png)
 
 **Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
 A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. VM architecture será Arm64 para maior eficiencia energética e de processamento, o size será uma Standard_D2ps_v5 compatível com a arquitetura, a Authentication type será com senha e de preferência de cada um rs.
 
-![lnx-swa](/assets/img/artigos/swa6.png)
+![lnx-swa](/assets/img/artigos/swa/swa6.png)
 
 Certifique-se que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
 
-![lnx-swa](/assets/img/artigos/swa7.png)
+![lnx-swa](/assets/img/artigos/swa/swa7.png)
 
 Depois seguimos com a instalação Padrão.
 
 Precisamos liberar a porta SSH 22 dentro do nsg-swa para seguir com os procedimentos:
 
-![nsg-swa](/assets/img/artigos/swa8.png)
+![nsg-swa](/assets/img/artigos/swa/swa8.png)
 
 Verifique qual IP público foi atribuido a VM lnx-swa, copie e utilize o comando para conexão ssh:
 
@@ -85,7 +85,7 @@ No meu caso:
 ```bash
 ssh rafael@172.203.234.14
 ```
-![nsg-swa](/assets/img/artigos/swa9.png)
+![nsg-swa](/assets/img/artigos/swa/swa9.png)
 
 De preferencia atualize os sempre os pacotes:
 
@@ -93,7 +93,7 @@ De preferencia atualize os sempre os pacotes:
 ```bash
 sudo apt-get update
 ```
-![nsg-swa](/assets/img/artigos/swa10.png)
+![nsg-swa](/assets/img/artigos/swa/swa10.png)
 
 ## Passo 5: Configurar a API com Node.js e Express
 
@@ -113,14 +113,54 @@ Vamos estruturar nosso projeto da seguinte forma:
 Se você ainda não tem o Node.js instalado, pode baixá-lo [aqui](https://nodejs.org/). Após a instalação, vamos criar um novo diretório para o nosso projeto e inicializar o projeto com o Express:
 
 ```bash
+sudo apt install nodejs
+```
+![sudo apt install nodejs](/assets/img/artigos/swa/swa11.png)
+
+Finalizado instalação teste para ver se está tudo ok:
+
+```bash
+node -v
+```
+
+```bash
+sudo apt install npm
+```
+![sudo apt install npm](/assets/img/artigos/swa/swa12.png)
+
+Finalizado instalação teste para ver se está tudo ok:
+
+```bash
+npm -v
+```
+Vamos continuar instalando o express: 
+
+```bash
 mkdir myapi
 cd myapi
 npm init -y
 npm install express
 ```
 
+![install express](/assets/img/artigos/swa/swa13.png)
+
+Dentro do diretório myapi, vamos criar a estrutura do projeto mencionada anteriormente. A estrutura do diretório será criada manualmente ou usando comandos para criar as pastas e arquivos necessários:
+
+```bash
+mkdir -p meu_projeto/docs/doxygen_docs
+mkdir -p meu_projeto/docs/swagger_docs
+mkdir meu_projeto/src
+touch meu_projeto/src/Doxyfile
+touch meu_projeto/src/index.js
+```
+![](/assets/img/artigos/swa/swa14.png)
+
 # Criação da API
-Crie um arquivo index.js com o seguinte conteúdo:
+Edite o arquivo index.js com o seguinte conteúdo:
+
+```bash
+vim meu_projeto/src/index.js
+```
 
 ```bash
 const express = require('express');
@@ -164,7 +204,13 @@ app.get('/hello', (req, res) => {
 app.listen(port, () => {
   console.log(`API rodando em http://localhost:${port}`);
 });
+
 ```
+![](/assets/img/artigos/swa/swa15.png)
+
+OBS1: IMPORTANTE - Para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando (write + quit (eu acho que seja isso)) e tecla ENTER.
+
+OBS2: Você que é da área de Infra/DevOps/Cloud, não se atente ao código, estamos usando um código fake para subirmos a infra.
 
 ## Passo 6: Adicionar Swagger para Documentação Interativa
 
@@ -174,11 +220,18 @@ Para adicionar Swagger ao nosso projeto, vamos instalar as bibliotecas swagger-j
 ```bash
 npm install swagger-jsdoc swagger-ui-express
 ```
+![npm install swagger-jsdoc swagger-ui-express](/assets/img/artigos/swa/swa16.png)
 
 ### Configuração do Swagger
 Atualize o index.js para configurar Swagger:
 
 ```bash
+rm meu_projeto/src/index.js
+vim meu_projeto/src/index.js
+```
+**Apaguei o arquivo e criei novamente para ser mais rápido KKK, NUNCA faça isso em PRODUÇÃO.**
+```bash
+
 const express = require('express');
 const swaggerJsdoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
@@ -194,7 +247,7 @@ const options = {
       version: '1.0.0',
     },
   },
-  apis: ['./index.js'], // Caminho para os arquivos de anotação Swagger
+  apis: ['./src/index.js'], // Caminho para os arquivos de anotação Swagger
 };
 
 const specs = swaggerJsdoc(options);
@@ -210,17 +263,32 @@ app.get('/hello', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`API rodando em http://localhost:${port}`);
+  console.log(`API rodando em http://172.203.234.14:${port}`);
 });
-
 ```
+
+![](/assets/img/artigos/swa/swa17.png)
+
+**Não se esqueça de atualizar o ip para o seu próprio IP.**
 
 ### Teste da API
-Inicie o servidor e acesse http://localhost:3000/api-docs no navegador para visualizar a documentação interativa gerada pelo Swagger:
 
 ```bash
+cd meu_projeto/src/
 node index.js
 ```
+
+![](/assets/img/artigos/swa/swa18.png)
+
+Inicie o servidor e acesse http://172.203.234.14:3000/api-docs no navegador para visualizar a documentação interativa gerada pelo Swagger. Porém a página não irá carregar, por que não liberamos a porta 3000 dentro do nsg-swa. Vamos lá!
+
+![](/assets/img/artigos/swa/swa19.png)
+
+E como mágica, teremos:
+
+![](/assets/img/artigos/swa/swa20.png)
+
+OBS: Pare o servidor node, com as teclas: CTLR + C para continuar com o procedimento.
 
 ## Passo 7: Adicionar Doxygen para Documentação do Código-Fonte
 
@@ -231,19 +299,28 @@ O Doxygen é uma ferramenta de documentação que gera documentação em vários
 
 - Windows: Baixe o instalador do site oficial do Doxygen e siga as instruções de instalação.
 - Linux/MacOS: Utilize um gerenciador de pacotes. Por exemplo, no Ubuntu, você pode usar:
+
 ``` bash 
 sudo apt-get install doxygen
 ```
 
+![](/assets/img/artigos/swa/swa21.png)
+
 ### Configuração do Doxygen
 
-Vamos criar um arquivo Doxyfile no diretório do projeto:
+Como já haviamos criado o arquivo Doxyfile no diretório do projeto, vamos atualizar com as informações necessárias:
 
 ```bash
-doxygen -g
+doxygen Doxyfile
 ```
 
-Atualize o Doxyfile com as seguintes configurações:
+![](/assets/img/artigos/swa/swa22.png)
+
+Seguindo, atualize o Doxyfile com as seguintes configurações:
+
+```bash
+vim Doxyfile
+```
 
 ```bash
 PROJECT_NAME           = "Minha API"

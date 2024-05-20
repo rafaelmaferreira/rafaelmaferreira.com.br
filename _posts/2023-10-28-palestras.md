@@ -13,8 +13,10 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais: 
 
-## KCD Brasil, São Paulo 2024
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD Brasil, São Paulo 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
+## KCD São Paulo - Brasil 2024
+![KCD-Sao-Paulo-Brasil-2024](/assets/img/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
@@ -44,12 +46,17 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
 
+
+
 ## TechTalk CI&T - Azure Cloud Foundation
+
+![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](/assets/img/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
 - <i class="fa-solid fa-link"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
 
 - <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
 
 ## DEVOPS - EP 11 - Monitoramento e Observabilidade
 [![DEVOPS - EP 11 - Monitoramento e Observabilidade](https://img.youtube.com/vi/-rYhXprMJO4/0.jpg)](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)

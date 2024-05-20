@@ -381,20 +381,62 @@ Crie um novo repositório no GitHub, irei deixar público para quem tiver intere
 
 ![](/assets/img/artigos/swa/swa27.png)
 
-Faça o push dos arquivos do seu projeto para o repositório:
+Precisamos adicionar a chave ssh da VM linux ao teu GitHub, clique na sua foto no canto superior direito, settings, SSH and GPG Keys:
+
+![](/assets/img/artigos/swa/swa28.png)
+
+Add SSH Key:
+
+![](/assets/img/artigos/swa/swa29.png)
+
+Agora precisamos retornar a VM lnx e gerar uma nova chave SSH:
 
 ```bash
-cd ~/myapi
+ssh-keygen
+```
+
+OBS: Para fins didaticos, estou gerando uma chave sem senha para facilitar nosso laboratorio, criancas, nunca facam isso em producao :D
+
+```bash
+cat /home/rafael/.ssh/id_rsa.pub
+```
+![](/assets/img/artigos/swa/swa30.png)
+
+Copie toda a informacao que e exibida apos o comando cat e retorne para o GitHub.
+
+Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo e na copie o conteudo da chave, conforme imagem abaixo:
+
+![](/assets/img/artigos/swa/swa31.png)
+
+Retorne a VM e faça a configuracao minima para o git, lembre-se de alterar suas informacoes:
+
+```bash
+git config --global user.name "rafaelmaferreira"
+git config --global user.email rafael.low1@gmail.com
+```
+![](/assets/img/artigos/swa/swa32.png)
+
+E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, nao se esqueca de mudar : "git add README.md" para "git add .":
+
+```bash
+echo "# static-web-app" >> README.md
 git init
-git remote add origin git@github.com:rafaelmaferreira/static-web-app.git
 git add .
-git commit -m "Adicionando projeto Static Web App"
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:rafaelmaferreira/static-web-app.git
 git push -u origin main
 ```
 
+![](/assets/img/artigos/swa/swa33.png)
+
+Dando um Check no GitHub:
+
+![](/assets/img/artigos/swa/swa34.png)
+
 ### Configuração do Workflow do GitHub Actions
 
-No seu repositório GitHub, vá até a aba "Actions" e configure um workflow para fazer o deploy das duas documentações. Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
+No seu repositório GitHub, vá até a aba "Actions" e selecione a opcao: "Crie um workflow voce mesmo". Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
 
 ```bash
 name: Deploy Static Web App
@@ -416,7 +458,7 @@ jobs:
           doxygen Doxyfile
       - name: Build and deploy Swagger docs
         run: |
-          swagger-codegen generate -i http://localhost:3000/api-docs -l html -o ./docs/swagger_docs
+          swagger-codegen generate -i http://172.203.234.14:3000/api-docs -l html -o ./docs/swagger_docs
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
@@ -426,6 +468,8 @@ jobs:
           app_location: "/"
           output_location: "docs"
 ```
+Lembre-se de alterar o IP para o IP do seu ambiente.
+![](/assets/img/artigos/swa/swa35.png)
 
 ## Passo 11: Criação da Virtual Machine Windows 11
 

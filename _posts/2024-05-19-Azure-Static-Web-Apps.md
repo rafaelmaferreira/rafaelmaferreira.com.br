@@ -99,6 +99,9 @@ sudo apt-get update
 
 #### Estrutura do Projeto
 
+swagger-codegen-cli generate -i http://172.203.234.14:3000/api-docs -l javascript -o ./api-client
+
+
 Vamos estruturar nosso projeto da seguinte forma:
 /meu_projeto
     /docs

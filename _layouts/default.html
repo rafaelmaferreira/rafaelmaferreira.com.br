@@ -8,11 +8,10 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
-  {% include head-custom.html %}
+  <!-- {% include head-custom.html %} -->
 </head>
 <body>
   <header>
-    <!-- Include site navigation or header content -->
     {% include header.html %}
   </header>
 
@@ -21,7 +20,6 @@
   </main>
 
   <footer>
-    <!-- Include site footer content -->
     {% include footer.html %}
   </footer>
 </body>

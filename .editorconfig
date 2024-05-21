@@ -5,11 +5,10 @@ charset = utf-8
 indent_style = space
 indent_size = 2
 trim_trailing_whitespace = true
-# Unix-style newlines with a newline ending every file
 end_of_line = lf
 insert_final_newline = true
 
-[*.{js,css,scss}]
+[*.{js,jsx,ts,tsx,css,scss,html}]
 quote_type = single
 
 [*.{yml,yaml}]
@@ -17,3 +16,11 @@ quote_type = double
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.{json,xml}]
+indent_style = space
+indent_size = 2
+
+[*.{rb,rake}]
+indent_style = space
+indent_size = 2

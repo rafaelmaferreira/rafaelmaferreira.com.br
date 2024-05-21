@@ -132,7 +132,6 @@ Finalizado instalação teste para ver se está tudo ok:
 ```bash
 sudo apt install npm
 ```
-![sudo apt install npm](/assets/img/artigos/swa/swa12.png)
 
 Finalizado instalação teste para ver se está tudo ok:
 

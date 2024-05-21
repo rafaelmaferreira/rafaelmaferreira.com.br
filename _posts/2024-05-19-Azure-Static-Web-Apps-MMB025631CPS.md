@@ -277,10 +277,11 @@ app.listen(port, () => {
 
 **Não se esqueça de atualizar o ip para o seu próprio IP.**
 
-node index.js &
-sleep 10
-swagger-codegen generate -i http://172.203.234.14:3000/api-docs -l html -o ../docs/swagger_docs
+Instale o OpenAPI Generator globalmente usando npm:
 
+```bash
+sudo npm install -g @openapitools/openapi-generator-cli
+```
 
 ![](/assets/img/artigos/swa/swa47.png)
 
@@ -310,8 +311,14 @@ sudo apt-get update
 sudo apt-get install default-jdk -y
 ```
 
-"start": "node src/index.js",
-"generate-docs": "npx @openapitools/openapi-generator-cli generate -i http://172.203.234.14:3000/api-docs -g html -o ./docs/swagger_docs"
+
+Use o OpenAPI Generator para gerar a documentação:
+
+```bash
+npx @openapitools/openapi-generator-cli generate -i http://172.203.234.14:3000/api-docs -g html -o ./docs/swagger_docs
+```
+
+
 
 ## Passo 7: Adicionar Doxygen para Documentação do Código-Fonte
 

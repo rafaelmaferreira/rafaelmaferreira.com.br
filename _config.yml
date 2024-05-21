@@ -90,15 +90,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "rafaelmaferreira/rafaelmaferreira.com
-br"
-    repo_id:
-    category: "Comments"
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: "rafaelmaferreira/rafaelmaferreira.com.br"  # Nome do repositório GitHub
+    repo_id: "MDEwOlJlcG9zaXRvcnkxMjk2MjY5NQ=="       # ID do repositório (obtido no Giscus)
+    category: "Comments"                              # Nome da categoria escolhida
+    category_id: "DIC_kwDOA5lwPs4B-cuS"               # ID da categoria (obtido no Giscus)
+    mapping: pathname                                  # Mapeamento dos comentários
+    input_position: bottom                             # Posição do campo de entrada
+    lang: en                                           # Idioma
+    reactions_enabled: 1                               # Reações habilitadas
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:

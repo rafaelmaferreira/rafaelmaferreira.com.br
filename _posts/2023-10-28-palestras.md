@@ -19,7 +19,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> [14/06 - TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados/)
 
-- <i class="fa-solid fa-link"></i> [27/06 - DevOps Experience](https://experience.devopsheroes.io/)
+- <i class="fa-solid fa-link"></i>[27/06 - DevOps Experience **[Online]**](https://experience.devopsheroes.io/)
 
 # Presenciais: 
 

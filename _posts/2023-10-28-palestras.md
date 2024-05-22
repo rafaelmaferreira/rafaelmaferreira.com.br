@@ -35,7 +35,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 # Online: 
 

@@ -11,6 +11,16 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
+# Próximos eventos: 
+
+- <i class="fa-solid fa-link"></i> [01/06 - Tech Connection Balneário Camburiú](https://www.ingressotalkfloripa.com.br/evento/1048/tech-connection-balneario-camboriu//)
+
+- <i class="fa-solid fa-link"></i> [11/06 - Esquenta TDC - CNCF + Azure Floripa + API Floripa](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
+
+- <i class="fa-solid fa-link"></i> [14/06 - TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados/)
+
+- <i class="fa-solid fa-link"></i> [27/06 - DevOps Experience](https://experience.devopsheroes.io/)
+
 # Presenciais: 
 
 ## KCD São Paulo - Brasil 2024

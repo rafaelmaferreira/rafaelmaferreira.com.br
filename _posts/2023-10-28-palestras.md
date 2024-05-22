@@ -28,7 +28,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
-- <i class="fa-regular fa-file-pdf"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
 ## Cloud Native Floripa - 2º Edição
 [![Cloud Native Floripa - 2º Edição](https://img.youtube.com/vi/cSF1mPEZ8Rw/0.jpg)](https://www.youtube.com/watch?v=yP_oynLWOJI&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina)
@@ -42,20 +42,19 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## Corrente Solidária - Todos pelo RS
 [![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
 
 ## Global Azure - Azure Pipelines
 [![Global Azure - Azure Pipelines](https://img.youtube.com/vi/LzkdUu6sgys/0.jpg)](https://www.youtube.com/watch?v=LzkdUu6sgys)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)
 
 ## Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure
 [![Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://img.youtube.com/vi/etnQCHbIg2I/0.jpg)](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure feat Azure Floripa](https://azurefloripa.com.br/global-azure/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure feat Azure Floripa](https://rafaelmaferreira.com.br/posts/global-azure/)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
-
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
 
 
 ## TechTalk CI&T - Azure Cloud Foundation
@@ -63,9 +62,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](/assets/img/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
 - <i class="fa-solid fa-link"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
 
 
 ## DEVOPS - EP 11 - Monitoramento e Observabilidade
@@ -73,14 +72,14 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
 ## DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions
 [![DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://img.youtube.com/vi/hxiluSC8E_U/0.jpg)](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
 
-- <i class="fa-solid fa-link"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 
 ---
 

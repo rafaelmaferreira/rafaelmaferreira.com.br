@@ -12,6 +12,8 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![LowOps Channel](/assets/img/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
 
+<!-- new_videos_here -->
+
 ## #03 Episódio com Edesan Tomaz
 [![#03 Episódio com Edesan Tomaz](https://img.youtube.com/vi/CZTCLSgeRw4/0.jpg)](https://www.youtube.com/watch?v=CZTCLSgeRw4)
 

@@ -15,6 +15,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> [01/06 - Tech Connection Balneário Camburiú](https://www.ingressotalkfloripa.com.br/evento/1048/tech-connection-balneario-camboriu//)
 
+- <i class="fa-solid fa-link"></i> [08/06 - AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
+
 - <i class="fa-solid fa-link"></i> [11/06 - Esquenta TDC - CNCF + Azure Floripa + API Floripa](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
 - <i class="fa-solid fa-link"></i> [14/06 - TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados/)

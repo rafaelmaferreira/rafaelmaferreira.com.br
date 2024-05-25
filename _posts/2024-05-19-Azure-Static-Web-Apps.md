@@ -7,21 +7,49 @@ categories: [Artigos, Azure, Static Web Apps]
 tags: [Artigos, Azure, Static Web Apps]
 ---
 
+![rg-swa](/assets/img/artigos/swa/swa000.png)
+
+## O que são os Azure Static Web Apps?
+
+Os [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/) são um serviço que cria e implanta automaticamente aplicativos Web full stack no Azure a partir de um repositório de códigos. Este serviço é personalizado para o fluxo de trabalho diário de um desenvolvedor, criando e implantando aplicativos baseados em alterações de código feitas em repositórios GitHub ou Azure DevOps.
+
+![rg-swa](/assets/img/artigos/swa/swa00.png)
+
+Ao criar um recurso dos [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/overview), o Azure monitora um branch de sua escolha e, sempre que você faz push de commits ou aceita pull requests, um build é executado automaticamente e seu aplicativo, juntamente com sua API, é implantado no Azure.
+
+Este serviço é ideal para aplicativos Web que utilizam bibliotecas e frameworks como Angular, React, Svelte, Vue ou Blazor, onde a renderização do lado do servidor não é necessária. Os arquivos estáticos (HTML, CSS, JavaScript, imagens) são distribuídos globalmente, proporcionando um fornecimento de arquivos rápido e eficiente, enquanto os pontos de extremidade da API são hospedados usando uma arquitetura serverless.
+
+### Principais Recursos:
+
+- **Hospedagem para conteúdo estático**: HTML, CSS, JavaScript e imagens.
+- **Suporte integrado à API**: Usando Azure Functions gerenciado, com opções de integração com aplicações de funções existentes, aplicativos Web, contêineres ou instâncias do Gerenciamento de API.
+- **Integração com GitHub e Azure DevOps**: Alterações no repositório disparam compilações e implantações.
+- **Distribuição global**: Conteúdo estático colocado mais perto dos usuários (edge computing).
+- **Certificados SSL gratuitos**: Renovados automaticamente.
+- **Domínios personalizados**: Para personalizações da marca no aplicativo.
+- **Modelo de segurança contínua**: Proxy reverso ao chamar APIs, sem necessidade de configuração de CORS.
+- **Integrações do provedor de autenticação**: Com Microsoft Entra ID e GitHub.
+- **Regras de roteamento de back-end**: Controle total sobre conteúdo e rotas.
+- **Versões de preparo**: Alimentadas por pull requests para pré-visualização antes da publicação.
+- **Suporte da CLI**: Via CLI do Azure para criar recursos de nuvem e CLI de Azure Static Web Apps para desenvolvimento local.
+
 ## Introdução
 
-No desenvolvimento de software, a documentação desempenha um papel crucial para garantir que as APIs sejam compreensíveis e utilizáveis por outros desenvolvedores. Ferramentas como Swagger e Doxygen oferecem abordagens diferentes para documentar APIs, cada uma com suas vantagens. Neste artigo, vamos explorar como configurar uma API simples utilizando Swagger para documentação interativa e Doxygen para documentação técnica detalhada, além de hospedar ambas as documentações no Azure Static Web Apps.
+No desenvolvimento de software, a documentação desempenha um papel crucial para garantir que as APIs sejam compreensíveis e utilizáveis por outros desenvolvedores. Ferramentas como Doxygen oferecem abordagens diferentes para documentar APIs, cada uma com suas vantagens. Neste artigo, vamos explorar como configurar uma API simples utilizando Doxygen para documentação técnica detalhada, e hospedar a documentação no Azure Static Web Apps.
 
 O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações web estáticas, oferecendo integração contínua com repositórios GitHub ou Azure DevOps para deploy automático. Ele é ideal para aplicações front-end modernas com back-ends serverless. Comparado ao Azure Web Apps, o Static Web Apps é mais econômico e oferece otimizações específicas para sites estáticos e SPAs (Single Page Applications).
+
+![rg-swa](/assets/img/artigos/swa/swa01.png)
+
 
 ## Objetivo
 
 O objetivo deste artigo é fornecer um guia passo a passo para:
 
 1. Criação simplificada do Static Web Apps.
-2. Criar uma API simples com Node.js e Express.
-3. Documentar a API utilizando Swagger.
-4. Documentar o código-fonte utilizando Doxygen.
-5. Hospedar ambas as documentações no Azure Static Web Apps.
+2. Criar uma API simples com Python e Flask.
+3. Documentar o código-fonte utilizando Doxygen.
+4. Hospedar ambas as documentações no Azure Static Web Apps.
 
 ## Pré-requisitos
 
@@ -52,7 +80,7 @@ Vamos anexar a nsg a Subnet default que está dentro da vnet-swa para liberaçõ
 
 ![nsg-swa](/assets/img/artigos/swa/swa4.png)
 
-## Passo 4: Criação da Virtual Machine Linux
+## Passo 5: Criação da Virtual Machine Linux
 
 Vamos criar a VM com nome lnx-swa dentro do rg-swa com o security type: Standard 
 
@@ -85,235 +113,103 @@ No meu caso:
 ```bash
 ssh rafael@172.203.234.14
 ```
-![nsg-swa](/assets/img/artigos/swa/swa9.png)
+![](/assets/img/artigos/swa/swa9.png)
 
-De preferencia atualize os sempre os pacotes:
-
+De preferência, atualize os pacotes do sistema::
 
 ```bash
 sudo apt-get update
-```
-![nsg-swa](/assets/img/artigos/swa/swa10.png)
+sudo apt-get upgrade -y
 
-## Passo 5: Configurar a API com Node.js e Express
+```
+![sudo apt-get upgrade -y](/assets/img/artigos/swa/swa10.png)
+
+## Passo 6: Configurar a API com Python e Flask
+
+#### Instale o Python:
+
+```bash
+sudo apt-get install python3 python3-pip -y
+```
+
+![](/assets/img/artigos/swa/swa11.png)
 
 #### Estrutura do Projeto
 
-swagger-codegen-cli generate -i http://172.203.234.14:3000/api-docs -l javascript -o ./api-client
-
-
 Vamos estruturar nosso projeto da seguinte forma:
+
+```bash
 /meu_projeto
     /docs
-        /doxygen_docs
-        /swagger_docs
+      /doxygen_docs
     /src
         Doxyfile
-        index.js
-
-### Instalação do Node.js e Express
-
-Se você ainda não tem o Node.js instalado, pode baixá-lo [aqui](https://nodejs.org/). Após a instalação, vamos criar um novo diretório para o nosso projeto e inicializar o projeto com o Express:
-
-```bash
-# installs nvm (Node Version Manager)
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-
-# download and install Node.js
-nvm install 22
-
-# verifies the right Node.js version is in the environment
-node -v # should print `v22.2.0`
-
-# verifies the right NPM version is in the environment
-npm -v # should print `10.7.0`
-```
-![](/assets/img/artigos/swa/swa11.png)
-
-Finalizado instalação teste para ver se está tudo ok:
-
-```bash
-sudo apt install npm
+        app.py
 ```
 
-Finalizado instalação teste para ver se está tudo ok:
+Crie um diretório para o projeto e navegue até ele:
 
 ```bash
-npm -v
+mkdir -p meu_projeto/docs
+mkdir -p meu_projeto/src
+cd meu_projeto/src
 ```
-Vamos continuar instalando o express: 
+
+![](/assets/img/artigos/swa/swa12.png)
+
+### Criando a API com Flask
 
 ```bash
-mkdir myapi
-cd myapi
-npm init -y
-npm install express
+pip install Flask
 ```
 
-![install express](/assets/img/artigos/swa/swa13.png)
+![pip install Flask](/assets/img/artigos/swa/swa13.png)
 
-Dentro do diretório myapi, vamos criar a estrutura do projeto mencionada anteriormente. A estrutura do diretório será criada manualmente ou usando comandos para criar as pastas e arquivos necessários:
+Crie e edite o arquivo app.py com o seguinte conteúdo:
 
 ```bash
-mkdir -p meu_projeto/docs/doxygen_docs
-mkdir -p meu_projeto/docs/swagger_docs
-mkdir meu_projeto/src
-touch meu_projeto/src/Doxyfile
-touch meu_projeto/src/index.js
-```
-![](/assets/img/artigos/swa/swa14.png)
+from flask import Flask, jsonify, request
 
-# Criação da API
-Edite o arquivo index.js com o seguinte conteúdo:
+app = Flask(__name__)
 
-```bash
-vim meu_projeto/src/index.js
-```
+@app.route('/')
+def home():
+    return "Bem-vindo à API!"
 
-```bash
-const express = require('express');
-const app = express();
-const port = 3000;
+@app.route('/hello', methods=['GET'])
+def hello():
+    name = request.args.get('name', 'Mundo')
+    return jsonify(message=f"Olá, {name}!")
 
-/**
- * @swagger
- * /:
- *   get:
- *     description: Retorna uma mensagem de boas-vindas
- *     responses:
- *       200:
- *         description: Sucesso
- */
-app.get('/', (req, res) => {
-  res.send('Bem-vindo à API!');
-});
-
-/**
- * @swagger
- * /hello:
- *   get:
- *     description: Retorna uma saudação personalizada
- *     parameters:
- *       - name: name
- *         in: query
- *         required: false
- *         description: Nome da pessoa a ser saudada
- *         schema:
- *           type: string
- *     responses:
- *       200:
- *         description: Sucesso
- */
-app.get('/hello', (req, res) => {
-  const name = req.query.name || 'Mundo';
-  res.send(`Olá, ${name}!`);
-});
-
-app.listen(port, () => {
-  console.log(`API rodando em http://localhost:${port}`);
-});
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
 
 ```
+
 ![](/assets/img/artigos/swa/swa15.png)
+
 
 OBS1: IMPORTANTE - Para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando (write + quit (eu acho que seja isso)) e tecla ENTER.
 
 OBS2: Você que é da área de Infra/DevOps/Cloud, não se atente ao código, estamos usando um código fake para subirmos a infra.
 
-## Passo 6: Adicionar Swagger para Documentação Interativa
-
-#### Instalação do Swagger
-Para adicionar Swagger ao nosso projeto, vamos instalar as bibliotecas swagger-jsdoc e swagger-ui-express:
+Vamos testar a API:
 
 ```bash
-npm install swagger-jsdoc swagger-ui-express
-```
-![npm install swagger-jsdoc swagger-ui-express](/assets/img/artigos/swa/swa16.png)
-
-### Configuração do Swagger
-Atualize o index.js para configurar Swagger:
-
-```bash
-rm meu_projeto/src/index.js
-vim meu_projeto/src/index.js
-```
-**Apaguei o arquivo e criei novamente para ser mais rápido KKK, NUNCA faça isso em PRODUÇÃO.**
-```bash
-
-const express = require('express');
-const swaggerJsdoc = require('swagger-jsdoc');
-const swaggerUi = require('swagger-ui-express');
-
-const app = express();
-const port = 3000;
-
-const options = {
-  definition: {
-    openapi: '3.0.0',
-    info: {
-      title: 'Minha API',
-      version: '1.0.0',
-    },
-  },
-  apis: ['./src/index.js'], // Caminho para os arquivos de anotação Swagger
-};
-
-const specs = swaggerJsdoc(options);
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
-
-app.get('/', (req, res) => {
-  res.send('Bem-vindo à API!');
-});
-
-app.get('/hello', (req, res) => {
-  const name = req.query.name || 'Mundo';
-  res.send(`Olá, ${name}!`);
-});
-
-app.listen(port, () => {
-  console.log(`API rodando em http://172.203.234.14:${port}`);
-});
+python3 app.py
 ```
 
-![](/assets/img/artigos/swa/swa17.png)
+![](/assets/img/artigos/swa/swa14.png)
 
-**Não se esqueça de atualizar o ip para o seu próprio IP.**
+Inicie a aplicação e acesse http://172.203.234.14:5000/ no navegador. Porém a página não irá carregar, por que não liberamos a porta 5000 dentro do nsg-swa. Vamos lá!
 
-node index.js &
-sleep 10
-swagger-codegen generate -i http://172.203.234.14:3000/api-docs -l html -o ../docs/swagger_docs
-
-
-![](/assets/img/artigos/swa/swa47.png)
-
-### Teste da API
-
-```bash
-cd meu_projeto/src/
-node index.js
-```
-
-![](/assets/img/artigos/swa/swa18.png)
-
-Inicie o servidor e acesse http://172.203.234.14:3000/api-docs no navegador para visualizar a documentação interativa gerada pelo Swagger. Porém a página não irá carregar, por que não liberamos a porta 3000 dentro do nsg-swa. Vamos lá!
-
-![](/assets/img/artigos/swa/swa19.png)
+![](/assets/img/artigos/swa/swa16.png)
 
 E como mágica, teremos:
 
-![](/assets/img/artigos/swa/swa20.png)
+![](/assets/img/artigos/swa/swa17.png)
 
-OBS: Pare o servidor node, com as teclas: CTLR + C para continuar com o procedimento.
-
-O OpenAPI Generator requer Java para funcionar. Vamos instalar o Java:
-
-```bash
-sudo apt-get update
-sudo apt-get install default-jdk -y
-```
-
-"start": "node src/index.js",
-"generate-docs": "npx @openapitools/openapi-generator-cli generate -i http://172.203.234.14:3000/api-docs -g html -o ./docs/swagger_docs"
+OBS: Para sair aperte com as teclas: CTLR + C.
 
 ## Passo 7: Adicionar Doxygen para Documentação do Código-Fonte
 
@@ -333,13 +229,12 @@ sudo apt-get install doxygen
 
 ### Configuração do Doxygen
 
-Como já haviamos criado o arquivo Doxyfile no diretório do projeto, vamos atualizar com as informações necessárias:
+Primeiramente criamos o arquivo Doxyfile com o comando touch, dentro da pasta src:
 
-```bash
-doxygen Doxyfile
+``` bash 
+touch Doxyfile
 ```
-
-![](/assets/img/artigos/swa/swa22.png)
+![](/assets/img/artigos/swa/swa18.png)
 
 Seguindo, atualize o Doxyfile com as seguintes configurações:
 
@@ -348,15 +243,15 @@ vim Doxyfile
 ```
 
 ```bash
-PROJECT_NAME           = "Minha API"
+PROJECT_NAME           = "Minha API Flask"
 OUTPUT_DIRECTORY       = ../docs/doxygen_docs
-INPUT                  = ./index.js
+INPUT                  = ./app.py
 RECURSIVE              = NO
 GENERATE_HTML          = YES
 GENERATE_LATEX         = NO
 ```
 
-Para facilitar a edição, você pode procurar uma palavra especifica saindo do modo INSERT, apertando a tecla ESC e digitar: "/" seguido da palavra que procurar no documento. Por exemplo:
+Para facilitar a edição, você pode procurar uma palavra especifica saindo do modo INSERT, apertando a tecla ESC e digitar: "/" seguido da palavra que procurar no documento e apertando a tecla ENTER. Por exemplo:
 
 ```bash
 /INPUT
@@ -380,15 +275,16 @@ Execute o comando para gerar a documentação:
 doxygen Doxyfile
 ```
 
-![](/assets/img/artigos/swa/swa23.png)
+![](/assets/img/artigos/swa/swa19.png)
 
-Isso gerará a documentação no diretório docs/html.
+A documentação será gerada no diretório ../docs/doxygen_docs.
 
 ## Passo 8: Fazer o Deploy no Azure Static Web Apps
 
 No portal da Azure, crie um Static Web App dentro do RG que estamos usando para o laboratório: rg-swa. O tipo de Plano será: Standard. Vamos simular um ambiente de produção, iremos criar um Static Web Apps com private endpoint. Deixe a opção Deployment details como outros, conforme imagem abaixo:
 
-![](/assets/img/artigos/swa/swa23.png)
+![](/assets/img/artigos/swa/swa24.png)
+
 
 ### Adição de um Private Endpoint
 Vá até a seção de "Settings" do seu Static Web App. Selecione a opção Add, e Express:
@@ -441,6 +337,14 @@ git config --global user.email rafael.low1@gmail.com
 ```
 ![](/assets/img/artigos/swa/swa32.png)
 
+Vamos entrar no diretório XX para fazer o push para o GitHub:
+
+```bash
+cd docs/doxygen_docs/html/
+```
+
+![](/assets/img/artigos/swa/swa20.png)
+
 E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, nao se esqueca de mudar : "git add README.md" para "git add .":
 
 ```bash
@@ -485,7 +389,11 @@ Adicionar
 
 ### Configuração do Workflow do GitHub Actions
 
-No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie um workflow você mesmo". Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
+No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie um workflow você mesmo":
+
+![](/assets/img/artigos/swa/swa23.png)
+
+Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
 
 ```bash
 name: Deploy Static Web App
@@ -502,14 +410,6 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v2
 
-      - name: Build and deploy Doxygen docs
-        run: |
-          cd meu_projeto/src
-          doxygen Doxyfile
-
-      - name: Build and deploy Swagger docs
-        run: |
-          swagger-codegen generate -i http://172.203.234.14:3000/api-docs -l html -o ./docs/swagger_docs
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
@@ -517,10 +417,18 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
           app_location: "/"
-          output_location: "docs"
+          output_location: "docs/doxygen_docs/html"
 ```
-Lembre-se de alterar o IP para o IP do seu ambiente.
+
 ![](/assets/img/artigos/swa/swa35.png)
+
+Não se esqueça de clicar no botão: "commit changes":
+
+![](/assets/img/artigos/swa/swa47.png)
+
+E voilá, pipeline executando:
+
+![](/assets/img/artigos/swa/swa48.png)
 
 ## Passo 11: Criação da Virtual Machine Windows 11
 
@@ -559,17 +467,36 @@ Confie no certificado:
 ![](/assets/img/artigos/swa/swa43.png)
 
 #### Verificação do Deploy
-Teste do Acesso via Navegador Web
-Acesse a URL do seu Static Web App:
+Vamos testar via Navegador Web, acesse a URL do seu Static Web App, retorne ao portal da azure, e copie o endereço de dominio para colar na VM Windows 11:
 
-- Documentação do Doxygen: https://<seu_static_web_app>.azurestaticapps.net/doxygen_docs
-- Documentação do Swagger: https://<seu_static_web_app>.azurestaticapps.net/swagger_docs
+![](/assets/img/artigos/swa/swa49.png)
 
-Verificação das Regras de Segurança de Rede
-Certifique-se de que as regras de segurança de rede permitem o tráfego necessário.
+- https://black-sand-0051c0f0f.5.azurestaticapps.net
+
+**OBS: Esse é o nome padrão que vem, podemos alterar validando nosso dominio externo e configurar ainda mais nossa aplicação dentro do nosso recurso Azure Static Web App**
+
+![](/assets/img/artigos/swa/swa50.png)
+
+E se caso testarmos fora da nossa rede interna, por exemplo utilizando a rede externa, do nosso computador:
+
+![](/assets/img/artigos/swa/swa51.png)
+
+Acesso negado, conforme o esperado :D
+
+Podemos ainda configurar senhas de visitantes, por exemplo, se fosse uma api para consultar holerites, com dados sensiveis, dentro do portal da azure na parte configurações do Static Web App:
+
+![](/assets/img/artigos/swa/swa52.png)
+
+E então:
+
+![](/assets/img/artigos/swa/swa53.png)
+
+Digitando a senha conseguimos acessar a API:
+
+![](/assets/img/artigos/swa/swa50.png)
+
 
 # Conclusão
-Neste artigo, configuramos uma API simples utilizando Node.js e Express, documentamos a API utilizando Swagger e Doxygen, e hospedamos ambas as documentações no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível. Se você tiver dúvidas ou precisar de mais assistência, estou à disposição para ajudar!
-
+Neste artigo, configuramos uma API simples utilizando Python e Flask, documentamos a API com Doxygen e hospedamos a documentação no Azure Static Web Apps. Utilizamos o GitHub para hospedar o código e implementamos pipelines com GitHub Actions para realizar o deploy automático no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível, utilizando o provedor de nuvem Azure. Se você tiver dúvidas estou à disposição para ajudar.
 
 ![](/assets/img/posts/Logo2.png)

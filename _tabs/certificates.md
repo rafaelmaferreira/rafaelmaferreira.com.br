@@ -18,10 +18,17 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 À medida que continuo avançando em minha carreira, estou ansioso para abraçar novas oportunidades de aprendizado e crescimento. Afinal, a jornada de aprimoramento nunca termina, e estou comprometido em seguir aprendendo, evoluindo e compartilhando o que aprendo com aqueles ao meu redor.
 
--- [2024-04 - Uncomplicating Soft Skills](https://www.credential.net/29a3afb4-02bb-4b99-b112-b6c12d60f1b9#gs.86vovj)
+## Certificados Recentes
+
+### 2024
+
+- [2024-04 - Uncomplicating Soft Skills](https://www.credential.net/29a3afb4-02bb-4b99-b112-b6c12d60f1b9#gs.86vovj)
 - [2024-03 - Sustainability Transformation With AWS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-03-SustainabilityTransformationwithAWS.pdf)
 - [2024-02 - Jornada ESG: Carreira em Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-02-Jornada.ESGCarreira.em.Sustentabilidade.pdf)
 - [2024-01 - Green Software for Practitioners LFC131](https://www.credly.com/badges/11e2e57b-47a9-48ca-af23-41cbb45c01ef/public_url)
+
+### 2023
+
 - [2023-10 - Codecon Feature](https://stoblobcertificados011.blob.core.windows.net/certificados/2023-10-codecon.feature.pdf)
 - [2023-10 - Terraform no Azure - Infraestrutura como Código e DevOps - Udemy](https://www.udemy.com/certificate/UC-188b512a-2690-40ee-a2e9-6a4c96f8090e/)
 - [2023-10 - Certificação MS-900 - TFTEC](https://tftec.curseduca.pro/verify/Y2VydGlmaWNhdGVfNzZfMTcx)
@@ -56,6 +63,9 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 - [2023-01 - Microsoft Certified DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4)
 - [2023-01 - Jornada DevOps de Elite - DevOpsPro](https://gerarcertificado.com.br/validar.php?cert=8eddc0f24ba261589d77aaf5b9a7d0ed)
 - [2023-01 - AZ-400 - Azure DevOps Engineer Expert- TFTEC](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4)
+
+### 2022
+
 - [2022-11 - Copa do Mundo Azure - TFTEC](https://stoblobcertificados011.blob.core.windows.net/certificados/2022-11-Copa.do.Mundo.Azure-TFTEC.pdf)
 - [2022-10 - Docker para Desenvolvedores e Administradores de Redes - Udemy](https://www.udemy.com/certificate/UC-a40bd06b-eff2-44e1-b5d7-20fabbd2bcbd/)
 - [2022-10 - AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc2090a8-2445-4cee-ba0a-ef398c636f33/linked_in_profile)
@@ -72,6 +82,9 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 - [2022-01 - Azure - Programa de Certificação AZ-304 - TFTEC](https://ead.tftec.com.br/verificar/TiZbkKz8Hn/)
 - [2022-01 - Azure - Programa de Certificação AZ-303 - TFTEC](https://ead.tftec.com.br/verificar/zq8SX2AviR/)
 - [2022-01 - Azure - Programa de Certificação AZ-104 - TFTEC](https://ead.tftec.com.br/verificar/wu3DLnvVbw/)
+
+## Eventos Anteriores
+
 - [2021-11 - Oracle Cloud Infrastructure Foundations 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=20C72DE3B042CFAA43CF954993954CA8843A72C33E3C9F5283BDC4EE0C07055C)
 - [2021-11 - Microsoft Certified Trainer](https://www.credly.com/badges/9f76b758-5134-4dbb-b138-35c61e7b4cbe/public_url)
 - [2021-11 - Microsoft Certified Azure Network Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/BE1DAD21D266E213?sharingId=AF242064A982B1A4)

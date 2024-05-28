@@ -11,11 +11,11 @@ tags: [Artigos, Azure, Static Web Apps]
 
 ## O que são os Azure Static Web Apps?
 
-Os [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/) são um serviço que cria e implanta automaticamente aplicativos Web full stack no Azure a partir de um repositório de códigos. Este serviço é personalizado para o fluxo de trabalho diário de um desenvolvedor, criando e implantando aplicativos baseados em alterações de código feitas em repositórios GitHub ou Azure DevOps.
+Os [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/) são um serviço que cria e implanta automaticamente aplicativos Web full stack no Azure a partir de um repositório de códigos. **(Correção: códigos -> código)** Este serviço é personalizado para o fluxo de trabalho diário de um desenvolvedor, criando e implantando aplicativos baseados em alterações de código feitas em repositórios GitHub ou Azure DevOps.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa00.png)
 
-Ao criar um recurso dos [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/overview), o Azure monitora um branch de sua escolha e, sempre que você faz push de commits ou aceita pull requests, um build é executado automaticamente e seu aplicativo, juntamente com sua API, é implantado no Azure.
+Ao criar um recurso dos [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/overview), o Azure monitora um branch de sua escolha e, Sempre que você faz push de commits ou aceita pull requests, um build é executado automaticamente e seu aplicativo juntamente com sua API é implantado no Azure.
 
 Este serviço é ideal para aplicativos Web que utilizam bibliotecas e frameworks como Angular, React, Svelte, Vue ou Blazor, onde a renderização do lado do servidor não é necessária. Os arquivos estáticos (HTML, CSS, JavaScript, imagens) são distribuídos globalmente, proporcionando um fornecimento de arquivos rápido e eficiente, enquanto os pontos de extremidade da API são hospedados usando uma arquitetura serverless.
 
@@ -41,14 +41,13 @@ O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações 
 
 ![rg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa01.png)
 
-
 ## Objetivo
 
 O objetivo deste artigo é fornecer um guia passo a passo para:
 
 1. Criação simplificada do Static Web Apps.
 2. Criar uma API simples com Python e Flask.
-3. Documentar o código-fonte utilizando Doxygen.
+3. Documentar o código utilizando Doxygen.
 4. Hospedar ambas as documentações no Azure Static Web Apps.
 
 ## Pré-requisitos
@@ -70,44 +69,44 @@ Criando a Virtual Network com nome vnet-swa dentro do Resource Group rg-swa com 
 ![vnet-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa2.png)
 
 ## Passo 3: Criação da NSG (Network Security Group)
+
 Seguindo, criação do NSG (nsg-swa) com as opções padrão dentro do Resource Group rg-swa. 
 
 ![nsg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa3.png)
 
-## Passo 4: Anexar o NSG a Subnet
+## Passo 4: Anexar o NSG à Subnet
 
-Vamos anexar a nsg a Subnet default que está dentro da vnet-swa para liberações de portas de forma centralizada e facilitada:
+Vamos anexar o NSG à Subnet default que está dentro da vnet-swa para liberações de portas de forma centralizada e facilitada:
 
 ![nsg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa4.png)
 
 ## Passo 5: Criação da Virtual Machine Linux
 
-Vamos criar a VM com nome lnx-swa dentro do rg-swa com o security type: Standard 
+Vamos criar a VM com nome lnx-swa dentro do rg-swa com o tipo de segurança: Standard.
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa5.png)
 
 **Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
-A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. VM architecture será Arm64 para maior eficiencia energética e de processamento, o size será uma Standard_D2ps_v5 compatível com a arquitetura, a Authentication type será com senha e de preferência de cada um rs.
+A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. A arquitetura da VM será Arm64 para maior eficiência energética e de processamento. O tamanho será uma Standard_D2ps_v5 compatível com a arquitetura. A autenticação será feita por senha, de acordo com a preferência de cada um.
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa6.png)
 
-Certifique-se que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
+Certifique-se de que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa7.png)
 
-Depois seguimos com a instalação Padrão.
+Depois seguimos com a instalação padrão.
 
 Precisamos liberar a porta SSH 22 dentro do nsg-swa para seguir com os procedimentos:
 
 ![nsg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa8.png)
 
-Verifique qual IP público foi atribuido a VM lnx-swa, copie e utilize o comando para conexão ssh:
+Verifique qual IP público foi atribuído à VM lnx-swa, copie e utilize o comando para conexão ssh:
 
 ```bash
 ssh usuario@IPX.XXX.XXX.XX
 ```
-
 No meu caso: 
 
 ```bash
@@ -115,7 +114,7 @@ ssh rafael@172.203.234.14
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa9.png)
 
-De preferência, atualize os pacotes do sistema::
+De preferência, atualize os pacotes do sistema:
 
 ```bash
 sudo apt-get update
@@ -188,7 +187,6 @@ if __name__ == '__main__':
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa15.png)
 
-
 OBS1: IMPORTANTE - Para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando (write + quit (eu acho que seja isso)) e tecla ENTER.
 
 OBS2: Você que é da área de Infra/DevOps/Cloud, não se atente ao código, estamos usando um código fake para subirmos a infra.
@@ -201,7 +199,7 @@ python3 app.py
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa14.png)
 
-Inicie a aplicação e acesse http://172.203.234.14:5000/ no navegador. Porém a página não irá carregar, por que não liberamos a porta 5000 dentro do nsg-swa. Vamos lá!
+Inicie a aplicação e acesse http://172.203.234.14:5000/ no navegador. Porém a página não irá carregar, porque não liberamos a porta 5000 dentro do nsg-swa. Vamos lá!
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa16.png)
 
@@ -209,7 +207,7 @@ E como mágica, teremos:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa17.png)
 
-OBS: Para sair aperte com as teclas: CTLR + C.
+OBS: Para sair aperte com as teclas CTRL + C.
 
 ## Passo 7: Adicionar Doxygen para Documentação do Código-Fonte
 
@@ -296,7 +294,7 @@ Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: "pvt-swa
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa26.png)
 
 ## Passo 9: Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomiei como: "static-web-app".
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app".
 
 **Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
 
@@ -310,13 +308,13 @@ Add SSH Key:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa29.png)
 
-Agora precisamos retornar a VM lnx e gerar uma nova chave SSH:
+Agora, precisamos retornar à VM lnx e gerar uma nova chave SSH:
 
 ```bash
 ssh-keygen
 ```
 
-OBS: Para fins didaticos, estou gerando uma chave sem senha para facilitar nosso laboratorio, criancas, nunca facam isso em producao :D
+OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar nosso laboratório. Crianças, nunca façam isso em produção :D
 
 ```bash
 cat /home/rafael/.ssh/id_rsa.pub
@@ -325,7 +323,7 @@ cat /home/rafael/.ssh/id_rsa.pub
 
 Copie toda a informacao que e exibida apos o comando cat e retorne para o GitHub.
 
-Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo e na copie o conteudo da chave, conforme imagem abaixo:
+Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo e copie o conteúdo da chave, conforme imagem abaixo:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa31.png)
 
@@ -367,11 +365,11 @@ Dando um Check no GitHub:
 
 Pensando sempre em segurança com zero trust, vamos criar um segredo no repositório para armazenar o token de deployment.
 
-No portal da azure, no swa - Static Web App, clique em Manage deployment token e copie o token. 
+No portal da Azure, no swa - Static Web App, clique em Manage deployment token e copie o token.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa44.png)
 
-De volta no GitHub, clique em Settings, Secrets and variables, actions, new repository secret:
+De volta ao GitHub, clique em Settings, Secrets and variables, actions, new repository secret:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa45.png)
 
@@ -432,21 +430,21 @@ E voilá, pipeline executando:
 
 ## Passo 11: Criação da Virtual Machine Windows 11
 
-Já que não colocamos o Static Web App na internet, ele está apenas acessível na nossa rede interna, precisamos criar uma VM, por exemplo com Windows 11 para visualizar o deploy do Static Web App no navegador
+Já que não colocamos o Static Web App na internet, ele está apenas acessível na nossa rede interna. Precisamos criar uma VM, por exemplo, com Windows 11 para visualizar o deploy do Static Web App no navegador.
 
-Dentro do nosso rg-swa, com nome: win-swa, com tipo de segurança Standard e imagem Windows 11 Pro
+Dentro do nosso rg-swa, com o nome: win-swa, com tipo de segurança Standard e imagem Windows 11 Pro.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa36.png)
 
-Escolhi o tamanho Standard_B4ms para ser mais rápido os teste, criei um usuário e senha da sua preferencia (não se esqueça de anotar a senha rs)
+Escolhi o tamanho Standard_B4ms para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa37.png)
 
-Sem porta de entrada pública, iremos configurar depois manualmente, e confirme a licença
+Sem porta de entrada pública, iremos configurar depois manualmente. Confirme a licença.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa38.png)
 
-Certifique-se que esteja na Vnet Correta: vnet-swa, na subnet: default, e que não seja atribuido um NSG a NIC:
+Certifique-se de que esteja na Vnet correta: vnet-swa, na subnet: default, e que não seja atribuído um NSG à NIC:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa39.png)
 
@@ -454,36 +452,36 @@ Depois opções default. Finalizando precisamos liberar a porta RDP no nsg-swa, 
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa40.png)
 
-Estou usando Windows, portando, procure no iniciar remote e abra o Remote Desktop Connection:
+Estou usando Windows, portanto, procure no Iniciar "Remote" e abra o Remote Desktop Connection:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa41.png)
 
-Copie o IP Público, digite no Remote Desktop Connection, clique no botão conectar, escolhe uma conta diferente, digite o usuário e senha que foi criado anteriormente e clique ok:
+Copie o IP público, digite no Remote Desktop Connection, clique no botão conectar, escolha uma conta diferente, digite o usuário e senha que foram criados anteriormente e clique em ok:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa42.png)
 
-Confie no certificado:
+Confirme o certificado:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa43.png)
 
 #### Verificação do Deploy
-Vamos testar via Navegador Web, acesse a URL do seu Static Web App, retorne ao portal da azure, e copie o endereço de dominio para colar na VM Windows 11:
+Vamos testar via navegador web. Acesse a URL do seu Static Web App, retorne ao portal da Azure e copie o endereço de domínio para colar na VM Windows 11:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa49.png)
 
 - https://black-sand-0051c0f0f.5.azurestaticapps.net
 
-**OBS: Esse é o nome padrão que vem, podemos alterar validando nosso dominio externo e configurar ainda mais nossa aplicação dentro do nosso recurso Azure Static Web App**
+**OBS: Esse é o nome padrão que vem. Podemos alterá-lo validando nosso domínio externo e configurando ainda mais nossa aplicação dentro do nosso recurso Azure Static Web App.**
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa50.png)
 
-E se caso testarmos fora da nossa rede interna, por exemplo utilizando a rede externa, do nosso computador:
+E se testarmos fora da nossa rede interna, por exemplo, utilizando a rede externa do nosso computador:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa51.png)
 
 Acesso negado, conforme o esperado :D
 
-Podemos ainda configurar senhas de visitantes, por exemplo, se fosse uma api para consultar holerites, com dados sensiveis, dentro do portal da azure na parte configurações do Static Web App:
+Podemos ainda configurar senhas de visitantes. Por exemplo, se fosse uma API para consultar holerites, com dados sensíveis, dentro do portal da Azure na seção de configurações do Static Web App:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa52.png)
 
@@ -495,11 +493,11 @@ Digitando a senha conseguimos acessar a API:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa50.png)
 
-# Desenho Arquitetura
+## Desenho Arquitetura
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/swa.png)
 
-# Conclusão
-Neste artigo, Aprendemos como configurar uma Virtual Machine no Azure (Resource Group, Virtual Network, Network Security Group, Disco, Network Interface, Public IP address), configuramos uma API simples utilizando Python e Flask, documentamos a API com Doxygen e hospedamos a documentação no Azure Static Web Apps (Private Endpoint + Private DNS). Utilizamos o GitHub para hospedar o código e implementamos pipelines com GitHub Actions para realizar o deploy automático no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível, utilizando o provedor de nuvem Azure. Se você tiver dúvidas estou à disposição para ajudar.
+## Conclusão
+Neste artigo, aprendemos como configurar uma Virtual Machine no Azure (Resource Group, Virtual Network, Network Security Group, Disco, Network Interface, Public IP address). Configuramos uma API simples utilizando Python e Flask, documentamos a API com Doxygen e hospedamos a documentação no Azure Static Web Apps (Private Endpoint + Private DNS). Utilizamos o GitHub para hospedar o código e implementamos pipelines com GitHub Actions para realizar o deploy automático no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível, utilizando o provedor de nuvem Azure. Se você tiver dúvidas estou à disposição para ajudar.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

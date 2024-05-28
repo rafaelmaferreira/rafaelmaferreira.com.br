@@ -13,7 +13,7 @@ Em um mundo onde o monitoramento e a observabilidade tornaram-se cruciais para a
 
 O Alertmanager é uma ferramenta especializada, integrada ao ecossistema do Prometheus, responsável por gerenciar os alertas. Quando o Prometheus detecta uma situação que atende a um critério de alerta predefinido, ele envia esses alertas para o Alertmanager. Em seguida, cabe ao Alertmanager decidir o que fazer com eles.
 
-![](/assets/img/artigos/2023-08-14-artigo-prometheus1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-08-14-artigo-prometheus1.png)
 
 ## Funcionalidades Principais
 
@@ -22,7 +22,7 @@ O Alertmanager é uma ferramenta especializada, integrada ao ecossistema do Prom
 3. Silenciamento: Se você já está ciente de um problema e está trabalhando nele, o Alertmanager permite que você silencie alertas específicos.
 4. Roteamento: Dependendo da gravidade ou do tipo do alerta, ele pode ser roteado para diferentes equipes ou canais, como email, Slack ou PagerDuty.
 
-![](/assets/img/artigos/2023-08-14-artigo-prometheus2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-08-14-artigo-prometheus2.png)
 
 ## Por Que Usar o Alertmanager?
 
@@ -30,7 +30,7 @@ Em resumo, o Alertmanager ajuda as equipes a focarem nos alertas que realmente i
 
 Para aqueles que buscam uma solução robusta de gerenciamento de alertas que integre perfeitamente ao Prometheus, o Alertmanager é, sem dúvida, uma escolha acertada.
 
-![](/assets/img/artigos/2023-08-14-artigo-prometheus3.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-08-14-artigo-prometheus3.png)
 
 Aqui vai o link da documentação caso você queira ler um pouco mais: <i class="fa-solid fa-link"></i> [ALERTMANAGER](https://prometheus.io/docs/alerting/latest/alertmanager/)
 

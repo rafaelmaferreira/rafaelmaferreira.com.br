@@ -9,7 +9,7 @@ tags: [Azure, Cloud Foundation, Cloud Adoption Framework]
 ## Introdução
 A adoção da nuvem tornou-se crucial nas estratégias de transformação digital das organizações modernas. Com a promessa de escalabilidade, eficiência e inovação, a nuvem é uma força poderosa a ser considerada. No entanto, a migração para a nuvem sem uma estratégia coerente pode levar a desafios significativos. É aqui que o Azure Cloud Adoption Framework (CAF) aparece, fornecendo um roteiro estruturado para uma transição bem-sucedida ou (talvez) não?!
 
-![](/assets/img/posts/2023-12-04-foundation-cloud1.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-04-foundation-cloud1.jpeg)
 
 ## Por que uma Fundação Sólida é Crucial?
 Assim como a fundação de uma casa é crucial para a sua estabilidade e longevidade, uma fundação sólida é igualmente essencial para a adoção da nuvem. Sem uma base robusta, uma casa pode enfrentar rachaduras, infiltrações e até colapso sob condições adversas. Da mesma forma, sem uma estratégia bem definida e uma infraestrutura bem preparada, as iniciativas de nuvem podem se deparar com vulnerabilidades de segurança, sobrecarga de custos e um descompasso com as necessidades e objetivos do negócio. Uma abordagem estratégica e bem planejada é como um alicerce bem construído; ela suporta o peso dos seus projetos de TI e garante que sua transição para a nuvem seja tanto resiliente quanto capaz de se adaptar e crescer com as exigências futuras.  
@@ -26,7 +26,7 @@ O CAF do Azure é um guia abrangente que ajuda a garantir uma migração e opera
 - 🔐 **Segurança**: Assegura que todas as etapas, estejam fundamentadas em práticas de segurança e conformidade regulatória.  
   
 
-![](/assets/img/posts/2023-12-04-foundation-cloud4.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-04-foundation-cloud4.png)
 
 ## Estratégia e Planejamento
 Uma estratégia de nuvem bem definida é o primeiro passo para uma adoção bem-sucedida. Por que quero ir para Cloud? O que irei ganhar com a Cloud? Definir os resultados desejados e o caso de negócios fornece uma base sólida para o planejamento subsequente.
@@ -37,7 +37,7 @@ Antes de qualquer construção, um terreno deve ser preparado e nivelado, uma et
 ## Migração e Inovação
 A migração para a nuvem oferece a oportunidade de reavaliar e otimizar as cargas de trabalho existentes, bem como inovar com novas soluções. O CAF fornece estratégias para ambos os cenários, ajudando a maximizar o valor da nuvem.
 
-![](/assets/img/posts/2023-12-04-foundation-cloud2.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-04-foundation-cloud2.jpeg)
 
 ## Ferramentas e Templates
 O Cloud Adoption Framework oferece recursos como ferramentas, modelos e avaliações para facilitar e agilizar a implementação de mudanças técnicas e promover uma adoção da nuvem mais rápida. Estes recursos são úteis em diferentes etapas do processo de adoção.
@@ -53,7 +53,7 @@ A adoção da nuvem é uma jornada transformadora que oferece oportunidades ilim
 
 Avalie sua estratégia de adoção de nuvem e obtenha recomendações para criar ou avançar seu caso de negócios na nuvem.
 
-![](/assets/img/posts/2023-12-04-foundation-cloud05.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-04-foundation-cloud05.png)
 
 Inicie sua avaliação com a [Processo de estratégia de adoção de nuvem](https://learn.microsoft.com/pt-br/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/).
 
@@ -63,4 +63,4 @@ Tal como uma casa só perdura ao longo do tempo com uma fundação robusta e um 
 
 Fique atento para os próximos artigos, onde mergulharemos nas "landing zones" e exploraremos como elas desempenham um papel crucial na otimização da sua estratégia de nuvem. Se você está pronto para começar sua jornada na nuvem ou otimizar sua infraestrutura em nuvem existente, o Azure CAF pode ser o parceiro ideal para sua empresa. Vamos juntos construir uma arquitetura de nuvem que não é apenas funcional, mas também duradoura e escalável.
 
-![](/assets/img/posts/Logo2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

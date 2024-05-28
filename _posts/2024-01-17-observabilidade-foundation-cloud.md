@@ -10,7 +10,7 @@ tags: [Azure, Cloud Foundation, Monitoria, Observabilidade]
 
 No contexto atual de tecnologias Cloud Native e microsserviços, exige uma abordagem robusta necessária de monitoria e observabilidade como componentes fundamentais para a garantia de eficiência operacional e performance. Este artigo, explora como a observabilidade detalhada pode fornecer insights valiosos para otimizar o desempenho e a sustentabilidade em ambientes Cloud Native.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud01.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud01.png)
 
 ## O Papel da Monitoria e Observabilidade
 
@@ -23,7 +23,7 @@ A monitoria e observabilidade são essenciais no ciclo de vida do software, espe
 ### Diferença entre Monitoria e Observabilidade
 - Enquanto a monitoria fornece dados quantitativos, a observabilidade permite compreender a complexidade e os detalhes das informações obtidas, permitindo perguntas detalhadas sobre o comportamento do sistema.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud02.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud02.png)
 
 ## A Importância da Observabilidade
 
@@ -39,7 +39,7 @@ A observabilidade vai além da simples monitoria de sistemas. Ela envolve uma an
 - **Logs:** Revelam padrões ocultos e ajudam na resolução de problemas.
 - **Trace:** Rastreiam requisições e transações em microsserviços, identificando gargalos e otimizando a performance.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud03.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud03.png)
 
 ## Ferramentas em Destaque
 
@@ -66,7 +66,7 @@ Estes indicadores são cruciais para medir e estabelecer metas claras de qualida
 - **SLOs (Service Level Objectives):** Metas de desempenho específicas que um serviço se compromete a alcançar para atender ao SLA.
 - **SLAs (Service Level Agreements):** Acordos formais sobre os níveis de serviço entre provedores e clientes.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud04.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud04.png)
 
 ## Os Quatro Sinais de Ouro
 
@@ -95,7 +95,7 @@ Com a observabilidade conseguimos manter a saúde e a eficiência dos sistemas. 
 - **Métodos de Medição:**
     - Medição da sobrecarga de recursos (CPU, memória, disco, rede).
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud05.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud05.png)
 
 Cada um destes sinais oferece insights valiosos sobre diferentes aspectos do sistema e, quando monitorados juntos, proporcionam uma visão abrangente da saúde e desempenho da aplicação ou serviço.
 
@@ -103,7 +103,7 @@ Cada um destes sinais oferece insights valiosos sobre diferentes aspectos do sis
 
 O gerenciamento de logs é uma parte crítica da observabilidade, mas pode se tornar inviável se não for feito de maneira estratégica. A eficácia e o custo dos logs dependem de como são utilizados e gerenciados dentro de uma organização.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud06.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud06.png)
 
 ### Caro para Quem Não Sabe o Que Fazer com Eles
 - **Definição de Objetivos:** Sem uma compreensão clara do que se pretende alcançar com os logs, eles podem se tornar apenas um amontoado de dados sem valor agregado.
@@ -123,7 +123,7 @@ Ao abordar os logs com uma estratégia clara, focada na coleta seletiva e na an�
 - **Fundamental para o Negócio:** A ausência de observabilidade em uma aplicação sugere que ela pode não ser considerada vital para o negócio. A observabilidade contínua garante que os sistemas sejam confiáveis e performáticos.
 - **Equipe Dedicada:** Idealmente, cada aplicação deve ter uma equipe dedicada focada em sua observabilidade, garantindo atenção contínua e melhorias constantes.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud07.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud07.png)
 
 ### Quem Não Mede, Não Gerencia
 - **Maturidade Organizacional:** Implementar a observabilidade exige maturidade organizacional. É um processo complexo que necessita de uma abordagem detalhada e dedicada.
@@ -137,7 +137,7 @@ A criação de uma cultura que valoriza a observabilidade é crucial para o suce
 - **Colaboração Interfuncional:** Desenvolvedores, operações e equipes de QA devem trabalhar juntos para identificar e resolver problemas de forma rápida e eficaz.
 - **Resolução Rápida de Problemas:** Uma cultura focada na observabilidade permite que problemas sejam identificados e resolvidos rapidamente, minimizando o impacto negativo no desempenho e na experiência do usuário.
 
-![](/assets/img/posts/2024-01-17-observabilidade-foundation-cloud08.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-17-observabilidade-foundation-cloud08.png)
 
 Uma cultura de observabilidade robusta não só melhora a confiabilidade e a performance dos sistemas,
 
@@ -161,4 +161,4 @@ Destaco a importância de adotar práticas de monitoria e observabilidade desde 
 
 Este artigo destina-se a servir como uma referência abrangente e ponto de partida para aqueles que estão começando sua jornada em ambientes Cloud Native, focando na importância crítica da monitoria e observabilidade para garantir sistemas eficientes, confiáveis e sustentáveis.
 
-![](/assets/img/posts/Logo2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

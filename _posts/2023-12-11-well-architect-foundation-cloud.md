@@ -9,12 +9,12 @@ tags: [Azure, Cloud Foundation, Well-Architected, Cloud Adoption Framework]
 
 Com o avanço da tecnologia e a crescente adoção de soluções em nuvem, tornou-se essencial para as organizações construírem uma infraestrutura de TI robusta e bem planejada. O [Well-Architected Framework](https://learn.microsoft.com/pt-br/azure/well-architected/) e o [Azure Cloud Adoption Framework](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/) são dois conjuntos de práticas recomendadas que ajudam as empresas a alcançar esse objetivo. Neste artigo, vamos explorar os pilares do Well-Architected Framework e discutir a importância desses princípios em conjunto com o Azure Cloud Adoption Framework na construção de uma fundação sólida para a adoção da nuvem.
 
-![](/assets/img/posts/2023-12-12-well-architect-foundation-cloud4.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-12-well-architect-foundation-cloud4.jpeg)
 
 ## Pilares do Well-Architected Framework
 
 O Well-Architected Framework é uma abordagem criada pela Amazon Web Services (AWS) que orienta a construção de sistemas seguros, de alto desempenho, resilientes e eficientes. Este framework é composto por cinco pilares fundamentais seguidos por Princípios de design:
-![](/assets/img/posts/2023-12-12-well-architect-foundation-cloud2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-12-well-architect-foundation-cloud2.png)
 
 
 - ### Excelência Operacional
@@ -32,7 +32,7 @@ O que fazer para otimizar o desempenho e usar eficientemente os recursos dispon�
 - ### Otimização de Custos
 O objetivo aqui é evitar gastos desnecessários. Isso envolve compreender e controlar onde o dinheiro está sendo gasto, selecionar o modelo de preços mais econômico e analisar o consumo de recursos.
 
-![](/assets/img/posts/2023-12-12-well-architect-foundation-cloud3.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-12-well-architect-foundation-cloud3.jpeg)
 
 ## Importância dos Pilares e sua Integração com o Azure Cloud Adoption Framework
 
@@ -44,7 +44,7 @@ Avalie sua carga de trabalho usando os pilares principais para identificar e pri
 
 Inicie sua avaliação com a [Revisão de Well-Architected do Azure](https://learn.microsoft.com/pt-br/assessments/azure-architecture-review/).
 
-![](/assets/img/posts/2023-12-12-well-architect-foundation-cloud1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2023-12-12-well-architect-foundation-cloud1.png)
 
 ## Conclusão
 
@@ -54,4 +54,4 @@ Para mais informações sobre o Well-Architected Framework e o Azure Cloud Adopt
 
 Espero que este artigo ajude você a entender melhor a importância de seguir os pilares do Well-Architected Framework e como o Azure CAF pode apoiar a sua jornada para a nuvem.
 
-![](/assets/img/posts/Logo2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

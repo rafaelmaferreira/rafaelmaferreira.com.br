@@ -6,7 +6,7 @@ author: rafaferreira011
 categories: [Artigos, Aks, ACR]
 tags: [Artigos, Aks, ACR]
 ---
-![](/assets/img/artigos/2023-02-05-artigo-aks-acr1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-02-05-artigo-aks-acr1.png)
 
 
 O Kubernetes é uma das tecnologias mais populares para gerenciamento de contêineres na nuvem. Ele permite a implantação, escalabilidade e gestão de aplicativos em contêineres de forma altamente automatizada e confiável. Além disso, o Kubernetes oferece recursos avançados de orquestração de contêineres, como balanceamento de carga, escalabilidade horizontal e garantia de disponibilidade.
@@ -15,14 +15,14 @@ Para maximizar a eficiência e o desempenho do Kubernetes, é importante que as 
 
 Neste artigo, vamos explorar como usar o ACR como repositório de imagem docker para implementar uma API. O objetivo é mostrar como aproveitar ao máximo as vantagens do Kubernetes e do ACR para implementar e gerenciar aplicativos em contêineres de forma eficiente e confiável.
 
-![](/assets/img/artigos/2023-02-05-artigo-aks-acr2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-02-05-artigo-aks-acr2.png)
 
 Começamos criando uma nova API em uma linguagem de programação de sua escolha, como Node.js ou Python. Em seguida, criamos uma imagem docker da API, utilizando as diretrizes de Dockerfile e as ferramentas de build da plataforma. Em seguida, enviaremos a imagem docker para o ACR usando o comando "docker push".
 
-![](/assets/img/artigos/2023-02-05-artigo-aks-acr3.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-02-05-artigo-aks-acr3.png)
 
 Com a imagem docker armazenada no ACR, podemos prosseguir com a implantação da API no Kubernetes. Para isso, criamos um arquivo de descrição do deploy, que especifica as configurações de implantação, como número de réplicas, requisitos de recursos, etc. Em seguida, usamos o comando "kubectl apply" para aplicar as configurações de deploy no cluster do Kubernetes.
 
-![](/assets/img/artigos/2023-02-05-artigo-aks-acr4.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/2023-02-05-artigo-aks-acr4.png)
 
 A partir daí, o Kubernetes se encarregará de gerenciar as réplicas

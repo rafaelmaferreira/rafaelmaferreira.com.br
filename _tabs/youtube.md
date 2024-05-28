@@ -10,7 +10,7 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 # LowOps Channel
 
-[![LowOps Channel](/assets/img/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
+[![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
 
 <!-- new_videos_here -->
 
@@ -28,7 +28,7 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 # Azure Floripa
 
-[![Azure Floripa](/assets/img/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
+[![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
 ## Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica
 [![Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica](https://img.youtube.com/vi/6drxvyPhmMc/0.jpg)](https://www.youtube.com/watch?v=6drxvyPhmMc)

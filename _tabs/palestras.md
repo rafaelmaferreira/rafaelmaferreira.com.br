@@ -25,7 +25,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Presenciais: 
 
 ## KCD São Paulo - Brasil 2024
-![KCD-Sao-Paulo-Brasil-2024](/assets/img/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
+![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
@@ -60,7 +60,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ## TechTalk CI&T - Azure Cloud Foundation
 
-![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](/assets/img/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
+![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
 - <i class="fa-solid fa-link"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)

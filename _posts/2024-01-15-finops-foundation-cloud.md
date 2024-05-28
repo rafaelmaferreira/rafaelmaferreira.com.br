@@ -13,7 +13,7 @@ FinOps é uma estrutura operacional e prática cultural que maximiza o valor com
 
 Conselho Consultivo Técnico da Fundação FinOps define FinOps como uma mudança cultural, onde a responsabilidade pelo uso da nuvem é compartilhada por todos, apoiada por um grupo central de práticas recomendadas. Essa abordagem multifuncional permite uma entrega mais rápida de produtos com maior controle financeiro e previsibilidade.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud05.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud05.png)
 
 ### Estrutura FinOps
 
@@ -33,7 +33,7 @@ FinOps envolve várias partes interessadas, incluindo Executivos, Engenheiros, P
 
 Os Princípios do FinOps atuam como uma bússola orientadora para as atividades da prática de FinOps. Desenvolvidos pelos membros da FinOps Foundation e aprimorados através da experiência, esses princípios cobrem múltiplas nuvens e podem evoluir ao longo do tempo com a aquisição de novas experiências.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud06.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud06.png)
 
 Existem seis princípios norteadores na prática de FinOps, que guiam as atividades e decisões dentro dessa abordagem. Esses princípios devem ser considerados como um todo e praticados integralmente:
 
@@ -76,7 +76,7 @@ Existem seis princípios norteadores na prática de FinOps, que guiam as ativida
 
 A adoção do FinOps em uma organização começa com a construção de uma apresentação informativa para outras equipes, colegas de trabalho e partes interessadas sobre os benefícios de construir uma prática de FinOps. É essencial obter suporte executivo amplo e compromisso para dedicar tempo e recursos necessários para a mudança cultural.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud01.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud01.png)
 
 ### Os Direcionadores do FinOps: Os Primeiros Passos
 
@@ -107,7 +107,7 @@ Um papel chave para a adoção do FinOps é o "Direcionador". Abaixo estão algu
 
 Ao propor a adoção de uma função FinOps dentro de uma organização, é necessário informar uma variedade de personas entre a equipe executiva.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud02.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud02.png)
 
 ### Responsabilidade e Expectativas por Equipe (Modelagem RACI / DACI)
 
@@ -129,7 +129,7 @@ A transformação digital transcende a mera adoção de novas tecnologias; ela e
 
 A integração de DevOps com FinOps abre um novo horizonte para as empresas, combinando eficiência técnica com sustentabilidade financeira. Esta sinergia permite que as organizações otimizem seus recursos, reduzam custos e, ao mesmo tempo, mantenham um alto padrão de inovação e eficiência operacional.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud04.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud04.png)
 
 ## Maximizando a Transparência com Observabilidade
 
@@ -143,16 +143,16 @@ A adoção de práticas robustas em Cloud Native beneficia imensamente a comunid
 
 Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud07.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud07.png)
 
 ### Ferramenta de revisão de avaliação
 
 Use as diretrizes de FinOps para avaliar as lacunas de recursos da sua organização. Obtenha recomendações para maximizar o valor dos negócios na nuvem usando boas práticas de FinOps.
 
-![](/assets/img/posts/2024-01-15-finops-foundation-cloud03.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud03.png)
 
 Inicie sua avaliação com a [Revisão do FinOps](https://learn.microsoft.com/pt-br/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3/).
 
 Para mais informações sobre [O que é FinOps?](https://www.finops.org/) segue documentação que foi base desse artigo.
 
-![](/assets/img/posts/Logo2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

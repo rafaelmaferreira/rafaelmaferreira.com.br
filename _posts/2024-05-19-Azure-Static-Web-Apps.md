@@ -464,7 +464,7 @@ Confirme o certificado:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa43.png)
 
-#### Verificação do Deploy
+## Finalizando: Verificação do Deploy
 Vamos testar via navegador web. Acesse a URL do seu Static Web App, retorne ao portal da Azure e copie o endereço de domínio para colar na VM Windows 11:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa49.png)

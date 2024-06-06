@@ -133,7 +133,7 @@ sudo apt-get install python3 python3-pip -y
 
 Vamos estruturar nosso projeto da seguinte forma:
 
-```bash
+```yaml
 /meu_projeto
     /docs
       /doxygen_docs
@@ -168,7 +168,7 @@ Crie e edite o arquivo app.py com o seguinte conteúdo:
 vim app.py
 ```
 
-```bash
+```yaml
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
@@ -415,8 +415,8 @@ jobs:
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
-          azure_static_web_apps_api_token: `${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}`
-          repo_token: `${{ secrets.GITHUB_TOKEN }}`
+          azure_static_web_apps_api_token: $\{\{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN \}\}
+          repo_token: $\{\{ secrets.GITHUB_TOKEN \}\}
           action: "upload"
           app_location: "/"
           output_location: "docs/doxygen_docs/html"

@@ -397,7 +397,7 @@ No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie
 
 Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
 
-
+"
 name: Deploy Static Web App
 
 on:
@@ -420,7 +420,7 @@ jobs:
           action: "upload"
           app_location: "/"
           output_location: "docs/doxygen_docs/html"
-
+"
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa35.png)
 

@@ -395,7 +395,7 @@ No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa23.png)
 
-Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { {**
+Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { { e } } **
 
 ```yaml
 name: Deploy Static Web App

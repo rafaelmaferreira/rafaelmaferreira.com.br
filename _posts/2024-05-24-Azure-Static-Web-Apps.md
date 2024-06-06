@@ -298,7 +298,7 @@ Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: "pvt-swa
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa26.png)
 
 ## Passo 9: Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app".
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app", não vamos adicionar README para seguir com os futuros comandos.
 
 **Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
 
@@ -321,7 +321,7 @@ ssh-keygen
 OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar nosso laboratório. Crianças, nunca façam isso em produção :D
 
 ```bash
-cat /home/raafel/.ssh/id_rsa.pub
+cat /home/rafael/.ssh/id_rsa.pub
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa30.png)
 
@@ -347,7 +347,7 @@ cd meu_projeto/docs/doxygen_docs/html/
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa20.png)
 
-E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueçam de mudar : "git add README.md" para "git add .":
+E então vamos fazer o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueça de mudar: "git add README.md" para "git add .":
 
 ```bash
 echo "# static-web-app" >> README.md

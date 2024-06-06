@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Simplificando a Utilização do Static Web Apps no Azure"
+title: "Guia de Criação de Virtual Machine no Microsoft Azure"
 author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
-categories: [Artigos, Azure, Static Web Apps]
-tags: [Artigos, Azure, Static Web Apps]
+categories: [Artigos, Azure, Virtual Machine]
+tags: [Artigos, Azure, Virtual Machine]
 ---
 
 ## Passo 1: Criação do Resource Group
@@ -60,7 +60,7 @@ ssh usuario@IPX.XXX.XXX.XX
 No meu caso: 
 
 ```bash
-ssh raafel@172.203.234.14
+ssh raafel@172.210.28.194
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example9.png)
 
@@ -74,7 +74,7 @@ sudo apt-get upgrade -y
 
 
 ## Passo 9: Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "example".
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app", não vamos adicionar README para seguir com os futuros comandos.
 
 **Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
 
@@ -97,7 +97,7 @@ ssh-keygen
 OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar nosso laboratório. Crianças, nunca façam isso em produção :D
 
 ```bash
-cat /home/rafael/.ssh/id_rsa.pub
+cat /home/raafel/.ssh/id_rsa.pub
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example30.png)
 
@@ -123,15 +123,15 @@ cd docs/doxygen_docs/html/
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example20.png)
 
-E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, nao se esqueca de mudar : "git add README.md" para "git add .":
+E então vamos fazer o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueça de mudar: "git add README.md" para "git add .":
 
 ```bash
-echo "# static-web-app" >> README.md
+echo "# example" >> README.md
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:rafaelmaferreira/static-web-app.git
+git remote add origin git@github.com:rafaelmaferreira/example.git
 git push -u origin main
 ```
 
@@ -191,8 +191,8 @@ jobs:
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          azure_static_web_apps_api_token: $ {{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          repo_token: $ {{ secrets.GITHUB_TOKEN }}
           action: "upload"
           app_location: "/"
           output_location: "docs/doxygen_docs/html"

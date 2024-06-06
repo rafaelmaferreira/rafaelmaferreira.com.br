@@ -9,13 +9,13 @@ tags: [Artigos, Azure, Static Web Apps]
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa000.png)
 
-## O que são os Azure Static Web Apps?
+## Introdução
 
-Os [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/) são um serviço que cria e implanta automaticamente aplicativos Web full stack no Azure a partir de um repositório de códigos. **(Correção: códigos -> código)** Este serviço é personalizado para o fluxo de trabalho diário de um desenvolvedor, criando e implantando aplicativos baseados em alterações de código feitas em repositórios GitHub ou Azure DevOps.
+Os [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/) são um serviço que cria e implanta automaticamente aplicativos Web full stack no Azure a partir de um repositório de códigos. Este serviço é personalizado para o fluxo de trabalho diário de um desenvolvedor, criando e implantando aplicativos baseados em alterações de código feitas em repositórios GitHub ou Azure DevOps.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa00.png)
 
-Ao criar um recurso dos [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/overview), o Azure monitora um branch de sua escolha e, Sempre que você faz push de commits ou aceita pull requests, um build é executado automaticamente e seu aplicativo juntamente com sua API é implantado no Azure.
+Ao criar um recurso dos [Azure Static Web Apps](https://learn.microsoft.com/pt-br/azure/static-web-apps/overview), o Azure monitora um branch de sua escolha e, Sempre que você faz push de commits ou aceita pull requests, um build é executado automaticamente e seu aplicativo juntamente com sua API é implantado no Azure.
 
 Este serviço é ideal para aplicativos Web que utilizam bibliotecas e frameworks como Angular, React, Svelte, Vue ou Blazor, onde a renderização do lado do servidor não é necessária. Os arquivos estáticos (HTML, CSS, JavaScript, imagens) são distribuídos globalmente, proporcionando um fornecimento de arquivos rápido e eficiente, enquanto os pontos de extremidade da API são hospedados usando uma arquitetura serverless.
 
@@ -33,11 +33,9 @@ Este serviço é ideal para aplicativos Web que utilizam bibliotecas e framework
 - **Versões de preparo**: Alimentadas por pull requests para pré-visualização antes da publicação.
 - **Suporte da CLI**: Via CLI do Azure para criar recursos de nuvem e CLI de Azure Static Web Apps para desenvolvimento local.
 
-## Introdução
+## Documentação de API
 
 No desenvolvimento de software, a documentação desempenha um papel crucial para garantir que as APIs sejam compreensíveis e utilizáveis por outros desenvolvedores. Ferramentas como Doxygen oferecem abordagens diferentes para documentar APIs, cada uma com suas vantagens. Neste artigo, vamos explorar como configurar uma API simples utilizando Doxygen para documentação técnica detalhada, e hospedar a documentação no Azure Static Web Apps.
-
-O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações web estáticas, oferecendo integração contínua com repositórios GitHub ou Azure DevOps para deploy automático. Ele é ideal para aplicações front-end modernas com back-ends serverless. Comparado ao Azure Web Apps, o Static Web Apps é mais econômico e oferece otimizações específicas para sites estáticos e SPAs (Single Page Applications).
 
 ![rg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa01.png)
 
@@ -45,10 +43,9 @@ O Azure Static Web Apps é um serviço que permite a hospedagem de aplicações 
 
 O objetivo deste artigo é fornecer um guia passo a passo para:
 
-1. Criação simplificada do Static Web Apps.
-2. Criar uma API simples com Python e Flask.
-3. Documentar o código utilizando Doxygen.
-4. Hospedar ambas as documentações no Azure Static Web Apps.
+1. Criar uma API simples com Python e Flask.
+2. Documentar o código utilizando Doxygen.
+3. Criação simplificada do Static Web Apps.
 
 ## Pré-requisitos
 
@@ -58,7 +55,7 @@ Antes de começarmos, você precisará ter:
 
 ## Passo 1: Criação do Resource Group
 
-Criando o Resource Group com nome rg-swa.
+Criando o Resource Group com nome rg-swa, Review + Criar.
 
 ![rg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa1.png)
 
@@ -76,7 +73,7 @@ Seguindo, criação do NSG (nsg-swa) com as opções padrão dentro do Resource 
 
 ## Passo 4: Anexar o NSG à Subnet
 
-Vamos anexar o NSG à Subnet default que está dentro da vnet-swa para liberações de portas de forma centralizada e facilitada:
+Após finalizar, acesse o recurso, e anexe o NSG à Subnet default que está dentro da vnet-example para liberações de portas de forma centralizada e facilitada:
 
 ![nsg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa4.png)
 
@@ -86,11 +83,11 @@ Vamos criar a VM com nome lnx-swa dentro do rg-swa com o tipo de segurança: Sta
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa5.png)
 
-**Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
-
-A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. A arquitetura da VM será Arm64 para maior eficiência energética e de processamento. O tamanho será uma Standard_D2ps_v5 compatível com a arquitetura. A autenticação será feita por senha, de acordo com a preferência de cada um.
+A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. A arquitetura da VM será Arm64 para maior eficiência energética e de processamento. O tamanho será uma Standard_D2ps_v5 compatível com a arquitetura. A autenticação será feita por senha, de acordo com a preferência de cada um e sem portas de entradas públicas.
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa6.png)
+
+**Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
 Certifique-se de que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
 
@@ -102,7 +99,7 @@ Precisamos liberar a porta SSH 22 dentro do nsg-swa para seguir com os procedime
 
 ![nsg-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa8.png)
 
-Verifique qual IP público foi atribuído à VM lnx-swa, copie e utilize o comando para conexão ssh:
+Verifique qual IP público foi atribuído à VM vm-example, copie e abra um terminal para conexão ssh:
 
 ```bash
 ssh usuario@IPX.XXX.XXX.XX
@@ -119,7 +116,6 @@ De preferência, atualize os pacotes do sistema:
 ```bash
 sudo apt-get update
 sudo apt-get upgrade -y
-
 ```
 ![sudo apt-get upgrade -y](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa10.png)
 
@@ -158,6 +154,8 @@ cd meu_projeto/src
 
 ### Criando a API com Flask
 
+Primeiramente instale o Flaks:
+
 ```bash
 pip install Flask
 ```
@@ -165,6 +163,10 @@ pip install Flask
 ![pip install Flask](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa13.png)
 
 Crie e edite o arquivo app.py com o seguinte conteúdo:
+
+```bash
+vim app.py
+```
 
 ```bash
 from flask import Flask, jsonify, request
@@ -227,10 +229,10 @@ sudo apt-get install doxygen
 
 ### Configuração do Doxygen
 
-Primeiramente criamos o arquivo Doxyfile com o comando touch, dentro da pasta src:
+Primeiramente criamos o arquivo Doxyfile com o comando "doxygen -g Doxyfile", dentro da pasta src:
 
 ``` bash 
-touch Doxyfile
+doxygen -g Doxyfile
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa18.png)
 
@@ -257,6 +259,8 @@ Para facilitar a edição, você pode procurar uma palavra especifica saindo do 
 
 Assim você consegue encontrar determinadas palavras de forma facilitada no editor vim :D.
 
+Não se esqueça, para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando
+
 ### Instalando o Graphviz
 
 O Doxygen usa o Graphviz para gerar gráficos de dependência e diagramas de classes. Vou orientá-lo na instalação do Graphviz:
@@ -275,7 +279,7 @@ doxygen Doxyfile
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa19.png)
 
-A documentação será gerada no diretório ../docs/doxygen_docs.
+A documentação será gerada no diretório ~/meu_projeto/docs/doxygen_docs.
 
 ## Passo 8: Fazer o Deploy no Azure Static Web Apps
 
@@ -317,7 +321,7 @@ ssh-keygen
 OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar nosso laboratório. Crianças, nunca façam isso em produção :D
 
 ```bash
-cat /home/rafael/.ssh/id_rsa.pub
+cat /home/raafel/.ssh/id_rsa.pub
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa30.png)
 
@@ -327,7 +331,7 @@ Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo 
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa31.png)
 
-Retorne a VM e faça a configuracao minima para o git, lembre-se de alterar suas informacoes:
+Retorne a VM e faça a configurção mínima  para o git, lembre-se de alterar suas informações:
 
 ```bash
 git config --global user.name "rafaelmaferreira"
@@ -335,15 +339,15 @@ git config --global user.email rafael.low1@gmail.com
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa32.png)
 
-Vamos entrar no diretório XX para fazer o push para o GitHub:
+Vamos entrar no diretório html para fazer o push dos arquivos para o GitHub:
 
 ```bash
-cd docs/doxygen_docs/html/
+cd meu_projeto/docs/doxygen_docs/html/
 ```
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa20.png)
 
-E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, nao se esqueca de mudar : "git add README.md" para "git add .":
+E entao o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueçam de mudar : "git add README.md" para "git add .":
 
 ```bash
 echo "# static-web-app" >> README.md

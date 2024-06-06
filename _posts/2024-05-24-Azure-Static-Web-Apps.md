@@ -298,7 +298,7 @@ Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: "pvt-swa
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa26.png)
 
 ## Passo 9: Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app", não vamos adicionar README para seguir com os futuros comandos.
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app", não vamos adicionar README para seguir com os futuros.
 
 **Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
 
@@ -415,8 +415,8 @@ jobs:
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
-          azure_static_web_apps_api_token: "${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}"
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          azure_static_web_apps_api_token: ${{ "secrets.AZURE_STATIC_WEB_APPS_API_TOKEN" }}
+          repo_token: ${{ "secrets.AZURE_STATIC_WEB_APPS_API_TOKEN" }}
           action: "upload"
           app_location: "/"
           output_location: "docs/doxygen_docs/html"

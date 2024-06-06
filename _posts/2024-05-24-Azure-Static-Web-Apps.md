@@ -397,7 +397,7 @@ No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie
 
 Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo:
 
-```yaml
+
 name: Deploy Static Web App
 
 on:
@@ -415,12 +415,12 @@ jobs:
       - name: Deploy Static Web App
         uses: Azure/static-web-apps-deploy@v1
         with:
-          azure_static_web_apps_api_token: $\{\{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN \}\}
-          repo_token: $\{\{ secrets.GITHUB_TOKEN \}\}
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
           app_location: "/"
           output_location: "docs/doxygen_docs/html"
-```
+
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa35.png)
 

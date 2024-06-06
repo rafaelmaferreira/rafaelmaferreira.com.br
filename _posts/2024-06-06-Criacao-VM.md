@@ -115,11 +115,6 @@ git config --global user.email rafael.low1@gmail.com
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example32.png)
 
-Vamos entrar no diretório XX para fazer o push para o GitHub:
-
-```bash
-cd docs/doxygen_docs/html/
-```
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example20.png)
 
@@ -141,72 +136,6 @@ Dando um Check no GitHub:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example34.png)
 
-### Criação de Secret no GitHub
-
-Pensando sempre em segurança com zero trust, vamos criar um segredo no repositório para armazenar o token de deployment.
-
-No portal da Azure, no example - Static Web App, clique em Manage deployment token e copie o token.
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example44.png)
-
-De volta ao GitHub, clique em Settings, Secrets and variables, actions, new repository secret:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example45.png)
-
-Digite o nome conforme exemplo:
-
-```bash
-AZURE_STATIC_WEB_APPS_API_TOKEN
-```
-
-e cole o Deployment token:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example46.png)
-
-Adicionar
-
-### Configuração do Workflow do GitHub Actions
-
-No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie um workflow você mesmo":
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example23.png)
-
-Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo, não se esqueçam de apagar as aspas no: "${{ secretsAZURE_STATIC_WEB_APPS_API_TOKEN }}" e repo_token: "${{ secrets.GITHUB_TOKEN }}":
-
-```bash
-name: Deploy Static Web App
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository content
-        uses: actions/checkout@v2
-
-      - name: Deploy Static Web App
-        uses: Azure/static-web-apps-deploy@v1
-        with:
-          azure_static_web_apps_api_token: "${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}"
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          action: "upload"
-          app_location: "/"
-          output_location: "docs/doxygen_docs/html"
-```
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example35.png)
-
-Não se esqueça de clicar no botão: "commit changes":
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example47.png)
-
-E voilá, pipeline executando:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example48.png)
 
 ## Passo 11: Criação da Virtual Machine Windows 11
 

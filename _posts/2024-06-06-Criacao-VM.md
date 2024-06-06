@@ -139,9 +139,9 @@ Dando um Check no GitHub:
 
 ## Passo 11: Criação da Virtual Machine Windows 11
 
-Já que não colocamos o Static Web App na internet, ele está apenas acessível na nossa rede interna. Precisamos criar uma VM, por exemplo, com Windows 11 para visualizar o deploy do Static Web App no navegador.
+Criar uma VM com Windows 11:
 
-Dentro do nosso rg-example, com o nome: win-example, com tipo de segurança Standard e imagem Windows 11 Pro.
+Dentro do nosso rg-example, com o nome: vm-example-win, com tipo de segurança Standard e imagem Windows 11 Pro.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example36.png)
 
@@ -173,40 +173,7 @@ Confirme o certificado:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example43.png)
 
-## Finalizando: Verificação do Deploy
-Vamos testar via navegador web. Acesse a URL do seu Static Web App, retorne ao portal da Azure e copie o endereço de domínio para colar na VM Windows 11:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example49.png)
-
-- https://black-sand-0051c0f0f.5.azurestaticapps.net
-
-**OBS: Esse é o nome padrão que vem. Podemos alterá-lo validando nosso domínio externo e configurando ainda mais nossa aplicação dentro do nosso recurso Azure Static Web App.**
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example50.png)
-
-E se testarmos fora da nossa rede interna, por exemplo, utilizando a rede externa do nosso computador:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example51.png)
-
-Acesso negado, conforme o esperado :D
-
-Podemos ainda configurar senhas de visitantes. Por exemplo, se fosse uma API para consultar holerites, com dados sensíveis, dentro do portal da Azure na seção de configurações do Static Web App:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example52.png)
-
-E então:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example53.png)
-
-Digitando a senha conseguimos acessar a API:
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example50.png)
-
-## Desenho Arquitetura
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/example.png)
-
 ## Conclusão
-Neste artigo, aprendemos como configurar uma Virtual Machine no Azure (Resource Group, Virtual Network, Network Security Group, Disco, Network Interface, Public IP address). Configuramos uma API simples utilizando Python e Flask, documentamos a API com Doxygen e hospedamos a documentação no Azure Static Web Apps (Private Endpoint + Private DNS). Utilizamos o GitHub para hospedar o código e implementamos pipelines com GitHub Actions para realizar o deploy automático no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível, utilizando o provedor de nuvem Azure. Se você tiver dúvidas estou à disposição para ajudar.
+
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

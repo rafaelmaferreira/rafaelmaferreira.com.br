@@ -395,7 +395,7 @@ No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa23.png)
 
-Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo, altere: e "repo_token: ${{ secrets.GITHUB_TOKEN }}":
+Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo, acrescente dentro do "azure_static_web_apps_api_token" o contéudo de: "secrets.AZURE_STATIC_WEB_APPS_API_TOKEN" dentro de duas { { }} e repo_token acrescente: "secrets.GITHUB_TOKEN" dentro de duas { { }}:
 
 ```yaml
 name: Deploy Static Web App

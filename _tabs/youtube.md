@@ -14,6 +14,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 <!-- new_videos_here -->
 
+## #04 Episodio com Rodrigo Paliosa
+[![#04 Episodio com Rodrigo Paliosa](https://img.youtube.com/vi/FyhURlTbyyU/0.jpg)](https://www.youtube.com/watch?v=FyhURlTbyyU&t=10s)
+
 ## #03 Episódio com Edesan Tomaz
 [![#03 Episódio com Edesan Tomaz](https://img.youtube.com/vi/CZTCLSgeRw4/0.jpg)](https://www.youtube.com/watch?v=CZTCLSgeRw4)
 
@@ -29,6 +32,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 # Azure Floripa
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
+
+## Trajetória Internacional - Do queijo minas ao queijo Gouda
+[![Trajetória Internacional - Do queijo minas ao queijo Gouda](https://img.youtube.com/vi/Ne-76V9XvxA/0.jpg)](https://www.youtube.com/watch?v=Ne-76V9XvxA)
 
 ## Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica
 [![Mesa Redonda - Transição de carreira é possível? + Carreira de TI, além da área técnica](https://img.youtube.com/vi/6drxvyPhmMc/0.jpg)](https://www.youtube.com/watch?v=6drxvyPhmMc)

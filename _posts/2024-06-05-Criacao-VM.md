@@ -6,28 +6,50 @@ author: rafaferreira011
 categories: [Artigos, Azure, Virtual Machine]
 tags: [Artigos, Azure, Virtual Machine]
 ---
+Criar máquinas virtuais no Microsoft Azure pode parecer uma tarefa complicada, mas com este guia passo a passo, você verá que é mais simples do que parece. Vamos explorar a criação de máquinas virtuais tanto para Linux quanto para Windows. Vamos começar!
 
 ## Passo 1: Criação do Resource Group
 
-Criando o Resource Group com nome rg-example, Review + Criar.
+Antes de criar qualquer recurso no Azure, precisamos de um Resource Group, que funciona como um contêiner lógico para todos os recursos relacionados. Vamos criar um Resource Group chamado `rg-example`.
+
+1. Acesse o portal do Azure.
+2. Vá para "Resource Groups" e clique em "Create".
+3. Nomeie seu Resource Group como `rg-example`.
+4. Selecione a região desejada.
+5. Clique em "Review + Create" e, em seguida, "Create".
 
 ![rg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example1.png)
 
 ## Passo 2: Criação da Virtual Network
 
-Criando a Virtual Network com nome vnet-example dentro do Resource Group rg-example com as opções padrão.
+A próxima etapa é criar uma Virtual Network (VNet), que permite a comunicação entre recursos do Azure.
+
+1. Vá para "Virtual Networks" e clique em "Create".
+2. Nomeie a VNet como `vnet-example`.
+3. Selecione o Resource Group `rg-example`.
+4. Configure o endereço IP e as sub-redes conforme necessário.
+5. Clique em "Review + Create" e, em seguida, "Create".
 
 ![vnet-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example2.png)
 
 ## Passo 3: Criação da NSG (Network Security Group)
 
-Seguindo, criação do NSG (nsg-example) com as opções padrão dentro do Resource Group rg-example. 
+O Network Security Group (NSG) é responsável por controlar o tráfego de rede para as VMs. Vamos criar um NSG chamado `nsg-example`.
+
+1. Vá para "Network Security Groups" e clique em "Create".
+2. Nomeie o NSG como `nsg-example`.
+3. Selecione o Resource Group `rg-example`.
+4. Clique em "Review + Create" e, em seguida, "Create".
 
 ![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example3.png)
 
 ## Passo 4: Anexar o NSG à Subnet
 
-Após finalizar, acesse o recurso, e anexe o NSG à Subnet default que está dentro da vnet-example para liberações de portas de forma centralizada e facilitada:
+Depois de criar o NSG, precisamos anexá-lo à Subnet `default` da nossa VNet `vnet-example`.
+
+1. Acesse a VNet `vnet-example` e selecione a Subnet `default`.
+2. Edite as configurações de segurança da Subnet.
+3. Selecione o NSG `nsg-example` e salve as alterações.
 
 ![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example4.png)
 
@@ -37,22 +59,34 @@ Vamos criar a VM com nome vm-example dentro do rg-example com o tipo de seguran�
 
 ![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example5.png)
 
-A imagem será uma Ubuntu Server 20.04 LTS ARM64 Gen2. A arquitetura da VM será Arm64 para maior eficiência energética e de processamento. O tamanho será uma Standard_D2ps_v5 compatível com a arquitetura. A autenticação será feita por senha, de acordo com a preferência de cada um e sem portas de entradas públicas.
+1. Vá para "Virtual Machines" e clique em "Create".
+2. Selecione o Resource Group `rg-example`.
+3. Nomeie a VM como `vm-example`.
+4. Altere o tipo de segurança para Standard.
+5. Selecione "Ubuntu Server 20.04 LTS ARM64 Gen2" como a imagem.
+6. Selecione "Arm64" como a arquitetura (para maior eficiência energética e de processamento).
+7. Configure a VM com o tamanho `Standard_D2ps_v5`.
+8. Escolha a autenticação por senha e defina uma senha.
+9. Certifique-se de que a VM não tenha portas de entrada públicas configuradas.
 
 ![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example6.png)
 **Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
-Certifique-se de que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
+10. Na seção "Networking", certifique-se de que a VM esteja na VNet `vnet-example` e na Subnet `default`.
+11. Selecione "Review + Create" e, em seguida, "Create".
 
 ![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example7.png)
 
-Depois seguimos com a instalação padrão.
+Após a criação, precisamos liberar a porta SSH 22 no NSG `nsg-example` para acessar a VM.
 
-Precisamos liberar a porta SSH 22 dentro do nsg-example para seguir com os procedimentos:
+1. Acesse o NSG `nsg-example`.
+2. Adicione uma regra de entrada para permitir o tráfego na porta 22.
 
 ![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example8.png)
 
-Verifique qual IP público foi atribuído à VM vm-example, copie e abra um terminal para conexão ssh:
+### Conectando-se à VM Linux
+
+Após a VM estar em execução verifique qual IP público foi atribuído à VM , copie o IP público e conecte-se via SSH:
 
 ```bash
 ssh usuario@IPX.XXX.XXX.XX
@@ -70,6 +104,7 @@ De preferência, atualize os pacotes do sistema:
 sudo apt-get update
 sudo apt-get upgrade -y
 ```
+
 ![sudo apt-get upgrade -y](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example10.png)
 
 ## Passo 6: Criação da Virtual Machine Windows 11

@@ -47,17 +47,16 @@ O Network Security Group (NSG) é responsável por controlar o tráfego de rede 
 
 Depois de criar o NSG, precisamos anexá-lo à Subnet `default` da nossa VNet `vnet-example`.
 
-1. Acesse a VNet `vnet-example` e selecione a Subnet `default`.
-2. Edite as configurações de segurança da Subnet.
-3. Selecione o NSG `nsg-example` e salve as alterações.
+1. Acesse o NSG `nsg-example` e selecione a settings > Subnet.
+2. Associate, selecione a subnet `default` e salve as alterações.
 
-![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example4.png)
+![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example19.png)
 
 ## Passo 5: Criação da Virtual Machine Linux
 
 Vamos criar a VM com nome vm-example dentro do rg-example com o tipo de segurança: Standard.
 
-![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example5.png)
+![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example4.png)
 
 1. Vá para "Virtual Machines" e clique em "Create".
 2. Selecione o Resource Group `rg-example`.
@@ -69,20 +68,21 @@ Vamos criar a VM com nome vm-example dentro do rg-example com o tipo de seguran�
 8. Escolha a autenticação por senha e defina uma senha.
 9. Certifique-se de que a VM não tenha portas de entrada públicas configuradas.
 
-![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example6.png)
+![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example5.png)
+
 **Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
 10. Na seção "Networking", certifique-se de que a VM esteja na VNet `vnet-example` e na Subnet `default`.
 11. Selecione "Review + Create" e, em seguida, "Create".
 
-![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example7.png)
+![lnx-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example6.png)
 
 Após a criação, precisamos liberar a porta SSH 22 no NSG `nsg-example` para acessar a VM.
 
 1. Acesse o NSG `nsg-example`.
 2. Adicione uma regra de entrada para permitir o tráfego na porta 22.
 
-![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example8.png)
+![nsg-example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example7.png)
 
 ### Conectando-se à VM Linux
 
@@ -96,7 +96,7 @@ No meu caso:
 ```bash
 ssh raafel@172.210.28.194
 ```
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example9.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example8.png)
 
 De preferência, atualize os pacotes do sistema:
 
@@ -105,43 +105,39 @@ sudo apt-get update
 sudo apt-get upgrade -y
 ```
 
-![sudo apt-get upgrade -y](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example10.png)
-
 ## Passo 6: Criação da Virtual Machine Windows 11
 
 Criar uma VM com Windows 11:
 
 Dentro do nosso rg-example, com o nome: vm-example-win, com tipo de segurança Standard e imagem Windows 11 Pro.
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example36.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example13.png)
 
 Escolhi o tamanho Standard_B4ms para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example37.png)
-
 Sem porta de entrada pública, iremos configurar depois manualmente. Confirme a licença.
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example38.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example14.png)
 
 Certifique-se de que esteja na Vnet correta: vnet-example, na subnet: default, e que não seja atribuído um NSG à NIC:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example39.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example15.png)
 
 Depois opções default. Finalizando precisamos liberar a porta RDP no nsg-example, settings, Inbound security rules, add, Services, RDP:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example40.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example16.png)
 
 Estou usando Windows, portanto, procure no Iniciar "Remote" e abra o Remote Desktop Connection:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example41.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example1.png)
 
 Copie o IP público, digite no Remote Desktop Connection, clique no botão conectar, escolha uma conta diferente, digite o usuário e senha que foram criados anteriormente e clique em ok:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example42.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example17.png)
 
 Confirme o certificado:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example43.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example18.png)
 
 ## Conclusão
 

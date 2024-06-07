@@ -9,15 +9,15 @@ tags: [Artigos, Azure, Virtual Machine]
 
 Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "example", não vamos adicionar README para seguir com os futuros comandos.
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example27.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example9.png)
 
 Precisamos adicionar a chave ssh da VM linux ao teu GitHub, clique na sua foto no canto superior direito, settings, SSH and GPG Keys:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example28.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example10.png)
 
 Add SSH Key:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example29.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example11.png)
 
 Agora, precisamos retornar à VM example e gerar uma nova chave SSH:
 
@@ -30,13 +30,13 @@ OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar noss
 ```bash
 cat /home/raafel/.ssh/id_rsa.pub
 ```
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example30.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example11.png)
 
 Copie toda a informação que e exibida após o comando cat e retorne para o GitHub.
 
 Na mesma tela que paramos, coloque o nome da VM, por exemplo: vm-example no titulo e copie o conteúdo da chave, conforme imagem abaixo:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example31.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example12.png)
 
 Retorne a VM e faça a configurção mínima para o git, lembre-se de alterar suas informações:
 
@@ -44,7 +44,7 @@ Retorne a VM e faça a configurção mínima para o git, lembre-se de alterar su
 git config --global user.name "rafaelmaferreira"
 git config --global user.email rafael.low1@gmail.com
 ```
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example32.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example20.png)
 
 E então vamos fazer o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueça de mudar: "git add README.md" para "git add .":
 
@@ -57,12 +57,9 @@ git branch -M main
 git remote add origin git@github.com:rafaelmaferreira/example.git
 git push -u origin main
 ```
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example33.png)
-
 Dando um Check no GitHub:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example34.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example21.png)
 
 ## Conclusão
 

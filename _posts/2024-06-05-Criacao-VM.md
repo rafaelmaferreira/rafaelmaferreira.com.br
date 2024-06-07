@@ -130,7 +130,7 @@ Depois, selecione as opções padrão. Finalizando, precisamos liberar a porta R
 
 Estou usando Windows, portanto, procure no Iniciar `Remote` e abra o Remote Desktop Connection:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example22.png)
 
 Copie o IP público, digite no Remote Desktop Connection, clique no botão conectar, escolha uma conta diferente, digite o usuário e senha que foram criados anteriormente e clique em ok:
 

@@ -201,7 +201,7 @@ python3 app.py
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa14.png)
 
-Inicie a aplicação e acesse http://172.203.234.14:5000/ no navegador. Porém a página não irá carregar, porque não liberamos a porta 5000 dentro do nsg-swa. Vamos lá!
+Inicie a aplicação e acesse `http://172.203.234.14:5000/` no navegador. Porém a página não irá carregar, porque não liberamos a porta `5000` dentro do `nsg-swa`. Vamos lá!
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa16.png)
 
@@ -391,7 +391,7 @@ Adicionar
 
 ### Configuração do Workflow do GitHub Actions
 
-No seu repositório GitHub, vá até a aba `Actions` e selecione a opcão: `Crie um workflow você mesmo`:
+No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie um workflow você mesmo":
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa23.png)
 

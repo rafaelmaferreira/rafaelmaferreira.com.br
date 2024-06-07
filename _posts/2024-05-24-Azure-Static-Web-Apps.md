@@ -325,13 +325,13 @@ cat /home/rafael/.ssh/id_rsa.pub
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa30.png)
 
-Copie toda a informacao que e exibida apos o comando cat e retorne para o GitHub.
+Copie toda a informação que e exibida após o comando cat e retorne para o GitHub.
 
 Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo e copie o conteúdo da chave, conforme imagem abaixo:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa31.png)
 
-Retorne a VM e faça a configurção mínima  para o git, lembre-se de alterar suas informações:
+Retorne a VM e faça a configurção mínima para o git, lembre-se de alterar suas informações:
 
 ```bash
 git config --global user.name "rafaelmaferreira"
@@ -395,7 +395,7 @@ No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa23.png)
 
-Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { { e } } **
+Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { { e } }**
 
 ```yaml
 name: Deploy Static Web App

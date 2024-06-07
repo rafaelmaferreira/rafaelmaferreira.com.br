@@ -162,7 +162,7 @@ pip install Flask
 
 ![pip install Flask](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa13.png)
 
-Crie e edite o arquivo `app.py` com o seguinte conteúdo:
+Crie e edite o arquivo app.py com o seguinte conteúdo:
 
 ```bash
 vim app.py
@@ -189,7 +189,7 @@ if __name__ == '__main__':
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa15.png)
 
-OBS1: IMPORTANTE - Para sair do Vim Aperte a tecla ESC depois `:wq` para sair salvando (write + quit (eu acho que seja isso)) e tecla ENTER.
+OBS1: IMPORTANTE - Para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando (write + quit (eu acho que seja isso)) e tecla ENTER.
 
 OBS2: Você que é da área de Infra/DevOps/Cloud, não se atente ao código, estamos usando um código fake para subirmos a infra.
 
@@ -209,7 +209,7 @@ E como mágica, teremos:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa17.png)
 
-OBS: Para sair aperte com as teclas `CTRL + C`.
+OBS: Para sair aperte com as teclas CTRL + C.
 
 ## Passo 7: Adicionar Doxygen para Documentação do Código-Fonte
 
@@ -229,7 +229,7 @@ sudo apt-get install doxygen
 
 ### Configuração do Doxygen
 
-Primeiramente criamos o arquivo Doxyfile com o comando `doxygen -g Doxyfile`, dentro da pasta src:
+Primeiramente criamos o arquivo Doxyfile com o comando "doxygen -g Doxyfile", dentro da pasta src:
 
 ``` bash 
 doxygen -g Doxyfile
@@ -251,7 +251,7 @@ GENERATE_HTML          = YES
 GENERATE_LATEX         = NO
 ```
 
-Para facilitar a edição, você pode procurar uma palavra especifica saindo do modo INSERT, apertando a tecla ESC e digitar: `/` seguido da palavra que procurar no documento e apertando a tecla ENTER. Por exemplo:
+Para facilitar a edição, você pode procurar uma palavra especifica saindo do modo INSERT, apertando a tecla ESC e digitar: "/" seguido da palavra que procurar no documento e apertando a tecla ENTER. Por exemplo:
 
 ```bash
 /INPUT
@@ -259,7 +259,7 @@ Para facilitar a edição, você pode procurar uma palavra especifica saindo do 
 
 Assim você consegue encontrar determinadas palavras de forma facilitada no editor vim :D.
 
-Não se esqueça, para sair do Vim Aperte a tecla ESC depois `:wq` para sair salvando
+Não se esqueça, para sair do Vim Aperte a tecla ESC depois ":wq" para sair salvando
 
 ### Instalando o Graphviz
 
@@ -283,7 +283,7 @@ A documentação será gerada no diretório ~/meu_projeto/docs/doxygen_docs.
 
 ## Passo 8: Fazer o Deploy no Azure Static Web Apps
 
-No portal da Azure, crie um Static Web App dentro do RG que estamos usando para o laboratório: `rg-swa`. O tipo de Plano será: `Standard`. Vamos simular um ambiente de produção, iremos criar um Static Web Apps com private endpoint. Deixe a opção Deployment details como outros, conforme imagem abaixo:
+No portal da Azure, crie um Static Web App dentro do RG que estamos usando para o laboratório: rg-swa. O tipo de Plano será: Standard. Vamos simular um ambiente de produção, iremos criar um Static Web Apps com private endpoint. Deixe a opção Deployment details como outros, conforme imagem abaixo:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa24.png)
 
@@ -293,12 +293,12 @@ Vá até a seção de "Settings" do seu Static Web App. Selecione a opção Add,
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa25.png)
 
-Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: `pvt-swa` e associa-lo a subnet `default` da `vnet-swa`. Será criado automaticamente um DNS para resolver o nome do Static Web App para o endereço IP privado do Private Endpoint.
+Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: "pvt-swa" e associa-lo a subnet default da vnet-swa. Será criado automaticamente um DNS para resolver o nome do Static Web App para o endereço IP privado do Private Endpoint.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa26.png)
 
 ## Passo 9: Criação de um Repositório no GitHub
-Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: `static-web-app`, não vamos adicionar README para seguir com os futuros.
+Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: "static-web-app", não vamos adicionar README para seguir com os futuros.
 
 **Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
 
@@ -327,7 +327,7 @@ cat /home/rafael/.ssh/id_rsa.pub
 
 Copie toda a informação que e exibida após o comando cat e retorne para o GitHub.
 
-Na mesma tela que paramos, coloque o nome da VM, por exemplo: `lnx-swa` no titulo e copie o conteúdo da chave, conforme imagem abaixo:
+Na mesma tela que paramos, coloque o nome da VM, por exemplo: lnx-swa no titulo e copie o conteúdo da chave, conforme imagem abaixo:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa31.png)
 
@@ -347,7 +347,7 @@ cd meu_projeto/docs/doxygen_docs/html/
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa20.png)
 
-E então vamos fazer o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueça de mudar: `git add README.md` para `git add .`:
+E então vamos fazer o push dos arquivos do seu projeto para o repositório, conforme dica do proprio GitHub, não se esqueça de mudar: "git add README.md" para "git add .":
 
 ```bash
 echo "# static-web-app" >> README.md
@@ -391,11 +391,11 @@ Adicionar
 
 ### Configuração do Workflow do GitHub Actions
 
-No seu repositório GitHub, vá até a aba `Actions` e selecione a opcão: `Crie um workflow você mesmo`:
+No seu repositório GitHub, vá até a aba "Actions" e selecione a opcão: "Crie um workflow você mesmo":
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa23.png)
 
-Crie um arquivo `.github/workflows/deploy.yml` com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { { e } }**
+Crie um arquivo .github/workflows/deploy.yml com o seguinte conteúdo **OBS: apague os espaços após o $ entre as { { e } }**
 
 ```yaml
 name: Deploy Static Web App
@@ -424,7 +424,7 @@ jobs:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa35.png)
 
-Não se esqueça de clicar no botão: `commit changes`:
+Não se esqueça de clicar no botão: "commit changes":
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa47.png)
 
@@ -436,11 +436,11 @@ E voilá, pipeline executando:
 
 Já que não colocamos o Static Web App na internet, ele está apenas acessível na nossa rede interna. Precisamos criar uma VM, por exemplo, com Windows 11 para visualizar o deploy do Static Web App no navegador.
 
-Dentro do nosso `rg-swa`, com o nome: `win-swa`, com tipo de segurança `Standard` e imagem `Windows 11 Pro`.
+Dentro do nosso rg-swa, com o nome: win-swa, com tipo de segurança Standard e imagem Windows 11 Pro.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa36.png)
 
-Escolhi o tamanho `Standard_B4ms` para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
+Escolhi o tamanho Standard_B4ms para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa37.png)
 
@@ -448,15 +448,15 @@ Sem porta de entrada pública, iremos configurar depois manualmente. Confirme a 
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa38.png)
 
-Certifique-se de que esteja na Vnet correta: `vnet-swa`, na subnet: `default`, e que não seja atribuído um NSG à NIC:
+Certifique-se de que esteja na Vnet correta: vnet-swa, na subnet: default, e que não seja atribuído um NSG à NIC:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa39.png)
 
-Depois opções default. Finalizando precisamos liberar a porta RDP no `nsg-swa`, settings, Inbound security rules, add, Services, RDP:
+Depois opções default. Finalizando precisamos liberar a porta RDP no nsg-swa, settings, Inbound security rules, add, Services, RDP:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa40.png)
 
-Estou usando Windows, portanto, procure no Iniciar `Remote` e abra o Remote Desktop Connection:
+Estou usando Windows, portanto, procure no Iniciar "Remote" e abra o Remote Desktop Connection:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa41.png)
 

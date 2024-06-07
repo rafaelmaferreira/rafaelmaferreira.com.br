@@ -109,25 +109,26 @@ sudo apt-get upgrade -y
 
 Criar uma VM com Windows 11:
 
-Dentro do nosso rg-example, com o nome: vm-example-win, com tipo de segurança Standard e imagem Windows 11 Pro.
+Dentro do nosso `rg-example`, com o nome: `vm-example-win`, com tipo de segurança `Standard` e imagem `Windows 11 Pro`.
+
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example13.png)
 
-Escolhi o tamanho Standard_B4ms para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
+Escolhi o tamanho `Standard_B4ms` para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
 
 Sem porta de entrada pública, iremos configurar depois manualmente. Confirme a licença.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example14.png)
 
-Certifique-se de que esteja na Vnet correta: vnet-example, na subnet: default, e que não seja atribuído um NSG à NIC:
+Certifique-se de que esteja na Vnet correta: `vnet-example`, na subnet: `default`, e que não seja atribuído um NSG à NIC:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example15.png)
 
-Depois opções default. Finalizando precisamos liberar a porta RDP no nsg-example, settings, Inbound security rules, add, Services, RDP:
+Depois, selecione as opções padrão. Finalizando, precisamos liberar a porta RDP no nsg-example. Vá para Settings > Inbound security rules > Add > Services > RDP.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example16.png)
 
-Estou usando Windows, portanto, procure no Iniciar "Remote" e abra o Remote Desktop Connection:
+Estou usando Windows, portanto, procure no Iniciar `Remote` e abra o Remote Desktop Connection:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example1.png)
 
@@ -139,7 +140,15 @@ Confirme o certificado:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example18.png)
 
+---
+
 ## Conclusão
+
+Criar máquinas virtuais no Azure é um processo estruturado que envolve a criação de vários componentes, como Resource Groups, Virtual Networks e Network Security Groups. Seguindo este guia, você pode configurar rapidamente VMs Linux e Windows para atender às suas necessidades. Lembre-se de sempre garantir a segurança das suas VMs e otimizar suas configurações para o melhor desempenho.
+
+A flexibilidade e o poder do Azure permitem que você adapte a infraestrutura de TI às demandas específicas do seu projeto, seja ele para desenvolvimento, teste ou produção. Utilize as práticas recomendadas para maximizar a eficiência e a segurança de suas VMs.
+
+Se tiver dúvidas ou precisar de mais detalhes, não hesite em entrar em contato. Espero que este guia tenha sido útil para você!
 
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

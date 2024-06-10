@@ -5,7 +5,9 @@ author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Virtual Machine]
 tags: [Artigos, Azure, Virtual Machine]
+
 ---
+
 Criar máquinas virtuais no Microsoft Azure pode parecer uma tarefa complicada, mas com este guia passo a passo, você verá que é mais simples do que parece. Vamos explorar a criação de máquinas virtuais tanto para Linux quanto para Windows. Vamos começar!
 
 ## Passo 1: Criação do Resource Group
@@ -105,38 +107,47 @@ sudo apt-get update
 sudo apt-get upgrade -y
 ```
 
-## Passo 6: Criação da Virtual Machine Windows 11
+## Criação da Virtual Machine Windows 11
 
-Criar uma VM com Windows 11:
+Vamos criar uma VM com Windows 11 dentro do nosso `rg-example`, com o nome `vm-example-win`, tipo de segurança `Standard` e imagem `Windows 11 Pro`.
 
-Dentro do nosso `rg-example`, com o nome: `vm-example-win`, com tipo de segurança `Standard` e imagem `Windows 11 Pro`.
-
+1. Vá para "Virtual Machines" e clique em "Create".
+2. Selecione o Resource Group `rg-example`.
+3. Nomeie a VM como `vm-example-win`.
+4. Altere o tipo de segurança para Standard.
+5. Selecione "Windows 11 Pro" como a imagem.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example13.png)
 
-Escolhi o tamanho `Standard_B4ms` para ser mais rápido nos testes. Criei um usuário e senha de sua preferência (não se esqueça de anotar a senha rs).
-
-Sem porta de entrada pública, iremos configurar depois manualmente. Confirme a licença.
+6. Configure a VM com o tamanho `Standard_B4ms` para testes mais rápidos.
+7. Escolha a autenticação por senha e defina uma senha de sua preferência (não se esqueça de anotar a senha).
+8. Certifique-se de que a VM não tenha portas de entrada públicas configuradas. Confirme a licença.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example14.png)
 
-Certifique-se de que esteja na Vnet correta: `vnet-example`, na subnet: `default`, e que não seja atribuído um NSG à NIC:
+9. Na seção "Networking", certifique-se de que a VM esteja na VNet `vnet-example` e na Subnet `default`, e que não seja atribuído um NSG à NIC.
+10. Selecione "Review + Create" e, em seguida, "Create".
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example15.png)
 
-Depois, selecione as opções padrão. Finalizando, precisamos liberar a porta RDP no nsg-example. Vá para Settings > Inbound security rules > Add > Services > RDP.
+Após a criação, precisamos liberar a porta RDP no NSG `nsg-example` para acessar a VM.
+
+1. Acesse o NSG `nsg-example`.
+2. Adicione uma regra de entrada para permitir o tráfego na porta RDP.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example16.png)
 
-Estou usando Windows, portanto, procure no Iniciar `Remote` e abra o Remote Desktop Connection:
+### Conectando-se à VM Windows
+
+1. No seu computador com Windows, abra o aplicativo "Remote Desktop Connection" (procure por "Remote" no menu Iniciar).
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example22.png)
 
-Copie o IP público, digite no Remote Desktop Connection, clique no botão conectar, escolha uma conta diferente, digite o usuário e senha que foram criados anteriormente e clique em ok:
+2. Copie o IP público atribuído à VM `vm-example-win`, digite no Remote Desktop Connection, clique no botão conectar, escolha "Use another account", e digite o usuário e senha que foram criados anteriormente. Clique em "OK".
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example17.png)
 
-Confirme o certificado:
+3. Confirme o certificado de segurança quando solicitado:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example18.png)
 
@@ -149,6 +160,5 @@ Criar máquinas virtuais no Azure é um processo estruturado que envolve a cria�
 A flexibilidade e o poder do Azure permitem que você adapte a infraestrutura de TI às demandas específicas do seu projeto, seja ele para desenvolvimento, teste ou produção. Utilize as práticas recomendadas para maximizar a eficiência e a segurança de suas VMs.
 
 Se tiver dúvidas ou precisar de mais detalhes, não hesite em entrar em contato. Espero que este guia tenha sido útil para você!
-
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

@@ -8,6 +8,10 @@ tags: [Artigos, Azure, Virtual Machine]
 
 ---
 
+## Introdução
+
+Este artigo será uma base introdutória essencial para os próximos conteúdos que virão, onde exploraremos mais a fundo a criação e gerenciamento de máquinas virtuais no Microsoft Azure. Aqui, abordaremos os passos iniciais para criar máquinas virtuais tanto para Linux quanto para Windows, fornecendo um fundamento para as futuras discussões e tutoriais.
+
 Criar máquinas virtuais no Microsoft Azure pode parecer uma tarefa complicada, mas com este guia passo a passo, você verá que é mais simples do que parece. Vamos explorar a criação de máquinas virtuais tanto para Linux quanto para Windows. Vamos começar!
 
 ## Passo 1: Criação do Resource Group

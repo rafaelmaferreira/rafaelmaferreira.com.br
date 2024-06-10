@@ -13,8 +13,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i> [08/06 - AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
-
 - <i class="fa-solid fa-link"></i> [11/06 - Esquenta TDC - CNCF + Azure Floripa + API Floripa](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
 - <i class="fa-solid fa-link"></i> [14/06 - TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados/)
@@ -23,12 +21,21 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais: 
 
+## AZ-900 - Fundamentos da Azure
+![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900.jpeg)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
+
+- <i class="fa-solid fa-link"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** Utilizado Material Oficial da Microsoft fornecido para MCT's.
+
 ## Tech Connection Balneário Camburiú
 ![Tech Connection Balneário Camburiú](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tech-connection.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Tech Connection Balneário Camburiú](https://talkfloripa.com.br/grade)
 
-- <i class="fa-solid fa-link"></i> **Post Linkedin Video:** [Tech Connection Balneário Camburiú](https://www.linkedin.com/posts/rafaelmaferreira_no-%C3%BAltimo-s%C3%A1bado-participei-do-evento-tech-activity-7203412108322025472-Di9q?utm_source=share&utm_medium=member_desktop)
+- <i class="fa-solid fa-link"></i> [**Post Linkedin Vídeo**](https://www.linkedin.com/posts/rafaelmaferreira_no-%C3%BAltimo-s%C3%A1bado-participei-do-evento-tech-activity-7203412108322025472-Di9q?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 

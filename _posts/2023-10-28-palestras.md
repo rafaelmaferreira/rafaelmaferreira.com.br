@@ -23,7 +23,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 14/06 - TDC Florianópolis - Trilha Arquitetura de Dados
 ![TDC Florianópolis](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/floripa.png)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
 
 <!--- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop) -->
 

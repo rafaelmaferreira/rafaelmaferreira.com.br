@@ -13,11 +13,10 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i> [11/06 - Esquenta TDC - CNCF + Azure Floripa + API Floripa](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
-
-- <i class="fa-solid fa-link"></i> [14/06 - TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados/)
-
 - <i class="fa-solid fa-link"></i>[27/06 - DevOps Experience **[Online]**](https://experience.devopsheroes.io/)
+
+- <i class="fa-solid fa-link"></i>[22 A 24 DE AGOSTO - ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/)
+
 
 # Presenciais:
 

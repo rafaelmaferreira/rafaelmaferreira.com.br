@@ -12,9 +12,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i> []()
-
 - <i class="fa-solid fa-link"></i>[27/06 - DevOps Experience **[Online]**](https://experience.devopsheroes.io/)
+
+- <i class="fa-solid fa-link"></i>[22 A 24 DE AGOSTO - ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/)
 
 # Presenciais:
 

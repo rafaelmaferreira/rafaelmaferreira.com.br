@@ -22,6 +22,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-06 - Palestrante-Tech-Connection-Balneario-Camburiu](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Tech-Connection-Balneario-Camburiu.png)
 - [2024-06 - Instrutor-Az-900](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Instrutor-az-900.pdf)
 - [2024-04 - Uncomplicating Soft Skills](https://www.credential.net/29a3afb4-02bb-4b99-b112-b6c12d60f1b9#gs.86vovj)
 - [2024-03 - Sustainability Transformation With AWS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-03-SustainabilityTransformationwithAWS.pdf)

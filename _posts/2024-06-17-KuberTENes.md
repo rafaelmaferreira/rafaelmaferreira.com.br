@@ -95,9 +95,9 @@ Teve a comemoração do aniversário do Kubernetes, onde cantamos parabéns e co
 
 E para quem se perguntou da qualidade das fotos, sim, é isso, tivemos um fotógrafo profissional!
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/49.JPG)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/50.JPG)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/51.JPG)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/49.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/50.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/51.jpg)
 
 ### Encerramento 
 Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais.

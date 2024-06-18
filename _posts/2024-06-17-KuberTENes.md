@@ -102,7 +102,9 @@ E para quem se perguntou da qualidade das fotos, sim, é isso, tivemos um fotóg
 ### Encerramento 
 Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais.
 
-Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no Youtube: [![CNCF SC - 6 Meetup + KuberTENes - 10 anos](https://img.youtube.com/vi/iACjUNbhnaM/0.jpg)](https://www.youtube.com/watch?v=iACjUNbhnaM)
+Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no Youtube:
+
+[![CNCF SC - 6 Meetup + KuberTENes - 10 anos](https://img.youtube.com/vi/iACjUNbhnaM/0.jpg)](https://www.youtube.com/watch?v=iACjUNbhnaM)
 
 ---
 

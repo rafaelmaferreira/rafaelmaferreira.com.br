@@ -21,8 +21,6 @@ O evento não apenas celebrou uma década de Kubernetes, mas também serviu como
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/08.JPG)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/038.JPG)
 
-
-
 ## Agenda do Meetup
 
 ### Kubernetes 10 Anos: Hacking Kubernetes v1.0.0
@@ -62,11 +60,11 @@ Uma palestra do **Azure Floripa** ([eu](https://www.linkedin.com/in/rafaelmaferr
 ### Envoy: Explorando Edge Proxy, Service Proxy e API Gateway
 Apresentação do **API Floripa** com [Rafael Mateus](https://www.linkedin.com/in/rafaelbmateus/) sobre o Envoy, detalhando suas funcionalidades como Edge Proxy, Service Proxy e API Gateway, e como ele pode ser integrado a arquiteturas modernas de microsserviços.
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/30.JPG)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/31.JPG)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/32.JPG)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/30.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/31.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/32.jpg)
 
-### Ferramenta Open Source da AWS Party Rock
+### AWS Party Rock
 Apresentação do [Flávio Pimenta](https://www.linkedin.com/in/flaap/) sobre a ferramenta open source da AWS Party Rock, destacando suas funcionalidades e benefícios para projetos com IA.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/33.JPG)

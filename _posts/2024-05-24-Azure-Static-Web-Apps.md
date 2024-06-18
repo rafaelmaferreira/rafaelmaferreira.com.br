@@ -499,7 +499,7 @@ Digitando a senha conseguimos acessar a API:
 
 ## Desenho Arquitetura
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/swa.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa.png)
 
 ## Conclusão
 Neste artigo, aprendemos como configurar uma Virtual Machine no Azure (Resource Group, Virtual Network, Network Security Group, Disco, Network Interface, Public IP address). Configuramos uma API simples utilizando Python e Flask, documentamos a API com Doxygen e hospedamos a documentação no Azure Static Web Apps (Private Endpoint + Private DNS). Utilizamos o GitHub para hospedar o código e implementamos pipelines com GitHub Actions para realizar o deploy automático no Azure Static Web Apps. Este guia fornece uma abordagem abrangente para garantir que sua API seja bem documentada e acessível, utilizando o provedor de nuvem Azure. Se você tiver dúvidas estou à disposição para ajudar.

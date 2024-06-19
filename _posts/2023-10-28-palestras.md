@@ -20,7 +20,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais:
 
-## 14/06 - TDC Florianópolis - Trilha Arquitetura de Dados
+## TDC Florianópolis - Trilha Arquitetura de Dados
 ![TDC Florianópolis](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/floripa.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
@@ -29,12 +29,14 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização de Arquitetura de Dados com Backstage.io e IAC](https://stoblobcertificados011.blob.core.windows.net/palestras/TDC.pdf)
 
-## 11/06 - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa
+## Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa
 ![KuberTENes Birthday Bash Santa Catarina](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kuberTENes-Birthday-Bash-Santa-Catarina.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
-<!--- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop) -->
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Post Blog + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:7209180344233668608/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience](https://stoblobcertificados011.blob.core.windows.net/palestras/KuberTENes.pdf)
 

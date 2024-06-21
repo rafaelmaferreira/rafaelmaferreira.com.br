@@ -87,7 +87,7 @@ A imagem será uma `Ubuntu Server 20.04 LTS ARM64 Gen2`. A arquitetura da VM ser
 
 ![lnx-swa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa6.png)
 
-**Saiba Mais:** [Máquinas Virtuais do Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+**Saiba Mais:** [Máquinas Virtuais doß Azure com processadores baseados em Arm do Ampere Altra](https://azure.microsoft.com/pt-br/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
 Certifique-se de que não seja criado um novo NSG e selecione a opção para apagar o IP público e a NIC junto com a VM.
 
@@ -184,7 +184,6 @@ def hello():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-
 ```
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa15.png)
@@ -312,7 +311,7 @@ Add SSH Key:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa29.png)
 
-Agora, precisamos retornar à VM lnx e gerar uma nova chave SSH:
+Agora, precisamos retornar à VM-lnx e gerar uma nova chave SSH:
 
 ```bash
 ssh-keygen
@@ -323,6 +322,7 @@ OBS: Para fins didáticos, estou gerando uma chave sem senha para facilitar noss
 ```bash
 cat /home/rafael/.ssh/id_rsa.pub
 ```
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa30.png)
 
 Copie toda a informação que e exibida após o comando cat e retorne para o GitHub.

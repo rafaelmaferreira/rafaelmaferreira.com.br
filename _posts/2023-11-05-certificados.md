@@ -23,6 +23,8 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-06 - Palestrante da Trilha Arquitetura de Dados](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Trilha-Arquitetura-Dados.pdf)
+- [2024-06 - Trilha Cloud](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Trilha-Cloud.pdf)
 - [2024-06 - Palestrante Tech Connection Balneario Camburiu](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Tech-Connection-Balneario-Camburiu.png)
 - [2024-06 - Certification FLOW AI USER Exam](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-certification-FLOW-AI-USER-Exam.pdf)
 - [2024-06 - Instrutor-Az-900](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Instrutor-az-900.pdf)

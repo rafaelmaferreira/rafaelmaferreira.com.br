@@ -23,8 +23,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Post Blog + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
-
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:7209180344233668608/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização de Arquitetura de Dados com Backstage.io e IAC](https://stoblobcertificados011.blob.core.windows.net/palestras/TDC.pdf)
@@ -34,6 +32,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
+
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_kubernetes-cloudnative-devops-activity-7209180344233668608-4Xrc?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience](https://stoblobcertificados011.blob.core.windows.net/palestras/KuberTENes.pdf)
@@ -42,6 +42,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Post Blog + Fotos - Evento Presencial Grande Florianópolis - AZ-900: Fundamentos do Azure](https://rafaelmaferreira.com.br/posts/curso-az-900/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop)
 

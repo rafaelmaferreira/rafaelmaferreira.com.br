@@ -14,6 +14,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 <!-- new_videos_here -->
 
+## #05 De Seminarista católico para MVP - Marcelo Gonçalves
+[![#05 De Seminarista católico para MVP - Marcelo Gonçalves](https://img.youtube.com/vi/EwQxFjh6f4o/0.jpg)](https://www.youtube.com/watch?v=EwQxFjh6f4o)
+
 ## #04 Episodio com Rodrigo Paliosa
 [![#04 Episodio com Rodrigo Paliosa](https://img.youtube.com/vi/FyhURlTbyyU/0.jpg)](https://www.youtube.com/watch?v=FyhURlTbyyU&t=10s)
 

@@ -7,7 +7,7 @@ categories: [Eventos Presenciais, CNCF-SC, KuberTENes]
 tags: [Eventos, Comunidade, CNCF-SC, KuberTENes]
 ---
 
-No dia 11 de junho de 2024, rolou o [**KuberTENes Birthday Bash Santa Catarina**](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-6o-kubertenes-birthday-bash-santa-catarina/), um evento organizado pela comunidade **Cloud Native Santa Catarina**. Este evento híbrido foi realizado para comemorar os 10 anos do Kubernetes, uma tecnologia que revolucionou o mundo da computação em nuvem e continua a ser um pilar essencial para arquiteturas modernas.
+No dia 11 de junho de 2024, rolou o [**KuberTENes Birthday Bash Santa Catarina**](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-6o-kubertenes-birthday-bash-santa-catarina/), um evento organizado pela comunidade [**Cloud Native Santa Catarina**](https://community.cncf.io/cloud-native-santa-catarina/). Este evento híbrido foi realizado para comemorar os 10 anos do Kubernetes, uma tecnologia que revolucionou o mundo da computação em nuvem e continua a ser um pilar essencial para arquiteturas modernas.
 
 O evento não apenas celebrou uma década de Kubernetes, mas também serviu como um pré-esquenta para o The Developer's Conference (TDC), que aconteceu nos dias seguintes. Tivemos uma agenda repleta de palestras.
 

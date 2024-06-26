@@ -23,7 +23,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
 
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:7209180344233668608/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Post Blog + Fotos - Experiência de Palestrar no TDC na Trilha Arquitetura de Dados](https://rafaelmaferreira.com.br/posts/talk-tdc/)
+
+<!-- - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:7209180344233668608/) -->
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização de Arquitetura de Dados com Backstage.io e IAC](https://stoblobcertificados011.blob.core.windows.net/palestras/TDC.pdf)
 
@@ -35,6 +37,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_kubernetes-cloudnative-devops-activity-7209180344233668608-4Xrc?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fab fa-youtube"></i> [Assista no Youtube](https://www.youtube.com/watch?v=iACjUNbhnaM&t=1s&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience](https://stoblobcertificados011.blob.core.windows.net/palestras/KuberTENes.pdf)
 
@@ -61,12 +65,16 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_tbt-kdc-tecnologia-activity-7168974563542839297-qpOK?utm_source=share&utm_medium=member_desktop)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
 ## 21/02 - Cloud Native Floripa - 2º Edição
 [![Cloud Native Floripa - 2º Edição](https://img.youtube.com/vi/cSF1mPEZ8Rw/0.jpg)](https://www.youtube.com/watch?v=yP_oynLWOJI&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_um-pouco-do-meetup-de-ontem-da-cloud-native-activity-7166602764209397760-58XY?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
@@ -110,6 +118,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 [![DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://img.youtube.com/vi/hxiluSC8E_U/0.jpg)](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_devops-monitoramento-observabilidade-activity-7134873516364943362-sFy2?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 

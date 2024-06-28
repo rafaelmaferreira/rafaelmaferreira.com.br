@@ -12,8 +12,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[27/06 - DevOps Experience **[Online]**](https://experience.devopsheroes.io/)
-
 - <i class="fa-solid fa-link"></i>[24/08 - ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
 
 # Presenciais:
@@ -34,7 +32,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Post Blog + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_kubernetes-cloudnative-devops-activity-7209180344233668608-4Xrc?utm_source=share&utm_medium=member_desktop)
 
@@ -80,6 +78,20 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Online: 
 
+## 27/06 - DevOps Experience - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/devops-heroes.jpeg)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:**[Cronograma Evento](https://www.linkedin.com/posts/devopsheroes_venha-conhecer-os-palestrantes-da-edi%C3%A7%C3%A3o-activity-7211833520946634753-xWmJ/?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:**[Divulgação Linkedin](https://www.linkedin.com/posts/devopsheroes_greenops-na-cloud-construindo-o-futuro-com-activity-7206724813476765696-wwN9/?utm_source=share&utm_medium=member_desktop)
+
+<!-- 
+[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI) -->
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes.pdf)
+
+
 ## 11/05 - Corrente Solidária - Todos pelo RS
 [![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI)
 
@@ -100,7 +112,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 07/03 - TechTalk CI&T - Azure Cloud Foundation
 
 ![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
-- <i class="fa-solid fa-link"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
+- <i class="fa-brands fa-linkedin"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part I](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk1.pdf)
 
@@ -112,14 +124,14 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_devops-monitoramento-observabilidade-activity-7134873516364943362-sFy2?utm_source=share&utm_medium=member_desktop)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
 ## 16/09 - DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions
 [![DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://img.youtube.com/vi/hxiluSC8E_U/0.jpg)](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
-
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_devops-monitoramento-observabilidade-activity-7134873516364943362-sFy2?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/pipelines-com-azureDevOps.pdf)
 

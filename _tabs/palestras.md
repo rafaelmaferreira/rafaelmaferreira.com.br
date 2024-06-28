@@ -78,18 +78,17 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Online: 
 
-## 27/06 - DevOps Experience - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
+## 27/06 - **DevOps Experience** - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/devops-heroes.jpeg)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:**[Cronograma Evento](https://www.linkedin.com/posts/devopsheroes_venha-conhecer-os-palestrantes-da-edi%C3%A7%C3%A3o-activity-7211833520946634753-xWmJ/?utm_source=share&utm_medium=member_desktop)
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais: **[Cronograma Evento](https://www.linkedin.com/posts/devopsheroes_venha-conhecer-os-palestrantes-da-edi%C3%A7%C3%A3o-activity-7211833520946634753-xWmJ/?utm_source=share&utm_medium=member_desktop)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:**[Divulgação Linkedin](https://www.linkedin.com/posts/devopsheroes_greenops-na-cloud-construindo-o-futuro-com-activity-7206724813476765696-wwN9/?utm_source=share&utm_medium=member_desktop)
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais: **[Divulgação Linkedin](https://www.linkedin.com/posts/devopsheroes_greenops-na-cloud-construindo-o-futuro-com-activity-7206724813476765696-wwN9/?utm_source=share&utm_medium=member_desktop)
 
-<!-- 
-[![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI) -->
+<!-- [![Corrente Solidária - Todos pelo RS](https://img.youtube.com/vi/VzykJi_qqDI/0.jpg)](https://www.youtube.com/watch?v=VzykJi_qqDI) -->
 
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes.pdf)
 
 
 ## 11/05 - Corrente Solidária - Todos pelo RS

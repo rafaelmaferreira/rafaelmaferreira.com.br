@@ -10,9 +10,10 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 # LowOps Channel
 
-[![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube.png)](https://www.youtube.com/@LowOps-Channel)
+[![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
-<!-- new_videos_here -->
+## #06 Episódio Especial TDC Floripa 2024
+[![#06 Episódio Especial TDC Floripa 2024](https://img.youtube.com/vi/VtKMTnQ2P_o/0.jpg)](https://www.youtube.com/watch?v=VtKMTnQ2P_o&t)
 
 ## #05 De Seminarista católico para MVP - Marcelo Gonçalves
 [![#05 De Seminarista católico para MVP - Marcelo Gonçalves](https://img.youtube.com/vi/EwQxFjh6f4o/0.jpg)](https://www.youtube.com/watch?v=EwQxFjh6f4o)
@@ -56,3 +57,4 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 ## Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações
 [![Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações](https://img.youtube.com/vi/SEz3UgW3dMM/0.jpg)](https://www.youtube.com/watch?v=SEz3UgW3dMM&t)
+

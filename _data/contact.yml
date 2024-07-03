@@ -16,6 +16,10 @@
   icon: 'fab fa-spotify'
   url: 'https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj'
 
+- type: Apple Podcasts
+  icon: fa-solid fa-podcast
+  url: 'https://podcasts.apple.com/br/podcast/lowopscast/id1755380230'
+
 - type: github
   icon: 'fab fa-github'
   #url: 'https://github.com/rafaelmaferreira'  # Uncomment and add URL when available

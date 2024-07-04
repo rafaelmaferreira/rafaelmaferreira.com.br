@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #07 De Veterinária a Cloud Architect com Paula Santos
+[![# 07 De Veterinária a Cloud Architect com Paula Santos](https://img.youtube.com/vi/7wMKP9VS3E4/0.jpg)](https://www.youtube.com/watch?v=7wMKP9VS3E4)
+
 ## #06 Episódio Especial TDC Floripa 2024
 [![#06 Episódio Especial TDC Floripa 2024](https://img.youtube.com/vi/VtKMTnQ2P_o/0.jpg)](https://www.youtube.com/watch?v=VtKMTnQ2P_o&t)
 

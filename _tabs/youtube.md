@@ -37,6 +37,10 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
+## Desvendando o Service Principal x Managed Identities no Entra ID
+[![Desvendando o Service Principal x Managed Identities no Entra ID](https://img.youtube.com/vi/lxxyxDwvsDU/0.jpg)](https://www.youtube.com/watch?v=lxxyxDwvsDU)
+
+
 ## Trajetória Internacional - Do queijo minas ao queijo Gouda
 [![Trajetória Internacional - Do queijo minas ao queijo Gouda](https://img.youtube.com/vi/Ne-76V9XvxA/0.jpg)](https://www.youtube.com/watch?v=Ne-76V9XvxA)
 

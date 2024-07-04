@@ -15,6 +15,9 @@ Estou empolgado para compartilhar com vocês um novo post onde destaco minhas pa
 
 ## Minhas Participações
 
+### Mesa Redonda: Protegendo dado na era das Inteligência Artificial
+[![Mesa Redonda: Protegendo dado na era das Inteligência Artificial](https://img.youtube.com/vi/56Jm6uPWV1w/0.jpg)](https://www.youtube.com/watch?v=56Jm6uPWV1w)
+
 ### Desvendando Certificações: O Caminho Real ou Mito?
 [![Desvendando Certificações: O Caminho Real ou Mito?](https://img.youtube.com/vi/YF6yT04eR_s/0.jpg)](https://www.youtube.com/watch?v=YF6yT04eR_s&ab_channel=CloudnaQuebrada%E2%98%81%EF%B8%8F)
 

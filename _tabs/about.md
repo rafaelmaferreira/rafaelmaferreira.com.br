@@ -8,8 +8,7 @@ order: 5
 
 ## Hello Folks 👋!
 
-![capa Linkedin](https://github.com/rafaelmaferreira/rafaelmaferreira/assets/117859338/9cb9eee3-5907-4ed2-80c0-135cd0b32d9a)
-
+![capa Linkedin (1)](https://github.com/user-attachments/assets/4d9cc5af-4413-487c-ab8b-e77b10583fa5)
 
 Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
 

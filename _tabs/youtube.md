@@ -12,8 +12,14 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps
+[![#09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps](https://img.youtube.com/vi/ALnp2iRD8As/0.jpg)](https://www.youtube.com/watch?v=ALnp2iRD8As)
+
+## #08 Como é o Dia a Dia de um DevOps Engineer com Antonio Junior
+[![#08 Como é o Dia a Dia de um DevOps Engineer com Antonio Junior](https://img.youtube.com/vi/BsPjLdv_BFY/0.jpg)](https://www.youtube.com/watch?v=BsPjLdv_BFY)
+
 ## #07 De Veterinária a Cloud Architect com Paula Santos
-[![# 07 De Veterinária a Cloud Architect com Paula Santos](https://img.youtube.com/vi/7wMKP9VS3E4/0.jpg)](https://www.youtube.com/watch?v=7wMKP9VS3E4)
+[![#07 De Veterinária a Cloud Architect com Paula Santos](https://img.youtube.com/vi/7wMKP9VS3E4/0.jpg)](https://www.youtube.com/watch?v=7wMKP9VS3E4)
 
 ## #06 Episódio Especial TDC Floripa 2024
 [![#06 Episódio Especial TDC Floripa 2024](https://img.youtube.com/vi/VtKMTnQ2P_o/0.jpg)](https://www.youtube.com/watch?v=VtKMTnQ2P_o&t)
@@ -40,9 +46,11 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
+## Como implantar uma infraestrutura em larga escala com Azure DevOps e Terraform
+[![Como implantar uma infraestrutura em larga escala com Azure DevOps e Terraform](https://img.youtube.com/vi/Pb-rL-Mz-sI/0.jpg)](https://www.youtube.com/watch?v=Pb-rL-Mz-sI)
+
 ## Desvendando o Service Principal x Managed Identities no Entra ID
 [![Desvendando o Service Principal x Managed Identities no Entra ID](https://img.youtube.com/vi/lxxyxDwvsDU/0.jpg)](https://www.youtube.com/watch?v=lxxyxDwvsDU)
-
 
 ## Trajetória Internacional - Do queijo minas ao queijo Gouda
 [![Trajetória Internacional - Do queijo minas ao queijo Gouda](https://img.youtube.com/vi/Ne-76V9XvxA/0.jpg)](https://www.youtube.com/watch?v=Ne-76V9XvxA)
@@ -64,4 +72,3 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 ## Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações
 [![Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações](https://img.youtube.com/vi/SEz3UgW3dMM/0.jpg)](https://www.youtube.com/watch?v=SEz3UgW3dMM&t)
-

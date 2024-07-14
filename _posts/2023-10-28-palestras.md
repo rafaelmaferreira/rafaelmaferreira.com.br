@@ -13,9 +13,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[12 a 16 de Agosto - **Online -** INTUNE WEEK: Conectando Administradores de Endpoints](https://intuneweek.com/)
+- <i class="fa-solid fa-link"></i> [ 12 a 16 de Agosto - **Online -** INTUNE WEEK: Conectando Administradores de Endpoints](https://intuneweek.com/)
 
-- <i class="fa-solid fa-link"></i>[24/08 - ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
+- <i class="fa-solid fa-link"></i >[ 24/08 - ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
 
 # Presenciais:
 

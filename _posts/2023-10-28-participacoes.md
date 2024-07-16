@@ -15,6 +15,9 @@ Estou empolgado para compartilhar com vocês um novo post onde destaco minhas pa
 
 ## Minhas Participações
 
+### Segurança em Nuvem Microsoft: Estratégias e Melhores Práticas
+[![Segurança em Nuvem Microsoft: Estratégias e Melhores Práticas](https://img.youtube.com/vi/C7tKgg5uD9w/0.jpg)](https://www.youtube.com/watch?v=C7tKgg5uD9w)
+
 ### Mesa Redonda: Protegendo dado na era das Inteligência Artificial
 [![Mesa Redonda: Protegendo dado na era das Inteligência Artificial](https://img.youtube.com/vi/56Jm6uPWV1w/0.jpg)](https://www.youtube.com/watch?v=56Jm6uPWV1w)
 

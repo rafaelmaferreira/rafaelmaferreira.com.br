@@ -9,7 +9,7 @@ tags: [Artigos, Azure, Azure Workbooks, FinOps]
 
 ## Introdução
 
-A gestão eficaz dos custos na nuvem é uma prioridade para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras na Nuvem, é uma prática emergente que combina finanças e DevOps para otimizar a utilização e o custo dos recursos em nuvem. Uma das ferramentas poderosas que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, exploraremos como o Azure Workbooks pode ser utilizado para suportar práticas de FinOps e ajudar na otimização dos custos na nuvem.
+A gestão eficaz dos custos na nuvem é uma prioridade para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras na Nuvem, é uma prática emergente que combina finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma das ferramentas poderosas que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, exploraremos como o Azure Workbooks pode ser utilizado para suportar práticas de FinOps e ajudar na otimização dos custos na nuvem.
 
 ## O que são Azure Workbooks?
 
@@ -28,7 +28,7 @@ Azure Workbooks é uma plataforma interativa de relatórios e visualizações no
    - Utilize Azure Workbooks para criar dashboards que monitoram os custos em tempo real. Isso permite uma resposta rápida a quaisquer desvios ou aumentos inesperados de custo.
 
 2. **Análise de Tendências de Consumo**
-   - Análise histórica de consumo de recursos pode ser visualizada através de gráficos de tendência. Isso ajuda a identificar padrões de uso que podem ser otimizados.
+   - Análises históricas de consumo de recursos podem ser visualizadas através de gráficos de tendência. Isso ajuda a identificar padrões de uso que podem ser otimizados.
 
 3. **Alocação de Custos**
    - Crie relatórios detalhados para alocação de custos entre diferentes departamentos ou projetos. Isso é essencial para entender quais áreas estão consumindo mais recursos e como otimizar a alocação.
@@ -50,11 +50,11 @@ Azure Workbooks é uma plataforma interativa de relatórios e visualizações no
    - Acesse o workbook a partir do grupo de recursos selecionando o recurso de workbook e clicando em "Workbook" no menu.
 
 ### Principais Componentes do Workbook
-- **Gráficos de Custo Total:** Exibe uma visão consolidada dos custos totais ao longo do tempo.
-- **Custo por Serviço:** Detalha os custos por serviço do Azure.
-- **Custo por Recurso:** Mostra os custos individuais por recurso.
-- **Tendências de Utilização:** Fornece gráficos de tendência de utilização de recursos.
-- **Filtros Interativos:** Permite a filtragem dos dados por assinatura, grupo de recursos, ou outros parâmetros para análises mais detalhadas.
+- **Gráficos de Custo Total:** Exibem uma visão consolidada dos custos totais ao longo do tempo.
+- **Custo por Serviço:** Detalham os custos por serviço do Azure.
+- **Custo por Recurso:** Mostram os custos individuais por recurso.
+- **Tendências de Utilização:** Fornecem gráficos de tendência de utilização de recursos.
+- **Filtros Interativos:** Permitem a filtragem dos dados por assinatura, grupo de recursos ou outros parâmetros para análises mais detalhadas.
 
 ## Exemplo Prático 2: Azure Orphaned Resources Workbook
 
@@ -81,15 +81,15 @@ O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Az
 
 - **Tipos de Recursos Incluídos:**
   - Compute
-  - App Service Plans 💲
+  - App Service Plans
   - Storage
-  - Managed Disks 💲
-  - Public IPs 💲
-  - Load Balancers 💲
-  - Application Gateways 💲
+  - Managed Disks
+  - Public IPs
+  - Load Balancers
+  - Application Gateways
   - Virtual Networks
-  - Private Endpoints 💲
-  - Virtual Network Gateways 💲
+  - Private Endpoints
+  - Virtual Network Gateways
   - Outros (Resource Groups, API Connections, Certificates)
 
 ### Benefícios do Workbook
@@ -102,7 +102,7 @@ O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Az
 
 ### Introdução
 
-O Azure FinOps Workbook fornece insights, documentos chave e orientações sobre a implementação de FinOps e otimização de custos no Azure. Ele visualiza os dados do seu ambiente Azure junto com recomendações e guias relevantes, incentivando uma abordagem orientada por dados.
+O Azure FinOps Workbook fornece insights, documentos-chave e orientações sobre a implementação de FinOps e otimização de custos no Azure. Ele visualiza os dados do seu ambiente Azure junto com recomendações e guias relevantes, incentivando uma abordagem orientada por dados.
 
 ### Como Utilizar o Azure FinOps Workbook
 
@@ -131,7 +131,7 @@ O Azure FinOps Workbook fornece insights, documentos chave e orientações sobre
 
 - **Economia de Dinheiro:** Identifica oportunidades de redução de custos através da análise de dados e recomendações práticas.
 - **Automatização:** Exemplos práticos de automação ajudam a implementar ações de FinOps de maneira eficiente.
-- **Visibilidade:** Fornece uma visão consolidada e detalhada dos custos e utilização dos recursos no ambiente Azure.
+- **Visibilidade:** Fornece uma visão consolidada e detalhada dos custos e da utilização dos recursos no ambiente Azure.
 
 ## Conclusão
 

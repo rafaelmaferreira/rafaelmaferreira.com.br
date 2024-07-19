@@ -13,7 +13,7 @@ Nesta página quero compartilhar um pouco da minha jornada profissional e das ex
 ## Senior DevOps Engineer 
 - **Empresa:** CI&T
 - **Período:** Abr 2024 - Presente
-- **Descrição:** 
+- **Descrição:** Atuo em um contexto de cliente internacional e garanto a entrega em alta disponibilidade das infraestruturas. Disseminando práticas DevOps e utilizando tecnologias e ferramentas como Azure, GitHub Actions, Terraform, Puppet, F5 Firewall e Akamai, automatizei a instalação de software em máquinas Linux com Puppet. Realizo a criações de VMs e Application Gateways (App GW) com Terraform e gerenciamento de segurança e redes com F5 Firewall e Akamai. Desenvolvimento de soluções de FinOps utilizando Azure Workbooks, identificando oportunidades de economia e eficiência. Essas ações resultam em maior eficiência, alta disponibilidade e escalabilidade das infraestruturas.
 
 ## Senior Platform Engineer
 - **Empresa:** CI&T

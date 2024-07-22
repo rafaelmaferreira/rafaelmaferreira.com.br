@@ -58,7 +58,7 @@ Implementação e gerenciamento do Microsoft 365 Admin Portal e o Microsoft Endp
 ## Estagiário
 - **Empresa:** Finch
 - **Período:** Jun 2017 - Dez 2017 (7 meses)
-- **Descrição:** Responsável pelo monitoramento, manutenção e desenvolvimento de aplicativos e seus bancos de dados (MySQL e SQL Server), utilizando Java e Python em sistemas operacionais Linux e Windows. Minha contribuição resultou na otimização dos processos internos, além de reforçar as automações de TI da empresa com soluções eficazes.
+- **Descrição:** Responsável pelo monitoramento, manutenção e desenvolvimento de automações e seus bancos de dados (MySQL e SQL Server), utilizando Java e Python em sistemas operacionais Linux e Windows. Minha contribuição resultou na otimização dos processos internos, além de reforçar as automações de TI da empresa com soluções eficazes.
 
 ## Analista de Sistemas Trainee
 - **Empresa:** VSM Informática

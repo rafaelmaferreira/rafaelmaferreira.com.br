@@ -11,4 +11,6 @@ tags: [Voluntariado, Organizador Eventos – DevOpsDays Florianópolis]
 
 Devopsdays é uma série mundial de conferências técnicas cobrindo tópicos de desenvolvimento de software, operações de infraestrutura de TI e a interseção entre eles. Cada evento é dirigido por voluntários da área local.
 
-https://devopsdays.org/events/2024-florianopolis/welcome/
+[Devopsdays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/)
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dod-logo.png)

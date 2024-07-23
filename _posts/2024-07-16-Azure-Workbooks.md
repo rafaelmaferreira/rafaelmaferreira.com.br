@@ -9,15 +9,15 @@ tags: [Artigos, Azure, Azure Workbooks, FinOps]
 
 ## Introdução
 
-A gestão eficaz dos custos na nuvem é uma prioridade para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras na Nuvem, é uma prática emergente que combina finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma das ferramentas poderosas que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, exploraremos como o Azure Workbooks pode ser utilizado para suportar práticas de FinOps e ajudar na otimização dos custos na nuvem.
+A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks.
 
 ## O que são Azure Workbooks?
 
-Azure Workbooks é uma plataforma interativa de relatórios e visualizações no Azure Monitor. Eles permitem criar dashboards personalizados que podem incluir métricas, logs e dados de outras fontes do Azure, proporcionando uma visão consolidada e interativa do ambiente de nuvem.
+Azure Workbook são dashboards interativos e modulares que são usados para criar relatórios e visualizações no Azure Monitor. Eles permitem criar visões personalizadas que podem incluir métricas, logs e dados de outras fontes do Azure, proporcionando uma visão consolidada e interativa do ambiente de nuvem.
 
 ## Principais Benefícios do Azure Workbooks
 
-- **Visualizações Interativas:** Crie gráficos, tabelas e relatórios interativos que podem ser personalizados para atender às necessidades específicas de negócios e operações.
+- **Visualizações Interativas:** Crie gráficos, tabelas e relatórios interativos que podem ser personalizados para atender às necessidades específicas do negócios e operações.
 - **Integração com Dados do Azure:** Combine dados de várias fontes do Azure, incluindo logs de atividades, métricas de desempenho e informações de faturamento.
 - **Compartilhamento e Colaboração:** Os Workbooks podem ser compartilhados com diferentes equipes, facilitando a colaboração entre finanças, operações e TI.
 - **Automação e Atualização Contínua:** Configure atualizações automáticas para garantir que os dados exibidos estejam sempre atualizados.
@@ -39,9 +39,14 @@ Azure Workbooks é uma plataforma interativa de relatórios e visualizações no
 5. **Planejamento e Orçamentação**
    - Utilize dados históricos e previsões para ajudar no planejamento de orçamentos futuros. Azure Workbooks pode integrar dados de várias fontes para fornecer uma visão abrangente para o planejamento financeiro.
 
+6. **Gerenciamento de Recursos Órfãos**
+   - Recursos órfãos são aqueles que não estão mais sendo utilizados ativamente, mas continuam a gerar custos. Identificar e gerenciar recursos órfãos ajuda a economizar dinheiro, prevenir configurações incorretas e simplificar a gestão operacional do ambiente Azure.
+
+
 ## Exemplo Prático 1: Cost Optimization Workbook
 
 ### Configuração Inicial
+   - ![Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2FcreateUiDefinition.json)
    - Acesse o Azure Portal e navegue até o Azure Monitor.
    - Selecione "Workbooks" no menu e verifique se a sua assinatura está selecionada no filtro de assinaturas.
    - Selecione o "Cost Optimization Workbook".
@@ -135,7 +140,7 @@ O Azure FinOps Workbook fornece insights, documentos-chave e orientações sobre
 
 ## Conclusão
 
-Azure Workbooks é uma ferramenta versátil e poderosa que pode ser utilizada para suportar práticas de FinOps, proporcionando uma melhor visibilidade e controle sobre os custos na nuvem. Ao integrar dados de diversas fontes e criar visualizações interativas, as organizações podem otimizar sua utilização de recursos, melhorar o planejamento financeiro e garantir uma operação de nuvem mais eficiente e econômica.
+Azure Workbooks é uma ferramenta poderosa que pode ser utilizada para apoiar práticas de FinOps, proporcionando uma melhor visibilidade e controle sobre os custos na nuvem. Ao integrar dados de diversas fontes e criar visualizações interativas, as organizações podem otimizar sua utilização de recursos, melhorar o planejamento financeiro e garantir uma operação de nuvem mais eficiente e econômica.
 
 ## Recursos Adicionais
 

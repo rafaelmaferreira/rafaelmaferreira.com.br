@@ -7,6 +7,8 @@ categories: [Artigos, Azure, Azure Workbooks, FinOps]
 tags: [Artigos, Azure, Azure Workbooks, FinOps]
 ---
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/Arte-Logo.png)
+
 ## Introdução
 
 A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
@@ -70,8 +72,6 @@ Na aba Usage optimization, temos a opção Top 10 services:
 
 ## Exemplo Prático 2: Azure Orphaned Resources Workbook
 
-### Introdução
-
 O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Azure, ajudando a melhorar a eficiência através da economia de dinheiro, prevenção de configurações incorretas e simplificação operacional.
 
 ### Como Utilizar o [Azure Orphaned Resources Workbook](https://github.com/dolevshor/azure-orphan-resources)
@@ -126,8 +126,6 @@ Esse é um exemplo da planilha que é exportada, podemos então apresentar aos t
 
 ## Exemplo Prático 3: Azure FinOps Workbook
 
-### Introdução
-
 O Azure FinOps Workbook fornece insights, documentos chaves e orientações sobre a implementação de FinOps e otimização de custos no Azure. Ele visualiza os dados do seu ambiente Azure junto com recomendações e guias relevantes, incentivando uma abordagem orientada por dados.
 
 ### Como Utilizar o [Azure FinOps Workbook](https://github.com/ms-sambell/azure-finops-workbook/tree/main?tab=readme-ov-file)
@@ -167,8 +165,6 @@ E essa que considere uma das melhoras melhor: Cost Optimization
 
 ## Reflexão
 Mas você deve estar se perguntando, a mas vou utilizar somente um, por exemplo, o último do FinOps que possui todas as informações. Mas lembre-se sempre, nenhum remédio irá te curar de todas as dores, nada melhor que usar algo específico para a sua dor!
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/13.png)
 
 ## Conclusão
 

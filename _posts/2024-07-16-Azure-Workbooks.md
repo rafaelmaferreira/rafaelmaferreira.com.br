@@ -11,7 +11,7 @@ tags: [Artigos, Azure, Azure Workbooks, FinOps]
 
 ## Introdução
 
-A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
+A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O [FinOps](https://rafaelmaferreira.com.br/posts/finops-foundation-cloud/), ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
 
 ## O que são [Azure Workbooks](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview)?
 
@@ -62,7 +62,7 @@ Azure Workbook são dashboards interativos e modulares que são usados para cria
 
 ### Principais Componentes do Workbook
 
-- **Visão Geral:** Baseado no Microsoft Azure Well-Architected Framework (WAF), fornece princípios para equilibrar objetivos de negócios com necessidades tecnológicas, reduzindo desperdícios e melhorando a eficiência operacional.
+- **Visão Geral:** Baseado no Microsoft Azure [Well-Architected Framework (WAF)](https://rafaelmaferreira.com.br/posts/well-architect-foundation-cloud/), fornece princípios para equilibrar objetivos de negócios com necessidades tecnológicas, reduzindo desperdícios e melhorando a eficiência operacional.
 - **Recursos e Governança:** Indica funcionalidades implementadas que seguem os princípios de Otimização de Custos e Governança de Custos.
 - **Pré-requisitos:** Requer funções mínimas de Reader e Workbook Contributor para importar e salvar o workbook, além de ações de "Quick Fix" documentadas com permissões específicas.
 

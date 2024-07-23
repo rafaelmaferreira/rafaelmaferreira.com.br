@@ -46,20 +46,23 @@ Azure Workbook são dashboards interativos e modulares que são usados para cria
 ## Exemplo Prático 1: Cost Optimization Workbook
 
 ### Configuração Inicial
-   - ![Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2FcreateUiDefinition.json)
-   - Acesse o Azure Portal e navegue até o Azure Monitor.
+   - [Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.costmanagement%2Foptimization-workbook%2FcreateUiDefinition.json)
+   - Acesse o Azure Portal e navegue até o Monitor.
    - Selecione "Workbooks" no menu e verifique se a sua assinatura está selecionada no filtro de assinaturas.
    - Selecione o "Cost Optimization Workbook".
 
-### Visualização do Workbook
-   - Acesse o workbook a partir do grupo de recursos selecionando o recurso de workbook e clicando em "Workbook" no menu.
+![ Cost Optimization Workbook](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/1.png)
+
 
 ### Principais Componentes do Workbook
-- **Gráficos de Custo Total:** Exibem uma visão consolidada dos custos totais ao longo do tempo.
-- **Custo por Serviço:** Detalham os custos por serviço do Azure.
-- **Custo por Recurso:** Mostram os custos individuais por recurso.
-- **Tendências de Utilização:** Fornecem gráficos de tendência de utilização de recursos.
-- **Filtros Interativos:** Permitem a filtragem dos dados por assinatura, grupo de recursos ou outros parâmetros para análises mais detalhadas.
+
+- **Visão Geral:** Baseado no Microsoft Azure Well-Architected Framework (WAF), fornece princípios para equilibrar objetivos de negócios com necessidades tecnológicas, reduzindo desperdícios e melhorando a eficiência operacional.
+- **Recursos e Governança:** Indica funcionalidades implementadas que seguem os princípios de Otimização de Custos e Governança de Custos.
+- **Pré-requisitos:** Requer funções mínimas de Reader e Workbook Contributor para importar e salvar o workbook, além de ações de "Quick Fix" documentadas com permissões específicas.
+
+Na aba Usage optimization, temos a opção Top 10 services:
+
+![Top 10 services](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/2.png)
 
 ## Exemplo Prático 2: Azure Orphaned Resources Workbook
 
@@ -67,20 +70,22 @@ Azure Workbook são dashboards interativos e modulares que são usados para cria
 
 O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Azure, ajudando a melhorar a eficiência através da economia de dinheiro, prevenção de configurações incorretas e simplificação operacional.
 
-### Como Utilizar o Azure Orphaned Resources Workbook
+### Como Utilizar o [Azure Orphaned Resources Workbook](https://github.com/dolevshor/azure-orphan-resources)
 
 1. **Importação do Workbook**
    - Acesse o Azure Portal e vá para 'Azure Workbooks'.
    - Clique em '+ Create' e depois em '+ New'.
    - Abra o Editor Avançado usando o botão '</>' na barra de ferramentas.
    - Selecione o 'Gallery Template'.
-   - Substitua o código JSON pelo código fornecido para 'Azure Orphaned Resources v2.0'.
+   - Substitua o código JSON pelo código fornecido para ['Azure Orphaned Resources v2.0'](https://github.com/dolevshor/azure-orphan-resources/tree/main/Workbook) **OBS:Deixei o link para você copiar o código e sempre utilizar a versão mais atual**
    - Clique em 'Apply' e depois em 'Save'.
    - Insira um título, assinatura, grupo de recursos e localização para o workbook.
    - Clique em 'Save'.
 
 2. **Visualização do Workbook**
    - Navegue até 'Workbooks' e clique no workbook 'Orphaned Resources'.
+
+![Orphaned App Service Plans](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/3.png)
 
 ### Principais Componentes do Workbook
 
@@ -103,19 +108,26 @@ O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Az
 - **Prevenção de Misconfiguração:** Ajuda a evitar configurações incorretas mantendo a infraestrutura organizada.
 - **Simplificação Operacional:** Centraliza a visualização de recursos órfãos, facilitando a gestão e manutenção do ambiente Azure.
 
+
+![Orphaned App Service Plans](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/4.png)
+![Orphaned Application Gateway](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/5.png)
+![Orphaned Managed Disks](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/6.png)
+
+![export_data](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/7.png)
+
 ## Exemplo Prático 3: Azure FinOps Workbook
 
 ### Introdução
 
-O Azure FinOps Workbook fornece insights, documentos-chave e orientações sobre a implementação de FinOps e otimização de custos no Azure. Ele visualiza os dados do seu ambiente Azure junto com recomendações e guias relevantes, incentivando uma abordagem orientada por dados.
+O Azure FinOps Workbook fornece insights, documentos chaves e orientações sobre a implementação de FinOps e otimização de custos no Azure. Ele visualiza os dados do seu ambiente Azure junto com recomendações e guias relevantes, incentivando uma abordagem orientada por dados.
 
-### Como Utilizar o Azure FinOps Workbook
+### Como Utilizar o [Azure FinOps Workbook](https://github.com/ms-sambell/azure-finops-workbook/tree/main?tab=readme-ov-file)
 
 1. **Importação do Workbook**
    - Copie o conteúdo do arquivo `workbook.json`.
    - Acesse a página de Azure Workbooks e clique em "New".
    - Clique no botão de código `</>`.
-   - Cole o conteúdo copiado na página e clique em "Apply".
+   - Cole o conteúdo copiado na [página](https://github.com/ms-sambell/azure-finops-workbook/blob/main/workbook.json) e clique em "Apply".
    - Salve o workbook (se tiver permissões) e clique em "Done Editing".
 
 ### Principais Componentes do Workbook
@@ -132,11 +144,15 @@ O Azure FinOps Workbook fornece insights, documentos-chave e orientações sobre
 - **AKS:** Informações de AKS requerem o uso do Container Insights.
 - **Recomendação:** Acesso de leitura sobre toda a assinatura/grupos de gerenciamento para ativar todos os painéis do workbook.
 
-### Benefícios do Workbook
+![FinOps Insights - Workbook](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/8.png)
+na area de Governance temos Tag:
+![Tags](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/9.png)
+![Tags](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/10.png)
+e o melhor: Cost Optimization
+![Recursos órfãos](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/11.png)
 
-- **Economia de Dinheiro:** Identifica oportunidades de redução de custos através da análise de dados e recomendações práticas.
-- **Automatização:** Exemplos práticos de automação ajudam a implementar ações de FinOps de maneira eficiente.
-- **Visibilidade:** Fornece uma visão consolidada e detalhada dos custos e da utilização dos recursos no ambiente Azure.
+## Reflexão
+Mas você deve estar se perguntando, a mas vou utilizar somente um, por exemplo, o último do FinOps que possui todas as informações. Mas lembre-se sempre, nenhum remédio irá te curar de todas as dores, nada melhor que usar algo específico para a sua dor!
 
 ## Conclusão
 

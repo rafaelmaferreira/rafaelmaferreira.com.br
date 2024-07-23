@@ -9,11 +9,13 @@ tags: [Artigos, Azure, Azure Workbooks, FinOps]
 
 ## Introdução
 
-A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks.
+A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps, ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
 
-## O que são Azure Workbooks?
+## O que são [Azure Workbooks](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview)?
 
 Azure Workbook são dashboards interativos e modulares que são usados para criar relatórios e visualizações no Azure Monitor. Eles permitem criar visões personalizadas que podem incluir métricas, logs e dados de outras fontes do Azure, proporcionando uma visão consolidada e interativa do ambiente de nuvem.
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/15.webp)
 
 ## Principais Benefícios do Azure Workbooks
 
@@ -41,6 +43,8 @@ Azure Workbook são dashboards interativos e modulares que são usados para cria
 
 6. **Gerenciamento de Recursos Órfãos**
    - Recursos órfãos são aqueles que não estão mais sendo utilizados ativamente, mas continuam a gerar custos. Identificar e gerenciar recursos órfãos ajuda a economizar dinheiro, prevenir configurações incorretas e simplificar a gestão operacional do ambiente Azure.
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/12.webp)
 
 
 ## Exemplo Prático 1: Cost Optimization Workbook
@@ -77,7 +81,7 @@ O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Az
    - Clique em '+ Create' e depois em '+ New'.
    - Abra o Editor Avançado usando o botão '</>' na barra de ferramentas.
    - Selecione o 'Gallery Template'.
-   - Substitua o código JSON pelo código fornecido para ['Azure Orphaned Resources v2.0'](https://github.com/dolevshor/azure-orphan-resources/tree/main/Workbook) **OBS:Deixei o link para você copiar o código e sempre utilizar a versão mais atual**
+   - Substitua o código JSON pelo código fornecido para ['Azure Orphaned Resources v2.0'](https://github.com/dolevshor/azure-orphan-resources/tree/main/Workbook) **OBS: Deixei o link para você copiar o código e sempre utilizar a versão mais atual**
    - Clique em 'Apply' e depois em 'Save'.
    - Insira um título, assinatura, grupo de recursos e localização para o workbook.
    - Clique em 'Save'.
@@ -108,11 +112,16 @@ O Azure Orphaned Resources Workbook centraliza recursos órfãos em ambientes Az
 - **Prevenção de Misconfiguração:** Ajuda a evitar configurações incorretas mantendo a infraestrutura organizada.
 - **Simplificação Operacional:** Centraliza a visualização de recursos órfãos, facilitando a gestão e manutenção do ambiente Azure.
 
+### Abaixo seguem alguns exemplos:
 
+Orphaned App Service Plans:
 ![Orphaned App Service Plans](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/4.png)
+Orphaned Application Gateway:
 ![Orphaned Application Gateway](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/5.png)
+Orphaned Managed Disks, podemos fazer o download do conteúdo conforme imagem: 
 ![Orphaned Managed Disks](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/6.png)
 
+Esse é um exemplo da planilha que é exportada, podemos então apresentar aos times responsáveis para possível exclusão dos recursos.
 ![export_data](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/7.png)
 
 ## Exemplo Prático 3: Azure FinOps Workbook
@@ -124,10 +133,10 @@ O Azure FinOps Workbook fornece insights, documentos chaves e orientações sobr
 ### Como Utilizar o [Azure FinOps Workbook](https://github.com/ms-sambell/azure-finops-workbook/tree/main?tab=readme-ov-file)
 
 1. **Importação do Workbook**
-   - Copie o conteúdo do arquivo `workbook.json`.
+   - Copie o [conteúdo](https://github.com/ms-sambell/azure-finops-workbook/blob/main/workbook.json) do arquivo `workbook.json`.
    - Acesse a página de Azure Workbooks e clique em "New".
    - Clique no botão de código `</>`.
-   - Cole o conteúdo copiado na [página](https://github.com/ms-sambell/azure-finops-workbook/blob/main/workbook.json) e clique em "Apply".
+   - Cole o conteúdo copiado na página e clique em "Apply".
    - Salve o workbook (se tiver permissões) e clique em "Done Editing".
 
 ### Principais Componentes do Workbook
@@ -145,21 +154,26 @@ O Azure FinOps Workbook fornece insights, documentos chaves e orientações sobr
 - **Recomendação:** Acesso de leitura sobre toda a assinatura/grupos de gerenciamento para ativar todos os painéis do workbook.
 
 ![FinOps Insights - Workbook](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/8.png)
-na area de Governance temos Tag:
+
+Na sessão de Governance temos Tag:
+
 ![Tags](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/9.png)
+
 ![Tags](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/10.png)
-e o melhor: Cost Optimization
+
+E essa que considere uma das melhoras melhor: Cost Optimization
+
 ![Recursos órfãos](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/11.png)
 
 ## Reflexão
 Mas você deve estar se perguntando, a mas vou utilizar somente um, por exemplo, o último do FinOps que possui todas as informações. Mas lembre-se sempre, nenhum remédio irá te curar de todas as dores, nada melhor que usar algo específico para a sua dor!
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-workbooks/13.png)
+
 ## Conclusão
 
 Azure Workbooks é uma ferramenta poderosa que pode ser utilizada para apoiar práticas de FinOps, proporcionando uma melhor visibilidade e controle sobre os custos na nuvem. Ao integrar dados de diversas fontes e criar visualizações interativas, as organizações podem otimizar sua utilização de recursos, melhorar o planejamento financeiro e garantir uma operação de nuvem mais eficiente e econômica.
 
-## Recursos Adicionais
+---
 
-- [Documentação do Azure Workbooks](https://learn.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)
-- [FinOps Toolkit no GitHub](https://github.com/finops-toolkit)
-- [Relatório PowerBI de Visualização de Custos](https://powerbi.microsoft.com/)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

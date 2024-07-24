@@ -12,9 +12,13 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
+# Próximos eventos: 
+
 - <i class="fa-solid fa-link"></i> [ 12 a 16 de Agosto - **Online -** INTUNE WEEK: Conectando Administradores de Endpoints](https://intuneweek.com/)
 
-- <i class="fa-solid fa-link"></i >[ 24/08 - ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
+- <i class="fa-solid fa-link"></i >[ 24/08 - **Online -** ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
+
+- <i class="fa-solid fa-link"></i >[ 31/08 - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
 
 # Presenciais:
 

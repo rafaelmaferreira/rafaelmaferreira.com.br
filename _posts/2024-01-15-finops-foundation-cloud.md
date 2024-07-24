@@ -153,12 +153,12 @@ A governança de custos é crucial para gerenciar as finanças em ambientes de K
 - **Monitoramento e Otimização:** Fornece ferramentas para monitorar o uso de recursos e sugerir melhorias na infraestrutura para reduzir custos e aumentar a eficiência.
 - **Controle Proativo de Custos:** Implementa políticas para garantir que o uso de recursos esteja alinhado com os objetivos financeiros da organização, prevenindo desperdícios e otimizando o orçamento.
 
-![https://www.kubecost.com/](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/Kubecost.png)
-
 Para saber mais:
 
-- [Microsoft Learn](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/scenarios/app-platform/aks/cost-governance-with-kubecost)
+- [Kubecost no Microsoft Learn](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/scenarios/app-platform/aks/cost-governance-with-kubecost)
 - [Kubecost na FinOps Foundation](https://www.finops.org/members/kubecost/)
+
+![https://www.kubecost.com/](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/Kubecost.png)
 
 ## Maximizando a Transparência com Observabilidade
 

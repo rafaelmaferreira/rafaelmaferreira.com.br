@@ -182,6 +182,8 @@ Principais funcionalidades do OpenCost incluem:
 
 Para mais informações, acesse [OpenCost](https://www.opencost.io/).
 
+![https://www.opencost.io/](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/open-cost.png)
+
 ## Conclusão e Chamado à Ação
 
 Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.

@@ -117,6 +117,18 @@ Definir expectativas e gerenciar a responsabilidade entre várias equipes e fun�
 
 Para ajudar a colocar todos os pontos apresentados foi criado uma [Apresentação](https://docs.google.com/presentation/d/17shQqIbmXMbjhAW26nD7qJeM9kqsbaDkTS9WzMk1okg/edit#slide=id.ged5e228ee8_0_0) aberto que qualquer praticante de FinOps pode usar como ponto de partida.
 
+## The Azure FinOps Guide
+
+Este guia centraliza informações e ferramentas de FinOps no Azure, permitindo uma melhor compreensão e otimização dos custos na nuvem. Os principais objetivos deste guia são:
+
+1. **Identificar oportunidades de economia de custos:** Fornecendo insights detalhados sobre como os recursos podem ser otimizados para reduzir despesas desnecessárias.
+2. **Otimizar a eficiência da nuvem:** Melhorando a utilização de recursos para maximizar o retorno sobre o investimento (ROI) em infraestrutura de nuvem.
+3. **Ganhar uma melhor compreensão e controle dos custos na nuvem:** Ajudando as equipes a monitorar, relatar e controlar os gastos de forma eficaz, alinhando as decisões financeiras com os objetivos de negócios.
+
+O guia é especialmente útil para organizações que utilizam serviços de nuvem do Azure e buscam otimizar seus custos, incluindo tomadores de decisão financeira, engenheiros de nuvem, profissionais de TI e fornecedores independentes de software (ISVs). Ele também incentiva a colaboração entre equipes de engenharia, finanças e negócios, promovendo uma prática cultural onde todos assumem responsabilidade pelo uso e custo da nuvem.
+
+Para mais detalhes e acesso ao conteúdo completo, você pode visitar o [The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132).
+
 ## Visão Geral
 
 A adoção de tecnologias Cloud Native está se tornando cada vez mais essencial para as empresas que buscam inovação e agilidade. No entanto, para garantir uma transição bem-sucedida, é crucial estabelecer uma base sólida que não apenas suporte a eficiência técnica, mas que também promova a sustentabilidade. Vamos explorar o papel vital da FinOps e práticas sustentáveis na construção de uma infraestrutura robusta e responsável em ambientes Cloud Native.
@@ -130,6 +142,19 @@ A transformação digital transcende a mera adoção de novas tecnologias; ela e
 A integração de DevOps com FinOps abre um novo horizonte para as empresas, combinando eficiência técnica com sustentabilidade financeira. Esta sinergia permite que as organizações otimizem seus recursos, reduzam custos e, ao mesmo tempo, mantenham um alto padrão de inovação e eficiência operacional.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/2024-01-15-finops-foundation-cloud04.png)
+
+## Governança de Custo com [Kubecost](https://www.kubecost.com/)
+
+A governança de custos é crucial para gerenciar as finanças em ambientes de Kubernetes, como o Azure Kubernetes Service (AKS). O Kubecost é uma ferramenta poderosa que ajuda as organizações a entender, gerenciar e otimizar os custos de seus clusters Kubernetes. Suas principais funcionalidades incluem:
+
+- **Alocação de Custos Detalhada:** Permite atribuir custos a níveis como implantação, serviço, rótulo, pod ou namespace, facilitando uma visão precisa e detalhada das despesas.
+- **Monitoramento e Otimização:** Fornece ferramentas para monitorar o uso de recursos e sugerir melhorias na infraestrutura para reduzir custos e aumentar a eficiência.
+- **Controle Proativo de Custos:** Implementa políticas para garantir que o uso de recursos esteja alinhado com os objetivos financeiros da organização, prevenindo desperdícios e otimizando o orçamento.
+
+Para saber mais:
+
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/scenarios/app-platform/aks/cost-governance-with-kubecost)
+- [Kubecost na FinOps Foundation](https://www.finops.org/members/kubecost/)
 
 ## Maximizando a Transparência com Observabilidade
 

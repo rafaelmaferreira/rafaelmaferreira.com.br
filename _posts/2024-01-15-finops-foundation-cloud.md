@@ -129,6 +129,8 @@ O guia é especialmente útil para organizações que utilizam serviços de nuve
 
 Para mais detalhes e acesso ao conteúdo completo, você pode visitar o [The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132).
 
+![https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/azure-finops-guide.png)
+
 ## Visão Geral
 
 A adoção de tecnologias Cloud Native está se tornando cada vez mais essencial para as empresas que buscam inovação e agilidade. No entanto, para garantir uma transição bem-sucedida, é crucial estabelecer uma base sólida que não apenas suporte a eficiência técnica, mas que também promova a sustentabilidade. Vamos explorar o papel vital da FinOps e práticas sustentáveis na construção de uma infraestrutura robusta e responsável em ambientes Cloud Native.
@@ -150,6 +152,8 @@ A governança de custos é crucial para gerenciar as finanças em ambientes de K
 - **Alocação de Custos Detalhada:** Permite atribuir custos a níveis como implantação, serviço, rótulo, pod ou namespace, facilitando uma visão precisa e detalhada das despesas.
 - **Monitoramento e Otimização:** Fornece ferramentas para monitorar o uso de recursos e sugerir melhorias na infraestrutura para reduzir custos e aumentar a eficiência.
 - **Controle Proativo de Custos:** Implementa políticas para garantir que o uso de recursos esteja alinhado com os objetivos financeiros da organização, prevenindo desperdícios e otimizando o orçamento.
+
+![https://www.kubecost.com/](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/Kubecost.png)
 
 Para saber mais:
 

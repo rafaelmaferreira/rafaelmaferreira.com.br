@@ -168,6 +168,20 @@ A observabilidade desempenha um papel crucial na maximização da eficiência op
 
 A adoção de práticas robustas em Cloud Native beneficia imensamente a comunidade Open Source. Uma base sólida facilita a implementação de soluções Open Source de maneira eficiente e segura, enriquecendo o ecossistema com contribuições valiosas e promovendo uma cultura de inovação aberta e colaborativa.
 
+### E falando de Open Source, temos o OpenCost
+
+E se você preferir uma ferramenta open source? O OpenCost é uma solução de código aberto para monitoramento e alocação de custos em tempo real em ambientes Kubernetes. Desenvolvido e suportado por uma comunidade de especialistas em Kubernetes, incluindo grandes players como AWS, Google Cloud, e Microsoft, o OpenCost oferece uma visão transparente dos gastos em Kubernetes.
+
+Principais funcionalidades do OpenCost incluem:
+
+- **Alocação de Custos em Tempo Real:** Detalhamento de custos até o nível de contêiner, baseado em conceitos do Kubernetes.
+- **Precificação Dinâmica de Ativos:** Integrações com APIs de faturamento de AWS, Azure, GCP, e suporte para clusters on-premises com preços personalizados.
+- **Monitoramento de Recursos em Cluster:** Inclui CPU, GPU, memória, balanceadores de carga e volumes persistentes.
+- **Monitoramento de Custos Fora do Cluster:** Rastreia custos de serviços gerenciados como armazenamento e bancos de dados.
+- **Integração com Ferramentas de Código Aberto:** Exportação de dados para Prometheus e outras ferramentas open source.
+
+Para mais informações, acesse [OpenCost](https://www.opencost.io/).
+
 ## Conclusão e Chamado à Ação
 
 Ao adotar tecnologias Cloud Native, práticas de FinOps e estratégias sustentáveis, as empresas se tornam líderes na promoção de um futuro Cloud Native sustentável. É um chamado à ação para todos os profissionais e líderes de TI: engajem-se, inovem e liderem o caminho para um futuro mais sustentável e eficiente.

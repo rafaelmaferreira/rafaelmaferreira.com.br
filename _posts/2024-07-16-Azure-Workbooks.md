@@ -166,6 +166,24 @@ E essa que considere uma das melhoras melhor: Cost Optimization
 ## Reflexão
 Mas você deve estar se perguntando, a mas vou utilizar somente um, por exemplo, o último do FinOps que possui todas as informações. Mas lembre-se sempre, nenhum remédio irá te curar de todas as dores, nada melhor que usar algo específico para a sua dor!
 
+## GreenOps: Como Azure Workbooks é um Aliado na Gestão Sustentável
+
+Azure Workbooks pode ser um aliado poderoso para práticas de GreenOps, fornecendo dashboards e insights que facilitam a gestão sustentável nas operações de TI. Para mais informações sobre GreenOps, visite meu artigo completo [aqui](https://rafaelmaferreira.com.br/posts/green-computing-foundation-cloud/). Aqui estão algumas formas de como Azure Workbooks pode ajudar:
+
+1. **Identificação de Recursos Subutilizados**
+   - Azure Workbooks ajuda a identificar recursos subutilizados, permitindo ajustes ou desativações para reduzir o consumo de energia e os custos operacionais.
+
+2. **Análise de Padrões de Uso**
+   - Fornece gráficos e análises que permitem observar padrões de uso, possibilitando ajustes operacionais para otimizar o uso de energia.
+
+3. **Otimização de Custos e Recursos**
+   - Facilita a identificação de áreas para redução de custos, alinhando a gestão de recursos com os objetivos de sustentabilidade.
+
+4. **Implementação de Práticas Sustentáveis**
+   - Com os insights obtidos, é possível implementar práticas que promovam a sustentabilidade, como a escolha de recursos energeticamente eficientes.
+
+Ao integrar Azure Workbooks em suas práticas de GreenOps, você pode melhorar a sustentabilidade e a eficiência de suas operações de TI.
+
 ## Conclusão
 
 Azure Workbooks é uma ferramenta poderosa que pode ser utilizada para apoiar práticas de FinOps, proporcionando uma melhor visibilidade e controle sobre os custos na nuvem. Ao integrar dados de diversas fontes e criar visualizações interativas, as organizações podem otimizar sua utilização de recursos, melhorar o planejamento financeiro e garantir uma operação de nuvem mais eficiente e econômica.

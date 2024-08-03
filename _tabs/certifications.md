@@ -10,6 +10,9 @@ order: 7
 
 Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
 
+
+[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.linkedin.com/feed/update/urn:li:activity:7224796360049385473/ "2024 Microsoft Most Valuable Professional (MVP)")
+
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/120x120/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/120x120/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/ECCBB4FB7DF76876?sharingId=AF242064A982B1A4 "Microsoft Certified: Azure Solutions Architect Expert")
@@ -59,7 +62,6 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 [![MD-101: Managing Modern Desktops](https://images.credly.com/size/102x102/images/abf489f7-c482-4632-98de-87a8f3fc5db7/exam-md101-600x600.png)](https://www.credly.com/earner/earned/badge/48b27123-b7a8-4ea8-876e-5529a1d7888c "MD-101: Managing Modern Desktops")
 
 [![MD-100: Windows Client](https://images.credly.com/size/102x102/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](https://www.credly.com/earner/earned/badge/3c0e967e-4f24-414f-bbd0-5de55bb3e2a5 "MD-100: Windows Client")
-
 ---
 
 Espero que tenham gostado deste post sobre minhas certificações e que ele tenha inspirado vocês a buscar suas próprias certificações para crescimento profissional. Se tiverem perguntas ou quiserem compartilhar suas próprias experiências. Vamos continuar aprendendo e crescendo juntos!

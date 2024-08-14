@@ -12,8 +12,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i> [ 12 a 16 de Agosto - **Online -** INTUNE WEEK: Conectando Administradores de Endpoints](https://intuneweek.com/)
-
 - <i class="fa-solid fa-link"></i >[ 24/08 - **Online -** ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
 
 - <i class="fa-solid fa-link"></i >[ 31/08 - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
@@ -81,6 +79,16 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 # Online: 
+
+## 12/08 - [**INTUNE WEEK**](https://intuneweek.com/) - Uma Visão Abrangente do Gerenciamento Moderno de Endpoints
+
+[![Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://img.youtube.com/vi/o9pgbI_eB38/0.jpg)](https://www.youtube.com/watch?v=o9pgbI_eB38)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Cronograma Evento](https://www.linkedin.com/posts/rafaelmaferreira_intuneweek-lowops-mvp-activity-7228820716995899392-27r_?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_intuneweek-cloudnaquebrada-microsoftintune-activity-7216040835560177665-iL_e?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://stoblobcertificados011.blob.core.windows.net/palestras/IntuneWeek.pdf)
 
 ## 27/06 - **DevOps Experience** - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
 

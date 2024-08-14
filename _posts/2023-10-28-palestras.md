@@ -83,6 +83,16 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Online: 
 
+## 12/08 - [**INTUNE WEEK**](https://intuneweek.com/) - Uma Visão Abrangente do Gerenciamento Moderno de Endpoints
+
+[![Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://img.youtube.com/vi/o9pgbI_eB38/0.jpg)](https://www.youtube.com/watch?v=o9pgbI_eB38)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Cronograma Evento](https://www.linkedin.com/posts/rafaelmaferreira_intuneweek-lowops-mvp-activity-7228820716995899392-27r_?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_intuneweek-cloudnaquebrada-microsoftintune-activity-7216040835560177665-iL_e?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://stoblobcertificados011.blob.core.windows.net/palestras/IntuneWeek.pdf)
+
 ## 27/06 - **DevOps Experience** - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
 
 [![GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - Experience Jun 24](https://img.youtube.com/vi/qT1Uo-tiBjE/0.jpg)](https://www.youtube.com/watch?v=qT1Uo-tiBjE)

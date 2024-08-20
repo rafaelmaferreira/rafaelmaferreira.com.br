@@ -13,7 +13,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i> [ 12 a 16 de Agosto - **Online -** INTUNE WEEK: Conectando Administradores de Endpoints](https://intuneweek.com/)
+- <i class="fa-solid fa-link"></i >[ 21/08 - **Online -** Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud](https://www.youtube.com/watch?v=46ourn9dLjM&ab_channel=FabricioVeronez)
+
+[![Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud](https://img.youtube.com/vi/46ourn9dLjM/0.jpg)](https://www.youtube.com/watch?v=46ourn9dLjM)
 
 - <i class="fa-solid fa-link"></i >[ 24/08 - **Online -** ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
 

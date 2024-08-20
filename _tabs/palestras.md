@@ -12,6 +12,10 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
+- <i class="fa-solid fa-link"></i >[ 21/08 - **Online -** Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud](https://www.youtube.com/watch?v=46ourn9dLjM&ab_channel=FabricioVeronez)
+
+[![Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud](https://img.youtube.com/vi/46ourn9dLjM/0.jpg)](https://www.youtube.com/watch?v=46ourn9dLjM)
+
 - <i class="fa-solid fa-link"></i >[ 24/08 - **Online -** ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
 
 - <i class="fa-solid fa-link"></i >[ 31/08 - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)

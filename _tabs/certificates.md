@@ -23,16 +23,16 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 ### 2024
 
 - [2024-08 - Security Academy 360](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Security.Academy.360.jpeg)
-- [2024-08 - Agile Essentials](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Agile.Essentials.pdf)
-- [2024-06 - Palestrante da Trilha Arquitetura de Dados](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Trilha-Arquitetura-Dados.pdf)
-- [2024-06 - Trilha Cloud](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Trilha-Cloud.pdf)
+- [2024-08 - Agile Essentials - LINUXtips](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Agile.Essentials.pdf)
+- [2024-06 - Palestrante da Trilha Arquitetura de Dados - TDC 2024 FLORIANÓPOLIS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Trilha-Arquitetura-Dados.pdf)
+- [2024-06 - Trilha Cloud - TDC 2024 FLORIANÓPOLIS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Trilha-Cloud.pdf)
 - [2024-06 - Palestrante Tech Connection Balneario Camburiu](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Tech-Connection-Balneario-Camburiu.png)
-- [2024-06 - Certification FLOW AI USER Exam](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-certification-FLOW-AI-USER-Exam.pdf)
+- [2024-06 - Certification FLOW AI USER Exam – CI&T](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-certification-FLOW-AI-USER-Exam.pdf)
 - [2024-06 - Instrutor-Az-900](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Instrutor-az-900.pdf)
-- [2024-04 - Uncomplicating Soft Skills](https://www.credential.net/29a3afb4-02bb-4b99-b112-b6c12d60f1b9#gs.86vovj)
-- [2024-03 - Sustainability Transformation With AWS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-03-SustainabilityTransformationwithAWS.pdf)
-- [2024-02 - Jornada ESG: Carreira em Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-02-Jornada.ESGCarreira.em.Sustentabilidade.pdf)
-- [2024-01 - Green Software for Practitioners LFC131](https://www.credly.com/badges/11e2e57b-47a9-48ca-af23-41cbb45c01ef/public_url)
+- [2024-04 - Uncomplicating Soft Skills - LINUXtips](https://www.credential.net/29a3afb4-02bb-4b99-b112-b6c12d60f1b9#gs.86vovj)
+- [2024-03 - Sustainability Transformation With AWS - AWS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-03-SustainabilityTransformationwithAWS.pdf)
+- [2024-02 - Jornada ESG: Carreira em Sustentabilidade - Exame](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-02-Jornada.ESGCarreira.em.Sustentabilidade.pdf)
+- [2024-01 - Green Software for Practitioners LFC131 - The Linux Foundation](https://www.credly.com/badges/11e2e57b-47a9-48ca-af23-41cbb45c01ef/public_url)
 
 ### 2023
 

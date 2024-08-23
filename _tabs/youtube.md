@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## Minhas primeira palestra internacional com Erivaldo Lopes
+[![Minhas primeira palestra internacional com Erivaldo Lopes](https://img.youtube.com/vi/VBROcsFCYA8/0.jpg)](https://www.youtube.com/watch?v=VBROcsFCYA8)
+
 ## #09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps
 [![#09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps](https://img.youtube.com/vi/ALnp2iRD8As/0.jpg)](https://www.youtube.com/watch?v=ALnp2iRD8As)
 

@@ -13,8 +13,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i >[ 24/08 - **Online -** ConFLOSS 24 (Conferência De Free/Libre E Open Source Software)](https://confloss.com.br/)
-
 - <i class="fa-solid fa-link"></i >[ 31/08 - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
 
 # Presenciais:
@@ -80,6 +78,13 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 # Online: 
+
+## 24/08 - [ConFLOSS](https://confloss.com.br/) - Observabilidade, além do alcance
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/confloss.jpeg)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_confloss-linux-opensource-activity-7214961215465242626-jfLe?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Observabilidade, além do alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/confloss.pdf)
 
 ## 21/08 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud
 

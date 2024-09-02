@@ -12,10 +12,17 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i >[ 31/08 - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
-<!-- - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop) --> 
+
 
 # Presenciais:
+
+##  31/08 - TDC Florianópolis - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - Evento Presencial Grande Florianópolis - DP-900: Fundamentos de Dados do Azure](https://rafaelmaferreira.com.br/posts/curso-dp-900/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop)
 
 ##  14/06 - TDC Florianópolis - Trilha Arquitetura de Dados
 ![TDC Florianópolis](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/floripa.png)

@@ -19,9 +19,8 @@ Nesta página, quero compartilho com vocês algumas das plataformas de cursos on
 
 - <i class="fab fa-youtube"></i> [Azure Floripa](https://www.youtube.com/@AzureFloripa)
 - <i class="fab fa-youtube"></i> [Raphael Andrade](https://www.youtube.com/@RaphaelAndrade)
-- <i class="fab fa-youtube"></i> [LINUXtips](https://www.youtube.com/@LinuxTips)
 - <i class="fab fa-youtube"></i> [Fabricio Veronez](https://www.youtube.com/@fabricioveronez)
-- <i class="fab fa-youtube"></i> [Azure na Prática](https://www.youtube.com/@AzurenaPratica)
+- <i class="fab fa-youtube"></i> [LINUXtips](https://www.youtube.com/@LinuxTips)
 - <i class="fab fa-youtube"></i> [O Sertão Será Cloud](https://www.youtube.com/@sertaoseracloud)
 - <i class="fab fa-youtube"></i> [Cloud na Quebrada](https://www.youtube.com/@sertaoseracloud)
 - <i class="fab fa-youtube"></i> [Canal Marcus Vinícius](https://www.youtube.com/@canalmarcusvinicius)
@@ -37,8 +36,7 @@ Nesta página, quero compartilho com vocês algumas das plataformas de cursos on
 ## Podcasts no Spotify
 
 - <i class="fa-brands fa-spotify"></i> [Kubicast](https://open.spotify.com/show/7x2OHOUAaOnTjlSwBHNAjN?si=1c30528ecfd9400f)
-- <i class="fa-brands fa-spotify"></i> [Hipster Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=66e5783e44df4378)
+- <i class="fa-brands fa-spotify"></i> [IA Sob Controle - Inteligência Artificial](https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP?si=802093c6b8884482)
 - <i class="fa-brands fa-spotify"></i> [Cabeça de Lab](https://open.spotify.com/show/6jYjcj4oQ31J85jGhbiRkK?si=23f4d88f65df4faa)
-- <i class="fa-brands fa-spotify"></i> [The Unicast DevOps Show](https://open.spotify.com/show/4h44R75Kcg9WQvOr4GxKJK)
 - <i class="fa-brands fa-spotify"></i> [Canal Marcus Vinícius](https://open.spotify.com/show/4fhMGofxZCOjminSRHp3iN)
-- <i class="fa-brands fa-spotify"></i> [A Trinca](https://open.spotify.com/show/2vCFH1w4rsvKTAD4Nkksx8?si=20b2ddeb53b7448a)
+- <i class="fa-brands fa-spotify"></i> [The Unicast DevOps Show](https://open.spotify.com/show/4h44R75Kcg9WQvOr4GxKJK)

@@ -13,10 +13,11 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Próximos eventos: 
 
 
-
 # Presenciais:
 
-##  31/08 - TDC Florianópolis - Curso DP-900 **Presencial**: Fundamentos de Dados do Azure
+##  31/08 - TDC Florianópolis - Curso DP-900 Fundamentos de Dados do Azure
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dp-900/1.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
 

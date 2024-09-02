@@ -22,6 +22,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-09 - Instrutor-DP-900](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-09-Instrutor-dp-900.jpeg)
 - [2024-08 - Security Academy 360](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Security.Academy.360.jpeg)
 - [2024-08 - Agile Essentials - LINUXtips](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Agile.Essentials.pdf)
 - [2024-06 - Palestrante da Trilha Arquitetura de Dados - TDC 2024 FLORIANÓPOLIS](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-06-Palestrante-Trilha-Arquitetura-Dados.pdf)

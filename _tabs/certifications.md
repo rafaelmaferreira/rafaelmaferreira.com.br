@@ -31,7 +31,7 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 
 [![Microsoft 365 Certified: Endpoint Administrator Associate](https://images.credly.com/size/112x112/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/73B0C88124A23C32?sharingId=AF242064A982B1A4 "Microsoft 365 Certified: Endpoint Administrator Associate")
 
-[![GitHub Foundations](https://images.credly.com/size/96x96/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)]([https://www.credly.com/badges/c6060f7e-32fd-4006-851f-1e46a566234d/public_url](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url) "GitHub Foundations")
+[![GitHub Foundations](https://images.credly.com/size/96x96/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url "GitHub Foundations")
 
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/96x96/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/c6060f7e-32fd-4006-851f-1e46a566234d/public_url "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 

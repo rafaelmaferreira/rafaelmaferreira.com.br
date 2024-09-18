@@ -11,11 +11,9 @@ tags: [Certificações]
 
 Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
 
-[![GitHub Foundations](https://images.credly.com/size/96x96/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url "GitHub Foundations")
-
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/31b57dfa-d1f3-495a-8329-9af19b26180b/public_url/ "2024 Microsoft Most Valuable Professional (MVP)")
 
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/120x120/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/118x118/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/120x120/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/ECCBB4FB7DF76876?sharingId=AF242064A982B1A4 "Microsoft Certified: Azure Solutions Architect Expert")
 
@@ -33,17 +31,19 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 
 [![Microsoft 365 Certified: Endpoint Administrator Associate](https://images.credly.com/size/112x112/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/73B0C88124A23C32?sharingId=AF242064A982B1A4 "Microsoft 365 Certified: Endpoint Administrator Associate")
 
-[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/96x96/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/c6060f7e-32fd-4006-851f-1e46a566234d/public_url "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
+[![GitHub Foundations](https://images.credly.com/size/112x112/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url "GitHub Foundations")
 
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/96x96/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/39a0fb81-c702-4235-a2d4-4e28ad7651ea/public_url "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/112x112/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/c6060f7e-32fd-4006-851f-1e46a566234d/public_url "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 
-[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/96x96/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/03eb9d53-60cf-48ff-851d-868b5815f147/public_url "Microsoft Certified: Azure Data Fundamentals")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/112x112/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/39a0fb81-c702-4235-a2d4-4e28ad7651ea/public_url "Microsoft Certified: Azure Fundamentals")
 
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/96x96/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/a66bba22-3ec0-4812-9521-fde9d60c12dd/public_url "Microsoft 365 Certified: Fundamentals")
+[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/112x112/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/03eb9d53-60cf-48ff-851d-868b5815f147/public_url "Microsoft Certified: Azure Data Fundamentals")
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/96x96/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc2090a8-2445-4cee-ba0a-ef398c636f33/public_url "AWS Certified Cloud Practitioner")
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/112x112/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/a66bba22-3ec0-4812-9521-fde9d60c12dd/public_url "Microsoft 365 Certified: Fundamentals")
 
-[![FOCP: FinOps Certified Practitioner](https://images.credly.com/size/96x96/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png)](https://www.credly.com/badges/d77d284c-7992-4721-bc6f-e21df5183743/public_url "FOCP: FinOps Certified Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/112x112/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc2090a8-2445-4cee-ba0a-ef398c636f33/public_url "AWS Certified Cloud Practitioner")
+
+[![FOCP: FinOps Certified Practitioner](https://images.credly.com/size/112x112/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png)](https://www.credly.com/badges/d77d284c-7992-4721-bc6f-e21df5183743/public_url "FOCP: FinOps Certified Practitioner")
 
 [![ITIL v3 Foundation](https://images.credly.com/size/88x88/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png)](https://zr62v-my.sharepoint.com/:b:/g/personal/rafael_ferreira_maferreira94_online/Ef0vVMgkhN1Ih5iqMMDCPCUBvxPS3K7TB25cj7V0_2382w?e=LJsOid "ITIL v3 Foundation")
 

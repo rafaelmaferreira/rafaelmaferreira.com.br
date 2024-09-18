@@ -11,6 +11,8 @@ tags: [Certificações]
 
 Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
 
+[![GitHub Foundations](https://images.credly.com/size/96x96/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)]([https://www.credly.com/badges/c6060f7e-32fd-4006-851f-1e46a566234d/public_url](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url) "GitHub Foundations")
+
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/31b57dfa-d1f3-495a-8329-9af19b26180b/public_url/ "2024 Microsoft Most Valuable Professional (MVP)")
 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/120x120/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")

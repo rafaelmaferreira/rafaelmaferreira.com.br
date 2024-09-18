@@ -23,6 +23,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-09 - GitHub Foundations](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url)
 - [2024-09 - Participação Codecon-Summit-2024](https://eventos.codecon.dev/documentos/imprimir?i=18876251.82968047.6.8.88762518296804768&cc=F48AA107-91D5-4DFB-8918-4F252C79251D)
 - [2024-09 - Instrutor-DP-900](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-09-Instrutor-dp-900.jpeg)
 - [2024-08 - Security Academy 360](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-08-Security.Academy.360.jpeg)

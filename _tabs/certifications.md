@@ -15,7 +15,7 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/118x118/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
-[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/120x120/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/ECCBB4FB7DF76876?sharingId=AF242064A982B1A4 "Microsoft Certified: Azure Solutions Architect Expert")
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/118x118/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/ECCBB4FB7DF76876?sharingId=AF242064A982B1A4 "Microsoft Certified: Azure Solutions Architect Expert")
 
 [![MCSA: Windows Server 2016 - Certified 2021](https://images.credly.com/size/104x104/images/ebc901fb-d403-4598-bfb7-da80289afdbd/MCSA-Windows_Server_2016-600x600.png)](https://www.credly.com/badges/fb756798-2177-4062-a4c1-0d3ec2f0ca7f/public_url "MCSA (Microsoft Certified Solutions Associate): Windows Server 2016 - Certified 2021")
 

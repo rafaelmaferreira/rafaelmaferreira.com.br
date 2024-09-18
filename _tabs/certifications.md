@@ -13,7 +13,7 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/31b57dfa-d1f3-495a-8329-9af19b26180b/public_url/ "2024 Microsoft Most Valuable Professional (MVP)")
 
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/120x120/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/118x118/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/120x120/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/ECCBB4FB7DF76876?sharingId=AF242064A982B1A4 "Microsoft Certified: Azure Solutions Architect Expert")
 

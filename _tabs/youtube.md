@@ -55,6 +55,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
+## Azure Workbooks para Otimização de Custos com FinOps
+[![Azure Workbooks para Otimização de Custos com FinOps](https://img.youtube.com/vi/TWGizKIBOXc/0.jpg)](https://www.youtube.com/watch?v=TWGizKIBOXc)
+
 ## Como implantar uma infraestrutura em larga escala com Azure DevOps e Terraform
 [![Como implantar uma infraestrutura em larga escala com Azure DevOps e Terraform](https://img.youtube.com/vi/Pb-rL-Mz-sI/0.jpg)](https://www.youtube.com/watch?v=Pb-rL-Mz-sI)
 

@@ -91,8 +91,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 22/09 - Azure Workbooks para Otimização de Custos com FinOps
 [![Azure Workbooks para Otimização de Custos com FinOps](https://img.youtube.com/vi/TWGizKIBOXc/0.jpg)](https://www.youtube.com/watch?v=TWGizKIBOXc)
 
-<!--  
-- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_os-6rs-que-voc%C3%AA-precisa-conhecer-para-migrar-activity-7231631063507218432-jm1H?utm_source=share&utm_medium=member_desktopp)-->
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_azure-workbooks-para-otimiza%C3%A7%C3%A3o-de-custos-activity-7243952243849220096-cPez?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Azure Workbooks para Otimização de Custos com FinOps](https://stoblobcertificados011.blob.core.windows.net/palestras/Workbooks.pdf)
 

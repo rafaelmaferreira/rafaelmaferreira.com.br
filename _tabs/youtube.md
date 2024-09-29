@@ -12,8 +12,8 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
-## #12 Episódio com Thiago Finardi
-[![#12 Episódio com Thiago Finardi](https://img.youtube.com/vi/hjhgpji-xCY/0.jpg)](https://www.youtube.com/watch?v=hjhgpji-xCY)
+## #13 Episódio com Amim Knabben: Explorando Kubernetes for Fun e Profit
+[![#13 Episódio com Amim Knabben: Explorando Kubernetes for Fun e Profit](https://img.youtube.com/vi/QyoOu_qJ6tk/0.jpg)](https://www.youtube.com/watch?v=QyoOu_qJ6tk)
 
 ## #11 Episódio com Marcus Vinícius Carvalho
 [![#11 Episódio com Marcus Vinícius Carvalho](https://img.youtube.com/vi/uOwwddYlNNs/0.jpg)](https://www.youtube.com/watch?v=uOwwddYlNNs)

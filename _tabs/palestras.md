@@ -12,6 +12,12 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
+- <i class="fa-solid fa-link"></i>[22/10 - #27 Cloud Native São Paulo - Sustainability Day na AWS - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
+<!-- - <i class="fa-solid fa-link"></i>[23/10 - REACTOR MICROSOFT - ]()-->
+<!-- - <i class="fa-solid fa-link"></i>[24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud]()-->
+- <i class="fa-solid fa-link"></i>[09/11 - Tech Connection Floripa - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise](https://talkfloripa.com.br/)
+- <i class="fa-solid fa-link"></i>[23/11 - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
+
 
 # Presenciais:
 
@@ -90,8 +96,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 22/09 - Azure Workbooks para Otimização de Custos com FinOps
 [![Azure Workbooks para Otimização de Custos com FinOps](https://img.youtube.com/vi/TWGizKIBOXc/0.jpg)](https://www.youtube.com/watch?v=TWGizKIBOXc)
 
-<!--  
-- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_os-6rs-que-voc%C3%AA-precisa-conhecer-para-migrar-activity-7231631063507218432-jm1H?utm_source=share&utm_medium=member_desktopp)-->
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_azure-workbooks-para-otimiza%C3%A7%C3%A3o-de-custos-activity-7243952243849220096-cPez?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Azure Workbooks para Otimização de Custos com FinOps](https://stoblobcertificados011.blob.core.windows.net/palestras/Workbooks.pdf)
 

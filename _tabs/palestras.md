@@ -13,8 +13,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Próximos eventos: 
 
 - <i class="fa-solid fa-link"></i>[22/10 - #27 Cloud Native São Paulo - Sustainability Day na AWS - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
-<!-- - <i class="fa-solid fa-link"></i>[23/10 - REACTOR MICROSOFT - ]()-->
-<!-- - <i class="fa-solid fa-link"></i>[24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud]()-->
+- <i class="fa-solid fa-link"></i>[23/10 - **Online** Windows Autopilot: Preparando dispositivos para uso produtivo ](https://www.youtube.com/watch?v=uM-5EH28tj4&ab_channel=MicrosoftReactor)
+- <i class="fa-solid fa-link"></i>[24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud]
 - <i class="fa-solid fa-link"></i>[09/11 - Tech Connection Floripa - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise](https://talkfloripa.com.br/)
 - <i class="fa-solid fa-link"></i>[23/11 - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 
@@ -30,7 +30,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop)
 
-##  14/06/2024 - TDC Florianópolis - Trilha Arquitetura de Dados
+##  14/06/2024 - Plataformização de Arquitetura de Dados com Backstage.io e IAC - TDC Florianópolis - Trilha Arquitetura de Dados
 ![TDC Florianópolis](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/floripa.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
@@ -41,7 +41,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização de Arquitetura de Dados com Backstage.io e IAC](https://stoblobcertificados011.blob.core.windows.net/palestras/TDC.pdf)
 
-## 11/06/2024 - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa
+## 11/06/2024 - Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa
 ![KuberTENes Birthday Bash Santa Catarina](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kuberTENes-Birthday-Bash-Santa-Catarina.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
@@ -63,7 +63,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop)
 
-## 01/06/2024 - Tech Connection Balneário Camburiú
+## 01/06/2024 - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - Tech Connection Balneário Camburiú
 ![Tech Connection Balneário Camburiú](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tech-connection.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Tech Connection Balneário Camburiú](https://talkfloripa.com.br/grade)
@@ -72,7 +72,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 
-## 24/02/2024 - KCD São Paulo - Brasil 2024
+## 24/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável - KCD São Paulo - Brasil 2024
 ![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
@@ -81,7 +81,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
-## 21/02/2024 - Cloud Native Floripa - 2º Edição
+## 21/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentáve - Cloud Native Floripa - 2º Edição
 [![Cloud Native Floripa - 2º Edição](https://img.youtube.com/vi/cSF1mPEZ8Rw/0.jpg)](https://www.youtube.com/watch?v=yP_oynLWOJI&ab_channel=CNCF%7CCloudNativeCommunityGroupSantaCatarina)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
@@ -114,7 +114,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/devops4dev.pdf)
 
-## 12/08/2024 - [**INTUNE WEEK**](https://intuneweek.com/) - Uma Visão Abrangente do Gerenciamento Moderno de Endpoints
+## 12/08/2024 - Uma Visão Abrangente do Gerenciamento Moderno de Endpoints - [**INTUNE WEEK**](https://intuneweek.com/)
 
 [![Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://img.youtube.com/vi/o9pgbI_eB38/0.jpg)](https://www.youtube.com/watch?v=o9pgbI_eB38)
 
@@ -124,7 +124,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://stoblobcertificados011.blob.core.windows.net/palestras/IntuneWeek.pdf)
 
-## 27/06/2024 - **DevOps Experience** - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade
+## 27/06/2024 - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - **DevOps Experience**
 
 [![GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - Experience Jun 24](https://img.youtube.com/vi/qT1Uo-tiBjE/0.jpg)](https://www.youtube.com/watch?v=qT1Uo-tiBjE)
 
@@ -139,19 +139,19 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Sustentabilidade e Cloud: Construindo o Futuro da Tecnologia Com Consciência](https://stoblobcertificados011.blob.core.windows.net/palestras/todos.por.rs.pdf)
 
-## 21/04/2024 - Global Azure - Azure Pipelines
+## 21/04/2024 - Azure Pipelines - Global Azure
 [![Global Azure - Azure Pipelines](https://img.youtube.com/vi/LzkdUu6sgys/0.jpg)](https://www.youtube.com/watch?v=LzkdUu6sgys)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Global Azure - Azure Pipelines](https://stoblobcertificados011.blob.core.windows.net/palestras/global.azure-Pipelines.pdf)
 
-## 20/04/2024 - Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure
+## 20/04/2024 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - Global Azure feat Azure Floripa
 [![Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://img.youtube.com/vi/etnQCHbIg2I/0.jpg)](https://www.youtube.com/watch?v=etnQCHbIg2I&list=PLRk-7XJDziQACNS69zAQ4LZL8LyQ2IBOR&index=6)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Global Azure feat Azure Floripa](https://rafaelmaferreira.com.br/posts/global-azure/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Global Azure feat Azure Floripa - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure](https://stoblobcertificados011.blob.core.windows.net/palestras/Global.Azure.pdf)
 
-## 07/03/2024 - TechTalk CI&T - Azure Cloud Foundation
+## 07/03/2024 - Azure Cloud Foundation - TechTalk CI&T
 
 ![TechTalk-CI&T-Azure-Cloud-Foundation.jpeg](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TechTalk-CI&T-Azure-Cloud-Foundation.jpeg)
 - <i class="fa-brands fa-linkedin"></i> **Saiba Mais:** [TechTalk CI&T - Azure Cloud Foundation](https://www.linkedin.com/posts/rafaelmaferreira_cit-microsoftazure-techtalk-activity-7171125818843250688-CADu?utm_source=share&utm_medium=member_desktop)

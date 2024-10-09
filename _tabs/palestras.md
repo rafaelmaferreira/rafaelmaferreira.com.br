@@ -21,7 +21,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais:
 
-##  31/08 - TDC Florianópolis - Curso DP-900 Fundamentos de Dados do Azure
+##  31/08 - Curso DP-900 Fundamentos de Dados do Azure
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dp-900/1.jpeg)
 

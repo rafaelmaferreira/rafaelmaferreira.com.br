@@ -15,7 +15,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i>[22/10 - #27 Cloud Native São Paulo - Sustainability Day na AWS - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
 - <i class="fa-solid fa-link"></i>[23/10 - **Online** Windows Autopilot: Preparando dispositivos para uso produtivo ](https://www.youtube.com/watch?v=uM-5EH28tj4&ab_channel=MicrosoftReactor)
-- <i class="fa-solid fa-link"></i>[24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud]
+- <i class="fa-solid fa-link"></i>24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud
 - <i class="fa-solid fa-link"></i>[09/11 - Tech Connection Floripa - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise](https://talkfloripa.com.br/)
 - <i class="fa-solid fa-link"></i>[23/11 - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 

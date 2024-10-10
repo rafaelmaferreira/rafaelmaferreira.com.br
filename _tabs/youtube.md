@@ -55,6 +55,9 @@ Nesta seção do blog, compartilho minha jornada nas plataformas YouTube pelos c
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
+## Governança Azure: Você Precisa Estar Atento! com Osanam Giordane
+[![Governança Azure: Você Precisa Estar Atento! com Osanam Giordane](https://img.youtube.com/vi/oLDXUuOyIjA/0.jpg)](https://www.youtube.com/watch?v=oLDXUuOyIjA)
+
 ## Azure Workbooks para Otimização de Custos com FinOps
 [![Azure Workbooks para Otimização de Custos com FinOps](https://img.youtube.com/vi/TWGizKIBOXc/0.jpg)](https://www.youtube.com/watch?v=TWGizKIBOXc)
 

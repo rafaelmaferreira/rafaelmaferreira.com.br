@@ -12,13 +12,28 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[22/10 - #27 Cloud Native São Paulo - Sustainability Day na AWS - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
-- <i class="fa-solid fa-link"></i>[23/10 - **Online** Windows Autopilot: Preparando dispositivos para uso produtivo ](https://www.youtube.com/watch?v=uM-5EH28tj4&ab_channel=MicrosoftReactor)
 - <i class="fa-solid fa-link"></i>24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud
 - <i class="fa-solid fa-link"></i>[09/11 - Tech Connection Floripa - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise](https://talkfloripa.com.br/)
 - <i class="fa-solid fa-link"></i>[23/11 - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 
 # Presenciais:
+
+##  22/10/2024 - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustainability.day/1.jpeg)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
+
+- <i class="fab fa-youtube"></i> [Assista no Youtube](https://www.youtube.com/live/mIgEJseOt0U?si=gvvSqnxMpQlMaKXG)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
+
+<!-- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - Evento Presencial Grande Florianópolis - DP-900: Fundamentos de Dados do Azure](https://rafaelmaferreira.com.br/posts/curso-dp-900/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop)
+
+-->
 
 ##  31/08/2024 - Curso DP-900 Fundamentos de Dados do Azure
 

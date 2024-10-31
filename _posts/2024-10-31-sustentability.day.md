@@ -9,6 +9,41 @@ tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Cloud Native 
 
 No último dia 22 de outubro, o **[CNCF - Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all)**, em parceria com a **[Amazon Web Services (AWS)](https://www.linkedin.com/company/amazon-web-services/)** e a **[Cloud Native Computing Foundation (CNCF)](https://www.linkedin.com/company/cloud-native-computing-foundation/posts/?feedView=all)**, organizou o aguardado evento "Sustainability Day" no AWS Startup Loft em São Paulo. Com um foco especial na sustentabilidade nas operações de TI, o meetup reuniu especialistas, desenvolvedores e entusiastas da tecnologia para discutir estratégias inovadoras que equilibram eficiência e responsabilidade ambiental na nuvem.
 
+
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/1.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/2.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/3.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/4.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/5.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/6.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/7.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/8.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/9.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/10.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/11.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/12.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/13.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/14.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/15.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/16.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/17.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/18.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/19.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/20.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/21.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/22.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/23.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/24.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/25.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/26.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/27.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/28.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/29.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/30.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/31.jpg)
+
+
 Se você não pôde comparecer, este post traz um resumo completo com os principais insights sobre práticas sustentáveis que prometem revolucionar a tecnologia e sua aplicação na nuvem. Confira como o **GreenOps** está impactando a infraestrutura e veja como você pode começar a implementar essas práticas para um futuro mais verde e eficiente.
 
 ### 🌍 A Importância da Sustentabilidade na Nuvem

@@ -21,9 +21,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  22/10/2024 - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustainability.day/1.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/01.jpeg)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [ #27 Cloud Native São Paulo - Sustainability Day na AWS](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-27-cloud-native-sao-paulo-sustainability-day-na-aws/)
 
 - <i class="fab fa-youtube"></i> [Assista no Youtube](https://www.youtube.com/live/mIgEJseOt0U?si=gvvSqnxMpQlMaKXG)
 

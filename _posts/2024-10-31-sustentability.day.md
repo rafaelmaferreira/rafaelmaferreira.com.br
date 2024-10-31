@@ -18,7 +18,7 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 ### 💡 Palestras e Insights Inspiradores
 
 #### 1. Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud  
-**Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaferreira011)  
+**Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)  
 **Resumo:** Rafael compartilhou como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Ele discutiu práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
 
 #### 2. Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps  
@@ -26,7 +26,7 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 **Resumo:** Cláudio explorou como o **Backstage**, plataforma de experiência do desenvolvedor (DevEx), pode facilitar a integração de GreenOps na infraestrutura de TI. Ele demonstrou como a experiência do desenvolvedor pode ser aprimorada ao automatizar pipelines sustentáveis e reduzir custos operacionais. **Casos de uso** mostraram a força do Backstage para uma infraestrutura sustentável e centrada no desenvolvedor.
 
 #### 3. Escalonamento Eficiente e Sustentável no Kubernetes: Como Karpenter e KEDA Fazem a Diferença  
-**Palestrantes:** [Pedro Oliveira](https://www.linkedin.com/in/pedrohco1/) & [Tiago Reichert](https://www.linkedin.com/in/pedroirufo/)  
+**Palestrantes:** [Pedro Oliveira](https://www.linkedin.com/in/pedrohco1/) & [Tiago Reichert](https://www.linkedin.com/in/tiago-reichert/)  
 **Resumo:** Pedro e Tiago discutiram a importância do gerenciamento de recursos para a sustentabilidade e otimização de custos no Kubernetes. Utilizando **Karpenter para escalonamento automático** e **Amazon Graviton para economizar até 60% de energia**, eles mostraram como essas soluções são eficientes para atender à demanda e, ao mesmo tempo, reduzir o desperdício de recursos.
 
 ### 🔥 Como Participar desse Movimento
@@ -49,8 +49,6 @@ Seguimos com um animado happy hour, proporcionando uma excelente oportunidade pa
 
 Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no YouTube:
 
-[![CNCF SC - 6 Meetup + KuberTENes - 10 anos](https://img.youtube.com/vi/iACjUNbhnaM/0.jpg)](https://www.youtube.com/watch?v=mIgEJseOt0U&ab_channel=SaoPauloCloudNative)
+[![CNCF SC - 6 Meetup + KuberTENes - 10 anos](https://img.youtube.com/vi/mIgEJseOt0U&t/0.jpg)](https://www.youtube.com/watch?v=mIgEJseOt0U&t)
 
----
-
-![CNCF Logo](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

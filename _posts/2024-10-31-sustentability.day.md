@@ -19,7 +19,7 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 
 #### 1. Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud  
 **Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)  
-**Resumo:** Rafael compartilhou como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Ele discutiu práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
+**Resumo:** Compartilhei como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Discuti práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
 
 #### 2. Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps  
 **Palestrante:** [Cláudio Filipe Lima Rapôso](https://www.linkedin.com/in/cfraposo/)  
@@ -33,22 +33,22 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 
 Mesmo que você não tenha participado do meetup, ainda é possível adotar as práticas discutidas e fazer parte dessa revolução na nuvem:
 
-- **Estude mais sobre GreenOps:** Entenda como aplicar práticas sustentáveis nas operações em nuvem e descubra as ferramentas que auxiliam no monitoramento e otimização do consumo energético.
+- **Estude mais sobre GreenOps:** Entenda como aplicar práticas sustentáveis nas operações em nuvem e descubra as ferramentas que auxiliam no monitoramento e otimização do consumo energético. Para um entendimento aprofundado, confira o [artigo sobre Green Computing Foundation e sustentabilidade na nuvem](https://rafaelmaferreira.com.br/posts/green-computing-foundation-cloud/) no blog!
 - **Experimente soluções como Backstage, Karpenter e KEDA:** Essas ferramentas já fazem a diferença em muitas empresas e podem ser incorporadas facilmente ao seu ambiente para criar uma infraestrutura mais sustentável.
-- **Conecte-se com a comunidade Cloud Native:** Os organizadores e palestrantes do [CNCF | Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all) são grandes influenciadores neste campo. Acompanhe-os e aprenda como eles aplicam conceitos de sustentabilidade em projetos de alta escala.
+- **Conecte-se com a comunidade Cloud Native:** Os organizadores e palestrantes do [CNCF Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all) são grandes influenciadores neste campo. Acompanhe-os e aprenda como eles aplicam conceitos de sustentabilidade em projetos de alta escala.
 - **Participe de futuros meetups:** O movimento está apenas começando! Esses encontros proporcionam aprendizado contínuo e networking com profissionais que estão liderando a transformação sustentável na tecnologia.
 
 ### 🌱 Conclusão: Sua Jornada Rumo à Sustentabilidade Começa Agora!
 
-A sustentabilidade já não é uma escolha opcional; é uma necessidade. Com as práticas e ferramentas apresentadas, você pode começar a fazer a diferença, implementando GreenOps em seu ambiente e otimizando o uso de recursos. **Pequenas mudanças podem gerar um grande impacto**, mostrando que sua empresa está comprometida com um futuro mais sustentável e eficiente.
+A sustentabilidade já não é uma escolha opcional, é uma necessidade. Com as práticas e ferramentas apresentadas, você pode começar a fazer a diferença, implementando GreenOps em seu ambiente e otimizando o uso de recursos. **Pequenas mudanças podem gerar um grande impacto**, mostrando que sua empresa está comprometida com um futuro mais sustentável e eficiente.
 
-Então, prepare-se! Fique atento aos próximos eventos do **CNCF | Cloud Native São Paulo** e venha descobrir como pequenas mudanças na infraestrutura podem trazer benefícios duradouros para o seu negócio e para o meio ambiente. Vamos juntos transformar a tecnologia em uma força para um futuro verde!
+Então, prepare-se! Fique atento aos próximos eventos do [CNCF Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all) e venha descobrir como pequenas mudanças na infraestrutura podem trazer benefícios duradouros para o seu negócio e para o meio ambiente. Vamos juntos transformar a tecnologia em uma força para um futuro verde!
 
 ### Encerramento 
 Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais.
 
 Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no YouTube:
 
-[![CNCF SC - 6 Meetup + KuberTENes - 10 anos](https://img.youtube.com/vi/mIgEJseOt0U&t/0.jpg)](https://www.youtube.com/watch?v=mIgEJseOt0U&t)
+[![#27 Cloud Native São Paulo - Sustainability Day na AWS](https://img.youtube.com/vi/mIgEJseOt0U/0.jpg)](https://www.youtube.com/watch?v=mIgEJseOt0U&t)
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

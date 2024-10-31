@@ -16,6 +16,18 @@ No último dia 22 de outubro, o **[CNCF - Cloud Native São Paulo 🇧🇷](http
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/3.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/4.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/5.jpg)
+
+
+Se você não pôde comparecer, este post traz um resumo completo com os principais insights sobre práticas sustentáveis que prometem revolucionar a tecnologia e sua aplicação na nuvem. Confira como o **GreenOps** está impactando a infraestrutura e veja como você pode começar a implementar essas práticas para um futuro mais verde e eficiente.
+
+### 🌍 A Importância da Sustentabilidade na Nuvem
+
+A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraestrutura na nuvem, aumentando o consumo de energia e os custos operacionais. Agora, o desafio é claro: como equilibrar eficiência e inovação sem comprometer o meio ambiente? Esse tema foi o ponto de partida do evento, abordando como ferramentas e práticas inovadoras podem otimizar o consumo de recursos e reduzir a pegada de carbono na nuvem.
+
+### 💡 Palestras e Insights Inspiradores
+
+#### 1. Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud  
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/6.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/7.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/8.jpg)
@@ -33,34 +45,20 @@ No último dia 22 de outubro, o **[CNCF - Cloud Native São Paulo 🇧🇷](http
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/20.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/21.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/22.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/23.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/24.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/25.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/26.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/27.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/28.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/29.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/30.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/31.jpg)
 
-
-Se você não pôde comparecer, este post traz um resumo completo com os principais insights sobre práticas sustentáveis que prometem revolucionar a tecnologia e sua aplicação na nuvem. Confira como o **GreenOps** está impactando a infraestrutura e veja como você pode começar a implementar essas práticas para um futuro mais verde e eficiente.
-
-### 🌍 A Importância da Sustentabilidade na Nuvem
-
-A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraestrutura na nuvem, aumentando o consumo de energia e os custos operacionais. Agora, o desafio é claro: como equilibrar eficiência e inovação sem comprometer o meio ambiente? Esse tema foi o ponto de partida do evento, abordando como ferramentas e práticas inovadoras podem otimizar o consumo de recursos e reduzir a pegada de carbono na nuvem.
-
-### 💡 Palestras e Insights Inspiradores
-
-#### 1. Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud  
 **Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)  
 **Resumo:** Compartilhei como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Discuti práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
 
 #### 2. Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps  
 **Palestrante:** [Cláudio Filipe Lima Rapôso](https://www.linkedin.com/in/cfraposo/)  
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/23.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/24.jpg)
 **Resumo:** Cláudio explorou como o **Backstage**, plataforma de experiência do desenvolvedor (DevEx), pode facilitar a integração de GreenOps na infraestrutura de TI. Ele demonstrou como a experiência do desenvolvedor pode ser aprimorada ao automatizar pipelines sustentáveis e reduzir custos operacionais. **Casos de uso** mostraram a força do Backstage para uma infraestrutura sustentável e centrada no desenvolvedor.
 
-#### 3. Escalonamento Eficiente e Sustentável no Kubernetes: Como Karpenter e KEDA Fazem a Diferença  
+#### 3. Escalonamento Eficiente e Sustentável no Kubernetes: Como Karpenter e KEDA Fazem a Diferença 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/23.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/24.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/31.jpg) 
 **Palestrantes:** [Pedro Oliveira](https://www.linkedin.com/in/pedrohco1/) & [Tiago Reichert](https://www.linkedin.com/in/tiago-reichert/)  
 **Resumo:** Pedro e Tiago discutiram a importância do gerenciamento de recursos para a sustentabilidade e otimização de custos no Kubernetes. Utilizando **Karpenter para escalonamento automático** e **Amazon Graviton para economizar até 60% de energia**, eles mostraram como essas soluções são eficientes para atender à demanda e, ao mesmo tempo, reduzir o desperdício de recursos.
 
@@ -79,8 +77,15 @@ A sustentabilidade já não é uma escolha opcional, é uma necessidade. Com as 
 
 Então, prepare-se! Fique atento aos próximos eventos do [CNCF Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all) e venha descobrir como pequenas mudanças na infraestrutura podem trazer benefícios duradouros para o seu negócio e para o meio ambiente. Vamos juntos transformar a tecnologia em uma força para um futuro verde!
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/27.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/28.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/29.jpg)
+
 ### Encerramento 
 Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais.
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/30.jpg)
+
 
 Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no YouTube:
 

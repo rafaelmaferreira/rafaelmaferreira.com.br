@@ -32,15 +32,10 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/7.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/8.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/9.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/10.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/11.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/12.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/13.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/14.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/15.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/16.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/17.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/18.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/19.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/20.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/21.jpg)
@@ -82,7 +77,7 @@ Então, prepare-se! Fique atento aos próximos eventos do [CNCF Cloud Native Sã
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/29.jpg)
 
 ### Encerramento 
-Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais.
+Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais. E para quem se perguntou da qualidade das fotos, sim, é isso, tivemos um fotógrafo profissional ([Erivaldo Lopes](https://www.linkedin.com/in/erivaldolopes/))!
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/30.jpg)
 

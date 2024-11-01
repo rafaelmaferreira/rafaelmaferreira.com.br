@@ -81,6 +81,10 @@ Seguimos com um animado happy hour, proporcionando uma excelente oportunidade pa
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/30.jpg)
 
+Quer participar como palestrante em um próximo meetup? 
+
+https://lnkd.in/ddvBG7hM
+
 Caso queira conferir todas as fotos, segue o [link](https://lightroom.adobe.com/shares/7f7588265265451f9f986f379c64bd13).
 
 Se você não teve a oportunidade de comparecer a este evento, não se preocupe, você pode conferir a gravação no YouTube:

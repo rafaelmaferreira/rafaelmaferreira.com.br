@@ -28,12 +28,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
 
-<!-- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - Evento Presencial Grande Florianópolis - DP-900: Fundamentos de Dados do Azure](https://rafaelmaferreira.com.br/posts/curso-dp-900/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [#27 Cloud Native São Paulo - Sustainability Day na AWS](https://rafaelmaferreira.com.br/posts/sustentability.day/)
 
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop)
-
--->
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_27-cloud-native-s%C3%A3o-paulo-sustainability-activity-7258090638800289792-r0r4?utm_source=share&utm_medium=member_desktop)
 
 ##  31/08/2024 - Curso DP-900 Fundamentos de Dados do Azure
 

@@ -13,11 +13,20 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>24/10 - MVP TALKS CI&T - Architecting a Secure Landing Zone for AI Workloads in the Cloud
 - <i class="fa-solid fa-link"></i>[09/11 - Tech Connection Floripa - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise](https://talkfloripa.com.br/)
 - <i class="fa-solid fa-link"></i>[23/11 - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 
 # Presenciais:
+
+##  24/10/2024 - Architecting a Secure Landing Zone for AI Workloads in the Cloud - MVP TALKS CI&T
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.talks/1.png)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
+
+<!--- - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_27-cloud-native-s%C3%A3o-paulo-sustainability-activity-7258090638800289792-r0r4?utm_source=share&utm_medium=member_desktop) --->
 
 ##  22/10/2024 - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS
 
@@ -29,7 +38,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [#27 Cloud Native São Paulo - Sustainability Day na AWS](https://rafaelmaferreira.com.br/posts/sustentability.day/)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - #27 Cloud Native São Paulo - Sustainability Day na AWS](https://rafaelmaferreira.com.br/posts/sustentability.day/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_27-cloud-native-s%C3%A3o-paulo-sustainability-activity-7258090638800289792-r0r4?utm_source=share&utm_medium=member_desktop)
 

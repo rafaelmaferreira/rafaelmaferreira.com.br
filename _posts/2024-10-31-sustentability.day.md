@@ -44,6 +44,8 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 **Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)  
 **Resumo:** Compartilhei como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Discuti práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
 
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
+
 #### 2. Otimizando DevEx e Sustentabilidade: Como o Backstage Transforma Infraestruturas com GreenOps  
 **Palestrante:** [Cláudio Filipe Lima Rapôso](https://www.linkedin.com/in/cfraposo/)  
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/23.jpg)

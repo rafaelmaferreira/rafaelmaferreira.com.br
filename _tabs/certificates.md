@@ -22,6 +22,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-10 - Imersão Azure - TFTEC ](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-10-Imersão.Azure.TFTEC.pdf)
 - [2024-09 - Certification Flow AI Expert – CI&T](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-09-Certification-FLOW-AI-EXPERT.pdf)
 - [2024-09 - GitHub Foundations](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url)
 - [2024-09 - 2024 Microsoft Most Valuable Professional (MVP)](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-09-MostValuableProfessionalCertificate.pdf)

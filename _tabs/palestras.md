@@ -23,7 +23,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa](https://talkfloripa.com.br/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/TC-Floripa.pdf)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.talks/1.png)
+
 
 <!--- 
 
@@ -35,7 +35,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  24/10/2024 - Architecting a Secure Landing Zone for AI Workloads in the Cloud - MVP TALKS CI&T
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.talks/1.png)
+
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 

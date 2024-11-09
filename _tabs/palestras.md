@@ -18,6 +18,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tc-floripa.jpeg)
+
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa](https://talkfloripa.com.br/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/TC-Floripa.pdf)

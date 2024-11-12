@@ -45,7 +45,7 @@ Certificações são marcos importantes na minha jornada profissional. Elas repr
 
 [![FOCP: FinOps Certified Practitioner](https://images.credly.com/size/112x112/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png)](https://www.credly.com/badges/d77d284c-7992-4721-bc6f-e21df5183743/public_url "FOCP: FinOps Certified Practitioner")
 
-[![ITIL v3 Foundation](https://images.credly.com/size/88x88/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png)](https://zr62v-my.sharepoint.com/:b:/g/personal/rafael_ferreira_maferreira94_online/Ef0vVMgkhN1Ih5iqMMDCPCUBvxPS3K7TB25cj7V0_2382w?e=LJsOid "ITIL v3 Foundation")
+[![ITIL v3 Foundation](https://images.credly.com/size/88x88/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png)](https://stoblobcertificados011.blob.core.windows.net/certificados/2019-07-ITIL.Foundation.Certificate.in.IT.Service.Management.pdf "ITIL v3 Foundation")
 
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/102x102/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](https://www.credly.com/earner/earned/badge/dc12f7c1-81cc-4e62-ad76-67306156ac88 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 

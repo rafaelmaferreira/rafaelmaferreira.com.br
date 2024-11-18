@@ -23,6 +23,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2024
 
+- [2024-11 - 2º TECH CONNECTION FLORIPA](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-11-2TECHCONNECTIONFLORIPA.png)
 - [2024-11 - Flux CD Mastery: Automating Kubernetes with GitOps - Udemy](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-10-FluxCDMasteryAutomatingKuberneteswithGitOps-Udemy.pdf)
 - [2024-10 - Imersão Azure - TFTEC ](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-10-Imersão.Azure.TFTEC.pdf)
 - [2024-09 - Certification Flow AI Expert – CI&T](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-09-Certification-FLOW-AI-EXPERT.pdf)

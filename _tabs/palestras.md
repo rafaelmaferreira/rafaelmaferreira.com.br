@@ -10,11 +10,25 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-# Próximos eventos: 
+<!--- # Próximos eventos: --->
 
-- <i class="fa-solid fa-link"></i>[23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
+- <i class="fa-solid fa-link"></i>[]()
 
 # Presenciais:
+
+##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island.jpg)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ol%C3%A1-pessoal-estarei-palestrando-na-code-activity-7262434108855767041-Ky8U?utm_source=share&utm_medium=member_desktop)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/code.island.pdf)
+
+<!--- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
+--->
 
 ##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
 
@@ -22,20 +36,12 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa](https://talkfloripa.com.br/)
 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_techconnection2024-palestra-cloudcomputing-activity-7259897365203959809-ZGW4?utm_source=share&utm_medium=member_desktop)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/TC-Floripa.pdf)
 
 
-<!--- 
-
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
-
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_mvp-talks-cit-conex%C3%A3o-conhecimento-e-inova%C3%A7%C3%A3o-activity-7259535011341631489-j6IA?utm_source=share&utm_medium=member_desktop)
-
---->
-
 ##  24/10/2024 - Architecting a Secure Landing Zone for AI Workloads in the Cloud - MVP TALKS CI&T
-
-
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 

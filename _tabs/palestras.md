@@ -10,9 +10,9 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-<!--- # Próximos eventos: --->
+<!--- # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[]()
+- <i class="fa-solid fa-link"></i>[]() --->
 
 # Presenciais:
 

@@ -112,7 +112,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop)
 
 ## 01/06/2024 - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - Tech Connection Balneário Camburiú
-![Tech Connection Balneário Camburiú](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tech-connection.png)
+![Tech Connection Balneário Camburiú](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tc.bc.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Tech Connection Balneário Camburiú](https://talkfloripa.com.br/grade)
 

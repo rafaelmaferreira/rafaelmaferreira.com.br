@@ -116,7 +116,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 
 ## 24/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável - KCD São Paulo - Brasil 2024
-![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
+![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kcd.sp.2024.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 

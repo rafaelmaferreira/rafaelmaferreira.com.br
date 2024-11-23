@@ -33,8 +33,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
 
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tc.floripa.2024/1.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tc/1.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa](https://talkfloripa.com.br/)
 
@@ -45,13 +44,11 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  24/10/2024 - Architecting a Secure Landing Zone for AI Workloads in the Cloud - MVP TALKS CI&T
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.talks/1.png)
-
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
 
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_mvp-talks-cit-conex%C3%A3o-conhecimento-e-inova%C3%A7%C3%A3o-activity-7259535011341631489-j6IA?utm_source=share&utm_medium=member_desktop) 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_mvp-talks-cit-conex%C3%A3o-conhecimento-e-inova%C3%A7%C3%A3o-activity-7259535011341631489-j6IA?utm_source=share&utm_medium=member_desktop)
 
 ##  22/10/2024 - Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS
 
@@ -66,8 +63,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - #27 Cloud Native São Paulo - Sustainability Day na AWS](https://rafaelmaferreira.com.br/posts/sustentability.day/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_27-cloud-native-s%C3%A3o-paulo-sustainability-activity-7258090638800289792-r0r4?utm_source=share&utm_medium=member_desktop)
-
-# Presenciais:
 
 ##  31/08/2024 - Curso DP-900 Fundamentos de Dados do Azure
 
@@ -122,7 +117,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 
 ## 24/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável - KCD São Paulo - Brasil 2024
-![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/KCD-Sao-Paulo-Brasil-2024.jpg)
+![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kcd.sp.2024.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
@@ -138,6 +133,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_um-pouco-do-meetup-de-ontem-da-cloud-native-activity-7166602764209397760-58XY?utm_source=share&utm_medium=member_desktop)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
+
 
 # Online: 
 

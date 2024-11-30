@@ -133,6 +133,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
+
 # Online: 
 
 ## 22/09/2024 - Azure Workbooks para Otimização de Custos com FinOps
@@ -204,7 +205,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [TechTalk CI&T - Azure Cloud Foundation part II](https://stoblobcertificados011.blob.core.windows.net/palestras/TechTalk2.pdf)
 
 
-## 23/09/2024 - DEVOPS - EP 11 - Monitoramento e Observabilidade
+## 23/09/2023 - DEVOPS - EP 11 - Monitoramento e Observabilidade
 [![DEVOPS - EP 11 - Monitoramento e Observabilidade](https://img.youtube.com/vi/-rYhXprMJO4/0.jpg)](https://www.youtube.com/watch?v=-rYhXprMJO4&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)
@@ -213,7 +214,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Observabilidade Além do Alcance](https://stoblobcertificados011.blob.core.windows.net/palestras/Observability-alem-do-alcance.pdf)
 
-## 16/09/2024 - DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions
+## 16/09/2023 - DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions
 [![DEVOPS - EP 10 - CI/CD com Azure DevOps ou GitHub Actions](https://img.youtube.com/vi/hxiluSC8E_U/0.jpg)](https://www.youtube.com/watch?v=hxiluSC8E_U&t=910s&ab_channel=UnicastCloudLab)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud](https://rafaelmaferreira.com.br/posts/mentoria/)

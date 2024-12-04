@@ -1,0 +1,74 @@
+---
+# the default layout is 'page'
+#layout: home
+title: Spotify
+icon: fa-brands fa-spotify
+order: 11
+---
+
+# Minha Jornada no Spotify com LowOpsCast
+
+Neste página compartilho minha jornada na plataforma Spotify através do Podcast LowOpsCast. Por meio deste podcast, compartilho conhecimentos, experiências e inspirações, visando motivar e enriquecer profissionalmente a comunidade. Aqui, você encontrará insights valiosos sobre tecnologia em geral, fortalecendo a comunidade técnica com acesso gratuito e simplificado a conteúdos de qualidade. Junte-se a nós nesta aventura tecnológica!
+
+## LowOpsCast
+
+[![LowOpsCast](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/LowOpsCast.png)](https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj?si=77fbd9161ea246e6)
+
+### Episódios Destacados
+
+#### #16 Episódio com Matheus Ulisses: Jornada Profissional e Experiência na KubeCon
+[![#16 Episódio com Matheus Ulisses: Jornada Profissional e Experiência na KubeCon](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/16.png)](https://open.spotify.com/episode/6ZwaCKpzcpHa1Wdop2Yw6o?si=77bd696c6e284114)
+
+#### #15 Episódio com Pedro Ignácio: A Jornada para a KubeCon e as Expectativas de um BR
+[![#15 Episódio com Pedro Ignácio: A Jornada para a KubeCon e as Expectativas de um BR](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/15.png)](https://open.spotify.com/episode/5UrIpoO9saIzvtKv3ZNhqM?si=e2475df9545f4836)
+
+#### #14 Episódio com Peter König
+[![#14 Episódio com Peter König](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/14.png)](https://open.spotify.com/episode/5y3lQmumfnukYJ22jL51F3?si=fb0784aa7a4540c0)
+
+#### #13 Episódio com Amim Knabben: Explorando Kubernetes for Fun e Profit
+[![#13 Episódio com Amim Knabben: Explorando Kubernetes for Fun e Profit](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/13.png)](https://open.spotify.com/episode/2rSd7sRX4WI9LWKhtFbKRa?si=665c594fa4bd4af2)
+
+#### ##12 Episódio com Thiago Finardi
+[![##12 Episódio com Thiago Finardi](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/12.png)](https://open.spotify.com/episode/11wF8fo1eMvAkOExVPZebb?si=438dc9a23b814002)
+
+#### #11 Episódio com Marcus Vinícius Carvalho
+[![#11 Episódio com Marcus Vinícius Carvalho](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/11.png)](https://open.spotify.com/episode/42ZiNLQDHs6PNpSLKMZ88r?si=07b20188722e4bc5)
+
+#### #10 Minha primeira palestra internacional com Erivaldo Lopes
+[![#10 Minha primeira palestra internacional com Erivaldo Lopes](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/10.png)](https://open.spotify.com/episode/0c2vqxjjK4QwC8cUiFELFW?si=b555e061b7b84b7d)
+
+#### #09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps
+[![#09: O Dia a Dia de um DevOps Engineer com Vinicius Deschamps](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/9.png)](https://open.spotify.com/episode/39lxJSoafJxle4ZwMtmD2T?si=cd750d891ca54fac)
+
+#### #08 Como é o Dia a Dia de um DevOps Engineer com Antonio Junior
+[![#08 Como é o Dia a Dia de um DevOps Engineer com Antonio Junior](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/8.png)](https://open.spotify.com/episode/46jYWZ4b0A3SNizHQQmYf7?si=e47dd3e6c93b4355)
+
+#### #07 De Veterinária a Cloud Architect com Paula Santos
+[![#07 De Veterinária a Cloud Architect com Paula Santos](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/07.png)](https://open.spotify.com/episode/5X09Dit6uToYU0ICrjOvuW?si=d48c26f5b5cc427b)
+
+#### #06 Episódio Especial TDC Floripa 2024
+[![#06 Episódio Especial TDC Floripa 2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/06.png)](https://open.spotify.com/episode/2N4iuH2jSuF7m0mp7t1TEl?si=275768fb0ae244cf)
+
+#### #05 De Seminarista católico para MVP - Marcelo Gonçalves
+[![#05 De Seminarista católico para MVP - Marcelo Gonçalves](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/05.png)](https://open.spotify.com/episode/3HdgAOXsRELFZZug4Gcj3T?si=0ec7d00fa2e041ae&nd=1&dlsi=448cb47b419848d4)
+
+#### #04 Episodio com Rodrigo Paliosa
+[![#04 Episodio com Rodrigo Paliosa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/04.png)](https://open.spotify.com/episode/7ixUPv4Nu3u0KaxFre3vUg?si=a38678cad63844df2)
+
+#### #03 Episodio com Edesan Tomaz
+[![#03 Episodio com Edesan Tomaz](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/03.png)](https://open.spotify.com/episode/1OstMPDeB0R7eHvgL0Oui9?si=663c456c04284492)
+
+#### #02 Episódio com Fabricio Veronez
+[![#02 Episódio com Fabricio Veronez](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/02.png)](https://open.spotify.com/episode/3EuxyLmz28C5iUo7KDMFNU?si=d168171ca35c4cb7)
+
+#### #01 Como foi minha primeira KubeCon com Erivaldo Lopes
+[![#01 Como foi minha primeira KubeCon com Erivaldo Lopes](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/01.png)](https://open.spotify.com/episode/4TYC8bsfDSr4hGbOiKQdL8?si=1f892294af3640e4)
+
+#### #00 O Poder das Comunidades com Claudio Raposo e Marcelo Gonçalves
+[![#00 O Poder das Comunidades com Claudio Raposo e Marcelo Gonçalves](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/00.jpg)](https://open.spotify.com/episode/7Fvfu57ak0I6BeNE5lPr10?si=31adc066093b4f16)
+
+---
+
+**Acompanhe o LowOpsCast no Spotify para mais conteúdos inspiradores e educativos sobre tecnologia e desenvolvimento profissional. Juntos, vamos explorar as tendências e inovações que moldam o futuro do nosso campo!**
+
+#Spotify #LowOpsCast #Tecnologia #DesenvolvimentoProfissional #Podcast

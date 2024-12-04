@@ -123,6 +123,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_tbt-kdc-tecnologia-activity-7168974563542839297-qpOK?utm_source=share&utm_medium=member_desktop)
 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - 2º Cloud Native Floripa Meetup](https://rafaelmaferreira.com.br/posts/kcdsp24/)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/KCD.2024.pdf)
 
 ## 21/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentáve - Cloud Native Floripa - 2º Edição

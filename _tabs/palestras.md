@@ -98,7 +98,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience](https://stoblobcertificados011.blob.core.windows.net/palestras/KuberTENes.pdf)
 
 ## 08/06/2024 - Curso AZ-900 - Fundamentos da Azure
-![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900.jpeg)
+![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900/0.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
 

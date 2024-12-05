@@ -44,6 +44,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  24/10/2024 - Architecting a Secure Landing Zone for AI Workloads in the Cloud - MVP TALKS CI&T
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.talks/1.png)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
@@ -86,7 +88,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização de Arquitetura de Dados com Backstage.io e IAC](https://stoblobcertificados011.blob.core.windows.net/palestras/TDC.pdf)
 
 ## 11/06/2024 - Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa
-![KuberTENes Birthday Bash Santa Catarina](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kuberTENes-Birthday-Bash-Santa-Catarina.png)
+![KuberTENes Birthday Bash Santa Catarina](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/00.png)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
@@ -99,7 +101,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience](https://stoblobcertificados011.blob.core.windows.net/palestras/KuberTENes.pdf)
 
 ## 08/06/2024 - Curso AZ-900 - Fundamentos da Azure
-![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900.jpeg)
+![AZ-900 - Fundamentos da Azure](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/az-900/0.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
 
@@ -117,7 +119,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 
 ## 24/02/2024 - Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável - KCD São Paulo - Brasil 2024
-![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kcd.sp.2024.jpg)
+![KCD-Sao-Paulo-Brasil-2024](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kcdsp24/00.jpg)
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [KCD São Paulo - Brasil 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 

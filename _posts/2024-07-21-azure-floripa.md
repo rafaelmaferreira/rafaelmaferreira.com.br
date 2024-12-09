@@ -18,6 +18,8 @@ Além claro, de fortalecer a comunidade Azure em Florianópolis, visando fomenta
 
 [Site - Azure Floripa](https://azurefloripa.com.br/)
 
+[Nossos links](https://linktr.ee/AzureFloripa)
+
 [Youtube - Azure Floripa](https://www.youtube.com/channel/UCXgiLXOwNL33-86Xl_2KMgg)
 
 ## Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza

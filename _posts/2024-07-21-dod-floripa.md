@@ -13,4 +13,6 @@ Devopsdays é uma série mundial de conferências técnicas cobrindo tópicos de
 
 [Devopsdays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/)
 
+[Nossos links](https://linktr.ee/devopsdaysfln)
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dod-logo.png)

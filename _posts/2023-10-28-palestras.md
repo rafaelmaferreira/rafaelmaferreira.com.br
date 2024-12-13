@@ -28,7 +28,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/code.island.pdf)
 
 <!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/mvp.day//)
 --->
 
 ##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
@@ -39,7 +39,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_techconnection2024-palestra-cloudcomputing-activity-7259897365203959809-ZGW4?utm_source=share&utm_medium=member_desktop)
 
-- <i class="fa-solid fa-link"></i> [Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/tc-floripa24//)
+- <i class="fa-solid fa-link"></i> [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/tc-floripa24//)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/TC-Floripa.pdf)
 
@@ -50,7 +50,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - MVP TALKS CI&T](https://rafaelmaferreira.com.br/posts/mvp.day//)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/mvp.day//)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_mvp-talks-cit-conex%C3%A3o-conhecimento-e-inova%C3%A7%C3%A3o-activity-7259535011341631489-j6IA?utm_source=share&utm_medium=member_desktop)
 
@@ -64,7 +64,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - #27 Cloud Native São Paulo - Sustainability Day na AWS](https://rafaelmaferreira.com.br/posts/sustentability.day/)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/sustentability.day/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_27-cloud-native-s%C3%A3o-paulo-sustainability-activity-7258090638800289792-r0r4?utm_source=share&utm_medium=member_desktop)
 
@@ -74,7 +74,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Curso DP-900 **Presencial**: Fundamentos de Dados do Azure](https://www.eventbrite.com.br/e/curso-dp-900-em-sao-josesc-tickets-947904667377)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - Evento Presencial Grande Florianópolis - DP-900: Fundamentos de Dados do Azure](https://rafaelmaferreira.com.br/posts/curso-dp-900/)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/curso-dp-900/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_curso-dp-900-em-s%C3%A3o-jos%C3%A9sc-activity-7221484277182402560-mdRO?utm_source=share&utm_medium=member_desktop)
 
@@ -83,7 +83,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i>**Site Oficial do Evento** [TDC Florianópolis - Trilha Arquitetura de Dados](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-de-dados)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - Experiência de Palestrar no TDC na Trilha Arquitetura de Dados](https://rafaelmaferreira.com.br/posts/talk-tdc/)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/talk-tdc/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_tdc-tdcfloripa-tdc2024-activity-7214614002457276416-r9qB?utm_source=share&utm_medium=member_desktop)
 
@@ -94,7 +94,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [KuberTENes Birthday Bash Santa Catarina](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-kubertenes-birthday-bash-santa-catarina/)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - KuberTENes Birthday Bash Santa Catarina](https://rafaelmaferreira.com.br/posts/KuberTENes/)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/KuberTENes/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_kubernetes-cloudnative-devops-activity-7209180344233668608-4Xrc?utm_source=share&utm_medium=member_desktop)
 
@@ -107,7 +107,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [AZ-900 - Fundamentos da Azure](https://www.eventbrite.com.br/e/az-900-tickets-885187528727)
 
-- <i class="fa-solid fa-link"></i> [Blog Post + Fotos - Evento Presencial Grande Florianópolis - AZ-900: Fundamentos do Azure](https://rafaelmaferreira.com.br/posts/curso-az-900/)
+- <i class="fa-solid fa-link"></i> [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/curso-az-900/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ai900-fundamentos-az900-activity-7205901535577300992-nB1S?utm_source=share&utm_medium=member_desktop)
 
@@ -118,7 +118,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-brands fa-linkedin"></i> **Post Linkedin Video:** [Tech Connection Balneário Camburiú](https://www.linkedin.com/posts/rafaelmaferreira_no-%C3%BAltimo-s%C3%A1bado-participei-do-evento-tech-activity-7203412108322025472-Di9q?utm_source=share&utm_medium=member_desktop)
 
-- <i class="fa-solid fa-link"></i> [Blog Post + Fotos - GreenOps na Cloud: Construindo o Futuro com Sustentabilidade - Tech Connection Balneário Camburiú](https://rafaelmaferreira.com.br/posts/tc.bc24/)
+- <i class="fa-solid fa-link"></i> [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/tc.bc24/)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Construindo o Futuro com Sustentabilidade](https://stoblobcertificados011.blob.core.windows.net/palestras/tech-connection-balneario-camboriu.pdf)
 
@@ -138,7 +138,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento:** [2º Cloud Native Floripa Meetup](https://community.cncf.io/events/details/cncf-cloud-native-floripa-presents-2o-cloud-native-floripa-meetup/)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos - 2º Cloud Native Floripa Meetup](https://rafaelmaferreira.com.br/posts/2meetcncf/)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/2meetcncf/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_um-pouco-do-meetup-de-ontem-da-cloud-native-activity-7166602764209397760-58XY?utm_source=share&utm_medium=member_desktop)
 

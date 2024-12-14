@@ -18,7 +18,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island/0.jpg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 

@@ -26,9 +26,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/code.island.pdf)
 
-<!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/mvp.day//)
---->
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/code.island24/)
 
 ##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
 

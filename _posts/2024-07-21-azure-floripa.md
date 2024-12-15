@@ -22,6 +22,9 @@ Além claro, de fortalecer a comunidade Azure em Florianópolis, visando fomenta
 
 [Youtube - Azure Floripa](https://www.youtube.com/channel/UCXgiLXOwNL33-86Xl_2KMgg)
 
+## Conheça o Bicep: Simplificando sua Infraestrutura na Nuvem com Vanessa Valle
+[![](https://img.youtube.com/vi/atTIElSn-L4/0.jpg)](https://www.youtube.com/watch?v=atTIElSn-L4)
+
 ## Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza
 [![Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza](https://img.youtube.com/vi/R9lFLWeNlbU/0.jpg)](https://www.youtube.com/watch?v=R9lFLWeNlbU)
 

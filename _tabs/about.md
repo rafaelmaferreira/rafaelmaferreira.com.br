@@ -1,11 +1,11 @@
 ---
 # the default layout is 'page'
+layout: about
 title: WHOIAM?
 icon: fas fa-info-circle
 #icon: fa-solid fa-user-shield
-order: 5
+permalink: /
 ---
-
 ## Hello Folks 👋!
 
 ![Capa Linkedin](https://github.com/user-attachments/assets/57c279dc-7001-40fd-94cd-199fd8b8f98b)

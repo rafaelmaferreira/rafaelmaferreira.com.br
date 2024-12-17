@@ -165,4 +165,10 @@ Existem um segunda opção de avaliação. Examine sua carga de trabalho por mei
 
 Inicie sua avaliação com a [Sustentabilidade - Revisão Bem Arquitetada](https://learn.microsoft.com/pt-br/assessments/f236012a-0070-45db-b94c-fe8de0799f38/).
 
+---
+
+[![LFC131: Green Software for Practitioners](https://images.credly.com/images/f28a92f1-2837-4770-add0-70008be15e89/image.png)](https://www.credly.com/badges/11e2e57b-47a9-48ca-af23-41cbb45c01ef/public_url "LFC131: Green Software for Practitioners")
+
+---
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Logo2.png)

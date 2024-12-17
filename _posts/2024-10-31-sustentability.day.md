@@ -5,6 +5,8 @@ author: rafaferreira011
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, Cloud Native São Paulo]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Cloud Native São Paulo]
+image:
+  path: https://images.credly.com/size/680x680/images/d0775caa-a49d-4419-ac8e-9c0688085b9d/blob
 ---
 
 No último dia 22 de outubro, o **[CNCF - Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all)**, em parceria com a **[Amazon Web Services (AWS)](https://www.linkedin.com/company/amazon-web-services/)** e a **[Cloud Native Computing Foundation (CNCF)](https://www.linkedin.com/company/cloud-native-computing-foundation/posts/?feedView=all)**, organizou o aguardado evento "Sustainability Day" no AWS Startup Loft em São Paulo. Com um foco especial na sustentabilidade nas operações de TI, o meetup reuniu especialistas, desenvolvedores e entusiastas da tecnologia para discutir estratégias inovadoras que equilibram eficiência e responsabilidade ambiental na nuvem.
@@ -77,6 +79,8 @@ Então, prepare-se! Fique atento aos próximos eventos do [CNCF Cloud Native Sã
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/27.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/28.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/29.jpg)
+
+[![Speaker - Cloud Native Sustainability Week 2024](https://images.credly.com/size/680x680/images/d0775caa-a49d-4419-ac8e-9c0688085b9d/blob)](https://www.credly.com/badges/a6940f87-b34a-497e-8c1e-93545075c0ee/public_url "Speaker - Cloud Native Sustainability Week 2024")
 
 ### Encerramento 
 Seguimos com um animado happy hour, proporcionando uma excelente oportunidade para networking e risadas. Um ambiente descontraído e divertido, permitindo uma troca de ideias mais informal e a formação de novas conexões profissionais. E para quem se perguntou da qualidade das fotos, sim, é isso, tivemos um fotógrafo profissional ([Erivaldo Lopes](https://www.linkedin.com/in/erivaldolopes/))!

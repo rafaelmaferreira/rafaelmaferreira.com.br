@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #17 Episódio com Cláudio Filipe Lima Raposo
+[![#17 Episódio com Cláudio Filipe Lima Raposo](https://img.youtube.com/vi/OGpTWpPA2qY/0.jpg)](https://www.youtube.com/watch?v=OGpTWpPA2qY)
+
 ## #16 Episódio com Matheus Ulisses: Jornada Profissional e Experiência na KubeCon
 [![#16 Episódio com Matheus Ulisses: Jornada Profissional e Experiência na KubeCon](https://img.youtube.com/vi/bVXEYZUBpmY/0.jpg)](https://www.youtube.com/watch?v=bVXEYZUBpmY)
 

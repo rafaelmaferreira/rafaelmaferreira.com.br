@@ -3,7 +3,7 @@
 #layout: home
 title: Experiências
 icon: fa-solid fa-briefcase
-order: 6
+order: 5
 ---
 # Minha Jornada Profissional
 

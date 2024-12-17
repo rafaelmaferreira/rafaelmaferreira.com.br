@@ -3,7 +3,7 @@
 #layout: home
 title: Certificados
 icon: fa-solid fa-graduation-cap
-order: 8
+order: 7
 ---
 
 # Certificados de Treinamentos, Cursos, Certificações, Eventos e Palestras

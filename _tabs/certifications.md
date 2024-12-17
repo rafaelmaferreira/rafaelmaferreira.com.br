@@ -3,7 +3,7 @@
 #layout: home
 title: Certificações
 icon: fa-solid fa-award
-order: 7
+order: 6
 ---
 
 # Minhas Certificações

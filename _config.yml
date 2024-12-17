@@ -93,7 +93,7 @@ comments:
   giscus:
     repo: "rafaelmaferreira/rafaelmaferreira.com.br"  # Nome do repositório GitHub
     repo_id: "MDEwOlJlcG9zaXRvcnkxMjk2MjY5NQ=="       # ID do repositório (obtido no Giscus)
-    category: "Comments"                              # Nome da categoria escolhida
+    category: General                              # Nome da categoria escolhida
     category_id: "DIC_kwDOA5lwPs4B-cuS"               # ID da categoria (obtido no Giscus)
     mapping: pathname                                  # Mapeamento dos comentários
     input_position: bottom                             # Posição do campo de entrada

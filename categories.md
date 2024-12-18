@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categorias
+title: Categories
 icon: fa-solid fa-folder-open
 order: 2
 ---

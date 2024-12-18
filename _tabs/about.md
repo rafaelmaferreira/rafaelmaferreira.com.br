@@ -6,6 +6,9 @@ icon: fas fa-info-circle
 #icon: fa-solid fa-user-shield
 permalink: /
 ---
+
+> I am still working on this part of the blog to share a bit more about myself. Stay tuned, it will be ready soon for you to learn about my story!
+{: .prompt-info }
 ## Hello Folks 👋!
 
 ![Capa Linkedin](https://github.com/user-attachments/assets/57c279dc-7001-40fd-94cd-199fd8b8f98b)

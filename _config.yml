@@ -159,7 +159,7 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
-      permalink: /blog/:title/
+      permalink: /:title/
   - scope:
       path: assets/img/favicons
     values:
@@ -198,4 +198,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /blog/:name/
+    category: /categories/:name/

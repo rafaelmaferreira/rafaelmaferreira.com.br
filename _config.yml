@@ -149,7 +149,7 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /:blog/:title/
+      permalink: /blog/:title/
   - scope:
       path: _drafts
     values:
@@ -159,7 +159,7 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
-      permalink: /:blog/:title/
+      permalink: /blog/:title/
   - scope:
       path: assets/img/favicons
     values:

@@ -94,7 +94,7 @@ comments:
     repo: "rafaelmaferreira/rafaelmaferreira.com.br"  # Nome do repositório GitHub
     repo_id: "R_kgDOKnjYmA"       # ID do repositório (obtido no Giscus)
     category: General                              # Nome da categoria escolhida
-    category_id: "DIC_kwDOA5lwPs4B-cuS"               # ID da categoria (obtido no Giscus)
+    category_id: "DIC_kwDOKnjYmM4Cay1-"               # ID da categoria (obtido no Giscus)
     mapping: pathname                                  # Mapeamento dos comentários
     input_position: bottom                             # Posição do campo de entrada
     lang: en                                           # Idioma

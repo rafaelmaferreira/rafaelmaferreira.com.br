@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 layout: about
-title: WHOIAM?
+title: About
 icon: fas fa-info-circle
 #icon: fa-solid fa-user-shield
 permalink: /

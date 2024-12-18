@@ -112,7 +112,7 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/posts/page:num/"
 
 # The base URL of your site
 baseurl: ""
@@ -159,7 +159,7 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
-      permalink: /:title/
+      permalink: /:post/:title/
   - scope:
       path: assets/img/favicons
     values:

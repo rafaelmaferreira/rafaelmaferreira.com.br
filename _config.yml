@@ -142,7 +142,7 @@ collections:
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
-      type: tabs
+      type: post
     values:
       layout: post
       comments: true # Enable comments in posts.

@@ -7,10 +7,6 @@ icon: fas fa-info-circle
 permalink: /
 ---
 
-> I am still working on this part of the blog to share a bit more about myself. Stay tuned, it will be ready soon for you to learn about my story!
-{: .prompt-info }
-
-<!--
 ## Hello Folks 👋!
 
 ![Capa Linkedin](https://github.com/user-attachments/assets/57c279dc-7001-40fd-94cd-199fd8b8f98b)
@@ -31,7 +27,7 @@ Decidi dar um passo a mais na carreira e comecei a palestrar, pois nada mais nob
 
 Se você deseja discutir tópicos profissionais, explorar oportunidades de carreira ou simplesmente ter um bate-papo sobre a vida, fique à vontade para agendar um horário na minha agenda. Será um prazer conversar com você e compartilhar insights e orientações. Basta clicar no link abaixo para reservar um horário conveniente.
 
-Google Calendar Appointment Scheduling begin
+<!--Google Calendar Appointment Scheduling begin-->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
@@ -47,4 +43,4 @@ Google Calendar Appointment Scheduling begin
   });
 })();
 </script>
- end Google Calendar Appointment Scheduling -->
+<!-- end Google Calendar Appointment Scheduling -->

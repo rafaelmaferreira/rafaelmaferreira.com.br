@@ -1,6 +1,6 @@
 ---
 layout: page
-# All the categories of categories
+# All the Categories of posts
 ---
 
 <h1>
@@ -17,13 +17,13 @@ layout: page
 
 {% for category in sort_categories %}
   {% assign category_name = category | first %}
-  {% assign categories_of_category = category | last %}
-  {% assign first_post = categories_of_category | first %}
+  {% assign posts_of_category = category | last %}
+  {% assign first_post = posts_of_category | first %}
 
   {% if category_name == first_post.categories[0] %}
     {% assign sub_categories = '' | split: '' %}
 
-    {% for post in categories_of_category %}
+    {% for post in posts_of_category %}
       {% assign second_category = post.categories[1] %}
       {% if second_category %}
         {% unless sub_categories contains second_category %}
@@ -48,7 +48,7 @@ layout: page
           <a href="{{ _category_url | relative_url }}" class="mx-2">{{ category_name }}</a>
 
           <!-- content count -->
-          {% assign top_categories_size = site.categories[category_name] | size %}
+          {% assign top_posts_size = site.categories[category_name] | size %}
           <span class="text-muted small font-weight-light">
             {% if sub_categories_size > 0 %}
               {{ sub_categories_size }}
@@ -66,9 +66,9 @@ layout: page
               ,
             {% endif %}
 
-            {{ top_categories_size }}
+            {{ top_posts_size }}
 
-            {% if top_categories_size > 1 %}
+            {% if top_posts_size > 1 %}
               {{
                 site.data.locales[lang].categories.post_measure.plural
                 | default: site.data.locales[lang].categories.post_measure
@@ -112,11 +112,11 @@ layout: page
                 {% capture _sub_ctg_url %}/categories/{{ sub_category | slugify | url_encode }}/{% endcapture %}
                 <a href="{{ _sub_ctg_url | relative_url }}" class="mx-2">{{ sub_category }}</a>
 
-                {% assign categories_size = site.categories[sub_category] | size %}
+                {% assign posts_size = site.categories[sub_category] | size %}
                 <span class="text-muted small font-weight-light">
-                  {{ categories_size }}
+                  {{ posts_size }}
 
-                  {% if categories_size > 1 %}
+                  {% if posts_size > 1 %}
                     {{
                       site.data.locales[lang].categories.post_measure.plural
                       | default: site.data.locales[lang].categories.post_measure

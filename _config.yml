@@ -112,7 +112,6 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
-paginate_path: "/blog/page:num/"
 
 # The base URL of your site
 baseurl: ""
@@ -149,7 +148,7 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /blog/:title/
+      permalink: /posts/:title/
   - scope:
       path: _drafts
     values:

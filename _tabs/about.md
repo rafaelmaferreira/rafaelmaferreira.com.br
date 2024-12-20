@@ -1,6 +1,6 @@
 ---
 #layout: home
-title: About
+#title: About
 icon: fas fa-info-circle
 permalink: /
 ---
@@ -25,7 +25,7 @@ Decidi dar um passo a mais na carreira e comecei a palestrar, pois nada mais nob
 
 Se você deseja discutir tópicos profissionais, explorar oportunidades de carreira ou simplesmente ter um bate-papo sobre a vida, fique à vontade para agendar um horário na minha agenda. Será um prazer conversar com você e compartilhar insights e orientações. Basta clicar no link abaixo para reservar um horário conveniente.
 
-<!--Google Calendar Appointment Scheduling begin
+<!--Google Calendar Appointment Scheduling begin-->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
@@ -41,4 +41,4 @@ Se você deseja discutir tópicos profissionais, explorar oportunidades de carre
   });
 })();
 </script>
- end Google Calendar Appointment Scheduling -->
+<!-- end Google Calendar Appointment Scheduling -->

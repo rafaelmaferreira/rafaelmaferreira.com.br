@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 title: About
 icon: fas fa-info-circle
 permalink: /

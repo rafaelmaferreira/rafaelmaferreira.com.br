@@ -9,9 +9,13 @@ order: 5
 
 Nesta página quero compartilhar um pouco da minha jornada profissional e das experiências que moldaram meu caminho até aqui. Desde os primeiros passos como um Assistente Técnico até a função atual de Cloud Solution Architect Senior, cada etapa desempenhou um papel fundamental na minha trajetória. Este post será uma oportunidade para refletir sobre os desafios superados, as habilidades adquiridas e as lições aprendidas ao longo do caminho. Espero que minha história possa inspirar e motivar outros profissionais em suas próprias jornadas. Vamos lá!
 
+## Senior Azure DevOps Solution Engineer
+- **Empresa:** Softensity Inc
+- **Período:** Dec 2024 - Presente
+
 ## Senior Azure DevOps Engineer 
 - **Empresa:** CI&T
-- **Período:** Abr 2024 - Presente
+- **Período:** Abr 2024 - Dec 2024
 - **Descrição:** Atuo em um ambiente enterprise para um cliente nos EUA, por meio de uma empresa de consultoria, sendo responsável por construir e automatizar infraestruturas escaláveis e de alta disponibilidade na nuvem Azure, apoiando a migração de serviços do ambiente on-premise, que posteriormente serão modernizados para microserviços em contêineres. Em um ambiente com mais de 1.200 VMs e mais de 50 clusters distribuídos em mais de 100 assinaturas, é Azure Landing Zones e rede Hub-Spoke para garantir alta disponibilidade tanto na nuvem, ambiente híbrido (on-premise) com Azure Arc. Para o deployment e atualização das infraestruturas, é utilizado Terraform como IaC (Infrastructure as Code), assegurando a consistência e confiabilidade das configurações. Pipelines de CI/CD com GitHub Actions para automatizar deployments, garantindo a eficiência e qualidade das releases, tarefas pós-deployment com Jenkins. Gerenciamento de configuração de máquinas Linux com Puppet. No contexto do AKS (Azure Kubernetes Service), GitOps com FluxCD para o deploy de componentes nos clusters, Helm Charts para facilitar e padronizar o deployment de aplicações. Monitoramento e a observabilidade do ambiente utilizando Grafana, Prometheus e Splunk. Atualizo módulos e códigos dos componentes nos repositórios GitHub e Bitbucket para manter a integridade e precisão das informações. Conduzo Provas de Conceito (PoCs) para avaliar novas tecnologias e soluções, propondo melhorias contínuas e adotando as melhores ferramentas do mercado, incluindo práticas de FinOps, para otimizar custos e eficiência no ambiente em nuvem.
 
 ## Engenheiro de Plataforma Azure Senior

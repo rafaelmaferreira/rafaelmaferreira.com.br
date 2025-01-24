@@ -16,8 +16,11 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
-#### #18 Episódio com Diego Pauletto
-[![#18 Episódio com Diego Pauletto](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/18.png)](https://open.spotify.com/episode/22cdYAvuelgMP1GhM1ldHO?si=8ba9b1aafac04964)
+#### #19 Deseja Ser tornar MVP Microsoft? Descubra o Que Está Fazendo Errado!
+[![#19 Deseja Ser tornar MVP Microsoft? Descubra o Que Está Fazendo Errado!](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/19.png)](https://open.spotify.com/episode/04RSQOTXIi4RrBKl48D9FU?si=45a20a3e11354229)
+
+#### #18 Episódio com Diego Pauletto - Desafios, Conquistas e Sonhos
+[![#18 Episódio com Diego Pauletto - Desafios, Conquistas e Sonhos](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/18.png)](https://open.spotify.com/episode/22cdYAvuelgMP1GhM1ldHO?si=8ba9b1aafac04964)
 
 #### #17 Episódio com Cláudio Filipe Lima Raposo
 [![#17 Episódio com Cláudio Filipe Lima Raposo](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/17.png)](https://open.spotify.com/episode/40e5blviRAj7Pk35tA6HVN?si=f57e373ab7a443b6)

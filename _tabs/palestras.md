@@ -10,15 +10,14 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-<!--- # Próximos eventos: 
+# Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[]() --->
+- <i class="fa-solid fa-link"></i>[05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado](https://comunidado.com.br/)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
 
 # Presenciais:
 
 ##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
-
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island/0.jpg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 

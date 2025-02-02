@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #21 Episódio com Felipe Augusto – Arquitetura, Liderança e Inovação na Nuvem
+[![#21 Episódio com Felipe Augusto – Arquitetura, Liderança e Inovação na Nuvem](https://img.youtube.com/vi/r9Ksazh3t20/0.jpg)](https://www.youtube.com/watch?v=r9Ksazh3t20)
+
 ## #20 Episódio com Raphael Andrade – Uma Jornada de Excelência em Nuvem e Arquitetura Azure ☁
 [![#20 Episódio com Raphael Andrade – Uma Jornada de Excelência em Nuvem e Arquitetura Azure ☁](https://img.youtube.com/vi/CDK9cQ5tloE/0.jpg)](https://www.youtube.com/watch?v=CDK9cQ5tloE)
 

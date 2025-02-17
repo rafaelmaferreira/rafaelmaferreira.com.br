@@ -23,9 +23,10 @@ No lado pessoal, sou pai de uma golden 🐕, grande fã de cinema 🎬 e séries
 
 Decidi dar um passo a mais na carreira e comecei a palestrar, pois nada mais nobre do que compartilhar conhecimento. Atualmente faço parte da organização da comunidade Azure Floripa, onde ajudamos a disseminar e aprofundar o entendimento sobre soluções cloud. De tanto gostar de podcast, decidi criar o meu. Produzo conteúdo no Youtube e Spotify, se curtir, fica o convite!
 
+<!--Google Calendar Appointment Scheduling begin
 Se você deseja discutir tópicos profissionais, explorar oportunidades de carreira ou simplesmente ter um bate-papo sobre a vida, fique à vontade para agendar um horário na minha agenda. Será um prazer conversar com você e compartilhar insights e orientações. Basta clicar no link abaixo para reservar um horário conveniente.
 
-<!--Google Calendar Appointment Scheduling begin
+
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>

@@ -51,12 +51,11 @@ jobs:
             --disable-external=true \
             --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4  # ✅ Updated to v4
+      - name: Upload site artifact (for GitHub Pages)
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: jekyll-site
           path: "_site${{ steps.pages.outputs.base_path }}"
-
+          
       - name: Upload site artifact (for GitHub Pages)
         uses: actions/upload-pages-artifact@v1  # ✅ Keep using v1
         with:

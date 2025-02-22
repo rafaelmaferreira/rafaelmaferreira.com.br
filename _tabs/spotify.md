@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #21 Episódio com Felipe Augusto – Arquitetura, Liderança e Inovação na Nuvem
+[![#21 Episódio com Felipe Augusto – Arquitetura, Liderança e Inovação na Nuvem](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/21.png)](https://open.spotify.com/episode/2UuYKnBlTIFe5cQQHtxjPU?si=9d9d03e3789f4df0)
+
 #### #20 Episódio com Raphael Andrade – Uma Jornada de Excelência em Nuvem e Arquitetura Azure ☁
 [![#20 Episódio com Raphael Andrade – Uma Jornada de Excelência em Nuvem e Arquitetura Azure ☁](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/20.png)](https://open.spotify.com/episode/1hXkIGjH9uDxjTXvFtmRLP?si=9274d26a5fb84d92)
 

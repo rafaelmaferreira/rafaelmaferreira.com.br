@@ -149,6 +149,13 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Online: 
 
+## 01/03/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
+[![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/globalIA.jpg)](https://www.youtube.com/watch?v=9Kbuf4cmbCo)
+
+- <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_globalaibootcamp-ia-cloudcomputing-activity-7300484797653565440-bESq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://stoblobcertificados011.blob.core.windows.net/palestras/GlobalIA.pdf)
+
 ## 22/09/2024 - Azure Workbooks para Otimização de Custos com FinOps
 [![Azure Workbooks para Otimização de Custos com FinOps](https://img.youtube.com/vi/TWGizKIBOXc/0.jpg)](https://www.youtube.com/watch?v=TWGizKIBOXc)
 

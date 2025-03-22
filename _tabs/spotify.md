@@ -16,6 +16,12 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #23 Episódio com Marcela Amorim – QA, Comunidade e Superação
+[![#23 Episódio com Marcela Amorim – QA, Comunidade e Superação](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/23.png)](https://open.spotify.com/episode/0yksW7NNZ4QKBw1HFLVU4L?si=ce5f5b41c5cd4e29)
+
+#### #22 Episódio DevOps, Automação e Comunidade com Levi Leopoldino Alves (Levinux)
+[![#22 Episódio DevOps, Automação e Comunidade com Levi Leopoldino Alves (Levinux)](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/22.png)](https://open.spotify.com/episode/6L3JRzXzYWOFbZPzs6ThY1?si=defa55a71190452e)
+
 #### #22 Episódio DevOps, Automação e Comunidade com Levi Leopoldino Alves (Levinux)
 [![#22 Episódio DevOps, Automação e Comunidade com Levi Leopoldino Alves (Levinux)](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/22.png)](https://open.spotify.com/episode/6L3JRzXzYWOFbZPzs6ThY1?si=defa55a71190452e)
 

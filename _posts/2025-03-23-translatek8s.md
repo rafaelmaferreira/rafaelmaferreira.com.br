@@ -14,25 +14,25 @@ Como parte do meu aprendizado e desejo de retribuir à comunidade, decidi partic
 
 ### 1. Windows no Kubernetes
 
-- **Issue**: https://github.com/kubernetes/website/issues/48421#event-14835008370
-- **Pull Request**: https://github.com/kubernetes/website/pull/48423#event-14835008036
-- **Página traduzida**: https://kubernetes.io/pt-br/docs/concepts/windows/
+- **Issue**: <https://github.com/kubernetes/website/issues/48421#event-14835008370>
+- **Pull Request**: <https://github.com/kubernetes/website/pull/48423#event-14835008036>
+- **Página traduzida**: <https://kubernetes.io/pt-br/docs/concepts/windows/>
 
 **Descrição**: Tradução da página de visão geral "Windows no Kubernetes" para o português brasileiro. Esta página oferece uma introdução abrangente sobre o suporte a nós Windows no Kubernetes, incluindo tópicos como rede, armazenamento, gerenciamento de recursos e segurança para nós Windows.
 
-### 2. Guia para executar contêineres do Windows no Kubernetes
+### 2. Guia para executar contêineres do Windows no Kubernetes  
 
-- **Issue**: https://github.com/kubernetes/website/issues/49553#event-16646436029
-- **Pull Request**: https://github.com/kubernetes/website/pull/49576#event-16356896347
-- **Página traduzida**: https://kubernetes.io/pt-br/docs/concepts/windows/user-guide/
+- **Issue**: <https://github.com/kubernetes/website/issues/49553#event-16646436029>
+- **Pull Request**: <https://github.com/kubernetes/website/pull/49576#event-16356896347>
+- **Página traduzida**: <https://kubernetes.io/pt-br/docs/concepts/windows/user-guide/>
 
 **Descrição**: Tradução da página de conceito "Guia para executar contêineres do Windows no Kubernetes" para o português brasileiro. Esta página fornece instruções detalhadas sobre como utilizar contêineres Windows no ambiente Kubernetes, tornando o conteúdo acessível para a comunidade lusófona.
 
 ### 3. Containers Windows no Kubernetes
 
-- **Issue**: https://github.com/kubernetes/website/issues/48930#event-15947044415
-- **Pull Request**: https://github.com/kubernetes/website/pull/48932#event-15947043380
-- **Página traduzida**: https://kubernetes.io/pt-br/docs/concepts/windows/intro/
+- **Issue**: <https://github.com/kubernetes/website/issues/48930#event-15947044415>
+- **Pull Request**: <https://github.com/kubernetes/website/pull/48932#event-15947043380>
+- **Página traduzida**: <https://kubernetes.io/pt-br/docs/concepts/windows/intro/>
 
 **Descrição**: Tradução da página de conceito "Containers Windows no Kubernetes" para o português brasileiro. Esta página introduz o conceito de contêineres Windows no ecossistema Kubernetes, explicando sua importância e funcionamento básico.
 

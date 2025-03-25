@@ -21,6 +21,11 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ## Certificados Recentes
 
+
+### 2025
+
+- [2025-03 - Fundamentals of Bicep](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-03-FundamentalsofBicep.pdf)
+
 ### 2024
 
 - [2024-11 - Code Island Cloud 2024](https://stoblobcertificados011.blob.core.windows.net/certificados/2024-11-Code.Island.Cloud.2024.pdf)

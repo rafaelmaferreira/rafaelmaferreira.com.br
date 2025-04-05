@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #25 Episódio Com João Brito, seu host favorito: Kubernetes, Comunidade e a voz do Kubicast
+[![#25 Episódio Com João Brito, seu host favorito: Kubernetes, Comunidade e a voz do Kubicast](https://img.youtube.com/vi/YRV14Z8Zb1c/0.jpg)](https://www.youtube.com/watch?v=YRV14Z8Zb1c)
+
 ## #23 Episódio com Marcela Amorim – QA, Comunidade e Superação
 [![#23 Episódio com Marcela Amorim – QA, Comunidade e Superação](https://img.youtube.com/vi/I9wZ932Ifh0/0.jpg)](https://www.youtube.com/watch?v=I9wZ932Ifh0)
 

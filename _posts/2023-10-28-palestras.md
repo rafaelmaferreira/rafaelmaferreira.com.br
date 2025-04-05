@@ -11,9 +11,11 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
-# Próximos eventos: 
 
 <!---
+# Próximos eventos: 
+
+
 <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_azuredevops-devopsbrasil-sqlsaturday-activity-7292149881387847681-90LX?utm_source=share&utm_medium=member_desktop)
 -->
 

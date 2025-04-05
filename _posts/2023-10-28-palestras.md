@@ -13,14 +13,24 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado](https://comunidado.com.br/)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
-
 <!---
 <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_azuredevops-devopsbrasil-sqlsaturday-activity-7292149881387847681-90LX?utm_source=share&utm_medium=member_desktop)
 -->
 
 # Presenciais:
+
+##  05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
+
+- <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://comunidado.com.br/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_azuredevops-sqlsaturday-techbr-activity-7313160824561270785-EQtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/SQLSaturday.pdf)
+
+<!---
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/code.island24/)
+-->
 
 ##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
 

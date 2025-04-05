@@ -12,7 +12,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-- <i class="fa-solid fa-link"></i>[05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado](https://comunidado.com.br/)
+- <i class="fa-solid fa-link"></i>[]()
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
 
 <!---
@@ -20,6 +20,17 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 -->
 
 # Presenciais:
+
+##  05/04 - 05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
+
+- <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://comunidado.com.br/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_ol%C3%A1-pessoal-estarei-palestrando-na-code-activity-7262434108855767041-Ky8U?utm_source=share&utm_medium=member_desktop)
+<!---
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/code.island.pdf)
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/code.island24/)
+-->
 
 ##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
 

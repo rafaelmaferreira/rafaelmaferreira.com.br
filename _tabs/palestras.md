@@ -11,27 +11,24 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
 
-<!---
+
 # Próximos eventos: 
 
-
-<i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_azuredevops-devopsbrasil-sqlsaturday-activity-7292149881387847681-90LX?utm_source=share&utm_medium=member_desktop)
--->
+##  26/04 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 
 # Presenciais:
 
 ##  05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
 
-- <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://comunidado.com.br/)
+- <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado](https://sqlsaturday.com/2025-04-05-sqlsaturday1104/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_azuredevops-sqlsaturday-techbr-activity-7313160824561270785-EQtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Pipelines com Azure DevOps: Automatizando o (im)possível](https://stoblobcertificados011.blob.core.windows.net/palestras/SQLSaturday.pdf)
 
-<!---
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/code.island24/)
--->
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/sqlsat25/)
 
 ##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island/0.jpg)

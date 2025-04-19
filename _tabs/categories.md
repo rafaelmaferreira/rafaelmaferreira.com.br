@@ -2,5 +2,5 @@
 layout: categories
 title: Categories
 icon: fa-solid fa-folder-open
-order: 2
+order: 3
 ---

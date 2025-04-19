@@ -3,7 +3,7 @@
 #layout: home
 title: Palestras
 icon: fa-solid fa-person-chalkboard
-order: 8
+order: 9
 ---
 
 Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, compartilho insights, experiências e conhecimentos sobre os mais diversos temas do universo da tecnologia. Essas palestras visam não apenas informar, mas também inspirar aqueles que desejam explorar e inovar neste emocionante campo.

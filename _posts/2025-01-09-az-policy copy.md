@@ -479,7 +479,6 @@ Para a empresa, ter essa política ativa **facilita auditorias e compliance**, e
 Lembre-se: **backup não substitui outras camadas de segurança** (replicação, failover, etc.), mas é a base de **uma estratégia sólida de recuperação de desastres**. Habilitar o Azure Backup em VMs (e usar Azure Policy para garantir isso) é uma decisão de **baixo esforço** e **alto impacto** para aumentar a resiliência.
 
 ### Fontes e Referências
-- Documentações oficiais
 - [Azure Backup](https://learn.microsoft.com/azure/backup/)  
 - [Azure Policy](https://learn.microsoft.com/azure/governance/policy/)  
 - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)  

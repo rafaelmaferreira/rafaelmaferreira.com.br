@@ -1,7 +1,7 @@
 ---
 #layout: categories
 title: Mentoria
-icon: fa-brands fa-square-web-awesome
+icon: fas fa-crown
 order: 2
 ---
 

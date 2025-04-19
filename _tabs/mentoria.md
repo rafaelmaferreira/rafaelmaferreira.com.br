@@ -1,7 +1,7 @@
 ---
 #layout: categories
 title: Mentoria
-icon: fa-brands fa-web-awesome
+icon: fa-brands fa-square-web-awesome
 order: 2
 ---
 
@@ -58,7 +58,8 @@ Eu não farei o que cabe a você fazer. O sucesso é certo se você seguir o que
 
 ## Como funciona minha mentoria:
 
-1. **Pré-call Personalizado:** Você preenche um breve formulário antecipadamente. Nele, vai descrever seu momento profissional, experiências, dúvidas e metas em Cloud/DevOps. Esse passo é essencial para que a sessão seja proveitosa, irei entender seu contexto específico.  
+1. **Pré-call Personalizado:** Você preenche um breve formulário antecipadamente. Nele, vai descrever seu momento profissional, experiências, dúvidas e metas em Cloud/DevOps. Esse passo é essencial para que a sessão seja proveitosa, irei entender seu contexto específico. 
+[👉 Faça aqui sua pré-call](https://forms.office.com/r/SMNmt7bXwQ) 
 2. **Call Estratégica (1h a 1h30):** Sessão prática, direta ao ponto, esclarecendo suas dúvidas e criando juntos um roteiro realista e eficiente. Vamos discutir sua situação atual, esclarecer dúvidas específicas e orientar você em decisões importantes (como quais habilidades desenvolver, quais certificações podem fazer sentido, caminhos para transição de cargo, empresas.). Não é um plano genérico, nem teoria abstrata: é um diálogo estratégico focado 100% em você.  
 3. **Plano de Ação personalizado:** Ao final da call, você sairá com passos claros para seguir em frente. Isso inclui recomendações personalizadas – por exemplo, estudos sugeridos, certificações relevantes para o seu perfil, dicas de como ganhar experiência prática ou se posicionar no mercado. Tudo alinhado ao que foi discutido na mentoria, para que você tenha um roteiro concreto de evolução após a sessão.
 
@@ -81,3 +82,4 @@ Reúno experiencias sólidas que me posicionam como referência no setor de Clou
 
 Não deixe sua evolução profissional no “piloto automático”, empresas e chefes te dizendo o que fazer, assuma a responsabilidade e controle da sua carreira. Conte comigo para você ter uma mudança valiosa rumo aos seus objetivos na nuvem.  
 Não perca essa oportunidade de evoluir de forma orientada e estratégica. Cloud e DevOps são o futuro da Tecnologia, torne-se também o profissional de ponta que o mercado procura! 🚀
+[👉 Faça aqui sua pré-call](https://forms.office.com/r/SMNmt7bXwQ)

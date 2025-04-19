@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Certificados de Treinamentos, Cursos, Certificações, Eventos e Palestras"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Certificados]
 tags: [Certificados, Treinamentos, Cursos, Certificações, Eventos, Palestras]

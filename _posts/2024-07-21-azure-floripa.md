@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizador Grupo de Comunidade – Azure Floripa"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Voluntariado, Organizador Grupo de Comunidade – Azure Floripa]
 tags: [Voluntariado, Organizador Grupo de Comunidade]

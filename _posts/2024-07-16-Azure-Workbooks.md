@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Utilizando Azure Workbooks para Otimização de Custos com FinOps"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Azure Workbooks, FinOps]
 tags: [Artigos, Azure, Azure Workbooks, FinOps]

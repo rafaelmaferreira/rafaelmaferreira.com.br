@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #25 Episódio Com João Brito, seu host favorito: Kubernetes, Comunidade e a voz do Kubicast
+[![#25 Episódio Com João Brito, seu host favorito: Kubernetes, Comunidade e a voz do Kubicast](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/25.png)](https://open.spotify.com/episode/4Bg9mhp5S33I7ePMP7guBg?si=50910786efae4ed9)
+
 #### #24 Episódio com José Neto: Superação, Tech e Qualidade de Vida na Nuvem
 [![#24 Episódio com José Neto: Superação, Tech e Qualidade de Vida na Nuvem](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/24.png)](https://open.spotify.com/episode/0wYTTebsPs4p0d0KkI4UL6?si=8c0cacb913fa43659)
 

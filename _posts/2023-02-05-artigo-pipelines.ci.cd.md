@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pipelines CI/CD"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Pipelines, Ci/Cd]
 tags: [Artigos, Pipelines, Ci/Cd]

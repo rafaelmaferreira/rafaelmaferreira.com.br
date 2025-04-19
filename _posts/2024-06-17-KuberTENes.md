@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KuberTENes Birthday Bash Santa Catarina"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, KuberTENes]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SC, KuberTENes]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#27 Cloud Native São Paulo - Sustainability Day na AWS"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, Cloud Native São Paulo]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Cloud Native São Paulo]

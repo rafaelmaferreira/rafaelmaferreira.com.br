@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minhas Contribuições para a Tradução do Kubernetes"
-author: rafaferreira011
+author: rafaelmaferreira
 categories: [Artigos, Kubernetes, Tradução]
 tags: [Artigos, Kubernetes, Documentação, Tradução, Open Source]
 ---

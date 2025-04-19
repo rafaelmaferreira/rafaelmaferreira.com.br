@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configuração de um repositório no Github"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Configuração, GitHub]
 tags: [Artigos, Configuração, GitHub]

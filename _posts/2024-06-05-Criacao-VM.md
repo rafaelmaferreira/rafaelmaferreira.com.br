@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guia de Criação de Maquinas Virtuais no Microsoft Azure"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Virtual Machine]
 tags: [Artigos, Azure, Virtual Machine]

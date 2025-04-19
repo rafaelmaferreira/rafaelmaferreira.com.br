@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recomendações"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Recomendações]
 tags: [Recomendações, Treinamentos, YouTube, Podcasts]

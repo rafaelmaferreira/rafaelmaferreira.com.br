@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Azure feat Azure Floripa"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Organização de Eventos, Online, Global Azure]
 tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências]

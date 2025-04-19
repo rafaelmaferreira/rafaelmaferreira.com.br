@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizador Eventos – DevOpsDays Florianópolis"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Voluntariado, Organizador Eventos – DevOpsDays Florianópolis]
 tags: [Voluntariado, Organizador Eventos – DevOpsDays Florianópolis]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Certificações"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Certificações]
 tags: [Certificações]

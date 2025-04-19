@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem com FinOps: Maximizando os Custos em Ambientes Cloud Native"
-author: rafaferreira011
+author: rafaelmaferreira
 #date: 2024-03-10 20:00:00 -500
 categories: [Artigos, Azure Cloud Foundation]
 tags: [Azure, Cloud Foundation, FinOps, FinOps Framework]

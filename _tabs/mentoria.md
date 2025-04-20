@@ -47,6 +47,10 @@ Valores: Conforme o seu nível de carreira. Confira os valores de cada serviço 
 | Pleno (20% off)             | R$ 800   | R$ 160   | R$ 40     |
 | Sênior (10% off)            | R$ 900   | R$ 180   | R$ 45     |
 
+> \* **Comprovação obrigatória**  
+> Para usufruir do desconto, envie um documento ou print que comprove seu status (ex.: carteira de trabalho, oferta de emprego, salário atual).  
+> **Sem comprovação, será aplicado o valor cheio.**
+
 ---
 
 ## 🚀 Por que minha mentoria é exatamente o que você precisa agora?

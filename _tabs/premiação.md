@@ -40,12 +40,11 @@ O [**Microsoft MVP Award**](https://mvp.microsoft.com/) reconhece profissionais
 
 ### Benefícios
 | 💡 | O que recebo como Star? |
-|----|------------------------|
+| :- | :- |
 | 🎓 | Acesso **ilimitado** aos cursos Alura |
-| 🤝 | Encontros exclusivos com instrutores e creators |
+| 🤝 | Encontros exclusivos com instrutores e creators |
 | 🎁 | Mimos e badge oficial para meus perfis |
 | 🌐 | Visibilidade ampliada nas redes da Alura |
-
 
 ---
 

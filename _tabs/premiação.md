@@ -2,7 +2,7 @@
 title: "Premiação"
 author: rafaelmaferreira
 #date: 2025-04-20 16:00:00 -0300
-icon: fa-solid fa-award
+icon: fa-solid fa-trophy
 order: 3
 ---
 

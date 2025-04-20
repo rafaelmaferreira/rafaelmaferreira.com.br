@@ -10,21 +10,39 @@ tags: [Voluntariado, Organizador Grupo de Comunidade]
 ## Introdução
 
 Nossa comunidade tem o objetivo principal de explorar e apresentar as diversas soluções e serviços disponíveis na nuvem da Microsoft. Nosso objetivo é claro: compartilhar conhecimento através das experiências vividas e contadas por nossos palestrantes, enriquecendo o grupo com insights valiosos e práticos sobre o que há de mais inovador no mundo Azure.
-Além claro, de fortalecer a comunidade Azure em Florianópolis, visando fomentar o aprendizado e networking entre os participantes do evento.
+Além claro, de fortalecer a comunidade Azure em Florianópolis, visando fomentar o aprendizado e networking entre os participantes da comunidade.
+
+Juntou curiosidade + vontade de ajudar? Então o grupo é pra você! 🎉
 
 # Azure Floripa
 
 [![Azure Floripa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)](https://www.youtube.com/@AzureFloripa)
 
-[Site - Azure Floripa](https://azurefloripa.com.br/)
+* 🌐 [Site - Azure Floripa](https://azurefloripa.com.br/)
 
-[Nossos links](https://linktr.ee/AzureFloripa)
+* 🔗 [Nossos links](https://linktr.ee/AzureFloripa)
 
-[Youtube - Azure Floripa](https://www.youtube.com/channel/UCXgiLXOwNL33-86Xl_2KMgg)
+* ▶️ [Youtube - Azure Floripa](https://www.youtube.com/channel/UCXgiLXOwNL33-86Xl_2KMgg)
 
-## Conheça o Bicep: Simplificando sua Infraestrutura na Nuvem com Vanessa Valle
-[![](https://img.youtube.com/vi/atTIElSn-L4/0.jpg)](https://www.youtube.com/watch?v=atTIElSn-L4)
+---
 
+## Eventos Organizados
+
+### 2024
+
+| Data | Evento | Formato | Link |
+|------|--------|---------|------|
+| 02 set 2024 | **DP‑900: Fundamentos de Dados do Azure** | Presencial | [/eventos/dp-900-fundamentos-dados-azure-floripa](/eventos/dp-900-fundamentos-dados-azure-floripa) |
+| 10 jun 2024 | **AZ‑900: Fundamentos do Azure** (Grande Florianópolis) | Presencial | [/eventos/az-900-fundamentos-azure-floripa](/eventos/az-900-fundamentos-azure-floripa) |
+| 20 abr 2024 | **Global Azure 2024 feat. Azure Floripa** | Online | [/eventos/global-azure-2024-floripa](/eventos/global-azure-2024-floripa) |
+
+### Próximos
+
+| Data | Evento | Status | Link |
+|------|--------|--------|------|
+| 10 abr 2024 | **Global Azure 2025 – Azure Floripa** | inscrições abertas | [/eventos/global-azure-2025-floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventOrigin=group_upcoming_events) |
+
+---
 ## Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza
 [![Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza](https://img.youtube.com/vi/R9lFLWeNlbU/0.jpg)](https://www.youtube.com/watch?v=R9lFLWeNlbU)
 
@@ -60,5 +78,11 @@ Além claro, de fortalecer a comunidade Azure em Florianópolis, visando fomenta
 
 ## Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações
 [![Mesa Redonda - Como consegui trabalhar somente com Azure + Certificações](https://img.youtube.com/vi/SEz3UgW3dMM/0.jpg)](https://www.youtube.com/watch?v=SEz3UgW3dMM&t)
+
+**Curtiu?**  
+Fica o convite: participe, compartilhe e ajude a comunidade a crescer. 🚀  
+Nos vemos no próximo encontro!
+
+---
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/azurefloripa.png)

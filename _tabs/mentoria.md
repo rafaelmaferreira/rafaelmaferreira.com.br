@@ -68,13 +68,13 @@ Eu não farei o que cabe a você fazer. O sucesso é certo se você seguir o que
 ## Por que me escolher como mentor?
 
 Reúno experiencias sólidas que me posicionam como referência no setor de Cloud e DevOps. Alguns destaques da minha trajetória profissional incluem:  
-- **Experiência de +10 anos:** Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  
+-  [**Experiência de +10 anos:**](https://rafaelmaferreira.com.br/experiences/) Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  
 - **Atuação Global:** Atuação como Senior Azure DevOps Solution Engineer em uma empresa americana e passagens por consultorias internacionais, trazendo uma visão global de melhores práticas e padrões de mercado.  
-- **Formação e Certificações:** Graduado em Ciência da Computação e com mais de 18 certificações técnicas relevantes, comprovando um compromisso contínuo com aprendizado e excelência.  
+-  [**Formação e Certificações:**](https://rafaelmaferreira.com.br/certifications/)Graduado em Ciência da Computação e com mais de 18 certificações técnicas relevantes, comprovando um compromisso contínuo com aprendizado e excelência.  
 - **Reconhecimento Microsoft:** Título de Microsoft MVP (Most Valuable Professional) e Microsoft Certified Trainer (MCT) – reconhecimentos internacionais que atestam minha expertise e contribuição ativa para a comunidade técnica.  
 - **Domínio Tecnológico:** Profundo conhecimento em Microsoft Azure, Azure DevOps, IAC, GitHub Actions, entre outras ferramentas de ponta amplamente usadas no setor.  
 - **Metodologias Modernas:** Aplicação das principais práticas do mundo DevOps e Cloud, incluindo FinOps, pipelines de CI/CD, GitOps, Containers/Kubernetes, observabilidade de sistemas e automação de infraestrutura com PowerShell e Python.  
-- **Liderança na Comunidade:** Palestrante ativo em eventos da comunidade e organizador dos grupos - Azure Floripa, DevOpsDays Floripa e CNCF SC) e criador de conteúdo educacional para profissionais de tecnologia, compartilhando conhecimento e impulsionando a comunidade tech. Sempre me atualizado com as tendências do setor e compartilha conhecimento de forma acessível.
+-  [**Liderança na Comunidade:**](https://rafaelmaferreira.com.br/categories/voluntariado/)Palestrante ativo em eventos da comunidade e organizador dos grupos - Azure Floripa, DevOpsDays Floripa e CNCF SC) e criador de conteúdo educacional para profissionais de tecnologia, compartilhando conhecimento e impulsionando a comunidade tech. Sempre me atualizado com as tendências do setor e compartilha conhecimento de forma acessível.
 
 ---
 

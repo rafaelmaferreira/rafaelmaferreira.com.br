@@ -3,7 +3,7 @@ layout: post
 title: "Participações em Lives"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Participações em Comunidades]
+categories: [Participações em Comunidades, Participações em Lives]
 tags: [Participações em Comunidades, Participações em Lives]
 ---
 

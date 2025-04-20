@@ -3,7 +3,7 @@ layout: post
 title: "Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Participações em Comunidades]
+categories: [Participações em Comunidades, Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud]
 tags: [Participações em Comunidades, Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud]
 ---
 

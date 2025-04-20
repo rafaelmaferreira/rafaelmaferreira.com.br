@@ -3,15 +3,12 @@
 #layout: home
 title: Certificações
 icon: fa-solid fa-award
-order: 3
+order: 4
 ---
 
 # Minhas Certificações
 
 Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
-
-
-[![GitHub Foundations](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/da03d2a7-58d7-49cc-af37-37cc055fb1ea/public_url "GitHub Foundations")
 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/118x118/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 

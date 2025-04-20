@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organizador Eventos – KCD Floripa Brazil 2024"
+title: "KCD Floripa Brazil 2024"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Organização de Eventos, Organizador Eventos – KCD Floripa Brazil 2024]

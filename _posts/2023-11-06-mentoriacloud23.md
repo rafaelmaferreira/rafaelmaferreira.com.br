@@ -3,8 +3,8 @@ layout: post
 title: "Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Voluntariado, Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud]
-tags: [Voluntariado, Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud]
+categories: [Participações em Comunidades, Participações em Comunidades no Projeto de Mentoria 3.0 do Canal da Cloud]
+tags: [Participações em Comunidades, Voluntariado no Projeto de Mentoria 3.0 do Canal da Cloud]
 ---
 
 Estou empolgado para compartilhar minha experiência como voluntário no Projeto de Mentoria de Carreira do Canal da Cloud durante o período de Agosto de 2023 a Dezembro de 2023. Esta iniciativa, impulsionada pela paixão pela tecnologia, reúne a comunidade técnica de TI para apoiar indivíduos que desejam avançar em suas carreiras na indústria de tecnologia.

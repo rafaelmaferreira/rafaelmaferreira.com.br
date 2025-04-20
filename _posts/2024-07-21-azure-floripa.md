@@ -30,17 +30,17 @@ Juntou curiosidade + vontade de ajudar? Então o grupo é pra você! 🎉
 
 ### 2024
 
-| Data | Evento | Formato | Link |
-|------|--------|---------|------|
-| 02 set 2024 | **DP‑900: Fundamentos de Dados do Azure** | Presencial | [/eventos/dp-900-fundamentos-dados-azure-floripa](/eventos/dp-900-fundamentos-dados-azure-floripa) |
-| 10 jun 2024 | **AZ‑900: Fundamentos do Azure** (Grande Florianópolis) | Presencial | [/eventos/az-900-fundamentos-azure-floripa](/eventos/az-900-fundamentos-azure-floripa) |
-| 20 abr 2024 | **Global Azure 2024 feat. Azure Floripa** | Online | [/eventos/global-azure-2024-floripa](/eventos/global-azure-2024-floripa) |
+| Data | Evento | Formato |
+|------|--------|---------|
+| 02 set 2024 | [**DP‑900: Fundamentos de Dados do Azure**](https://rafaelmaferreira.com.br/posts/curso-dp-900/) | Presencial |
+| 10 jun 2024 | [**AZ‑900: Fundamentos do Azure**](https://rafaelmaferreira.com.br/posts/curso-az-900/) | Presencial |
+| 20 abr 2024 | [**Global Azure 2024 feat. Azure Floripa**](https://rafaelmaferreira.com.br/posts/global-azure/) | Online |
 
 ### Próximos
 
-| Data | Evento | Status | Link |
-|------|--------|--------|------|
-| 10 abr 2024 | **Global Azure 2025 – Azure Floripa** | inscrições abertas | [/eventos/global-azure-2025-floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventOrigin=group_upcoming_events) |
+| Data | Evento | Status |
+|------|--------|--------|
+| 10 abr 2024 | [**Global Azure 2025 – Azure Floripa**](https://www.meetup.com/azure-floripa/events/306207034/?eventOrigin=group_upcoming_events)| inscrições abertas |
 
 ---
 ## Conhecendo as vertentes do Copilot e o que ele pode fazer no Azure com Marcelo Souza

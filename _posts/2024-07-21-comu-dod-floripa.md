@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Organizador de Comunidade – DevOpsDays Florianópolis"
+title: "Organizador – DevOpsDays Florianópolis"
 author: rafaelmaferreira
-date: 2025-04-20 15:00:00 -0300
+#date: 2025-04-20 15:00:00 -0300
 categories: [Organizador Grupo de Comunidade, DevOpsDays Florianópolis]
-tags: [Organizador Grupo de Comunidade, DevOpsDays Floripa, voluntariado]
-icon: fa-solid fa-users-gear
-order: 5
+tags: [Organizador Grupo de Comunidade, DevOpsDays Floripa]
+
 ---
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dod/0.png)

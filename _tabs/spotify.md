@@ -3,7 +3,7 @@
 #layout: home
 title: Spotify
 icon: fa-brands fa-spotify
-order: 11
+order: 10
 ---
 
 # Minha Jornada no Spotify com LowOpsCast

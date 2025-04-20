@@ -3,7 +3,7 @@
 #layout: home
 title: Youtube
 icon: fa-brands fa-youtube
-order: 10
+order: 9
 ---
 
 Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo canal LowOps Channel. Através desse canal, compartilho conhecimentos, experiências e inspirações, visando motivar e enriquecer profissionalmente a comunidade. Aqui, você encontrará insights valiosos sobre tecnologia em geral, fortalecendo a comunidade técnica e fornecendo acesso a conteúdos de forma gratuita e simplificada. Junte-se a nós nesta aventura tecnológica!

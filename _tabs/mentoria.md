@@ -13,6 +13,20 @@ O mercado está aquecido, mas somente aqueles com clareza estratégica conseguem
 
 ---
 
+## Por que me escolher como mentor?
+
+Reúno experiencias sólidas que me posicionam como referência no setor de Cloud e DevOps. Alguns destaques da minha trajetória profissional incluem:  
+-  [**Experiência de +10 anos:**](https://rafaelmaferreira.com.br/experiences/) Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  
+- **Atuação Global:** Atuação como Senior Azure DevOps Solution Engineer em uma empresa americana e passagens por consultorias internacionais, trazendo uma visão global de melhores práticas e padrões de mercado.  
+-  [**Formação e Certificações:**](https://rafaelmaferreira.com.br/certifications/) Graduado em Ciência da Computação e com mais de 18 certificações técnicas relevantes, comprovando um compromisso contínuo com aprendizado e excelência.  
+-  [**Reconhecimento Microsoft:**](https://mvp.microsoft.com/pt-BR/mvp/profile/627d5ac9-f704-4768-81a7-5c580283881d) Título de Microsoft MVP (Most Valuable Professional) e Microsoft Certified Trainer (MCT) – reconhecimentos internacionais que atestam minha expertise e contribuição ativa para a comunidade técnica.  
+-  [**Alura Star:**](https://www.alura.com.br/stars) Embaixador oficial do programa , reconhecido por impulsionar a comunidade tech através de conteúdo educacional e mentorship.  
+- **Domínio Tecnológico:** Profundo conhecimento em Microsoft Azure, Azure DevOps, IAC, GitHub Actions, entre outras ferramentas de ponta amplamente usadas no setor.  
+- **Metodologias Modernas:** Aplicação das principais práticas do mundo DevOps e Cloud, incluindo FinOps, pipelines de CI/CD, GitOps, Containers/Kubernetes, observabilidade de sistemas e automação de infraestrutura com PowerShell e Python.  
+-  [**Liderança na Comunidade:**](https://rafaelmaferreira.com.br/categories/organizador-grupo-de-comunidade/) Palestrante ativo em eventos da comunidade e organizador dos grupos - Azure Floripa, DevOpsDays Floripa e CNCF SC, e criador de conteúdo educacional para profissionais de tecnologia, compartilhando conhecimento e impulsionando a comunidade tech. Sempre me atualizado com as tendências do setor e compartilha conhecimento de forma acessível.
+
+---
+
 ## Valores
 
 Valores: Conforme o seu nível de carreira. Confira os valores de cada serviço e os preços ajustados por perfil:
@@ -62,19 +76,6 @@ Eu não farei o que cabe a você fazer. O sucesso é certo se você seguir o que
 [👉 Faça aqui sua inscrição](https://forms.office.com/r/SMNmt7bXwQ) 
 2. **Call Estratégica (1h a 1h30):** Sessão prática, direta ao ponto, esclarecendo suas dúvidas e criando juntos um roteiro realista e eficiente. Vamos discutir sua situação atual, esclarecer dúvidas específicas e orientar você em decisões importantes (como quais habilidades desenvolver, quais certificações podem fazer sentido, caminhos para transição de cargo, empresas.). Não é um plano genérico, nem teoria abstrata: é um diálogo estratégico focado 100% em você.  
 3. **Plano de Ação personalizado:** Ao final da call, você sairá com passos claros para seguir em frente. Isso inclui recomendações personalizadas – por exemplo, estudos sugeridos, certificações relevantes para o seu perfil, dicas de como ganhar experiência prática ou se posicionar no mercado. Tudo alinhado ao que foi discutido na mentoria, para que você tenha um roteiro concreto de evolução após a sessão.
-
----
-
-## Por que me escolher como mentor?
-
-Reúno experiencias sólidas que me posicionam como referência no setor de Cloud e DevOps. Alguns destaques da minha trajetória profissional incluem:  
--  [**Experiência de +10 anos:**](https://rafaelmaferreira.com.br/experiences/) Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  
-- **Atuação Global:** Atuação como Senior Azure DevOps Solution Engineer em uma empresa americana e passagens por consultorias internacionais, trazendo uma visão global de melhores práticas e padrões de mercado.  
--  [**Formação e Certificações:**](https://rafaelmaferreira.com.br/certifications/)Graduado em Ciência da Computação e com mais de 18 certificações técnicas relevantes, comprovando um compromisso contínuo com aprendizado e excelência.  
--  [**Reconhecimento Microsoft:**](https://mvp.microsoft.com/pt-BR/mvp/profile/627d5ac9-f704-4768-81a7-5c580283881d)Título de Microsoft MVP (Most Valuable Professional) e Microsoft Certified Trainer (MCT) – reconhecimentos internacionais que atestam minha expertise e contribuição ativa para a comunidade técnica.  
-- **Domínio Tecnológico:** Profundo conhecimento em Microsoft Azure, Azure DevOps, IAC, GitHub Actions, entre outras ferramentas de ponta amplamente usadas no setor.  
-- **Metodologias Modernas:** Aplicação das principais práticas do mundo DevOps e Cloud, incluindo FinOps, pipelines de CI/CD, GitOps, Containers/Kubernetes, observabilidade de sistemas e automação de infraestrutura com PowerShell e Python.  
--  [**Liderança na Comunidade:**](https://rafaelmaferreira.com.br/categories/organizador-grupo-de-comunidade/)Palestrante ativo em eventos da comunidade e organizador dos grupos - Azure Floripa, DevOpsDays Floripa e CNCF SC, e criador de conteúdo educacional para profissionais de tecnologia, compartilhando conhecimento e impulsionando a comunidade tech. Sempre me atualizado com as tendências do setor e compartilha conhecimento de forma acessível.
 
 ---
 

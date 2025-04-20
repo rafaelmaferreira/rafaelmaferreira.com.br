@@ -48,7 +48,7 @@ Valores: Conforme o seu nível de carreira. Confira os valores de cada serviço 
 | Sênior (10% off)            | R$ 900   | R$ 180   | R$ 45     |
 
 > \* **Comprovação obrigatória**  
-> Para usufruir do desconto, envie um documento ou print que comprove seu status (ex.: carteira de trabalho, oferta de emprego, salário atual).  
+Para garantir seu desconto, preciso de um comprovante que mostre seu status atual — pode ser uma carteira de trabalho, print de vaga, oferta de emprego ou outro documento que ajude a validar. 
 > **Sem comprovação, será aplicado o valor cheio.**
 
 ---

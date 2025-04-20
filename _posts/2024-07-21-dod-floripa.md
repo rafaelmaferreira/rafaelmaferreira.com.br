@@ -3,8 +3,8 @@ layout: post
 title: "Organizador Eventos – DevOpsDays Florianópolis 2024"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Voluntariado, Organizador Eventos – DevOpsDays Florianópolis 2024]
-tags: [Voluntariado, Organizador Eventos – DevOpsDays Florianópolis 2024]
+categories: [Organização de Eventos, Presencial, Organizador Eventos – DevOpsDays Florianópolis 2024]
+tags: [Organização de Eventos, Organizador Eventos – DevOpsDays Florianópolis 2024]
 ---
 
 O **DevOpsDays** é uma série global de conferências técnicas que exploram tópicos como desenvolvimento de software, operações de infraestrutura de TI e a interseção entre eles. Cada evento é organizado por voluntários apaixonados da comunidade local, garantindo uma experiência única e alinhada às demandas regionais.

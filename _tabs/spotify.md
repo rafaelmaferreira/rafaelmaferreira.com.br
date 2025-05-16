@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!
+[![#27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/27.png)](https://open.spotify.com/episode/1R3FtlLegdFxpEWa8WU1vR?si=26cbe2759ee441c1)
+
 #### #26 Episódio com Johnson de Souza Cruz: Tecnologia com Propósito, Educação e Comunidade
 [![#26 Episódio com Johnson de Souza Cruz: Tecnologia com Propósito, Educação e Comunidade](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/26.png)](https://open.spotify.com/episode/0rK5pTtanfazdzcbann6WD?si=de03696ae9e648ae)
 

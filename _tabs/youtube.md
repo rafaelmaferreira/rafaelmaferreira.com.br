@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito
+[![#28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito](https://img.youtube.com/vi/WkDT8JMaMig/0.jpg)](https://www.youtube.com/watch?v=WkDT8JMaMig)
+
 ## #27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!
 [![#27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!](https://img.youtube.com/vi/W-ZN63FMrS4/0.jpg)](https://www.youtube.com/watch?v=W-ZN63FMrS4)
 

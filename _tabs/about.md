@@ -7,8 +7,8 @@ permalink: /
 ---
 
 ## Hello Folks 👋!
+![Capa Linkedin (1)](https://github.com/user-attachments/assets/81e13558-9a3d-47f6-b941-afe9b22bbc62)
 
-![Capa Linkedin](https://github.com/user-attachments/assets/57c279dc-7001-40fd-94cd-199fd8b8f98b)
 
 Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
 

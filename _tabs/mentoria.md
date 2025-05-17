@@ -49,6 +49,10 @@ Valores: Conforme o seu nível de carreira. Confira os valores de cada serviço 
 | Pleno (20% off)             | R$ 800   | R$ 160   | R$ 40     |
 | Sênior (10% off)            | R$ 900   | R$ 180   | R$ 45     |
 
+### 💳 Forma de Pagamento
+
+**O pagamento é realizado exclusivamente via PIX. Não é possível parcelar o valor dos serviços.**
+
 > **Comprovação obrigatória**  
 Para garantir seu desconto, preciso de um comprovante que mostre seu status atual — pode ser uma carteira de trabalho, print de vaga, oferta de emprego ou outro documento que ajude a validar. 
 > **Sem comprovação, será aplicado o valor cheio.**
@@ -73,6 +77,9 @@ Eu não farei o que cabe a você fazer. O sucesso é certo se você seguir o que
 - **Dicas valiosas e recursos selecionados:** aproveite as recomendações de quem vive o dia a dia de Cloud e DevOps. Pode ser a indicação de um curso de qualidade, comunidades para você participar, ferramentas para praticar no Azure, ou maneiras de ganhar experiência mesmo fora do trabalho atual.  
 - **Visão estratégica do mercado:** entenda as tendências e demandas atuais em Cloud Computing e DevOps. Com a mentoria, você terá uma noção mais clara de como se posicionar profissionalmente, alinhando seu desenvolvimento às necessidades que empresas procuram (como cultura DevOps, automação, boas práticas de infraestrutura como código, etc.).  
 - **Confiança para evoluir:** ao final, além do plano traçado, você estará mais confiante por ter validado suas ideias e tirado suas dúvidas com um especialista. Isso traz motivação e segurança para executar o plano e buscar oportunidades, sabendo que você está no caminho certo.
+- **Grupo Exclusivo com Recomendações de Vagas:**  
+  Todos os mentorados terão acesso ao meu grupo particular exclusivo, no qual compartilho todas as vagas que recebo diretamente pelo LinkedIn, com informações detalhadas, inclusive salário. E caso você identifique que uma vaga faça sentido para seu perfil, farei pessoalmente a sua recomendação direta para o recrutador responsável.
+
 
 ---
 

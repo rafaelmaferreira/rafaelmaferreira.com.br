@@ -11,13 +11,26 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
 
-
+<!--- 
 # Próximos eventos: 
+--->
 
-##  26/04 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 
 # Presenciais:
 
+##  26/04 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.conf/01.jpeg)
+
+- <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau](https://www.hubingressos.com.br/evento/mvpconfb?fbclid=PAZXh0bgNhZW0CMTEAAae2jLvLRGwbJ3oQupIXBr3UqpfG8Lwm7iChRGZTWZGbfNs7kYv3qAN7WnS5Dw_aem_ZNYUWHi4GveqP7Mg-bIPJQ)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_esquentamvp-azure-cloudcomputing-activity-7320416693091024898-RaLI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?!](https://stoblobcertificados011.blob.core.windows.net/palestras/mvp-conf.pdf)
+
+<!--- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/sqlsat25/)
+
+--->
 ##  05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
 
@@ -156,6 +169,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/Cloud-Native-Floripa2Edição.pdf)
 
 # Online: 
+
+## 01/03/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
+[![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://img.youtube.com/vi/nA39QsO4H78/0.jpg)](https://www.youtube.com/watch?v=nA39QsO4H78)
 
 ## 01/03/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
 [![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/globalIA.jpg)](https://www.youtube.com/watch?v=bTHiAolXg9k)

@@ -22,6 +22,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2025
 
+- [2025-05 - DevOps Institute Ambassadors](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-05-DevOpsInstituteAmbassadors.pdf)
 - [2025-03 - Fundamentals of Bicep](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-03-FundamentalsofBicep.pdf)
 
 ### 2024

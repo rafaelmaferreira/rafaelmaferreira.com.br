@@ -98,7 +98,7 @@ Gostaríamos de presentear todos os palestrantes, mas como ainda não é possív
 
 Então acesse e se inscreva em nossas redes sociais:
 
-- **[WhatsApp](https://lnkd.in/egeAP2dd)**
+- **[WhatsApp](https://chat.whatsapp.com/HSpFnNyo9ZLD4RJrvEcrrl)**
 - **[YouTube](https://lnkd.in/dtX9uKEk)**
 - **[Visite nosso site](https://lnkd.in/d8vBRFpm)**
 

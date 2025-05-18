@@ -40,8 +40,9 @@ Com palestras inspiradoras, demos na prática e muito networking com profissiona
 | 16:45 - 17:00   | 15 min  | Encerramento e Agradecimentos                                                    |
 
 
-## 👏 Agradecimentos
-Um evento como esse não acontece sozinho. Nosso **muito obrigado aos palestrantes, patrocinadores, parceiros**.
+## 📸 Quer ver como foi?
+
+Se liga nas fotos e reveja os melhores momentos:
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/1.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/2.jpg)
@@ -52,6 +53,9 @@ Um evento como esse não acontece sozinho. Nosso **muito obrigado aos palestrant
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/7.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/8.jpg)
 
+## 👏 Agradecimentos
+Um evento como esse não acontece sozinho. Nosso **muito obrigado aos palestrantes, patrocinadores, parceiros**.
+
 Em especial, agradecemos à **[Neoway](https://www.neoway.com.br/)**, que gentilmente cedeu o espaço para o evento, e à **[Softensity](https://www.softensity.com/)**, que apoiou com um coffee break.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/01.png)
@@ -61,9 +65,7 @@ E claro, nosso reconhecimento à **comunidade**, que marcou presença em peso e 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gbaz25/9.jpg)
 
 
-## 📸 Quer ver como foi?
 
-Acesse o álbum de fotos e reveja os melhores momentos:
 
 
 ## 💙 Participe da Comunidade Azure Floripa!

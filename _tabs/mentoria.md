@@ -10,6 +10,7 @@ order: 2
 Você trabalha com TI (seja iniciante ou experiente) e quer crescer na área de Cloud Azure e DevOps, mas sente dificuldade em encontrar um caminho claro?  
 Seja você um iniciante buscando começar ou um profissional com alguma experiência e não tem certeza de qual caminho seguir?  Eu entendo exatamente como é frustrante estudar, se esforçar e não ter resultados claros. Uma mentoria 1:1 focada e personalizada pode ser o que faltava.  
 O mercado está aquecido, mas somente aqueles com clareza estratégica conseguem se destacar, ter reconhecimento e salários melhores. Minha mentoria existe justamente para resolver isso. Irei te ajudar a traçar um plano concreto de evolução na área de Cloud e DevOps.
+Essa mentoria é pra você que está cansado procurar vagas, deixe que as vagas e os recrutadores procurarem por você. Pra você que quer se tornar uma referência na sua área, ser reconhecido no mercado e fazer com que recrutadores e profissinais de alta relevância na área desejem trabalhar com você.
 
 ---
 

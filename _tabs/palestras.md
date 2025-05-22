@@ -173,6 +173,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 01/03/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
 [![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://img.youtube.com/vi/nA39QsO4H78/0.jpg)](https://www.youtube.com/watch?v=nA39QsO4H78)
 
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://stoblobcertificados011.blob.core.windows.net/palestras/globalaz-sntoad.pdf)
+
 ## 01/03/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
 [![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/globalIA.jpg)](https://www.youtube.com/watch?v=bTHiAolXg9k)
 

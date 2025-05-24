@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Esquenta MVP Conf Blumenau"
+title: "Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau 2025"
 author: rafaelmaferreira
-categories: [Registro Eventos Presenciais, Palestrante, Esquenta MVP Conf Blumenau]
+categories: [Registro Eventos Presenciais, Palestrante, Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau 2025]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, Esquenta MVP Conf Blumenau]
 ---
 # Esquenta MVP Conf Blumenau
 
 No último dia **26 de abril de 2025**, Blumenau foi palco de um grande evento tech do sul do Brasil: o **Esquenta MVP Conf**, uma amostra da energia e do conteúdo de alto nível que teremos na próxima edição do [MVP Conf em São Paulo](https://www.mvpconf.com.br). A FURB (Fundação Universidade Regional de Blumenau) recebeu MVPs da Microsoft e rolou muita troca de ideia.
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
 ## Minha palestra
 
@@ -36,7 +38,12 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 ## Galeria de Fotos
 
-![Palestrando na FURB](link-da-foto1.jpg)  
-![Bate-papo no coffee break](link-da-foto2.jpg)  
-![Slide dos 6Rs em ação](link-da-foto3.jpg)  
-![Selfie com outros MVPs](link-da-foto4.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/02.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/03.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/04.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/05.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/06.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/07.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/08.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/09.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/10.jpeg)

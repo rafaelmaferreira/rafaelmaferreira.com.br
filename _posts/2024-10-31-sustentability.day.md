@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#27 Cloud Native São Paulo - Sustainability Day na AWS"
+title: "Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS 2024"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Registro Eventos Presenciais, Palestrante, Cloud Native São Paulo]
-tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Cloud Native São Paulo]
+categories: [Registro Eventos Presenciais, Palestrante, Deploy de um Futuro com Sustentabilidade GreenOps na Cloud - 27 Cloud Native São Paulo - Sustainability Day na AWS 2024]
+tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Deploy de um Futuro com Sustentabilidade GreenOps na Cloud - 27 Cloud Native São Paulo - Sustainability Day na AWS 2024]
 image:
   path: https://images.credly.com/size/680x680/images/d0775caa-a49d-4419-ac8e-9c0688085b9d/blob
 ---

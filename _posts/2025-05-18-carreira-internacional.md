@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Palestra: Trabalhando para o Exterior – Global Azure 2025"
+title: "Trabalhando para o Exterior – Global Azure Floripa 2025"
 author: rafaelmaferreira
-categories: [Palestras, Global Azure feat Azure Floripa 2025]
+categories: [Registro Eventos Presenciais, Palestrante, Trabalhando para o Exterior – Global Azure Floripa 2025]
 tags: [Trabalho Internacional, Global Azure, Comunidade, Carreira, Azure Floripa]
 ---
 

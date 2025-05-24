@@ -19,7 +19,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Presenciais:
 
 ##  26/04 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp.conf/01.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau](https://www.hubingressos.com.br/evento/mvpconfb?fbclid=PAZXh0bgNhZW0CMTEAAae2jLvLRGwbJ3oQupIXBr3UqpfG8Lwm7iChRGZTWZGbfNs7kYv3qAN7WnS5Dw_aem_ZNYUWHi4GveqP7Mg-bIPJQ)
 

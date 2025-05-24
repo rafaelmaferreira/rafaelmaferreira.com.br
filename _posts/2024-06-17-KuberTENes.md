@@ -3,8 +3,8 @@ layout: post
 title: "Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa"
 author: rafaelmaferreira
 #date: 2023-10-27 18:30:00 -500
-categories: [Registro Eventos Presenciais, Palestrante, Plataformização da Cloud Foundation com Backstage Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa]
-tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SC, Plataformização da Cloud Foundation com Backstage Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa]
+categories: [Registro Eventos Presenciais, Palestrante, KuberTENes]
+tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SC, KuberTENes]
 ---
 
 No dia 11 de junho de 2024, rolou o [**KuberTENes Birthday Bash Santa Catarina**](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-6o-kubertenes-birthday-bash-santa-catarina/), um evento organizado pela comunidade [**Cloud Native Santa Catarina**](https://community.cncf.io/cloud-native-santa-catarina/). Este evento híbrido foi realizado para comemorar os 10 anos do Kubernetes, uma tecnologia que revolucionou o mundo da computação em nuvem e continua a ser um pilar essencial para arquiteturas modernas.

@@ -25,7 +25,6 @@ Nesta página, quero compartilho com vocês algumas das plataformas de cursos on
 - <i class="fab fa-youtube"></i> [Full Cycle](https://www.youtube.com/@FullCycle)
 - <i class="fab fa-youtube"></i> [O Sertão Será Cloud](https://www.youtube.com/@sertaoseracloud)
 - <i class="fab fa-youtube"></i> [Canal Marcus Vinícius](https://www.youtube.com/@canalmarcusvinicius)
-- <i class="fab fa-youtube"></i> [Marcelo Gonçalves ☁️](https://www.youtube.com/@cloudnaquebrada)
 - <i class="fab fa-youtube"></i> [IT LifeHacks - Edesan Tomaz ☁️](https://www.youtube.com/@ITLifeHacks)
 - <i class="fab fa-youtube"></i> [Code FC](https://www.youtube.com/@CodeFC)
 - <i class="fab fa-youtube"></i> [Unicast Cloud Lab](https://www.youtube.com/@unicastlab)

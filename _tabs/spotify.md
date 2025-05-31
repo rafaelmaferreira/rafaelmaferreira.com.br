@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito
+[![#28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/28.png)](https://open.spotify.com/episode/0NTkBo8tgQ7JMWZbgoswbW?si=cdd3c2bf0f644e1c)
+
 #### #27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!
 [![#27 Episódio com Aretha Araújo – Recrutamento Tech, Psicóloga, pessoas & cultura!](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/27.png)](https://open.spotify.com/episode/1R3FtlLegdFxpEWa8WU1vR?si=26cbe2759ee441c1)
 

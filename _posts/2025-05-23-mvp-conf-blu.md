@@ -21,13 +21,19 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 - **Henrique Mauri** — Desenvolvendo aplicações modernas com .NET e Azure  
 - **Vinicius Deschamps** — “Olha mãe, sem usar senhas”: como utilizar Managed Identity no Azure  
-- **Rodrigo Domel** — Análise de Dados com Power BI & Copilot  
+- **Rodrigo Domel** — Análise de Dados com Power BI & Copilot 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/15.jpg) 
 - **Walter Coan** — Evolução da plataforma Azure IoT: do IoT Hub até o IoT Operations  
-- **Claudio Rapôso** — Revolucione Suas Aplicações: o segredo contra falhas em FaaS com JavaScript que ninguém te contou!  
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/14.jpg)
+- **Claudio Rapôso** — Revolucione Suas Aplicações: o segredo contra falhas em FaaS com JavaScript que ninguém te contou! 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/13.jpg) 
 - **Felipe Augusto** — Event-Driven no Azure: como utilizar o Azure Service Bus para escalabilidade e resiliência  
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/11.jpg)
 - **Rafael Ferreira** — Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; o sétimo R é de Rivotril?!  
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/04.jpg)
 - **Johnson de Souza** — Preparar a segurança e a conformidade para dar suporte ao Microsoft 365 Copilot  
 - **Bruno Leires** — O futuro da administração do 365 com Copilot: o que esperar?
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/12.jpg)
 
 ## Destaques da Palestra
 
@@ -40,10 +46,8 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/02.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/03.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/04.jpg)
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/05.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/06.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/07.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/08.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/09.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/10.jpeg)

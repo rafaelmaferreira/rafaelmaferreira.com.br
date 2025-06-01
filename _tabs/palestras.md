@@ -18,7 +18,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais:
 
-##  26/04 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
+##  26/04/025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau](https://www.hubingressos.com.br/evento/mvpconfb?fbclid=PAZXh0bgNhZW0CMTEAAae2jLvLRGwbJ3oQupIXBr3UqpfG8Lwm7iChRGZTWZGbfNs7kYv3qAN7WnS5Dw_aem_ZNYUWHi4GveqP7Mg-bIPJQ)
@@ -27,11 +27,10 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?!](https://stoblobcertificados011.blob.core.windows.net/palestras/mvp-conf.pdf)
 
-<!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/sqlsat25/)
 
---->
-##  05/04 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/mvp-conf-blu/)
+
+##  05/04/2025 - Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sqlsaturday/01.jpg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o Provisionamento Seguro da sua infraestrutura na nuvem - SQL Saturday 2025 by Comunidado](https://sqlsaturday.com/2025-04-05-sqlsaturday1104/)
@@ -43,7 +42,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/sqlsat25/)
 
-##  23/11 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
+##  23/11/2024 - Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/code.island/0.jpg)
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Pipelines com Azure DevOps: Automatizando o (im)possível - Code Island Cloud 2024](https://cloud.codeisland.com.br/)
 
@@ -53,7 +52,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://rafaelmaferreira.com.br/posts/code.island24/)
 
-##  09/11 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
+##  09/11/2024 - Estratégias de Cloud Foundation em Larga Escala: Garantindo que Você Não Retorne para On-Premise - Tech Connection Floripa 2 Edição
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/tc.floripa.2024/1.jpeg)
 

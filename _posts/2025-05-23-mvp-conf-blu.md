@@ -21,7 +21,7 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 - **Henrique Mauri** — Desenvolvendo aplicações modernas com .NET e Azure  
 - **Vinicius Deschamps** — “Olha mãe, sem usar senhas”: como utilizar Managed Identity no Azure  
-- **Rodrigo Domel** — Análise de Dados com Power BI & Copilot 
+- **Rodrigo Dornel** — Análise de Dados com Power BI & Copilot 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/15.jpg) 
 - **Walter Coan** — Evolução da plataforma Azure IoT: do IoT Hub até o IoT Operations  
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/14.jpg)
@@ -46,7 +46,6 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/02.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/03.jpg)
-
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/05.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/07.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/09.jpg)

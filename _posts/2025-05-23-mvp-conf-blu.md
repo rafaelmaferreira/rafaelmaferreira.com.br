@@ -38,12 +38,12 @@ Falar sobre migração pode parecer batido, mas muita gente ainda se perde na ho
 
 ## Galeria de Fotos
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/02.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/03.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/04.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/05.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/06.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/07.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/08.jpeg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/09.jpeg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/02.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/03.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/04.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/05.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/06.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/07.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/08.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/09.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/10.jpeg)

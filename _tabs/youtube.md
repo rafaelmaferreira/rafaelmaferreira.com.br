@@ -12,6 +12,12 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa
+[![#30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa](https://img.youtube.com/vi/SaElrWeLViU/0.jpg)](https://www.youtube.com/watch?v=SaElrWeLViU)
+
+## #29 Episódio com Osvaldo Alves: Liderança de Engenharia
+[![#29 Episódio com Osvaldo Alves: Liderança de Engenharia](https://img.youtube.com/vi/LoO6AaB5IRo/0.jpg)](https://www.youtube.com/watch?v=LoO6AaB5IRo)
+
 ## #28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito
 [![#28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito](https://img.youtube.com/vi/WkDT8JMaMig/0.jpg)](https://www.youtube.com/watch?v=WkDT8JMaMig)
 

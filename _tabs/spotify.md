@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #29 Episódio com Osvaldo Alves: Liderança de Engenharia
+[![#29 Episódio com Osvaldo Alves: Liderança de Engenharia](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/29.png)](https://open.spotify.com/episode/5HkAsqxrwkgtfUlWdOVEzH?si=8210421b9f774cc1)
+
 #### #28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito
 [![#28 Episódio com Bruno Leires: Microsoft 365 na veia e Tech com propósito](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/28.png)](https://open.spotify.com/episode/0NTkBo8tgQ7JMWZbgoswbW?si=cdd3c2bf0f644e1c)
 

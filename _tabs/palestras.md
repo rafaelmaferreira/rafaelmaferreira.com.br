@@ -172,12 +172,12 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 ## 08/06/2025 - DevOps Além do Hype
 [![DevOps Além do Hype](https://img.youtube.com/vi/6EF8IgFxRfc/0.jpg)](https://www.youtube.com/watch?v=6EF8IgFxRfc)
 
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além do Hype](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes0525.pptx)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além do Hype](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-deploy.pdf)
 
 ## 29/05/2025 - Mas afinal, o que é DevOps? Tudo o que Você Precisa Saber!
 ![Mas afinal, o que é DevOps? Tudo o que Você Precisa Saber!](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/devopsheroes0529.png)
 
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Mas afinal, o que é DevOps? Tudo o que Você Precisa Saber!](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes0525.pptx)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Mas afinal, o que é DevOps? Tudo o que Você Precisa Saber!](https://stoblobcertificados011.blob.core.windows.net/palestras/devops-heroes0525.pdf)
 
 ## 10/05/2025 - Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem
 [![Arquitetando uma Landing Zone Segura para Workloads de IA na Nuvem](https://img.youtube.com/vi/nA39QsO4H78/0.jpg)](https://www.youtube.com/watch?v=nA39QsO4H78)

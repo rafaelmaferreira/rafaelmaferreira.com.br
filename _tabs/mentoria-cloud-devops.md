@@ -1,6 +1,6 @@
 ---
 #layout: categories
-title: Mentoria em Cloud Azure e DevOps com Rafael Ferreira
+title: Mentoria em Cloud Azure e DevOps
 description: Mentoria individual focada em carreira na área de TI, DevOps e Cloud Azure. Evolua profissionalmente com plano personalizado.
 icon: fas fa-crown
 order: 2

@@ -59,33 +59,33 @@ Identificar VMs sem backup é só o primeiro passo. O próximo é **habilitar o 
 1. **Habilitando Policy via Portal (manual):**
    - Acesse a VM no portal Azure e clique em *Policy*.
    - Vá até Definitions, Procure *Azure Backup should be enabled for Virtual Machines*.
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/1.png)
    - Clique em *Assign policy*.
    - Selecione *Escopo* e a Subscription.
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/2.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/2.png)
    - Review + Create.
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/3.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/3.png)
 
 Ai só esperar e ir verificar:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/4.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/4.png)
 
 2. **Habilitando backup via Portal (manual):**
    - Acesse a VM no portal Azure e clique em *Backup*.
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/5.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/5.png)
    - Escolha (ou crie) um *Recovery Services Vault*.
    - Configure a frequência e retenção (política de backup).
    - Clique em *Enable Backup*.
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/6.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/6.png)
 
 agora o vault vai ser criado, porém a policy ainda não estará em compliance, será necessário executar o job do backup
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/7.png)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/8.png)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/9.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/7.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/8.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/9.png)
 
 Agora ficando compliance:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/11.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/11.png)
    
 3. **Habilitando backup via Azure Policy (automatizado):**
    Use políticas do tipo **DeployIfNotExists** para configurar automaticamente o backup em VMs não protegidas. Exemplos:
@@ -213,10 +213,10 @@ terraform  --auto-approve
 
 
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/10.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/10.png)
 
 Podemos ver que ela ficou 'Non-compliant':
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/12.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/12.png)
 
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
 Agora, adicionamos os recursos de backup via IaC. Vamos criar um Recovery Services Vault (cofre de backup) e então habilitar o backup da VM criando um Backup Protected Item. Esse item associa a VM ao vault, aplicando uma política de backup definida.
@@ -269,7 +269,7 @@ terraform plan
 ``````
 
 Para validar se nada vai quebrar ou destruir a VM
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/13.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/13.png)
 
 depois executamos:
 
@@ -278,17 +278,17 @@ terraform  --auto-approve
 ``````
 AGORA podemos ter certeza que não ira destruir nossa vm beta tester
 Para validar se nada vai quebrar ou destruir a VM
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/14.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/14.png)
 
 Pq estamos fazendo isso?
 Imagine ter um ambiente com 10 vms, talvez seja simples. Mas em um caso onde temos mais de mil VMs? e se modificarmos o nosso "modulo" das VMs sem antes testar. Por isso é importante existir um versionamento de modulo, geração de TAGs!
 
 Porém ela ainda vai ficar com status de 'Non-compliant', precisamos executar o job de backup:
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/15.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/15.png)
 
 E assim depois podemos analisar que ela ficou em compliance
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/17.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/17.png)
 
 5. **Bicep 💪🏻**
 
@@ -419,11 +419,11 @@ Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte co
 
 Precisamos passar o nome do ResourceGroup e adminPassword:
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/16.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/16.png)
 
 E podemos atualizar a página de 'Compliance':
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/18.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/18.png)
 
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
 Agora expandimos o template Bicep para incluir o Recovery Services Vault e habilitar o backup da VM. Em Bicep, utilizamos o recurso aninhado Microsoft.RecoveryServices/vaults/.../protectedItems para associar a VM ao vault de backup. Neste exemplo, aproveitamos a política de backup padrão do vault (chamada "DefaultPolicy" no Recovery Services Vault).

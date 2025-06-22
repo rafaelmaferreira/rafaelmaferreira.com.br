@@ -14,8 +14,9 @@ O mercado está aquecido, mas somente aqueles com clareza estratégica conseguem
 Essa mentoria é pra você que está cansado procurar vagas, deixe que as vagas e os recrutadores procurarem por você. Pra você que quer se tornar uma referência na sua área, ser reconhecido no mercado e fazer com que recrutadores e profissinais de alta relevância na área desejem trabalhar com você.
 
 ---
-
 ## Por que me escolher como mentor?
+
+![Capa Linkedin (1)](https://github.com/user-attachments/assets/81e13558-9a3d-47f6-b941-afe9b22bbc62)
 
 Reúno experiencias sólidas que me posicionam como referência no setor de Cloud e DevOps. Alguns destaques da minha trajetória profissional incluem:  
 -  [**Experiência de +10 anos:**](https://rafaelmaferreira.com.br/experiences/) Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  

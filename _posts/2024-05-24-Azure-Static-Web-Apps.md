@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simplificando a Utilização do Static Web Apps no Azure"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Static Web Apps]
 tags: [Artigos, Azure, Static Web Apps]
@@ -299,7 +299,7 @@ Aparecerá uma nova janela, onde iremos nomear o Private Endpoint como: `pvt-swa
 ## Passo 9: Criação de um Repositório no GitHub
 Crie um novo repositório no GitHub, irei deixar público para quem tiver interesse em visitar e conhecer mais, selecionei a criação de um readme nomeei como: `static-web-app`, não vamos adicionar README para seguir com os futuros.
 
-**Github:** [static-web-app](https://github.com/rafaelmaferreira/static-web-app)
+**Github:** [static-web-app](https://github.com/orafaelferreiraa/static-web-app)
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa27.png)
 
@@ -334,7 +334,7 @@ Na mesma tela que paramos, coloque o nome da VM, por exemplo: `lnx-swa` no titul
 Retorne a VM e faça a configurção mínima para o git, lembre-se de alterar suas informações:
 
 ```bash
-git config --global user.name "rafaelmaferreira"
+git config --global user.name "orafaelferreira"
 git config --global user.email rafael.low1@gmail.com
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/swa/swa32.png)
@@ -355,7 +355,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:rafaelmaferreira/static-web-app.git
+git remote add origin git@github.com:orafaelferreira/static-web-app.git
 git push -u origin main
 ```
 

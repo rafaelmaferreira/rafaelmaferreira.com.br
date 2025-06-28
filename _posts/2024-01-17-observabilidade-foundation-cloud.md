@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem: Monitoria e Observabilidade para Performance e Eficiência em Ambientes Cloud Native"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2024-03-10 20:00:00 -500
 categories: [Artigos, Azure Cloud Foundation]
 tags: [Azure, Cloud Foundation, Monitoria, Observabilidade]

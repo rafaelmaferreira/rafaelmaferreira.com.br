@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A importância do Persistent Volume no Kubernetes AKS: garantindo dados seguros e acessíveis"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Aks, Volume]
 tags: [Artigos, Aks, Volume]

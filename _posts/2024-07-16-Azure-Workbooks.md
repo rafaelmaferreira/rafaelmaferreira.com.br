@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Utilizando Azure Workbooks para Otimização de Custos com FinOps"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Azure Workbooks, FinOps]
 tags: [Artigos, Azure, Azure Workbooks, FinOps]
@@ -11,7 +11,7 @@ tags: [Artigos, Azure, Azure Workbooks, FinOps]
 
 ## Introdução
 
-A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps ([Caso queira saber mais sobre FinOps, visite o meu artigo anterior](https://rafaelmaferreira.com.br/posts/finops-foundation-cloud/)), ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
+A gestão eficaz dos custos na nuvem é um algo real e impactante para muitas organizações que adotaram a computação em nuvem. O FinOps ([Caso queira saber mais sobre FinOps, visite o meu artigo anterior](https://orafaelferreira.com/posts/finops-foundation-cloud/)), ou Operações Financeiras, é um conjunto de práticas que combinam Finanças e DevOps para otimizar a utilização e o custo dos recursos na nuvem. Uma ferramenta poderosa que a Microsoft Azure oferece para ajudar nessa tarefa é o Azure Workbooks. Neste artigo, irei utilizar o Azure Workbooks. Mas o que são Azure Workbooks?
 
 ## O que são [Azure Workbooks](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview)?
 
@@ -62,7 +62,7 @@ Azure Workbook são dashboards interativos e modulares que são usados para cria
 
 ### Principais Componentes do Workbook
 
-- **Visão Geral:** Baseado no Microsoft Azure Well-Architected Framework (WAF) ([Caso queira saber mais sobre o WAF, visite o meu artigo anterior](https://rafaelmaferreira.com.br/posts/well-architect-foundation-cloud/)), fornece princípios para equilibrar objetivos de negócios com necessidades tecnológicas, reduzindo desperdícios e melhorando a eficiência operacional.
+- **Visão Geral:** Baseado no Microsoft Azure Well-Architected Framework (WAF) ([Caso queira saber mais sobre o WAF, visite o meu artigo anterior](https://orafaelferreira.com/posts/well-architect-foundation-cloud/)), fornece princípios para equilibrar objetivos de negócios com necessidades tecnológicas, reduzindo desperdícios e melhorando a eficiência operacional.
 - **Recursos e Governança:** Indica funcionalidades implementadas que seguem os princípios de Otimização de Custos e Governança de Custos.
 - **Pré-requisitos:** Requer funções mínimas de Reader e Workbook Contributor para importar e salvar o workbook, além de ações de "Quick Fix" documentadas com permissões específicas.
 
@@ -168,7 +168,7 @@ Mas você deve estar se perguntando, a mas vou utilizar somente um, por exemplo,
 
 ## GreenOps: Como Azure Workbooks é um Aliado na Gestão Sustentável
 
-Azure Workbooks pode ser um aliado poderoso para práticas de GreenOps, fornecendo dashboards e insights que facilitam a gestão sustentável nas operações de TI. Para mais informações sobre GreenOps, visite meu artigo completo [aqui](https://rafaelmaferreira.com.br/posts/green-computing-foundation-cloud/). Aqui estão algumas formas de como Azure Workbooks pode ajudar:
+Azure Workbooks pode ser um aliado poderoso para práticas de GreenOps, fornecendo dashboards e insights que facilitam a gestão sustentável nas operações de TI. Para mais informações sobre GreenOps, visite meu artigo completo [aqui](https://orafaelferreira.com/posts/green-computing-foundation-cloud/). Aqui estão algumas formas de como Azure Workbooks pode ajudar:
 
 1. **Identificação de Recursos Subutilizados**
    - Azure Workbooks ajuda a identificar recursos subutilizados, permitindo ajustes ou desativações para reduzir o consumo de energia e os custos operacionais.

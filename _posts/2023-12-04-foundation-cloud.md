@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construindo uma Fundação Sólida para a Adoção da Nuvem com o Azure Cloud Adoption Framework"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure Cloud Foundation]
 tags: [Azure, Cloud Foundation, Cloud Adoption Framework]

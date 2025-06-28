@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Azure Backup should be enabled for Virtual Machines"
-author: rafaelmaferreira
+author: orafaelferreira
 categories: [Artigos, Azure, Policy]
 tags: [Artigos, Azure, Segurança, Policy]
 ---
 
 ## Visão Geral
-Vamos explorar por que a policy [**“Azure Backup should be enabled for Virtual Machines”**](https://www.azadvertizer.net/azpolicyadvertizer/013e242c-8828-4970-87b3-ab247555486d.html) (ID: `013e242c-8828-4970-87b3-ab247555486d`) é essencial em ambientes corporativos. Como continuação dos [fundamentos de Azure Policy](https://rafaelmaferreira.com.br/posts/az-policy/), vamos detalhar os riscos de não ter backup automático em VMs, o funcionamento técnico dessa policy, sua relação com boas práticas e compliance (Azure Security Benchmark, ISO 27001, LGPD, GDPR, CMMC) e como aplicá-la na prática para melhorar a continuidade de negócios. Também abordaremos mecanismos de remediação – desde habilitar backup manualmente, com IAC (Infraestrutura como código) e via Azure Policy.
+Vamos explorar por que a policy [**“Azure Backup should be enabled for Virtual Machines”**](https://www.azadvertizer.net/azpolicyadvertizer/013e242c-8828-4970-87b3-ab247555486d.html) (ID: `013e242c-8828-4970-87b3-ab247555486d`) é essencial em ambientes corporativos. Como continuação dos [fundamentos de Azure Policy](https://orafaelferreira.com/posts/az-policy/), vamos detalhar os riscos de não ter backup automático em VMs, o funcionamento técnico dessa policy, sua relação com boas práticas e compliance (Azure Security Benchmark, ISO 27001, LGPD, GDPR, CMMC) e como aplicá-la na prática para melhorar a continuidade de negócios. Também abordaremos mecanismos de remediação – desde habilitar backup manualmente, com IAC (Infraestrutura como código) e via Azure Policy.
 
 ## Riscos de não habilitar backup em máquinas virtuais
 Não realizar backups automáticos de máquinas virtuais pode ocasionar riscos significativos. Em caso de falhas, erro humano ou ataque cibernético, uma VM sem backup pode resultar em **perda irreversível de dados**, comprometendo a integridade e disponibilidade das informações e interrompendo operações críticas do negócio. Por exemplo, se um servidor de banco de dados em produção for perdido e não possuia backup, a empresa irá enfrentar **horas (ou dias) de indisponibilidade** e perda de dados transacionais importantes.

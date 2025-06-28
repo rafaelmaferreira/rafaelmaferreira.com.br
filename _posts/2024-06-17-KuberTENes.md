@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, KuberTENes]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SC, KuberTENes]
@@ -36,7 +36,7 @@ A abertura do evento trouxe uma retrospectiva dos 10 anos de Kubernetes, onde [A
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/kuberTENes-Birthday-Bash-Santa-Catarina.png)
 
-Uma palestra do **Azure Floripa** ([eu](https://www.linkedin.com/in/rafaelmaferreira/) e o [Cláudio Raposo](https://www.linkedin.com/in/cfraposo/)), que abordou como a plataformização da Cloud Foundation com Backstage pode otimizar a eficiência na nuvem, melhorando a experiência dos desenvolvedores.
+Uma palestra do **Azure Floripa** ([eu](https://www.linkedin.com/in/orafaelferreiraa/) e o [Cláudio Raposo](https://www.linkedin.com/in/cfraposo/)), que abordou como a plataformização da Cloud Foundation com Backstage pode otimizar a eficiência na nuvem, melhorando a experiência dos desenvolvedores.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/13.JPG)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/CloudNativeSC-KuberTENes/14.JPG)

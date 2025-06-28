@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construindo uma Fundação Sólida para a Nuvem: A importancia da Cultura DevOps e sua Sinergia com Cloud Native na Fundação Cloud"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure Cloud Foundation]
 tags: [Azure, Cloud Foundation, DevOps]

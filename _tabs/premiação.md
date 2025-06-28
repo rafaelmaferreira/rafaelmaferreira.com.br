@@ -1,6 +1,6 @@
 ---
 title: "Premiação"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2025-04-20 16:00:00 -0300
 icon: fa-solid fa-trophy
 order: 3
@@ -62,4 +62,4 @@ Com **Microsoft MVP + DevOps Institute Ambassador + Alura Star + Green Software 
 - Conectar quem está começando com oportunidades reais de carreira.  
 - Apoiar iniciativas de diversidade, inclusão e práticas sustentáveis em tech.
 
-Se quiser saber mais, colaborar ou convidar para palestrar, **me chama no [LinkedIn](https://www.linkedin.com/in/rafaelmaferreira/)!** 🚀
+Se quiser saber mais, colaborar ou convidar para palestrar, **me chama no [LinkedIn](https://www.linkedin.com/in/orafaelferreiraa/)!** 🚀

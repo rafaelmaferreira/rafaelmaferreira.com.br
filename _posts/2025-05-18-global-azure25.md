@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Azure feat Azure Floripa 2025 (Evento Remoto)"
-author: rafaelmaferreira
+author: orafaelferreira
 categories: [Organização de Eventos, Global Azure - Azure Floripa 2025]
 tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências]
 ---
@@ -14,7 +14,7 @@ Se você perdeu, relaxa — a gente fez esse post cheio de links pra você marat
 
 ## Organizadores
 
-- **[Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)**
+- **[Rafael Martin Alves Ferreira](https://www.linkedin.com/in/orafaelferreiraa/)**
 - **[Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)**
 
 ## Palestras e Sessões em Destaque

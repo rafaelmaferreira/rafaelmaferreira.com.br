@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trabalhando para o Exterior – Global Azure Floripa 2025"
-author: rafaelmaferreira
+author: orafaelferreira
 categories: [Registro Eventos Presenciais, Palestrante, Trabalhando para o Exterior – Global Azure Floripa 2025]
 tags: [Trabalho Internacional, Global Azure, Comunidade, Carreira, Azure Floripa]
 ---
@@ -16,7 +16,7 @@ Falamos sobre como é atuar em uma empresa internacional, os bastidores que, os 
 ## 🎙️ Sobre a Palestra
 
 **Tema:** Trabalhando para o Exterior
-**Palestrantes:** [Rafael Ferreira](https://www.linkedin.com/in/rafaelmaferreira/) & [Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)  
+**Palestrantes:** [Rafael Ferreira](https://www.linkedin.com/in/orafaelferreiraa/) & [Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)  
 **Evento:** Global Azure 2025 – Azure Floripa  
 **Data:** 10 de maio de 2025  
 **Local:** Neoway, Florianópolis - SC

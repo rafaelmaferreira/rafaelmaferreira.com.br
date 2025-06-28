@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Azure feat Azure Floripa 2024"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Organização de Eventos, Global Azure feat Azure Floripa 2024]
 tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências]
@@ -13,7 +13,7 @@ Estamos entusiasmados em compartilhar que o Global Azure 2024 foi um sucesso e o
 
 ## Organizadores
 
-- **[Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)**
+- **[Rafael Martin Alves Ferreira](https://www.linkedin.com/in/orafaelferreiraa/)**
 - **[Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)**
 - **[Cláudio Filipe Lima Rapôso](https://www.linkedin.com/in/cfraposo/)**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configuração de um repositório no Github"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Configuração, GitHub]
 tags: [Artigos, Configuração, GitHub]
@@ -31,7 +31,7 @@ Neste artigo, vamos guiá-lo através dos passos necessários para começar a ut
 5. Não adicione um README, pois vamos seguir com comandos para criar e configurar um manualmente.
 6. Clique em "Create repository".
 
-**GitHub:** [example](https://github.com/rafaelmaferreira/example)
+**GitHub:** [example](https://github.com/orafaelferreiraa/example)
 
 ![example](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example9.png)
 
@@ -70,7 +70,7 @@ Na mesma tela que paramos, coloque o nome do seu computador, por exemplo: vm-exa
 Realize a configurção mínima para o git, lembre-se de alterar suas informações:
 
 ```bash
-git config --global user.name "rafaelmaferreira"
+git config --global user.name "orafaelferreira"
 git config --global user.email rafael.low1@gmail.com
 ```
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/example/example20.png)
@@ -86,7 +86,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:rafaelmaferreira/example.git
+git remote add origin git@github.com:orafaelferreira/example.git
 git push -u origin main
 ```
 Dando um Check no GitHub:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud - #27 Cloud Native São Paulo - Sustainability Day na AWS 2024"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, Deploy de um Futuro com Sustentabilidade GreenOps na Cloud - 27 Cloud Native São Paulo - Sustainability Day na AWS 2024]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SP, Deploy de um Futuro com Sustentabilidade GreenOps na Cloud - 27 Cloud Native São Paulo - Sustainability Day na AWS 2024]
@@ -43,7 +43,7 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/21.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/sustentability.day/22.jpg)
 
-**Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/rafaelmaferreira/)  
+**Palestrante:** [Rafael Martin Alves Ferreira](https://www.linkedin.com/in/orafaelferreiraa/)  
 **Resumo:** Compartilhei como o GreenOps pode ser incorporado ao dia a dia das operações na nuvem, permitindo que empresas façam deploys de forma mais sustentável. Discuti práticas e frameworks que empresas líderes têm utilizado para minimizar o impacto ambiental, enquanto aumentam a eficiência dos sistemas. Foram apresentados **cases reais** e **exemplos práticos** que mostram como a sustentabilidade e a inovação podem caminhar lado a lado.
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Deploy de um Futuro com Sustentabilidade: GreenOps na Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/cncn-sp.pdf)
@@ -65,7 +65,7 @@ A tecnologia, com seu crescimento acelerado, trouxe uma nova demanda por infraes
 
 Mesmo que você não tenha participado do meetup, ainda é possível adotar as práticas discutidas e fazer parte dessa revolução na nuvem:
 
-- **Estude mais sobre GreenOps:** Entenda como aplicar práticas sustentáveis nas operações em nuvem e descubra as ferramentas que auxiliam no monitoramento e otimização do consumo energético. Para um entendimento aprofundado, confira o [artigo sobre Green Computing Foundation e sustentabilidade na nuvem](https://rafaelmaferreira.com.br/posts/green-computing-foundation-cloud/) no blog!
+- **Estude mais sobre GreenOps:** Entenda como aplicar práticas sustentáveis nas operações em nuvem e descubra as ferramentas que auxiliam no monitoramento e otimização do consumo energético. Para um entendimento aprofundado, confira o [artigo sobre Green Computing Foundation e sustentabilidade na nuvem](https://orafaelferreira.com/posts/green-computing-foundation-cloud/) no blog!
 - **Experimente soluções como Backstage, Karpenter e KEDA:** Essas ferramentas já fazem a diferença em muitas empresas e podem ser incorporadas facilmente ao seu ambiente para criar uma infraestrutura mais sustentável.
 - **Conecte-se com a comunidade Cloud Native:** Os organizadores e palestrantes do [CNCF Cloud Native São Paulo 🇧🇷](https://www.linkedin.com/company/cloud-native-sao-paulo/posts/?feedView=all) são grandes influenciadores neste campo. Acompanhe-os e aprenda como eles aplicam conceitos de sustentabilidade em projetos de alta escala.
 - **Participe de futuros meetups:** O movimento está apenas começando! Esses encontros proporcionam aprendizado contínuo e networking com profissionais que estão liderando a transformação sustentável na tecnologia.

@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rafaelmaferreira.com.br"
+url: "https://orafaelferreira.com"
 
 github:
-  username: rafaelmaferreira # change to your github username
+  username: orafaelferreira # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
@@ -38,13 +38,13 @@ social:
   email: rafael.maferreira94@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/rafaelmaferreira/
+    - https://www.linkedin.com/in/orafaelferreiraa/
     - https://www.youtube.com/@LowOps-Channel
     - https://open.spotify.com/show/0U4kcZT2Cwn4CqQGg4Ywcj?si=78799430f99c45e2
     - https://podcasts.apple.com/br/podcast/lowopscast/id1755380230
-    - https://github.com/rafaelmaferreira
-    - https://medium.com/@rafaelmaferreira' 
-    - https://www.instagram.com/rafaelmaferreira11/
+    - https://github.com/orafaelferreiraa
+    - https://medium.com/@orafaelferreiraa
+    - https://www.instagram.com/rafaelmaferreira1/
 
 google_site_verification: # fill in to your verification string
 
@@ -91,7 +91,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "rafaelmaferreira/rafaelmaferreira.com.br"  # Nome do repositório GitHub
+    repo: "orafaelferreira/orafaelferreira.com"  # Nome do repositório GitHub
     repo_id: "R_kgDOKnjYmA"       # ID do repositório (obtido no Giscus)
     category: General                              # Nome da categoria escolhida
     category_id: "DIC_kwDOKnjYmM4Cay1-"               # ID da categoria (obtido no Giscus)

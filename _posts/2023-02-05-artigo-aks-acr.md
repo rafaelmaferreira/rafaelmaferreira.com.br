@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kubernetes: Aproveitando o ACR como Repositório de Imagem Docker para Implementação de API"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Aks, ACR]
 tags: [Artigos, Aks, ACR]

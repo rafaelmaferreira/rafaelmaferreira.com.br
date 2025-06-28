@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizador – Azure Floripa"
-author: rafaelmaferreira
+author: orafaelferreira
 #date: 2023-10-27 18:30:00 -500
 categories: [Organizador Grupo de Comunidade, Azure Floripa]
 tags: [Organizador Grupo de Comunidade, Azure Floripa]
@@ -32,10 +32,10 @@ Juntou curiosidade + vontade de ajudar? Então o grupo é pra você! 🎉
 
 | Data | Evento | Formato |
 |------|--------|---------|
-| 02 set 2024 | [**DP‑900: Fundamentos de Dados do Azure**](https://rafaelmaferreira.com.br/posts/curso-dp-900/) | Presencial |
-| 10 jun 2024 | [**AZ‑900: Fundamentos do Azure**](https://rafaelmaferreira.com.br/posts/curso-az-900/) | Presencial |
-| 10 abr 2024 | [**Global Azure 2024 feat. Azure Floripa**](https://rafaelmaferreira.com.br/posts/global-azure24/) | Online |
-| 10 abr 2024 | [**Global Azure 2025 feat. Azure Floripa**](https://rafaelmaferreira.com.br/posts/global-azure24/) | Online |
+| 02 set 2024 | [**DP‑900: Fundamentos de Dados do Azure**](https://orafaelferreira.com/posts/curso-dp-900/) | Presencial |
+| 10 jun 2024 | [**AZ‑900: Fundamentos do Azure**](https://orafaelferreira.com/posts/curso-az-900/) | Presencial |
+| 10 abr 2024 | [**Global Azure 2024 feat. Azure Floripa**](https://orafaelferreira.com/posts/global-azure24/) | Online |
+| 10 abr 2024 | [**Global Azure 2025 feat. Azure Floripa**](https://orafaelferreira.com/posts/global-azure24/) | Online |
 | 10 abr 2024 | [**Global Azure 2025 – Azure Floripa**](https://www.meetup.com/azure-floripa/events/306207034/?eventOrigin=group_upcoming_events)| Presencial |
 
 ---

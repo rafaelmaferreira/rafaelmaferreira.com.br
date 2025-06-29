@@ -303,7 +303,8 @@ A seguir, temos o mesmo cenário implementado em Bicep. Assim como no exemplo Te
 Etapa 1: Criando VM sem backup habilitado
 Nesta etapa inicial do Bicep, criamos a infraestrutura básica sem nenhum backup configurado para a VM. Novamente, a policy AuditIfNotExists apenas auditará a VM (não impedirá a criação).
 
-```bash@description('Local da implantação (ex.: eastus)')
+```bash
+@description('Local da implantação (ex.: eastus)')
 param location string = resourceGroup().location
 
 @description('Nome de usuário administrador para a VM')

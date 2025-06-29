@@ -303,85 +303,110 @@ A seguir, temos o mesmo cenário implementado em Bicep. Assim como no exemplo Te
 Etapa 1: Criando VM sem backup habilitado
 Nesta etapa inicial do Bicep, criamos a infraestrutura básica sem nenhum backup configurado para a VM. Novamente, a policy AuditIfNotExists apenas auditará a VM (não impedirá a criação).
 
-```bash
-terraform {
-  required_providers {
-    azurerm = {
-      source  = "hashicorp/azurerm"
-      version = "~> 3.0"
+```bash@description('Local da implantação (ex.: eastus)')
+param location string = resourceGroup().location
+
+@description('Nome de usuário administrador para a VM')
+param adminUsername string = 'azureuser'
+
+@description('Senha de administrador (use um valor seguro em produção)')
+@secure()
+param adminPassword string
+
+// Grupo de recursos implícito: usa-se resourceGroup() para obter nome e local atuais
+
+// Rede virtual e sub-rede
+resource vnet 'Microsoft.Network/virtualNetworks@2021-02-01' = {
+  name: 'vnet-exemplo'
+  location: location
+  properties: {
+    addressSpace: {
+      addressPrefixes: [
+        '10.0.0.0/16'
+      ]
+    }
+    subnets: [
+      {
+        name: 'subnet-exemplo'
+        properties: {
+          addressPrefix: '10.0.1.0/24'
+        }
+      }
+    ]
+  }
+}
+
+resource nic 'Microsoft.Network/networkInterfaces@2021-02-01' = {
+  name: 'nic-exemplo'
+  location: location
+  properties: {
+    ipConfigurations: [
+      {
+        name: 'nic-ipcfg'
+        properties: {
+          subnet: {
+            id: vnet.properties.subnets[0].id    // Referência à sub-rede criada acima
+          }
+          privateIPAllocationMethod: 'Dynamic'
+        }
+      }
+    ]
+  }
+}
+
+// Máquina Virtual (Linux) sem backup habilitado
+// Desta vez, vamos usar usuário e senha, sem SSH keys.
+@dependsOn([
+  nic   // Garante que a NIC esteja criada antes da VM
+])
+resource virtualMachine 'Microsoft.Compute/virtualMachines@2022-03-01' = {
+  name: 'vm-exemplo'
+  location: location
+  properties: {
+    hardwareProfile: {
+      vmSize: 'Standard_B1s'
+    }
+    osProfile: {
+      computerName: 'vm-exemplo'
+      adminUsername: adminUsername
+      adminPassword: adminPassword
+
+      // A configuração abaixo permite login por senha
+      // e desabilita o bloqueio somente-SSH.
+      linuxConfiguration: {
+        disablePasswordAuthentication: false
+      }
+    }
+    storageProfile: {
+      osDisk: {
+        createOption: 'FromImage'
+        name: 'osdisk-exemplo'
+        caching: 'ReadWrite'
+        managedDisk: {
+          storageAccountType: 'Standard_LRS'
+        }
+      }
+      imageReference: {
+        publisher: 'Canonical'
+        offer: 'UbuntuServer'
+        sku: '18.04-LTS'
+        version: 'latest'
+      }
+    }
+    networkProfile: {
+      networkInterfaces: [
+        {
+          id: nic.id  // Associação da NIC à VM
+        }
+      ]
     }
   }
-  required_version = ">= 1.1.0"
 }
 
-provider "azurerm" {
-  features {}
-}
+// Observação: Assim como no Terraform, esta VM será criada sem backup.
+// Uma policy do tipo AuditIfNotExists irá apenas auditar a ausência de backup,
+// não bloqueando a criação desta VM.
 
-# Definição do Resource Group
-resource "azurerm_resource_group" "rg" {
-  name     = "rg-exemplo-backup"            # Nome do grupo de recursos
-  location = "eastus"                       # Região do Azure
-}
-
-# Rede virtual com uma sub-rede
-resource "azurerm_virtual_network" "vnet" {
-  name                = "vnet-exemplo"
-  address_space       = ["10.0.0.0/16"]     # Espaço de endereços da VNet
-  location            = azurerm_resource_group.rg.location
-  resource_group_name = azurerm_resource_group.rg.name
-}
-
-resource "azurerm_subnet" "subnet" {
-  name                 = "subnet-exemplo"
-  resource_group_name  = azurerm_resource_group.rg.name
-  virtual_network_name = azurerm_virtual_network.vnet.name
-  address_prefixes     = ["10.0.1.0/24"]    # Prefixo da sub-rede
-}
-
-# Interface de rede para a VM
-resource "azurerm_network_interface" "nic" {
-  name                = "nic-exemplo"
-  location            = azurerm_resource_group.rg.location
-  resource_group_name = azurerm_resource_group.rg.name
-
-  ip_configuration {
-    name                          = "nic-ipcfg"
-    subnet_id                     = azurerm_subnet.subnet.id
-    private_ip_address_allocation = "Dynamic"  # IP privado dinâmico
-  }
-}
-
-# Máquina Virtual (Linux) sem backup habilitado, usando usuário e senha (sem chave SSH)
-resource "azurerm_linux_virtual_machine" "vm" {
-  name                = "vm-exemplo"
-  resource_group_name = azurerm_resource_group.rg.name
-  location            = azurerm_resource_group.rg.location
-  size                = "Standard_B1s"         # Tamanho (SKU) da VM
-  
-  admin_username      = "azureuser"            # Usuário administrador
-  admin_password      = "P@ssw0rd12345!"       # Senha (substituir para um valor seguro)
-  
-  # Para permitir login via senha, certifique-se de que a opção abaixo esteja false
-  disable_password_authentication = false
-
-  network_interface_ids = [
-    azurerm_network_interface.nic.id
-  ]
-
-  os_disk {
-    name                = "osdisk-exemplo"
-    caching             = "ReadWrite"
-    storage_account_type = "Standard_LRS"
-  }
-
-  source_image_reference {
-    publisher = "Canonical"
-    offer     = "UbuntuServer"
-    sku       = "18.04-LTS"
-    version   = "latest"
-  }
-}
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte comando:
 
@@ -396,43 +421,66 @@ E podemos atualizar a página de 'Compliance':
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/18.png)
 
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
-Agora expandimos o template Bicep para incluir o Recovery Services Vault e habilitar o backup da VM. Em Bicep, utilizamos o recurso aninhado Microsoft.RecoveryServices/vaults/.../protectedItems para associar a VM ao vault de backup. Neste exemplo, aproveitamos a política de backup padrão do vault (chamada "DefaultPolicy" no Recovery Services Vault).
-
 
 ```bash
-// Recovery Services Vault para backups da VM
-resource recoveryVault 'Microsoft.RecoveryServices/vaults@2021-08-01' = {
+@description('Local da implantação. Normalmente, usa o mesmo local do Resource Group.')
+param location string = resourceGroup().location
+
+// 1. Vault de Recovery Services
+resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
   name: 'vault-backups-exemplo'
   location: location
   sku: {
-    name: 'RS0'        // RS0 Standard
-    tier: 'Standard'
+    name: 'Standard'
   }
-  properties: {}       // Sem configurações adicionais (usa defaults)
+  properties: { }
 }
 
-// Configurações para identificar a VM dentro do vault (valores exigidos pelo recurso de backup)
-var backupFabric = 'Azure'  // Fabric de backup para VMs IaaS
-var backupPolicyName = 'DefaultPolicy'  // Nome da política de backup padrão do vault
-var protectionContainer = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
-var protectedItem = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+// 2. Política de backup diária (23:00 UTC) com retenção de 7 dias
+resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-01' = {
+  parent: vault
+  name: 'policy-diaria'
+  properties: {
+    backupManagementType: 'AzureIaasVM'
+    schedulePolicy: {
+      schedulePolicyType: 'SimpleSchedulePolicy'
+      scheduleRunFrequency: 'Daily'
+      scheduleRunTimes: [
+        '2024-01-01T23:00:00Z' // A data não importa, apenas a hora UTC
+      ]
+    }
+    retentionPolicy: {
+      retentionPolicyType: 'LongTermRetentionPolicy'
+      dailySchedule: {
+        retentionTimes: [
+          '2024-01-01T23:00:00Z'
+        ]
+        retentionDuration: {
+          count: 7
+          durationType: 'Days'
+        }
+      }
+    }
+  }
+}
 
-// Habilitando backup da VM no vault (Protected Item)
-resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems@2021-08-01' = {
-  name: '${recoveryVault.name}/${backupFabric}/${protectionContainer}/${protectedItem}'
+// 3. Registro da VM no backup usando protectedItems
+var fabric = 'Azure'
+var container = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+var item = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+
+resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems@2024-10-01' = {
+  name: '${vault.name}/${fabric}/${container}/${item}'
   properties: {
     protectedItemType: 'Microsoft.Compute/virtualMachines'
-    policyId: '${recoveryVault.id}/backupPolicies/${backupPolicyName}'
+    policyId: backupPolicy.id
     sourceResourceId: virtualMachine.id
   }
   dependsOn: [
-    virtualMachine,
-    recoveryVault
+    virtualMachine
+    backupPolicy
   ]
-  // Este recurso inscreve a VM no cofre de backup usando a DefaultPolicy.
-  // Após a implantação, a VM estará protegida (em conformidade com a política de backup).
 }
-
 ``````
 
 No código Bicep acima, utilizamos a política DefaultPolicy que é criada automaticamente no Recovery Services Vault para máquinas virtuais (backup diário padrão). O recurso vmBackup configura a VM para ser protegida por essa política. Após a implantação, a Azure Policy não irá mais apontar não-conformidade, pois a VM agora possui backup habilitado.

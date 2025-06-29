@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau 2025"
-author: orafaelferreira
+author: orafaelferreiraa
 categories: [Registro Eventos Presenciais, Palestrante, Esquenta MVP Conf Blumenau 2025]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, Esquenta MVP Conf Blumenau]
 ---

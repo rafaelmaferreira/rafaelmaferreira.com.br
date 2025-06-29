@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plataformização da Cloud Foundation com Backstage: Desvendando os Segredos da Eficiência na Nuvem com Developer Experience - Esquenta TDC - KuberTENes Birthday Bash Santa Catarina + Azure Floripa + API Floripa"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2023-10-27 18:30:00 -500
 categories: [Registro Eventos Presenciais, Palestrante, KuberTENes]
 tags: [Registro Eventos Presenciais, Eventos, Comunidade, CNCF-SC, KuberTENes]

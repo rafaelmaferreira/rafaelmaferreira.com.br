@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simplificando a Utilização do Static Web Apps no Azure"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2023-10-27 18:30:00 -500
 categories: [Artigos, Azure, Static Web Apps]
 tags: [Artigos, Azure, Static Web Apps]

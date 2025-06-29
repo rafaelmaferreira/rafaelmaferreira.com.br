@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizador – DevOpsDays Florianópolis"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2025-04-20 15:00:00 -0300
 categories: [Organizador Grupo de Comunidade, DevOpsDays Florianópolis]
 tags: [Organizador Grupo de Comunidade, DevOpsDays Floripa]

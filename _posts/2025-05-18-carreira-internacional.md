@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trabalhando para o Exterior – Global Azure Floripa 2025"
-author: orafaelferreira
+author: orafaelferreiraa
 categories: [Registro Eventos Presenciais, Palestrante, Trabalhando para o Exterior – Global Azure Floripa 2025]
 tags: [Trabalho Internacional, Global Azure, Comunidade, Carreira, Azure Floripa]
 ---

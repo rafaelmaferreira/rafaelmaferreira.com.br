@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antes do Cloud Native: Construindo uma Fundação Sólida para a Nuvem Impactando um Futuro Sustentável"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2024-03-10 20:00:00 -500
 categories: [Artigos, Azure Cloud Foundation]
 tags: [Azure, Cloud Foundation, Green-Computing, Sustentabilidade]

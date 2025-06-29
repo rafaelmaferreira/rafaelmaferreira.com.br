@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Azure feat Azure Floripa 2024"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2023-10-27 18:30:00 -500
 categories: [Organização de Eventos, Global Azure feat Azure Floripa 2024]
 tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Azure feat Azure Floripa 2025 (Evento Remoto)"
-author: orafaelferreira
+author: orafaelferreiraa
 categories: [Organização de Eventos, Global Azure - Azure Floripa 2025]
 tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure Backup should be enabled for Virtual Machines"
-author: orafaelferreira
+author: orafaelferreiraa
 categories: [Artigos, Azure, Policy]
 tags: [Artigos, Azure, Segurança, Policy]
 ---

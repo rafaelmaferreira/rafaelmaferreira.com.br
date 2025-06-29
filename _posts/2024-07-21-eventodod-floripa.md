@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevOpsDays Florianópolis 2024"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2023-10-27 18:30:00 -500
 categories: [Organização de Eventos, DevOpsDays Florianópolis 2024]
 tags: [Organização de Eventos, Organizador Eventos – DevOpsDays Florianópolis 2024]

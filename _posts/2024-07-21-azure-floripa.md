@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizador – Azure Floripa"
-author: orafaelferreira
+author: orafaelferreiraa
 #date: 2023-10-27 18:30:00 -500
 categories: [Organizador Grupo de Comunidade, Azure Floripa]
 tags: [Organizador Grupo de Comunidade, Azure Floripa]

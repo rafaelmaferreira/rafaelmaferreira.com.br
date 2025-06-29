@@ -304,64 +304,105 @@ Etapa 1: Criando VM sem backup habilitado
 Nesta etapa inicial do Bicep, criamos a infraestrutura básica sem nenhum backup configurado para a VM. Novamente, a policy AuditIfNotExists apenas auditará a VM (não impedirá a criação).
 
 ```bash
-@description('Local da implantação. Normalmente, usa o mesmo local do Resource Group.')
+@description('Local da implantação (ex.: eastus)')
 param location string = resourceGroup().location
 
-// 1. Vault de Recovery Services
-resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
-  name: 'vault-backups-exemplo'
-  location: location
-  sku: {
-    name: 'Standard'
-  }
-  properties: { }
-}
+@description('Nome de usuário administrador para a VM')
+param adminUsername string = 'azureuser'
 
-// 2. Política de backup diária (23:00 UTC) com retenção de 7 dias
-resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-01' = {
-  parent: vault
-  name: 'policy-diaria'
+@description('Senha de administrador (use um valor seguro em produção)')
+@secure()
+param adminPassword string
+
+// Grupo de recursos implícito: usa-se resourceGroup() para obter nome e local atuais
+
+// Rede virtual e sub-rede
+resource vnet 'Microsoft.Network/virtualNetworks@2021-02-01' = {
+  name: 'vnet-exemplo'
+  location: location
   properties: {
-    backupManagementType: 'AzureIaasVM'
-    schedulePolicy: {
-      schedulePolicyType: 'SimpleSchedulePolicy'
-      scheduleRunFrequency: 'Daily'
-      scheduleRunTimes: [
-        '2024-01-01T23:00:00Z' // A data não importa, apenas a hora UTC
+    addressSpace: {
+      addressPrefixes: [
+        '10.0.0.0/16'
       ]
     }
-    retentionPolicy: {
-      retentionPolicyType: 'LongTermRetentionPolicy'
-      dailySchedule: {
-        retentionTimes: [
-          '2024-01-01T23:00:00Z'
-        ]
-        retentionDuration: {
-          count: 7
-          durationType: 'Days'
+    subnets: [
+      {
+        name: 'subnet-exemplo'
+        properties: {
+          addressPrefix: '10.0.1.0/24'
         }
       }
+    ]
+  }
+}
+
+resource nic 'Microsoft.Network/networkInterfaces@2021-02-01' = {
+  name: 'nic-exemplo'
+  location: location
+  properties: {
+    ipConfigurations: [
+      {
+        name: 'nic-ipcfg'
+        properties: {
+          subnet: {
+            id: vnet.properties.subnets[0].id    // Referência à sub-rede criada acima
+          }
+          privateIPAllocationMethod: 'Dynamic'
+        }
+      }
+    ]
+  }
+}
+
+resource virtualMachine 'Microsoft.Compute/virtualMachines@2022-03-01' = {
+  name: 'vm-exemplo'
+  location: location
+  properties: {
+    hardwareProfile: {
+      vmSize: 'Standard_B1s'
+    }
+    osProfile: {
+      computerName: 'vm-exemplo'
+      adminUsername: adminUsername
+      adminPassword: adminPassword
+
+      // A configuração abaixo permite login por senha
+      // e desabilita o bloqueio somente-SSH.
+      linuxConfiguration: {
+        disablePasswordAuthentication: false
+      }
+    }
+    storageProfile: {
+      osDisk: {
+        createOption: 'FromImage'
+        name: 'osdisk-exemplo'
+        caching: 'ReadWrite'
+        managedDisk: {
+          storageAccountType: 'Standard_LRS'
+        }
+      }
+      imageReference: {
+        publisher: 'Canonical'
+        offer: 'UbuntuServer'
+        sku: '18.04-LTS'
+        version: 'latest'
+      }
+    }
+    networkProfile: {
+      networkInterfaces: [
+        {
+          id: nic.id  // Associação da NIC à VM
+        }
+      ]
     }
   }
 }
 
-// 3. Registro da VM no backup usando protectedItems
-var fabric = 'Azure'
-var container = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
-var item = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+// Observação: Assim como no Terraform, esta VM será criada sem backup.
+// Uma policy do tipo AuditIfNotExists irá apenas auditar a ausência de backup,
+// não bloqueando a criação desta VM.
 
-resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems@2024-10-01' = {
-  name: '${vault.name}/${fabric}/${container}/${item}'
-  properties: {
-    protectedItemType: 'Microsoft.Compute/virtualMachines'
-    policyId: backupPolicy.id
-    sourceResourceId: virtualMachine.id
-  }
-  dependsOn: [
-    virtualMachine
-    backupPolicy
-  ]
-}
            
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, e depois:
@@ -381,8 +422,6 @@ E podemos atualizar a página de 'Compliance':
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
 
 ```bash
-@description('Local da implantação. Normalmente, utiliza o mesmo local do Resource Group.')
-param location string = resourceGroup().location
 
 // Recovery Services Vault para armazenar os backups
 resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
@@ -391,7 +430,10 @@ resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
   sku: {
     name: 'Standard'
   }
-  properties: {}
+  properties: {
+    // Aqui você define se quer acesso público habilitado ou não
+    publicNetworkAccess: 'Enabled'  // ou 'Disabled' se preferir bloquear todo tráfego público
+  }
 }
 
 // Política de backup para VMs (diária às 23:00 com retenção de 7 dias)
@@ -439,15 +481,13 @@ resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionCon
     policyId: backupPolicy.id
     sourceResourceId: virtualMachine.id
   }
-  dependsOn: [
-    virtualMachine
-    backupPolicy
-  ]
 }
+
 
 ``````
 
 No código Bicep acima, utilizamos a política DefaultPolicy que é criada automaticamente no Recovery Services Vault para máquinas virtuais (backup diário padrão). O recurso vmBackup configura a VM para ser protegida por essa política. Após a implantação, a Azure Policy não irá mais apontar não-conformidade, pois a VM agora possui backup habilitado.
+Agora vamos executar o backup da VM manualmente para podermos ver a Policy em conformidade.
 
 6. **Exceções e cenários especiais:**
    Se VMs não precisam de backup (por design ou custo), use filtros ou *Not Scopes*. Porém, cada VM fora do backup é um ponto de falha em potencial; avalie bem as exceções.

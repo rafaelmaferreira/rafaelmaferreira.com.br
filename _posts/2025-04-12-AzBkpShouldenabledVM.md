@@ -379,37 +379,38 @@ E podemos atualizar a página de 'Compliance':
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
 
 ```bash
-@description('Local da implantação. Normalmente, usa o mesmo local do Resource Group.')
+@description('Local da implantação. Normalmente, utiliza o mesmo local do Resource Group.')
 param location string = resourceGroup().location
 
-// 1. Vault de Recovery Services
+// Recovery Services Vault para armazenar os backups
 resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
   name: 'vault-backups-exemplo'
   location: location
   sku: {
     name: 'Standard'
   }
-  properties: { }
+  properties: {}
 }
 
-// 2. Política de backup diária (23:00 UTC) com retenção de 7 dias
+// Política de backup para VMs (diária às 23:00 com retenção de 7 dias)
 resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-01' = {
-  parent: vault
   name: 'policy-diaria'
+  parent: vault
   properties: {
     backupManagementType: 'AzureIaasVM'
     schedulePolicy: {
       schedulePolicyType: 'SimpleSchedulePolicy'
       scheduleRunFrequency: 'Daily'
+      // A data aqui é irrelevante; somente a hora (23:00) é considerada
       scheduleRunTimes: [
-        '2024-01-01T23:00:00Z' // A data não importa, apenas a hora UTC
+        '2023-01-01T23:00:00Z'
       ]
     }
     retentionPolicy: {
       retentionPolicyType: 'LongTermRetentionPolicy'
       dailySchedule: {
         retentionTimes: [
-          '2024-01-01T23:00:00Z'
+          '2023-01-01T23:00:00Z'
         ]
         retentionDuration: {
           count: 7
@@ -420,13 +421,17 @@ resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-
   }
 }
 
-// 3. Registro da VM no backup usando protectedItems
-var fabric = 'Azure'
-var container = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
-var item = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+// Associação da VM ao backup (Protected Item)
+// O nome do container e do protected item devem seguir o padrão:
+//   Container: "iaasvmcontainer;iaasvmcontainerv2;{resourceGroupName};{vmName}"
+//   Protected Item: "vm;iaasvmcontainerv2;{resourceGroupName};{vmName}"
+// Estes valores são concatenados na propriedade 'name' do recurso.
+var containerName = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+var protectedItemName = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
 
 resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems@2024-10-01' = {
-  name: '${vault.name}/${fabric}/${container}/${item}'
+  // Formato: {vaultName}/{fabricName}/{containerName}/{protectedItemName}
+  name: '${vault.name}/Azure/${containerName}/${protectedItemName}'
   properties: {
     protectedItemType: 'Microsoft.Compute/virtualMachines'
     policyId: backupPolicy.id
@@ -437,6 +442,7 @@ resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionCon
     backupPolicy
   ]
 }
+
 ``````
 
 No código Bicep acima, utilizamos a política DefaultPolicy que é criada automaticamente no Recovery Services Vault para máquinas virtuais (backup diário padrão). O recurso vmBackup configura a VM para ser protegida por essa política. Após a implantação, a Azure Policy não irá mais apontar não-conformidade, pois a VM agora possui backup habilitado.

@@ -366,7 +366,13 @@ resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionCon
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte comando:
 
-'New-AzResourceGroupDeployment -Name main -TemplateFile main.bicep'
+```bash
+az deployment group create \
+  --resource-group rg-exemplo-backup2 \
+  --name main \
+  --template-file main.bicep \
+  --parameters adminPassword="bS&3>"3!Xkv8"
+```
 
 Precisamos passar o nome do ResourceGroup e adminPassword:
 

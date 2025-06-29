@@ -268,7 +268,8 @@ primeiro executamos
 terraform plan
 ``````
 
-Para validar se nada vai quebrar ou destruir a VM
+Para validar se nada vai quebrar ou destruir a VM:
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/13.png)
 
 depois executamos:
@@ -276,8 +277,8 @@ depois executamos:
 ```bash
 terraform  --auto-approve
 ``````
-AGORA podemos ter certeza que não ira destruir nossa vm beta tester
-Para validar se nada vai quebrar ou destruir a VM
+AGORA podemos ter certeza que não irá destruir nossa vm beta tester
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/14.png)
 
 Pq estamos fazendo isso?
@@ -293,6 +294,7 @@ E assim depois podemos analisar que ela ficou em compliance
 5. **Bicep 💪🏻**
 
 A seguir, temos o mesmo cenário implementado em Bicep. Assim como no exemplo Terraform, primeiro definimos a VM sem backup e depois incluímos o Recovery Services Vault e a configuração de backup da VM. A sintaxe do Bicep permite aninhar recursos do Azure de forma declarativa.
+
 Etapa 1: Criando VM sem backup habilitado
 Nesta etapa inicial do Bicep, criamos a infraestrutura básica sem nenhum backup configurado para a VM. Novamente, a policy AuditIfNotExists apenas auditará a VM (não impedirá a criação).
 
@@ -376,46 +378,11 @@ resource "azurerm_linux_virtual_machine" "vm" {
   }
 }
 
-# Recovery Services Vault para armazenar os backups
-resource "azurerm_recovery_services_vault" "vault" {
-  name                = "vault-backups-exemplo"
-  resource_group_name = azurerm_resource_group.rg.name
-  location            = azurerm_resource_group.rg.location
-  sku                 = "Standard"
-  # O vault armazena os dados de backup da VM
-}
-
-# Política de backup para VMs (diária às 23:00, retenção de 7 dias)
-resource "azurerm_backup_policy_vm" "policy" {
-  name                = "policy-diaria"
-  resource_group_name = azurerm_resource_group.rg.name
-  recovery_vault_name = azurerm_recovery_services_vault.vault.name
-
-  backup {                       # Agendamento do backup
-    frequency = "Daily"          # Execução diária
-    time      = "23:00"          # Horário (UTC) do backup diário
-  }
-
-  retention_daily {             
-    count = 7                    # Reter backups dos últimos 7 dias
-  }
-}
-
-# Habilitando o backup na VM (associando a VM ao vault com a política definida)
-resource "azurerm_backup_protected_vm" "backup_associacao" {
-  resource_group_name = azurerm_resource_group.rg.name
-  recovery_vault_name = azurerm_recovery_services_vault.vault.name
-  source_vm_id        = azurerm_linux_virtual_machine.vm.id       # ID da VM a proteger
-  backup_policy_id    = azurerm_backup_policy_vm.policy.id        # ID da política de backup a usar
-
-  # Este recurso efetivamente inscreve a VM no Backup do Azure.
-  # Após aplicar, a VM ficará protegida e em conformidade com a policy de backup.
-}
 
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte comando:
 
-'New-AzResourceGroupDeployment -Name main -TemplateFile main.bic'
+'New-AzResourceGroupDeployment -Name main -TemplateFile main.bicep'
 
 Precisamos passar o nome do ResourceGroup e adminPassword:
 

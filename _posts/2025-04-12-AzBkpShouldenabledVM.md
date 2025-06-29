@@ -287,7 +287,12 @@ Imagine ter um ambiente com 10 vms, talvez seja simples. Mas em um caso onde tem
 Porém ela ainda vai ficar com status de 'Non-compliant', precisamos executar o job de backup:
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/15.png)
 
-E assim depois podemos analisar que ela ficou em compliance
+Podemos forçar o assessment da policy, para isso podemos usar o comando:
+```bash
+az policy state trigger-scan --subscription
+``````
+
+ E assim depois podemos analisar que ela ficou em compliance
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/az-policy/17.png)
 
@@ -377,8 +382,6 @@ resource "azurerm_linux_virtual_machine" "vm" {
     version   = "latest"
   }
 }
-
-
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte comando:
 
@@ -431,6 +434,7 @@ resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionCon
 }
 
 ``````
+
 No código Bicep acima, utilizamos a política DefaultPolicy que é criada automaticamente no Recovery Services Vault para máquinas virtuais (backup diário padrão). O recurso vmBackup configura a VM para ser protegida por essa política. Após a implantação, a Azure Policy não irá mais apontar não-conformidade, pois a VM agora possui backup habilitado.
 
 6. **Exceções e cenários especiais:**

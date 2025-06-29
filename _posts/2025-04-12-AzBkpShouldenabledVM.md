@@ -304,110 +304,65 @@ Etapa 1: Criando VM sem backup habilitado
 Nesta etapa inicial do Bicep, criamos a infraestrutura básica sem nenhum backup configurado para a VM. Novamente, a policy AuditIfNotExists apenas auditará a VM (não impedirá a criação).
 
 ```bash
-@description('Local da implantação (ex.: eastus)')
+@description('Local da implantação. Normalmente, usa o mesmo local do Resource Group.')
 param location string = resourceGroup().location
 
-@description('Nome de usuário administrador para a VM')
-param adminUsername string = 'azureuser'
-
-@description('Senha de administrador (use um valor seguro em produção)')
-@secure()
-param adminPassword string
-
-// Grupo de recursos implícito: usa-se resourceGroup() para obter nome e local atuais
-
-// Rede virtual e sub-rede
-resource vnet 'Microsoft.Network/virtualNetworks@2021-02-01' = {
-  name: 'vnet-exemplo'
+// 1. Vault de Recovery Services
+resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
+  name: 'vault-backups-exemplo'
   location: location
+  sku: {
+    name: 'Standard'
+  }
+  properties: { }
+}
+
+// 2. Política de backup diária (23:00 UTC) com retenção de 7 dias
+resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-01' = {
+  parent: vault
+  name: 'policy-diaria'
   properties: {
-    addressSpace: {
-      addressPrefixes: [
-        '10.0.0.0/16'
+    backupManagementType: 'AzureIaasVM'
+    schedulePolicy: {
+      schedulePolicyType: 'SimpleSchedulePolicy'
+      scheduleRunFrequency: 'Daily'
+      scheduleRunTimes: [
+        '2024-01-01T23:00:00Z' // A data não importa, apenas a hora UTC
       ]
     }
-    subnets: [
-      {
-        name: 'subnet-exemplo'
-        properties: {
-          addressPrefix: '10.0.1.0/24'
+    retentionPolicy: {
+      retentionPolicyType: 'LongTermRetentionPolicy'
+      dailySchedule: {
+        retentionTimes: [
+          '2024-01-01T23:00:00Z'
+        ]
+        retentionDuration: {
+          count: 7
+          durationType: 'Days'
         }
       }
-    ]
+    }
   }
 }
 
-resource nic 'Microsoft.Network/networkInterfaces@2021-02-01' = {
-  name: 'nic-exemplo'
-  location: location
+// 3. Registro da VM no backup usando protectedItems
+var fabric = 'Azure'
+var container = 'iaasvmcontainer;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+var item = 'vm;iaasvmcontainerv2;${resourceGroup().name};${virtualMachine.name}'
+
+resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems@2024-10-01' = {
+  name: '${vault.name}/${fabric}/${container}/${item}'
   properties: {
-    ipConfigurations: [
-      {
-        name: 'nic-ipcfg'
-        properties: {
-          subnet: {
-            id: vnet.properties.subnets[0].id    // Referência à sub-rede criada acima
-          }
-          privateIPAllocationMethod: 'Dynamic'
-        }
-      }
-    ]
+    protectedItemType: 'Microsoft.Compute/virtualMachines'
+    policyId: backupPolicy.id
+    sourceResourceId: virtualMachine.id
   }
+  dependsOn: [
+    virtualMachine
+    backupPolicy
+  ]
 }
-
-// Máquina Virtual (Linux) sem backup habilitado
-// Desta vez, vamos usar usuário e senha, sem SSH keys.
-@dependsOn([
-  nic   // Garante que a NIC esteja criada antes da VM
-])
-resource virtualMachine 'Microsoft.Compute/virtualMachines@2022-03-01' = {
-  name: 'vm-exemplo'
-  location: location
-  properties: {
-    hardwareProfile: {
-      vmSize: 'Standard_B1s'
-    }
-    osProfile: {
-      computerName: 'vm-exemplo'
-      adminUsername: adminUsername
-      adminPassword: adminPassword
-
-      // A configuração abaixo permite login por senha
-      // e desabilita o bloqueio somente-SSH.
-      linuxConfiguration: {
-        disablePasswordAuthentication: false
-      }
-    }
-    storageProfile: {
-      osDisk: {
-        createOption: 'FromImage'
-        name: 'osdisk-exemplo'
-        caching: 'ReadWrite'
-        managedDisk: {
-          storageAccountType: 'Standard_LRS'
-        }
-      }
-      imageReference: {
-        publisher: 'Canonical'
-        offer: 'UbuntuServer'
-        sku: '18.04-LTS'
-        version: 'latest'
-      }
-    }
-    networkProfile: {
-      networkInterfaces: [
-        {
-          id: nic.id  // Associação da NIC à VM
-        }
-      ]
-    }
-  }
-}
-
-// Observação: Assim como no Terraform, esta VM será criada sem backup.
-// Uma policy do tipo AuditIfNotExists irá apenas auditar a ausência de backup,
-// não bloqueando a criação desta VM.
-
+           
 ``````
 Para fazer o depoy, primeiro criamos o RG pelo portal, depois usar o seguinte comando:
 

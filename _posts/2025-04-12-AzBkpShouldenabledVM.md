@@ -298,7 +298,7 @@ az policy state trigger-scan --subscription
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/artigos/AzureBackupshouldbeenabledforVirtualMachines/17.png)
 
-5. **Bicep 💪🏻**
+3. **Bicep 💪🏻**
 
 A seguir, temos o mesmo cenário implementado em Bicep. Assim como no exemplo Terraform, primeiro definimos a VM sem backup e depois incluímos o Recovery Services Vault e a configuração de backup da VM. A sintaxe do Bicep permite aninhar recursos do Azure de forma declarativa.
 

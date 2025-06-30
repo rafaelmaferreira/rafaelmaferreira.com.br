@@ -16,6 +16,10 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa
+[![#30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/30.png)](https://open.spotify.com/episode/0tqLcH3W4jIn51Gyvb3pSt?si=72752b523fe54050)
+
+
 #### #29 Episódio com Osvaldo Alves: Liderança de Engenharia
 [![#29 Episódio com Osvaldo Alves: Liderança de Engenharia](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/29.png)](https://open.spotify.com/episode/5HkAsqxrwkgtfUlWdOVEzH?si=8210421b9f774cc1)
 
@@ -114,28 +118,3 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 **Acompanhe o LowOpsCast no Spotify para mais conteúdos inspiradores e educativos sobre tecnologia e desenvolvimento profissional. Juntos, vamos explorar as tendências e inovações que moldam o futuro do nosso campo!**
 
 #Spotify #LowOpsCast #Tecnologia #DesenvolvimentoProfissional #Podcast
-
-
-🎉 A CNCF está fazendo 10 anos... e a gente vai comemorar em grande estilo!
-
-https://lnkd.in/dzpqwMwi
-
- Vem aí o cTENcf Santa Catarina — um evento especial do Cloud Native Community Group pra celebrar uma década de inovação, colaboração e impacto no ecossistema Cloud Native! 🚀
-
-📍 Onde? Neoway – Rua Patrício Farias, 131 – Floripa/SC
- 🗓️ Quando? Quarta-feira, 25 de junho de 2025, das 19h às 22h
-
-🌐 Nesse encontro vamos falar sobre a evolução dos projetos CNCF e como eles estão moldando o presente e o futuro da engenharia de software. E olha os nomes confirmados:
-🎤 Amim Knabben
- VibeOps em Ação: Transformando o Caos em Inteligência Operacional
-Com direito a IA, observabilidade open source e automação pra dar show no troubleshooting de clusters Kubernetes criados com ClusterAPI.
-🎤 George Tavares
- Analisando o comportamento de aplicações: observabilidade como as gigantes fazem
-Logs, traces e métricas juntos no mesmo palco, com OpenTelemetry, Elastic e dashboards que falam mais que mil alertas.
-
-E claro: happy hour garantido no final.
-Conexão, aprendizado e aquele networking raiz com a galera da comunidade! 💬👥
-
-🧠 Se você curte DevOps, Kubernetes, observabilidade, ou só quer trocar ideia com gente que manja... esse é o seu lugar.
-
-#CNCF #CloudNative #Kubernetes #Observability #DevOps #OpenTelemetry #ElasticStack #ComunidadeTech #cTENcf #SantaCatarina #K8s #CNCF10 #CommunityDriven #cTENcf #celebrateCNCF

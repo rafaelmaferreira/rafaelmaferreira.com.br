@@ -424,49 +424,6 @@ E podemos atualizar a página de 'Compliance':
 Etapa 2: Habilitando backup na VM (Recovery Services Vault + Protected Item)
 
 ```bash
-
-// Recovery Services Vault para armazenar os backups
-resource vault 'Microsoft.RecoveryServices/vaults@2024-10-01' = {
-  name: 'vault-backups-exemplo'
-  location: location
-  sku: {
-    name: 'Standard'
-  }
-  properties: {
-    // Aqui você define se quer acesso público habilitado ou não
-    publicNetworkAccess: 'Enabled'  // ou 'Disabled' se preferir bloquear todo tráfego público
-  }
-}
-
-// Política de backup para VMs (diária às 23:00 com retenção de 7 dias)
-resource backupPolicy 'Microsoft.RecoveryServices/vaults/backupPolicies@2024-10-01' = {
-  name: 'policy-diaria'
-  parent: vault
-  properties: {
-    backupManagementType: 'AzureIaasVM'
-    schedulePolicy: {
-      schedulePolicyType: 'SimpleSchedulePolicy'
-      scheduleRunFrequency: 'Daily'
-      // A data aqui é irrelevante; somente a hora (23:00) é considerada
-      scheduleRunTimes: [
-        '2023-01-01T23:00:00Z'
-      ]
-    }
-    retentionPolicy: {
-      retentionPolicyType: 'LongTermRetentionPolicy'
-      dailySchedule: {
-        retentionTimes: [
-          '2023-01-01T23:00:00Z'
-        ]
-        retentionDuration: {
-          count: 7
-          durationType: 'Days'
-        }
-      }
-    }
-  }
-}
-
 // Associação da VM ao backup (Protected Item)
 // O nome do container e do protected item devem seguir o padrão:
 //   Container: "iaasvmcontainer;iaasvmcontainerv2;{resourceGroupName};{vmName}"
@@ -484,8 +441,6 @@ resource vmBackup 'Microsoft.RecoveryServices/vaults/backupFabrics/protectionCon
     sourceResourceId: virtualMachine.id
   }
 }
-
-
 ``````
 
 No código Bicep acima, utilizamos a política DefaultPolicy que é criada automaticamente no Recovery Services Vault para máquinas virtuais (backup diário padrão). O recurso vmBackup configura a VM para ser protegida por essa política. Após a implantação, a Azure Policy não irá mais apontar não-conformidade, pois a VM agora possui backup habilitado.

@@ -12,14 +12,13 @@ Nesta página quero compartilhar um pouco da minha jornada profissional e das ex
 ## Senior Azure DevOps Solution Engineer
 - **Empresa:** Softensity Inc
 - **Período:** Dec 2024 - Presente
-- **Descrição:** Atuo em um time global de engenharia de plataforma com foco em Platform as a Product, dentro de um dos maiores ambientes Microsoft em escala mundial. Estou alocado em um cliente multinacional, líder no setor de auditoria (uma das Big Four), através de uma consultoria internacional, operando em um ecossistema enterprise orientado a soluções PaaS e serverless na Azure Cloud.
+- **Descrição:** Atuo em um time global de engenharia de plataforma com foco em Platform as a Product, em um dos maiores ambientes Microsoft em escala mundial. Estou alocado em um cliente multinacional do setor de auditoria (Big Four), trabalhando em um ecossistema Enterprise-scale de alta complexidade.
 
-Meu papel consiste em contribuir para a evolução e sustentação de uma plataforma robusta, segura e altamente padronizada, que serve como base para diversas squads distribuídas globalmente, assegurando excelência operacional, conformidade contínua e aderência às melhores práticas de Governança e Segurança em Cloud.
+Responsável por impulsionar a evolução, sustentação e governança de uma plataforma robusta e altamente padronizada, baseada em soluções PaaS e Serverless na Azure Cloud, que atende equipes técnicas distribuídas globalmente. Assegurando excelência operacional contínua, conformidade contínua e aderência às melhores práticas em Cloud Governance e Cloud Security.
 
-Minhas principais atividades incluem o desenvolvimento e a gestão da infraestrutura por meio de Infrastructure as Code (IaC) com Bicep, garantindo imutabilidade, consistência e padronização. Criação e otimização de pipelines CI/CD com GitHub Actions, promovendo entregas ágeis e seguras desde o desenvolvimento até a produção.
+Minhas principais atividades incluem o desenvolvimento e gestão de infraestrutura utilizando Infrastructure as Code (IaC) com Bicep, garantindo escalabilidade, imutabilidade e padronização. Criação, otimização e manutenção de pipelines CI/CD com GitHub Actions, facilitando entregas ágeis, seguras e automatizadas desde o desenvolvimento até a produção.
 
-Realizo ainda a definição e implementação de guardrails e políticas corporativas utilizando Azure Policy, RBAC e Blueprints, garantindo governança e compliance contínuos. Também atuo na automatização de tarefas operacionais com scripts PowerShell e Azure CLI. Administração de complexa infraestrutura de rede corporativa, incluindo VNets, NSGs, VPN, Application Gateways, Azure Front Door, Private DNS e Private Endpoints. E Cloud Cost Optimization (FinOps), focadas na otimização contínua dos recursos e redução de custos operacionais.
-
+Definição e implementação de guardrails e políticas corporativas utilizando Azure Policy, RBAC e Blueprints, garantindo governança automatizada, conformidade contínua e redução de riscos. Automação de tarefas operacionais e administrativas com scripts PowerShell e Azure CLI, promovendo eficiência operacional e redução de erros humanos. Administração de complexa infraestrutura de rede corporativa, incluindo VNets, NSGs, VPN, Application Gateways, Azure Front Door, Private DNS e Private Endpoints. E Cloud Cost Optimization (FinOps), focadas na otimização contínua dos recursos e redução de custos operacionais.
 
 ## Senior Azure DevOps Engineer 
 - **Empresa:** CI&T

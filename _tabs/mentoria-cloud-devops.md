@@ -16,7 +16,7 @@ Essa mentoria é pra você que está cansado procurar vagas, deixe que as vagas 
 ---
 ## Por que me escolher como mentor?
 
-![Capa Linkedin (1)](https://github.com/user-attachments/assets/81e13558-9a3d-47f6-b941-afe9b22bbc62)
+![Capa Linkedin](https://github.com/user-attachments/assets/31de9589-10e7-47a6-8012-83a00888a5cf)
 
 Reúno experiencias sólidas que me posicionam como referência no setor de Cloud e DevOps. Alguns destaques da minha trajetória profissional incluem:  
 -  [**Experiência de +10 anos:**](https://orafaelferreira.com/experiences/) Atuação prática em projetos de tecnologia por mais de uma década, incluindo multinacionais e ambientes enterprise, enfrentando desafios reais de escala, segurança e desempenho.  
